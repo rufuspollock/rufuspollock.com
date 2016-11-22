@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+    <body>
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+                <div class="post">
+                    <h1>{{ .Title }}</h1>
+                        <header class="navigation" role="banner">
+                          <div class="navigation-wrapper">
+                            <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+                            <nav role="navigation">
+                              <ul id="js-navigation-menu" class="navigation-menu show">
+                                <li class="nav-link"><a href="/index/">RUFUS POLLOCK</a></li>
+                                <li class="nav-link"><a href="/about/">About</a></li>
+                                <li class="nav-link"><a href="/speaking/">Speaking</a></li>
+                                <li class="nav-link"><a href="/consulting/">Consulting</a></li>
+                                <li class="nav-link"><a href="/open-knowledge/">Open Knowledge</a></li>
+                                <li class="nav-link"><a href="/idea/">Ideas</a></li>
+                                  <li class="nav-link"><a href="/blog/">News & Publications</a></li>
+                                  <li class="nav-link"><a href="/contact/">Contact</a></li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </header>
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+</html>
