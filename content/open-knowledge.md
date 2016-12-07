@@ -1,12 +1,15 @@
 ---
 ---
+<div class="hero-2">
+  <div class="hero-content">
+    <h2 style="font-size:40px; margin-bottom:20px;">Open Knowledge Leadership Program</h2>
+    <p style="font-size:25px; font-style:italic; margin-bottom:20px;"> "Make a difference to openness worldwide.Join Open Knowledge Founder and President Rufus Pollock."</p>
+    <a class="button" href="http://open-leaders.com/"style="font-size:20px;margin-bottom:80px;margin-right:10px;" target="_blank">More</a>
 
- <h2>ABOUT THE OPEN KNOWLEDGE LEADERS PROGRAM</h2>
+    <h2 style="font-size:40px; margin-bottom:20px;">Open Knowledge </h2>
+    <p style="font-size:25px; font-style:italic; margin-bottom:20px;"> " A world where knowledge creates power for the many, not the few."</p>
+    <a class="button" href="https://okfn.org/"style="font-size:20px;margin-bottom:20px;margin-right:10px;" target="_blank">More</a>
 
-<p> Openness is transforming our societies and economies. Join Open Knowledge Founder and President Rufus Pollock and open data expert Irina Bolychevsky on this course exploring the ideas, possibilities and communities in this rapidly growing space.
 
-We will examine the detailed reasoning and case studies for open transformation – whilst developing and practicing the key organising, speaking, convening and leadership skills needed to make a real difference in the world and drive openness forward.
-
-You will get to interact with experts and peers, working on practical, concrete challenges and growing through regular interaction, coaching and support.</p>
-
-<a class="button" href=""style="font-size:20px;margin-bottom:20px;margin-right:10px;" target="_blank">More</a> (http://leaders.rufuspollock.org/)
+  </div>
+</div>
