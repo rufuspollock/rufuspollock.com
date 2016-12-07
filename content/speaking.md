@@ -7,13 +7,10 @@
 
     <div style="margin-top:60px;"class="record">
 
-    <div class="wrapper" style="margin-bottom:50px; margin-top:50px">
-    <h2 style="color:#162935;; font-size:40px; margin-bottom:20px;">Speakers</h2>
+  
 
 
-    jkhksjhfkhdfkjhakhkfkfkfkfkfkfkfkfkfkfkfkfkfkfkskskskskskskskkqkqkq
-    kkdkdkkqkqkqkdndnddndnkkwkjf
-    kdkdkdkdkdkd
+
 
     <div class="wrapper" style="margin-bottom:50px; margin-top:50px">
     <h2 style="color:#162935;; font-size:40px; margin-bottom:20px;">Videos</h2>
