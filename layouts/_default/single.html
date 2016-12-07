@@ -2,25 +2,25 @@
     <body>
         <div class="content-wrapper">
             <div class="content-wrapper__inner">
-                <div class="post">
-                    <h1>{{ .Title }}</h1>
-                        <header class="navigation" role="banner">
-                          <div class="navigation-wrapper">
-                            <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-                            <nav role="navigation">
-                              <ul id="js-navigation-menu" class="navigation-menu show">
-                                <li class="nav-link"><a href="/index/">RUFUS POLLOCK</a></li>
-                                <li class="nav-link"><a href="/about/">About</a></li>
-                                <li class="nav-link"><a href="/speaking/">Speaking</a></li>
-                                <li class="nav-link"><a href="/consulting/">Consulting</a></li>
-                                <li class="nav-link"><a href="/open-knowledge/">Open Knowledge</a></li>
-                                <li class="nav-link"><a href="/idea/">Ideas</a></li>
-                                  <li class="nav-link"><a href="/blog/">News & Publications</a></li>
-                                  <li class="nav-link"><a href="/contact/">Contact</a></li>
-                              </ul>
-                            </nav>
-                          </div>
-                        </header>
+                <div>
+                  <header class="navigation" role="banner">
+                    <div class="navigation-wrapper">
+                      <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+                      <nav role="navigation">
+                        <ul id="js-navigation-menu" class="navigation-menu show">
+                          <li style= "margin-left:25px; font-size:21px; font-weight:500"class="nav-link"><a href="/home/">RUFUS POLLOCK</a></li>
+                          <li style= "font-size:14px;"class="nav-link"><a href="/about/">ABOUT</a></li>
+                          <li style= "font-size:14px;"class="nav-link"><a href="/speaking/">SPEAKING</a></li>
+                          <li style= "font-size:14px;"class="nav-link"><a href="/consulting/">CONSULTING</a></li>
+                          <li style= "font-size:14px;"class="nav-link"><a href="/open-knowledge/">OPEN KNOWLDGE</a></li>
+                          <li style= "font-size:14px;"class="nav-link"><a href="/idea/">IDEAS</a></li>
+                            <li style= "font-size:14px;"class="nav-link"><a href="/news/">NEWS & PUBLICATION</a></li>
+                            <li style= "font-size:14px;"class="nav-link"><a href="/contact/">CONCTACT</a></li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </header>
+                          <h1>{{ .Title }}</h1>
                     {{ .Content }}
                 </div>
             </div>
