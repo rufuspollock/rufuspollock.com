@@ -1,7 +1,14 @@
 +++
 
 +++
-<form action="https://formspree.io/rufus@rufuspollo.org"
+
+<div class="page-content">
+  <div class="post">
+    <article class="post-content">
+
+    <div style="margin-top:60px;"class="record">
+
+<form action="https://formspree.io/rufus@rufuspollock.org"
       method="POST">
       <h4>Name</h4>
     <input type="text" name="name" />
@@ -11,3 +18,8 @@
     <textarea  name="message"> </textarea>
     <input type="submit" value="Send">
 </form>
+
+</div>
+  </div>
+    </div>
+    </div>
