@@ -12,20 +12,16 @@
 
 <h2 style="color:#162935;font-size:40px;margin-bottom:10px;">About</h2>
 
-
-
-<p style="font-size:20px;">Dr Rufus Pollock is an entrepreneur, researcher and activist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. He is an Ashoka Fellow, a Fellow of the RSA, a recipient of a three year $1m Shuttleworth Foundation Fellowship, the Mead Fellowship in Economics at Emmanuel College, University of Cambridge and has advised national governments, IGOs, companies and NGOs extensively on openness and technology. <b>More below </b>
+<p style="font-size:20px;">Dr Rufus Pollock is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. He is an Ashoka Fellow, a Fellow of the RSA, a recipient of a three year $1m Shuttleworth Foundation Fellowship, the Mead Fellowship in Economics at Emmanuel College, University of Cambridge and has advised national governments, IGOs, companies and NGOs extensively on openness and technology. <b>More below</b>
 </p>
 
-<ul style="margin-bottom:30px">
-<img style="width:700px;margin-top:30px; margin-bottom:5px;margin-right:20px;" src="/images/Rufus_Pollock_square.jpeg"/>
-<a href="/images/rufuspollock-high-res.jpg" >Click through for higher-res versions.</a>
-</ul>
-
-
+<div style="margin-bottom:30px">
+  <img style="width:700px;margin-top:30px; margin-bottom:5px;margin-right:20px;" src="/images/Rufus_Pollock_square.jpeg"/>
+  <a href="/images/rufuspollock-high-res.jpg" >Click through for higher-res versions.</a>
+</div>
 
 <p style="font-size:20px;">
-Every day we face challenges from the personal and everyday such as the quickest way to get to the work, to the global and fundamental such as tackling climate change. Central to tackling many of these challenges is understanding and insight built on by digital information. But often that information is locked up or inaccessible preventing researchers, entrepreneurs and ordinary citizens from using it.
+Every day we face challenges from the personal and everyday such as the quickest way to get to the work, to the global and fundamental such as tackling climate change. Central to tackling many of these challenges is understanding and insight built on digital information. But often that information is locked up or inaccessible preventing researchers, entrepreneurs and ordinary citizens from using it.
 </p>
 
 <p style="font-size:20px;">
