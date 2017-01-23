@@ -1,6 +1,7 @@
-+++
-
-+++
+---
+title: About
+description: Rufus Pollock bio and headshots
+---
 
 <div class="page-content">
   <div class="post">
