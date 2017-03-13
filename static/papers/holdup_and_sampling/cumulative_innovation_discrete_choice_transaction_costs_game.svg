@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="729.10004px"
+   height="670.11000px"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42.2"
+   sodipodi:docbase="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation"
+   sodipodi:docname="cumulative_innovation_discrete_choice_transaction_costs_game.svg"
+   inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+   inkscape:export-xdpi="74.945778"
+   inkscape:export-ydpi="74.945778">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path3632"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(-5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3640"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3637"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1.0000000"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0000000"
+     inkscape:cx="197.35447"
+     inkscape:cy="191.00197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1020"
+     inkscape:window-height="724"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showborder="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="font-size:20.999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:187.49990%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0575020;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+       id="path2767"
+       sodipodi:cx="403.57144"
+       sodipodi:cy="195.93361"
+       sodipodi:rx="10.714286"
+       sodipodi:ry="10.714286"
+       d="M 414.28573 195.93361 A 10.714286 10.714286 0 1 1  392.85716,195.93361 A 10.714286 10.714286 0 1 1  414.28573 195.93361 z"
+       transform="matrix(0.666667,0.000000,0.000000,0.666667,118.9523,46.02540)"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 319.52894,238.36218 C 391.43157,302.64790 457.04272,236.93361 457.04272,236.93361"
+       id="path2789"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000004px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 388.60902,177.64925 L 354.24838,247.50388"
+       id="path2791"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="389"
+       y="219.79074"
+       id="text3660"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         x="389.00000"
+         y="219.79074"
+         id="tspan3666">Choose Royalty Rate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="73.571442"
+       y="288.36218"
+       id="text3668"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan3670"
+         x="73.571442"
+         y="288.36218" /><tspan
+         sodipodi:role="line"
+         x="73.571442"
+         y="305.86218"
+         id="tspan5549">Choose value type of stage 2 firm</tspan><tspan
+         sodipodi:role="line"
+         x="73.571442"
+         y="323.36218"
+         id="tspan1393">(Not revealed to stage 1 firm)</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="font-size:20.999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:187.49990%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0575020;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+       id="path5209"
+       sodipodi:cx="403.57144"
+       sodipodi:cy="195.93361"
+       sodipodi:rx="10.714286"
+       sodipodi:ry="10.714286"
+       d="M 414.28573 195.93361 A 10.714286 10.714286 0 1 1  392.85716,195.93361 A 10.714286 10.714286 0 1 1  414.28573 195.93361 z"
+       transform="matrix(0.666667,0.000000,0.000000,0.666667,121.6665,-85.89890)"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 322.24311,102.43791 C 394.14574,166.72363 459.75689,101.00934 459.75689,101.00934"
+       id="path5211"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000002px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:url(#Arrow2Lend);stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 391.32319,45.697043 L 356.96255,109.60737"
+       id="path5213"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="73.154449"
+       y="70.362183"
+       id="text5215"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5217"
+         x="73.154449"
+         y="70.362183">Number of stage 1 products  to observe</tspan><tspan
+         sodipodi:role="line"
+         x="73.154449"
+         y="87.862183"
+         id="tspan1395">(cost = -k tau)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="352"
+       y="154.36218"
+       id="text5262"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5264"
+         x="352.00000"
+         y="154.36218">Stage 1 Firm(s)</tspan></text>
+    <g
+       id="g1686"
+       transform="translate(34.00000,-72.00000)"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778">
+      <g
+         id="g1681">
+        <path
+           sodipodi:type="arc"
+           style="font-size:20.999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:187.49990%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0575020;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+           id="path5241"
+           sodipodi:cx="403.57144"
+           sodipodi:cy="195.93361"
+           sodipodi:rx="10.714286"
+           sodipodi:ry="10.714286"
+           d="M 414.28573 195.93361 A 10.714286 10.714286 0 1 1  392.85716,195.93361 A 10.714286 10.714286 0 1 1  414.28573 195.93361 z"
+           transform="matrix(0.666667,0.000000,0.000000,0.666667,-4.957700,377.4203)" />
+        <path
+           style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+           d="M 263.71275,514.85080 L 212.91862,601.26193"
+           id="path5243"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+           d="M 263.99962,514.85080 L 314.79375,601.26193"
+           id="path5245"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <text
+         id="text5247"
+         y="615.11743"
+         x="162.94711"
+         style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"
+         sodipodi:linespacing="125.00000%"><tspan
+           y="615.11743"
+           x="162.94711"
+           id="tspan5249"
+           sodipodi:role="line">Do Not Invest</tspan></text>
+      <text
+         id="text5251"
+         y="615.32837"
+         x="292.08997"
+         style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"
+         sodipodi:linespacing="125.00000%"><tspan
+           y="615.32837"
+           x="292.08997"
+           id="tspan5253"
+           sodipodi:role="line">Invest</tspan></text>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="font-size:20.999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:187.49990%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0575020;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+       id="path1308"
+       sodipodi:cx="403.57144"
+       sodipodi:cy="195.93361"
+       sodipodi:rx="10.714286"
+       sodipodi:ry="10.714286"
+       d="M 414.28573 195.93361 A 10.714286 10.714286 0 1 1  392.85716,195.93361 A 10.714286 10.714286 0 1 1  414.28573 195.93361 z"
+       transform="matrix(0.666667,0.000000,0.000000,0.666667,115.9523,170.4541)"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 385.04878,307.82171 L 308.01643,383.35869"
+       id="path1310"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <path
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999946px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       d="M 385.48383,307.82171 L 462.51618,383.35869"
+       id="path3672"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <text
+       sodipodi:linespacing="125.00000%"
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125.00000%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="307.85715"
+       y="398.15125"
+       id="text4423"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan4425"
+         x="307.85715"
+         y="398.15125">Low Value</tspan><tspan
+         sodipodi:role="line"
+         x="307.85715"
+         y="415.65125"
+         id="tspan1582">p</tspan></text>
+    <text
+       sodipodi:linespacing="125.00000%"
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125.00000%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="469"
+       y="398.36218"
+       id="text4427"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan4429"
+         x="469.00000"
+         y="398.36218">High Value</tspan><tspan
+         sodipodi:role="line"
+         x="469.00000"
+         y="415.86218"
+         id="tspan1584">1-p</tspan></text>
+    <rect
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:1.0575025;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+       id="rect4443"
+       width="261.00000"
+       height="40.805107"
+       x="260.00000"
+       y="384.46008"
+       rx="17.775148"
+       ry="16.867832"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="363"
+       y="283.36218"
+       id="text5266"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5268"
+         x="363.00000"
+         y="283.36218">Nature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="348"
+       y="378.36218"
+       id="text5272"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5274"
+         x="348.00000"
+         y="378.36218">Stage 2 Firm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="360"
+       y="28.362183"
+       id="text5545"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5547"
+         x="360.00000"
+         y="28.362183">Stage 2 Firm(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="233"
+       y="561.36218"
+       id="text5587"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5589"
+         x="233.00000"
+         y="561.36218">v0L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="328"
+       y="615.36218"
+       id="text5591"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/basic_model_game.png"><tspan
+         sodipodi:role="line"
+         id="tspan5593"
+         x="328.00000"
+         y="615.36218">vL - r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="34"
+       y="574.36218"
+       id="text5595"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         x="34.000000"
+         y="574.36218"
+         id="tspan1544">Stage 1 Firm{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="35.253906"
+       y="616.67273"
+       id="text5601"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         x="35.253906"
+         y="616.67273"
+         id="tspan5603">Stage 2 Firm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="241.18555"
+       y="614.71033"
+       id="text5605"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/basic_model_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5607"
+         x="241.18555"
+         y="614.71033">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="510.69141"
+       y="614.71716"
+       id="text5609"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/basic_model_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5611"
+         x="510.69141"
+         y="614.71716">vH - r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="322"
+       y="561.36218"
+       id="text5613"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5615"
+         x="322.00000"
+         y="561.36218">v0L+ r </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="427.18555"
+       y="614.71033"
+       id="text5629"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/basic_model_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan5631"
+         x="427.18555"
+         y="614.71033">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="73.598785"
+       y="187.10999"
+       id="text1385"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan1387"
+         x="73.598785"
+         y="187.10999">For the sake of simplicity</tspan><tspan
+         sodipodi:role="line"
+         x="73.598785"
+         y="204.60999"
+         id="tspan1422">an initial stage at which</tspan><tspan
+         sodipodi:role="line"
+         x="73.598785"
+         y="222.10999"
+         id="tspan1389">Nature chooses value type of</tspan><tspan
+         sodipodi:role="line"
+         x="73.598785"
+         y="239.60999"
+         id="tspan1391">stage 1 firm has been omitted</tspan></text>
+    <text
+       sodipodi:linespacing="125.00000%"
+       id="text1418"
+       y="85.790741"
+       x="385"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         id="tspan1420"
+         y="85.790741"
+         x="385.00000"
+         sodipodi:role="line">Choose Sampling Level</tspan></text>
+    <text
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       id="text1424"
+       y="657.36218"
+       x="302"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="657.36218"
+         x="302.00000"
+         id="tspan1426"
+         sodipodi:role="line">vL - r -  k tau</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1428"
+       y="656.73035"
+       x="221.18555"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="656.73035"
+         x="221.18555"
+         id="tspan1430"
+         sodipodi:role="line">- k tau</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1432"
+       y="656.50574"
+       x="484.69141"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="656.50574"
+         x="484.69141"
+         id="tspan1434"
+         sodipodi:role="line">vH - r -  k tau</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1436"
+       y="656.73035"
+       x="410.18555"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="656.73035"
+         x="410.18555"
+         id="tspan1438"
+         sodipodi:role="line">- k tau</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="133"
+       y="563.10999"
+       id="text1548"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         x="133.00000"
+         y="563.10999"
+         id="tspan1552">Low (q)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="131"
+       y="585.10999"
+       id="text1554"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan1556"
+         x="131.00000"
+         y="585.10999">High (1-q)</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1558"
+       y="585.36218"
+       x="233"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="585.36218"
+         x="233.00000"
+         id="tspan1560"
+         sodipodi:role="line">v0H</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1562"
+       y="585.36218"
+       x="320"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="585.36218"
+         x="320.00000"
+         id="tspan1564"
+         sodipodi:role="line">v0H+ r </tspan></text>
+    <g
+       id="g1696"
+       transform="translate(218.0000,-72.00000)"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778">
+      <g
+         id="g1698">
+        <path
+           transform="matrix(0.666667,0.000000,0.000000,0.666667,-4.957700,377.4203)"
+           d="M 414.28573 195.93361 A 10.714286 10.714286 0 1 1  392.85716,195.93361 A 10.714286 10.714286 0 1 1  414.28573 195.93361 z"
+           sodipodi:ry="10.714286"
+           sodipodi:rx="10.714286"
+           sodipodi:cy="195.93361"
+           sodipodi:cx="403.57144"
+           id="path1700"
+           style="font-size:20.999990px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:187.49990%;writing-mode:lr-tb;text-anchor:start;opacity:1.0000000;color:#000000;fill:#000000;fill-opacity:1.0000000;fill-rule:nonzero;stroke:none;stroke-width:1.0575020;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path1702"
+           d="M 263.71275,514.85080 L 212.91862,601.26193"
+           style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans" />
+        <path
+           sodipodi:nodetypes="cc"
+           id="path1704"
+           d="M 263.99962,514.85080 L 314.79375,601.26193"
+           style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999911px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans" />
+      </g>
+      <text
+         sodipodi:linespacing="125.00000%"
+         xml:space="preserve"
+         style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         x="162.94711"
+         y="615.11743"
+         id="text1706"><tspan
+           sodipodi:role="line"
+           id="tspan1708"
+           x="162.94711"
+           y="615.11743">Do Not Invest</tspan></text>
+      <text
+         sodipodi:linespacing="125.00000%"
+         xml:space="preserve"
+         style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         x="292.08997"
+         y="615.32837"
+         id="text1710"><tspan
+           sodipodi:role="line"
+           id="tspan1712"
+           x="292.08997"
+           y="615.32837">Invest</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1714"
+       y="561.36218"
+       x="419"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="561.36218"
+         x="419.00000"
+         id="tspan1716"
+         sodipodi:role="line">v0L</tspan></text>
+    <text
+       inkscape:export-ydpi="74.945778"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       sodipodi:linespacing="125.00000%"
+       id="text1718"
+       y="561.36218"
+       x="508"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="561.36218"
+         x="508.00000"
+         id="tspan1720"
+         sodipodi:role="line">v0L+ r </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="419"
+       y="585.36218"
+       id="text1722"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan1724"
+         x="419.00000"
+         y="585.36218">v0H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="506"
+       y="585.36218"
+       id="text1726"
+       sodipodi:linespacing="125.00000%"
+       inkscape:export-filename="/Users/rgrp/svnroot/rgrp/work/econ/innovation/cumulative_innovation/cumulative_innovation_discrete_choice_transaction_costs_game.png"
+       inkscape:export-xdpi="74.945778"
+       inkscape:export-ydpi="74.945778"><tspan
+         sodipodi:role="line"
+         id="tspan1728"
+         x="506.00000"
+         y="585.36218">v0H+ r </tspan></text>
+  </g>
+</svg>

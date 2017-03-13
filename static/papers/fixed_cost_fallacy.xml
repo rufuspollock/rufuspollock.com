@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/styles/okftext_2_xhtml/text_master_witbd.xsl"?>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:doc="http://www.witbd.org/xmlns/common/document/"
+	xmlns:st="http://www.witbd.org/xmlns/text/structure"
+	xmlns:te="http://www.witbd.org/xmlns/text/basic/"
+	xmlns:bib="http://www.witbd.org/xmlns/biblio/"
+	xmlns:ch="http://xmlchar.sf.net/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	>
+<head>
+	<doc:Metadata>
+		<rdf:RDF
+			xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:dct="http://purl.org/dc/terms/">
+			<rdf:Description rdf:about="">
+				<dc:title>The Fixed Cost Fallacy</dc:title>
+				<dc:creator>Rufus Pollock</dc:creator>
+				<dct:created>2005-05-06</dct:created>
+				<rdfs:comment xml:lang="en-GB"></rdfs:comment>
+			</rdf:Description>
+			<link rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/" />
+			<link rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/uk/" />
+		</rdf:RDF>
+	</doc:Metadata>
+	<link rel="stylesheet" href="/styles/text_basic.css" title="text_basic" type="text/css" media="screen, projection, print" />
+</head>
+
+<body>
+<h1>
+	The Fixed Cost Fallacy
+</h1>
+
+<st:TableOfContents />
+
+<st:Section>
+	<h2>
+		Introduction
+	</h2>
+	<p>
+		Often one will hear statements similar to the following in discussions of intellectual property:</p>
+	<blockquote>
+		<p>
+			If we didn't have this right [copyright, patent etc] we couldn't justify these (large) investments</p>
+	</blockquote>
+	<p>
+		As it stands this is a perfectly reasonable statement. The whole 'problem' for intellectual goods is that they require fixed costs up front to create but may then be <em>reproducible</em> at a much lower cost. If this is so, in theory, whoever pays for the that up front fixed cost will end up out of pocket and, knowing this, will not invest in the first place. The potential for this unfortunate outcome is traditionally addressed by either a public-good approach based on up-front funding of the investment by the relevant group or an approach based on exclusionary monopoly rights such as intellectual property (IP).
+	</p>
+	<p>
+		However it is often the case that these investments referred to are not the costs of the actual innovation<te:FootNote>
+			While innovation has a rather industrial connotation in this essay it will be used to refer to the spectrum of creative endeavour from films and novels to a new design for a computer chip or plough.
+		</te:FootNote> but rather refer to ancillary costs such as those involved in manufacture and distribution. For example suppose a new non-spillable plastic beaker is created. This will involve fixed costs relating to research and development up to the point where you have a final design ready for factory production -- obvious innovation-related investments. After this point one incurs fixed costs relating to setting up a factory, organizing distribution channels, and marketing the product. These investments <strong>are not</strong> innovation related.
+	</p>
+	<p>
+		 Since it will be important for the purposes of this essay to be precise about the type of an investment or fixed cost we shall refer to the former kind as <q>innovation-related</q> and the latter as <strong>traditional</strong> (or normal). Having made this distinction we can state the fallacy referred to in the title:
+	</p>
+	<p>
+		<strong>The existence of <em>traditional</em> fixed costs are a reason to create monopoly rights such as IP</strong>
+	</p>
+	<p>
+		The fallacy lies in assuming that the reasoning that justifies creating monopoly protections for innovation-related investments applies equally to the case of <q>traditional</q> ones. But traditional fixed costs are very different because there is no nonrivalry involved -- with traditional fixed costs the first copy of the good produced has no special status and does not affect the production costs of subsequent goods.
+	</p>
+	<p>
+		Thus traditional fixed costs have no need of monopoly rights to assist in their funding. They will be addressed satisfactorily in a free market system -- albeit perhaps with some need for government regulation to address any anti-competitive behaviour enabled by the oligopolistic situation that will result (an anti-competitive situation which would be made dramatically <strong>worse</strong> by the introduction of intellectual property monopolies). Not only is this supported clearly by theory (see below) but is also evident from actual practice: traditional fixed cost are ubiquitous in all economies and yet state-granted monopolies have not been necessary to address them (below we discuss various examples).
+	</p>
+</st:Section>
+
+<st:Section>
+	<h2>
+		Why Traditional Fixed Costs Do Not Require Monopolies
+	</h2>
+	<p>
+		In this section we expand upon the conclusion of the previous section and give a simple numerical example that will help make clear the situation with traditional fixed costs.
+	</p>
+	<p>
+		Suppose we have a good, say umbrellas, which we wish manufacture. This entails setting up a factory which costs £1 million which can them make umbrellas and a per unit cost of £5. Thus fixed costs are £1 million and per unit cost is £5 and the fixed costs are clearly of a traditional kind.
+	</p>
+	<p>
+		Now in analogy with the case of innovation one might think that without monopoly there is a danger that after the company has invested the £1 million other enterprises will come along, make umbrellas, and, in so doing, drive down the price so low that the original company won't recover their investment (with the result that no company will set up to manufacture umbrellas in the first place).
+	</p>
+	<p>
+		This reasoning is mistaken. For other companies have the same fixed costs as this first company -- they have to set a factory too. A free market here means free entry which only requires that <em>net</em> profits (including fixed costs) get driven to zero, not that gross profits (excluding fixed costs) are driven to zero<te:FootNote>
+			Strictly one should add <q>in equilibrium</q> to this phrase so that we have: <em>net</em> profits <em>in equilibrium</em> are drive to zero. While this may appear, at first sign, simply to be pedantry, it is in fact highly important. Much of the time markets may be out of equilibrium as they adjust to previous shocks such as the development of new products or unexpected changes in the costs of raw materials.
+		</te:FootNote>.
+	</p>
+	
+	<p>
+		To return our example suppose that the market is such that gross profits (that is profits after operating costs but not including setup costs) are:
+	</p>
+	<pre>
+		1 company   : £3 million
+		2 companies : £2 million
+		3 companies : £1.5 million
+		5 companies : £1 million
+		6 companies : £900,000
+		    etc     :   etc
+	</pre>
+	<p>
+		Thus <strong>net</strong> profits will be zero when there are 5 companies in the market (the figures have been made so as to have this exact but it would not matter if this fit was not perfect -- companies would just make some net profits in equilibrium). It is clear that fixed costs will be covered by firms even with free entry -- all that happens is that net profits are driven to (near) zero and price is driven down to average cost not marginal cost.
+	</p>
+</st:Section>
+
+<st:Section>
+	<h2>
+		Some Remarks on the Fallacy
+	</h2>
+	<p>
+		While the fallacy is most often adduced by those arguing in support of intellectual property monopolies it has had surprisingly large number of adherents over the years. Below we discuss examples of the fallacy in action.</p>
+	<p>
+		Disregarding the question of justification it is apparent that those incurring traditional fixed costs, even though not requiring a monopoly, will want to obtain one<te:FootNote>
+			Just as all producers want a monopoly -- something privately beneficial to an individual firm but collectively both harmful and unnecessary. The situation may best be summarized by the aphorism: inscribed over the gates of all business schools should be the words: 'God Grant Us a Monopoly' while over the gates of faculties of economics should be: 'Lord Preserve us From Monopoly'. One of the major benefits of the free market is the protection it provides against monopolies and their attendant misjudgements and abuses.
+		</te:FootNote>. In fact the rents generated by a monopoly over the both the production (copying) operation as well as the innovation will be much greater than those generated by a monopoly solely over the innovation. But any monopoly granted to protected innovation-related investment may be used to cover investments in production and other activities that are 'traditional' fixed costs. Thus two facts are immediately apparent:
+	</p>
+	<p>
+		First, that the grant of monopoly rights to help protect investments in innovation-related fixed costs will <strong>inevitably</strong> involve the use of these monopolies to extract rents in relation to traditional fixed costs (where such monopoly rights are both harmful and unnecessary).
+	</p>
+	<p>
+		Second, that ownership of intellectual property monopoly rights will normally be integrated with finance or control of production and distribution process. Moreover given the asymmetries in capital and informational requirements it is likely that it will <strong>not</strong> be the creators or innovators who end up in control but rather the intermediaries or conglomerates who buy up the rights and then finance production. We see this in every industry:
+	</p>
+	<ul>
+		<li>
+			Booksellers and publishers from the early days of printing to the present<te:FootNote>
+				St Clair writes:
+				<blockquote refId="stclair" loc="45">
+					<p>
+						English authors, editors, and compilers could, as the fragmentary records show, occasionally enjoy a share of the revenues available from making printed copies of the texts they had composed or compiled, but only if they could obtain payment for the outright sale of their manuscript, of some equivalent kind. But they held no share in the equity of the investment, neither benefiting financially by its commercial success nor losing by its failure. In England, authors an editors soon became, in economic terms, sub-contractors to the text-copying industry. If they shared in the returns from the printing of the texts they had provided, it was capitalized in the fee they received for their manuscript, that is for a material not an intellectual property. .....
+					</p>
+					<p>
+						Early in the history of the English industry, the ownership of texts passed from the printers to the booksellers, that is from the manufacturers to the investors. The pioneering printers with their highly visible, immobile investments in fixed capital thus soon found themselves, as authors already were, reduced to being fee-paid contractors to entrepreneurs within the book industry who owned and dealt in assets which existed only in the virtual world of agreements, claims, obligations, and promises.
+					</p>
+				</blockquote>
+			</te:FootNote>
+		</li>
+		<li>
+			The film industry for much of its history. In recent times because of the disintegration of vertical control between production and distribution, the increase in value of 'brand' stars and the inability for producers to enforce repeat contracts with talent the industry has become a rare example where control has moved back towards creators (or at least top-end 'stars').
+		</li>
+		<li>The recording industry</li>
+		<li>Broadcasting</li>
+	</ul>
+</st:Section>
+
+<st:Section>
+	<h2>
+		Some Examples of the Fallacy in Action
+	</h2>
+	
+	<st:Section>
+		<h3>
+			The Bookselling Industry
+		</h3>
+		<p>
+			The extensive, and frequently increased intellectual property monopolies of the booksellers were frequently justified on the basis of the large costs (and risks) they claimed to incur from the very start of their operation in the late sixteenth century. But much of this argument exemplifies the fixed-cost fallacy. For most of these costs, certainly by far the dominant share, were <q>traditional</q>, being investments either in equipment, such as printing presses and paper, or in inventory -- copies of books waiting to be sold or distributed (there would also fixed costs related to distribution and marketing). The only <q>innovation-related</q> (here <q>creation-related</q> would be more appropriate) fixed costs were those involving payments to authors and editors which, as we see below, were often quite small and could have been paid for by means other than intellectual property monopolies.
+		</p>
+		<p>
+			Even St Clair in his excellent study <em>The Reading Nation in the Romantic Period</em> leans towards the fallacy -- no doubt reflecting, perhaps unconsciously, the arguments of those he has so extensively studied. For example he states (p.44):
+		</p>
+		<blockquote refId="stclair_2005" loc="44">
+			<p>
+				The invention of intellectual property in Europe in the fifteenth century can, I suggest, best be explained as part of an economic and business response to the new text-copying technology of print. With manuscript copying, virtually no fixed capital was employed. ..... With copying by print, by contrast, the technology required two new forms of capital which were unknown in the manuscript age. It required fixed capital in the form of plant (a stock of hand-made types and a printing press) and also a new form of working capital (the financing of the stocks of copies of manufactured books or of semi-manufactured unbound sheets, as they awaited sale). Unless the pricing structure of the industry of the industry enabled all these costs to be recovered over a reasonable time, the advantages of moving to a new text-copying technology could not be realised.
+			</p>
+		</blockquote>
+		<p>
+			As the reader will immediately notice all fixed costs so far mentioned are only of the traditional kind making it unclear why <em>any</em> <q>special pricing structure</q> would be needed (of course that is not to suggest that booksellers and printers would lobby hard for such protection claiming that it <em>was</em> a necessity). St Clair continues:
+		</p>
+		<blockquote>
+			<p>
+				In order to maintain book prices at a level that would allow a profit to be taken, the printer needed the cooperation of other printers. Otherwise, whenever a particular printed text was in demand, another printer might also print it, overstock the market, bring down the price, reduce the profitability of the industry as a whole, and discourage future investment both in the printing of new text and in print technology as such. Indeed, if unrestricted competition had been permitted, any printer who had paid a fee for a manuscript of an as-yet unprinted work, that is any printer who became an enterprising publisher, would have been put at a cost disadvantage. ....
+			</p>
+		</blockquote>
+		<p>
+			As written this appears to accept the fixed-cost fallacy as endlessly repeated by the industry over the centuries<te:FootNote>
+				To make the point absolutely clear consider the paragraph rewritten for the shipping industry, another area with large fixed costs, where the erroneous nature of the argument is fully revealed:
+				<blockquote>
+					<p>
+						In order to maintain shipping prices at a level that would allow a profit to be taken [why must a profit to be taken -- prices should be driven down to the point that average long-term <em>net</em> profits are zero], the ship owner needed the cooperation of other ship owners. Otherwise, whenever shipping capacity was in demand, another ship owner might also commission new ships, bring down the price, reduce the profitability of the industry as a whole, and discourage future investment both in new ships and in ship technology as such.
+					</p>
+				</blockquote>
+			</te:FootNote>.	It is true that in the last sentence innovation-related fixed costs finally appear along with their supposed <q>disadvantages</q> for the bookseller. However, there are at least two reasons why such disadvantages are minor.
+		</p>
+		<p>
+			First these payments to authors, editors and compilers were, except for the most successful authors (where the risks are lower in any case) a small part of the total fixed costs. For example Longman in his evidence to parliament (1818) estimated total costs for a 250 copy quarto of 4,830 shillings (excluding overheads and payments to the author and being 3,630 shillings for manufacture and 1,200 shillings for selling and advertising). For a 750 copy octavo this drops to 2,100 shillings (900 for manufacturing, 1,200 for selling and advertising)<te:FootNote>
+				<te:Cite refId="stclair_2004" loc="506" /> Appendix 5
+			</te:FootNote>.
+		</p>
+		<p>
+			What examples do we have of the level of payments to authors? According to St Clair Mary Shelley received 600 shillings for Frankenstein but this was for a work that was already a success. We also have details of profit-sharing arrangements but this seems heavily biased towards the bestsellers (e.g. Scott or Mary Shelley who had a profit share on the first edition of Frankenstein -- 500 copies -- with net revenue to here of 833.8 shillings). Profit-sharing arrangements even for the successful author could be problematic due to asymmetries of information which often resulted in authors being taen advantage of by booksellers who knew the real prices and costs (St Clair 164-165). For example Murray prepared accounts for Austen in relation to a profit-sharing arrangement on Emma which charged materials at twice normal rates. Similarly Coleridge's publisher charged him approx. two and a half times the normal rate per sheet for publishing Biographia Literaria and Sibylline Leaves (see also p. 508 for overcharging of Shelly on the commissioned-publication of Laon and Cyntha).
+		</p>
+		<p>
+			Second, the printer who commissioned the work might usually expect to have a temporal lead over any competitors. This would provide a reasonable first-move monopoly window in which to recoup any payments to authors and editors. Being first to market would also allow continuing, though reduced, profitability even as competitors entered. Furthermore the natural segmentation of the reading public by quality-preference and edition type would provide yet more opportunities for a dyanmic and enterprising publisher to reap profits with which to cover these innovation-related fixed costs<te:FootNote>
+				If such arrangements were deemed to be insufficient to adequately remunerate <em>creators</em> (<strong>not</strong> publishers or booksellers or printers) then a compulsory licence system would seem to provide an attractive option -- particularly given the usual imbalance in information and bargaining power between publishers/booksellers and creators.
+			</te:FootNote>.
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<h3>Marketing and distribution in the entertainment industries</h3>
+		<p>
+			One hears on occasion comments such as: 'We [entertainment firms such as record labels or movie studios] need copyright because we have to spend large sums on the creation, manufacture, marketing and distribution of creative work'.
+		</p>
+		<p>
+			This is a classic case of the fallacy, running together, as it does, innovation-related and traditional fixed costs. The funding of production may deserve protection via monopoly rights such as copyright<te:FootNote>
+				Though of course we should always be mindful of alternative funding mechanisms such as directly commissioning works which may have a less deleterious effect both upon access and the ability of future creators to build upon the original.
+			</te:FootNote> but manufacture, marketing and distribution -- where they involve fixed costs -- are perfectly standard, 'traditional' fixed costs, no different from the umbrellas discussed above. Their funding calls forth <strong>absolutely</strong> no need for monopoly protections, subsidy or other assistance -- in fact the only thing it should do is call forth the watchful eye of the competition authorities.
+		</p>
+		<p>
+			In fact, in the case of marketing costs<te:FootNote>
+				Which bulk large in the entertainment industry. For example it is estimated that marketing a blockbuster movie might cost over a half of the actual manufacture and distribution costs and around a fifth of total production costs (for example see this <a href="http://film.guardian.co.uk/features/featurepages/0,4120,1235576,00.html">Guardian article</a>). For music, without including the cost of music videos whose status as marketing might be disputed, the cost of marketing can dwarf manufacturing -- and even production -- costs
+			</te:FootNote>, there is a good case to be made that the great proportion of such expenditure is socially wasteful -- resulting, as it usually does, only in the shift of sales from one good to another both within and across industries. This being the case, anything that raises such expenditures should be considered harmful and anything that reduces them should be considered beneficial.
+		</p>
+		<p>
+			Thus the argument that marketing costs (or investments) are a justification for the grant of monopolies in the form of intellectual property is doubly iniquitous: not only do such justifications have no merit but such grants if they were to have their intended effect would in all likelihood raise the level expenditure in this area creating more social waste.
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<h3>
+			Endogenous Growth, Non-Convexities and Knowledge<te:FootNote>
+				This case is aimed at economists and may be ignored by non-specialists if they wish
+			</te:FootNote>
+		</h3>
+		<p>
+			The work on endogenous growth since the mid-1980s has repeatedly called attention to the importance of knowledge in economies and the non-rival <em>and</em> fixed cost nature of knowledge production. The consequence of this being attention to non-convexities in the production function and the resulting need for new analytical approaches.
+		</p>
+		
+		<p>
+			One of the most prominent of those putting forward these views has been Paul Romer who laid the foundation of neo-classical endogenous growth theory and continues to contribute extensively to the debate. But some of the discussion on this topic has been clouded by the fallacy discussed above. Fixed costs of <em>any</em> kind lead to non-convexities in production. (fixed costs are simply a form of economy of scale).
+		</p>
+		
+		<p>
+			Goods which are non-rival also display non-convexities in production but for subtly different reasons -- as discussed above -- though they may appear to the be the same as 'traditional' fixed costs. To illustrate how subtly these can get confused consider the following example from Romer's 1992 paper in a section entitled <q>Rivalry, Excludability and Non-convexities</q>
+		</p>
+		
+		<blockquote>
+			<p>
+				If a nonrival input has productive value, then output cannot be constant-returns-to-scale function of all inputs taken together [so far so good]. The standard replication arguments used to justify homogeneity of degree one does not apply because it is not necessary to replicate nonrival inputs [this would also be true of fixed costs inputs ...]. Suppose that a firm can invest 10,000 hours of engineering time to produce a design for a 20-megabyte hard disk drive for computers. Suppose that it can produce a total fo 2 trillion megabytes of storage per year (i.e. 100,000 units of the drive) if it builds a $10 million dollar factory and hires 100 workers. If it merely replicates the rival inputs -- the factory and the workers -- it can double its output to 4 trillion megabytes of storage per year.
+			</p>
+			<p>
+				Suppose that the firm could have invested 20,000 hours of engineering time in the design work instead of 10,000 hours and, by doing so, could have designed a 30-megabyte hard disk drive that could be manufactured by the same factory and workers. When the firm doubles all its inputs, it uses 20,000 design, two factories and 200 works to produce 6 trillioni megabytes of storage per year, three times the original output.
+			</p>
+		</blockquote>
+		<p>
+			Now as it stands this example <em>is</em> perfectly correct. Romer is talking about a knowledge good (the better disk drive design) which may in a nonrivalrous manner be deployed in new factories at no extra cost. As Romer points out this is having a production function F(A,X) where X are nonrival inputs and $%F(A,kX) = k F(A,X)%$. This implies that $%F(kA,kX) \geq k(F(A,X)%$
+		</p>
+		<p>
+			However consider a slight change where we have no design but where the 20 and 30 MB drive already exist. Suppose a firm can only manufacture the 30 MB in a larger production facility that costs $20 million to build requires twice as many workers but can then also produce twice as many drives per worker. Then here doubling all inputs from $10 million factory with 100 workers to $20 million factory with 200 workers resulting in output going from 100,000 units x 20MB to 200,000 units producing 30MB which is a tripling in output. Here we have a 'traditional' fixed cost but one which results in very similar behaviour of the production function.
+		</p>
+		<p>
+			The central message to take away from this is that fixed costs of any kind result in non-convexities of the production function. And it is non-convexities alone that suffice to require the addition of imperfect competition to traditional perfect-competition based neoclassical growth theory. Nonrivalry is a significant <em>and</em> special case of non-convexities because in this case production is <em>re</em>production with all its attendant externalities.
+		</p>
+	</st:Section>
+</st:Section>
+
+<st:EndNotes />
+</body>
+</html>

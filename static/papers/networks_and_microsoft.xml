@@ -1,0 +1,1730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/styles/okftext_2_xhtml/text_master_witbd.xsl"?>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:st="http://www.witbd.org/xmlns/text/structure"
+	xmlns:te="http://www.witbd.org/xmlns/text/basic/"
+	xmlns:tem="http://www.witbd.org/xmlns/text/math/"
+	xmlns:bib="http://www.witbd.org/xmlns/biblio/"
+	xmlns:ch="http://xmlchar.sf.net/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<head>
+	<title>Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft</title>
+	<link rel="stylesheet" href="/styles/text_basic.css" title="basic" type="text/css" media="screen, projection, print" />
+	
+	<rdf:RDF
+		xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dct="http://purl.org/dc/terms/">
+		<rdf:Description rdf:about="">
+			<dc:title>Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft</dc:title>
+			<dc:creator>Rufus Pollock</dc:creator>
+			<dct:created>2004-07-01</dct:created>
+			<dct:modified>2004-07-01</dct:modified>
+			<rdfs:comment xml:lang="en-GB">Essay submitted as Dissertation for Cambridge MPhil in Economics</rdfs:comment>
+		</rdf:Description>  
+	</rdf:RDF>
+	<!-- mathml stuff -->
+	<object id="mathplayer" classid="clsid:32F66A20-7614-11D4-BD11-00104BD3F987">
+	</object>
+	<?import namespace="mml" implementation="#mathplayer"?>
+	<script type="text/javascript" src="/scripts/asciimathml.js"></script>
+</head>
+
+<body onload="translate()">
+<h1>
+	To Be Compatible or Not to Be Compatible:
+	<br />
+	<span style="font-size: 0.9em">Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft</span>
+</h1>
+
+<st:TableOfContents />
+
+<st:Section>
+	<st:Title>Introduction</st:Title>
+	<p>
+		This essay examines strategic behaviour in network markets with particular attention to compatibility choice and the ability of a dominant firm to control that choice. A model of porting is developed that addresses this particular issue and allows us to analyze welfare outcomes and draw conclusions on policy. It also provides a novel interpretation of integration in a network market.
+	</p>
+	<p>
+		We also survey the activity of Microsoft in order to put flesh on the bones of theory and to provide motivation for the model. The behaviour of Microsoft has now, in consequence of the antitrust suit, been the subject of voluminous comment<te:FootNote>See e.g. the AER symposium 'Economic Policy Issues Regarding Microsoft' (Papers and Proceedings 2000), the Spring 2001 Symposium in the JEP, [[#liebowitz_ea_1999#]], [[#bresnahan_2000#]] etc</te:FootNote>. There has been significant dispute among economists over the facts of the case, their economic interpretation, and most importantly of all, the ramifications for antitrust conduct and enforcement. An element central both to the Judge's analysis of the case and to subsequent discussions has been the, so-called, 'applications barrier to entry' (ABE) and strategic behaviour by Microsoft to maintain the barrier. 
+	</p>
+</st:Section>
+
+<st:Section>
+	<st:Title>
+		Network Effects: Background
+	</st:Title>
+	<p>
+		We deal with markets displaying a Network Effect (NE). Network effects can be usefully divided into two direct and indirect forms. Network effects, particularly when they are direct, are also called network externality. The externality aspect of network effects will be the subject of further comment below.
+	</p>
+	<dl>
+		<dt>
+			Network Effect
+		</dt>
+		<dd>
+			A good (G) is subject to a network effect if either directly or indirectly its utility to an individual is a (rising) function of the size of the network of which that good is a part. Formally we have (potentially in reduced form) indirect utility function for G of the form $$v(n_G)$$ (omitting all other variables for simplicity) where $$n_G$$ is the number of users of G. The crucial words here are 'reduced form'. This permits us to have network effects where there are <em>no</em> direct effects to a user from other users' possession of the good. Rather the effect happens indirectly - most commonly operating through markets in complementary goods<te:FootNote>
+				Farrell and Klemperer use this as <em>the very basis</em> of their definition: 
+					<blockquote refId="farrell_ea_2001" page="42">
+						A network effect is complementarity between
+						my adoption of a good and yours: network effects stem from a consumer's
+						desire for compatibility with other consumers' choices. Additional adoption
+						both makes existing adopters better off (a total effect) and increases the
+						incentive to adopt (a marginal effect).
+					</blockquote>
+				</te:FootNote>. The idea being that once a full set of equations describing demand and supply in these markets (including the dynamics) were written down there would be a representation in reduced form similar to the above indirect utility function<te:FootNote>
+					In the literature there exists a preference extending back to the very first papers to take a 'macro' approach to network effects and ignore whether they are direct or indirect (e.g. [[#katz_ea_1986#]] where this broad use is very explicit). Some authors have questioned this choice and have considered whether ignoring this distinction - and the micro-foundations of the network effect - can lead to erroneous analysis and misplaced policy prescriptions.
+					<p>
+						Most prominent among these critics are Liebowitz and Margolis who have been particularly vocal in their opposition  to the treatment of direct and indirect effects in the same way, particularly, when the talk is of networks externalities with all the implications of market failure [[#liebowitz_ea_1994#]] [[#liebowitz_ea_1999#]].
+					</p>
+					<p>
+						They suggest that in the case of indirect effects these externalities are in fact pecuniary: <q refId="liebowitz_ea_1994" page="137">In fact, the pecuniary externalities that so perplexed Pigou walk and quack very much like the indirect network externalities that are waddling through the literature today</q>.
+					</p>
+					<p>
+						Liebowitz and Margolis are certainly right to point out the dangers of confusing pecuniary externalities and 'real' externalities. Pecuniary externalities are mediated via the price mechanism and therefore have no implications for welfare or of market failure, while 'real' externalities do have such implications. Nevertheless their strong conclusions such as the claim <q refId="liebowitz_ea_1994" page="149">Many of the external effects of network size are pecuniary</q>) are not justified.
+					</p>
+					<p>	
+						The distinction that needs to be introduced is between effects that operate through price and those that do not. In the first case there will be no externality but in the second there will. And as Church et al. [[#church_ea_2003#]] show in a wide variety of circumstances indirect network effects <em>do</em> give rise to 'real' externalities - precisely because the indirect network effects operate through the provision of greater variety or other similar non-price mechanisms.
+					</p>
+					<p>
+						Thus, it is safe to say that network effects of either type may give rise to real externalities and market failure. Nevertheless, as will be discussed below, ignoring the micro-foundations of the network effects can still be problematic in establishing welfare effects and understanding strategic behaviour.
+					</p>
+				</te:FootNote>.
+		</dd>
+		<dt>
+			Direct Network Effect / Network Externality (DNE)
+		</dt>
+		<dd>
+			A good G is subject to a direct network effect if its <em>direct</em> utility to an individual is a (rising) function of the number of those who use this good. A good example of this is provided by a communications network: the more people who have a phone the more useful that phone is to each individual as they can call more people with it. The impact on the utility function is direct and is not the result of a rise in the number of complementary goods or similar process. The most obvious examples are provided by communication networks whether it be languages (such as English) or telephones. 
+		</dd>
+		<dt>
+			Indirect / Virtual Network Effect (INE)
+		</dt>
+		<dd>
+			This covers the reduced form case discussed above. Normally the effect operates through the existence of complements. Classic examples would be in a hardware and software market where consumers care about variety of software and more software is supplied for a given hardware system the more users there are of that system. Other examples would be ATM machines, payment card networks<te:FootNote>See [[#chakravorti_2003#]] and the June 2003 symposium of the Journal of Network Economics (from which that article comes)</te:FootNote> and post-purchase service availability for durable goods such as dealership networks for cars (the greater the number of other owners of your type of vehicle the more places there will be to get your car serviced or repaired).
+		</dd>
+	</dl>
+</st:Section>
+
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<st:Section>
+	<st:Title>The PC Industry and Microsoft</st:Title>
+	<p>
+		This section provides summarizes some of the evidence of the PC Software market and the behaviour of Microsoft into a set of 'stylized' facts. Familiarity with some computing knowledge and terminology is assumed as is a grasp of basic history of the PC and associated software though some terms of relevance are defined below.
+	</p>
+	
+	<st:Section>
+		<st:Title>Interfaces, APIs, and the Applications Barrier to Entry</st:Title>
+	<dl>
+		<dt>
+			APIs and Interfaces
+		</dt>
+		<dd>
+			API is an acronym for Application Programming Interface. This denotes the interface that an OS or any other large software component offers to client applications. The concept and use of interfaces is common to all areas of industry in which specialization exists. It is the definition of a clear interface between two components that allows them to be made separately. But it is in computing that this feature has particular prominence. All complicated software systems utilize interfaces to modularize the programs and thereby simplify their design. The question is who controls such interfaces. Interfaces can be classified as closed, semi-open and open. An open interface is open both for clients and implementors. This is exemplified by a standard and is a central idea to much of the network literature. A semi-open interface is open to clients for free but may be unavailable to implementors in the sense that they can be changed at will by their owner and information is not made available<te:FootNote>See <a href="http://en.wikipedia.org/wiki/WINE">http://en.wikipedia.org/wiki/WINE</a></te:FootNote>. A classic example of a semi-open API is that provided by the Windows OS. Finally a closed API is one which is open neither to implementors nor to clients. Such an interface is exemplified by the Sony Playstation API which is only accessible to games companies who license it from Sony.
+			<p>
+				The history of computing in the modern era (from approximately 1970) can be seen as the provision of every higher level interfaces that provide ever greater levels of abstraction of the underlying system. This increase in abstraction is heavily tied to the increase in computing power. Every time a lower level system is encapsulated in an API, speed is reduced by the need to translate between this extra layer. Thus in the early days even a basic OS that would provide an interface to low level hardware was considered a luxury that represented a profligate use of system resources. Yet by the late 1990s systems such as Java had been developed that provide a whole other interface layer again on top of the underlying OS. 
+			</p>
+		</dd>
+		<dt>
+			Applications Barrier to Entry (ABE)
+		</dt>
+		<dd>
+			The Applications Barrier to Entry is the name used during the Microsoft anti-trust case to the indirect network effects relevant in that situation<te:FootNote>Judge Jackson discusses this extensively in para 36-52 of [[#jackson_1999#]]</te:FootNote>. These network effects are as follows: An OS and the software applications written for it are complementary products. Software application developers wish to write for an OS with the largest number of users (actual or potential) while consumers wish to purchase an OS (and underlying hardware) that allows them the greatest variety and quality of applications (they care little for the OS itself). Putting these effects together we get a classic indirect network effect operating in the OS market. More users of the OS result in more applications which leads to greater utility for an individual consumer.
+			<p>
+				The ABE is has a close relation to the control of interfaces. Applications are written against the API of the underlying OS. If that API is open it will make it much easier to clone that API on another platform. This in turn will allow applications to be easily ported and an ABE to be easily overcome. Conversely a semi-open or closed API will make it much harder to overcome the ABE.
+			</p>
+		</dd>
+	</dl>
+	</st:Section>
+	
+	
+	<st:Section>
+		<st:Title>General Remarks</st:Title>
+		<ol>
+			<li>
+				<strong>Economies of Scale:</strong> Computer hardware and software both display significant economies of scale deriving in the main from large up front fixed cost. In the case of hardware this stems from the creation of plant and machinery and a distribution system. In the case of software this derives from the its nature: once a program is written new copies can be produced (literally) at the touch of a button but the development of the initial working copy may be very time consuming<te:FootNote>At the same time it should be noted that this aspect of software can be exaggerated. Support in particular is more traditional marginal cost part of the business and can easily account for a very significant, even a majority, proportion of expenditure.</te:FootNote>.
+			</li>
+			<li>
+				<strong>Technologically fast moving: </strong> Computer processing power has followed Moore's law and doubled approximately every 18 months. Similar statistics have held for both magnetic hard disks and RAM (random access memory). The lifetime for a particular generation of a product in the IC industry can be anything from under twelve months to 7 years [[#irwin_1994#]]. In software progress moves, if anything, at a faster rate.
+			</li>
+			<li>
+				<strong>Switching Costs (that are manipulable):</strong> Switching costs develop in both the hardware and software industries for users. This can derive from three main sources: investment in capital goods, investment in complementary skills and knowledge (human capital), and investment in formats and interfaces (for example in the storage of data). These costs can vary significantly and often this can be controlled by the producers. So, for example, a software writer can choose whether their application (e.g. a word processor) stores its data in a closed format and therefore make it harder to switch to a competing product.
+			</li>
+		</ol>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>
+			Some Stylized Facts about the PC Industry and Microsoft
+		</st:Title>
+	
+		<ol>
+			<li>
+				<strong>Competition within an Open Standard in the Hardware Market:</strong> The IBM-compatible PC came rapidly to dominate the PC hardware market. This was due, in no small part, to the very active competition. This in turn was due to several factors: a) IBM built their PC with off-the-shelf components (including the operating system) and a semi-open BIOS (this was due to internal pressures and - in retrospect - a miscalculation about the market b) reverse engineering of the BIOS by Compaq c) slow reaction by IBM that permitted a critical mass of other entrants before IBM woke up and tried to proprietarize its system with the microchannel architecture in 1987<te:FootNote>
+					<a href="http://en.wikipedia.org/wiki/Compaq">http://en.wikipedia.org/wiki/Compaq</a>
+				</te:FootNote>.
+			</li>
+			<li>
+				<strong>Monopoly of standard and of supplier in the OS market:</strong>
+				<ol>
+					<li>
+						<strong>DOS:</strong> Microsoft rapidly came to dominate the PC market with its MS-DOS clone of the CP/M operating system. Essential to this success was the licensing of MS-DOS to the independent IBM-compatible 'clone' producers and the errors by others such Gary Kildall of Digital Research who refused to license CP/M to IBM. Note that MS-DOS and PC-DOS (IBM's version that they received from Microsoft) were both initially repackaged QDOS (Quick and Dirty Operating System) which Microsoft had had no hand in creating but had licensed and which was itself a barely legal 'clone' of Digital Research's CP/M. TODO: statistics.
+					</li>
+					<li>
+						<strong>Windows: </strong> AS DOS turned into Windows the monopoly of proprietary system and supplier (Microsoft) deepened. At the same time the PC market continued its rapid expansion. By the late 1990s Microsoft controlled over 90% of the PC OS market<te:FootNote>
+							See DOJ Exhibit 1: 'Chart: Microsoft's Actual and Projected Share of the (Intel-based) PC Operating System Market (According to IDC)' (<a href="http://www.usdoj.gov/atr/cases/exhibits/1.pdf">http://www.usdoj.gov/atr/cases/exhibits/1.pdf</a>. The statistics for 1996 OS market share (the discrepancy with above statistics is either due to error or the inclusion of non-Intel systems) were (Source: Free Online Dictionary of Computing (FOLDOC) <a href="http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?query=microsoft+windows&amp;action=Search">entry on Microsoft Windows</a>):
+						<br />
+						<pre>
+				DOS/Windows       70%
+				Windows 95        15%
+				Windows NT        2%
+				Other             13%
+						</pre>
+						 </te:FootNote> 
+					</li>
+				</ol>
+			</li>
+			<li>
+				<strong>Entry into applications software market:</strong> Microsoft at a very early stage entered the applications market: 
+				<ol>
+					<li>
+						It did so not only in the complementary market (i.e. applications for MS-DOS or Windows) but also produced for the Macintosh
+					</li>
+					<li>
+						Microsoft has continued to expand significantly throughout its history into the applications market. By the late 90s it had entered many of the major applications areas and in some had achieved a monopoly position similar to that in the OS market (for example from the release of Windows 3.1 onwards Microsoft Office rose to rapidly dominate the productivity suite market - the second biggest market after than for the OS<te:FootNote>[[#liebowitz_ea_1999#]] and wikipedia</te:FootNote>).
+					</li>
+					<li>
+						Microsoft has derived very significant revenues from certain of its applications
+					</li>
+					<li>
+						At other times it has appeared to produce applications with little regard to the direct revenue from these applications
+					</li>
+					<li>
+						It has engaged in direct and indirect tying between the applications and OS market<te:FootNote>direct: Internet Explorer, MS Windows, Java; indirect: MS Office, DR-DOS, .NET</te:FootNote>
+					</li>
+					<li>
+						It has specifically attempted to obstruct the development of applications that could act as higher level APIs and thereby 'commoditize' the underlying OS<te:FootNote>Examples: Sun's Java, Netscape Navigator</te:FootNote>
+					</li>
+				</ol>
+			</li>
+			<li>
+				<strong>Use of tying and exclusionary dealing: </strong> Microsoft entered into exclusive dealing or tying arrangements in both vertical directions. Downwards into hardware it negotiated quasi-exclusive dealing arrangements with a multitude of OEMs to have its OS installed<te:FootNote>
+					The main form of Microsoft's exclusive dealing took the form of 'per-processor' licenses where an OEM paid a licensing royalty whether they shipped DOS/Windows or not. In 1994 the US DOJ antitrust division obtained a judgement prohibiting much of this behaviour. For more details see [[#doj_1994#]] and the web page for the case:
+					<a href="http://www.usdoj.gov/atr/cases/ms_index_licensing.htm">
+						http://www.usdoj.gov/atr/cases/ms_index_licensing.htm
+					</a>.
+					(Also see Caldera's representations on licensing [[#caldera_drdos_fullstory#]] 
+					<a href="http://www.maxframe.com/DR/Info/fullstory/licnsing.html">
+						http://www.maxframe.com/DR/Info/fullstory/licnsing.html
+					</a>
+				</te:FootNote>. Moving upwards into applications Microsoft, as already mentioned above, either directly or indirectly tied applications software to its system.
+			</li>
+			<li>
+				<strong>Consciousness of the Applications Barrier to Entry and a desire to maintain it:</strong> There was significant amount of evidence from internal memoranda that Microsoft executives were well aware of the ABE and the need to maintain it<te:FootNote>See [[#jackson_1999#]] especially section IV-VII. See also [[#bresnahan_2001#]]</te:FootNote>. They were also highly conscious of the long term dangers of any 'commoditization'<te:FootNote>The commoditization terminology is due to Bill Gates himself. In a section worth quoting in full from the 'Internet Tidal Wave' memorandum (May 26, 1995) Gates stated:
+					<blockquote refId="gates_1995" page="4">
+							A new competitor 'born' on the Internet is Netscape. Their browser is dominant, with 70% usage share,  allowing them to determine which network extensions will catch on. They are pursuing a multi-platform strategy where they move the key API into the client [browser] to commoditize the underlying operating system. They have attracted a number of public network operators to use their platform to offer information and directory services. We have to match and beat their offerings including working with MCI, newspapers, and others who are considering their products.
+							<br />
+							One scary possibility being discussed by Internet fans is whether they should get together and create something far less expensive than a PC which is powerful enough for Web browsing. This new platform would optimize for the datatypes on the Web. Gordon Bell and others approached Intel on this and decided Intel didn't care about a low cost device so they started suggesting that General Magic or another operating system with an non-Intel chip is the best solution
+					</blockquote>
+				</te:FootNote> of the underlying OS from which so much of their power and profits derived. There is also the evidence from Microsoft's behaviour which showed very clearly that they were willing to engage in actions and expenditure whose main purpose was to maintain, and extend, the ABE. 
+			</li>
+			<li>
+				<strong>A platform is never entirely secure:</strong> This is evident from the concerns evinced by Microsoft executives and from subsequent developments. Ten years after the launch of Windows 95 Microsoft's position while still robust (with percentage share still well above 90%) seems threatened from several directions. As Gates so accurately predicted (see previous footnote) browsers have come to offer a increasingly rich alternative API and GUI platform. Microsoft's many ventures in recent times have not been very successful and very serious competition for its OS market is materializing from the open source version of Unix Linux.
+			</li>
+		</ol>
+	</st:Section>
+
+</st:Section>
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<st:Section>
+	<st:Title>
+		A Model of Porting
+	</st:Title>
+	
+	<st:Section>
+		<st:Title>Introduction</st:Title>
+		<st:Section>
+			<st:Title>A Basic Framework</st:Title>
+			<p>
+				Before proceeding it will be necessary to establish some terminology and a basic framework.
+			</p>
+			<p>
+				There exist two complementary types of good. For simplicity they are denoted by:	H ('Hardware'), S ('Software'). We take H as representing a complete system or platform and it need not be encapsulated in a single good. A piece of 'software' only work with a single H system. Hardware and software are purchased by end users/consumers whom we denote, as a group, by C.
+			</p>
+			<p>
+				There will be only limited number of H systems, normally only one or two even. This will be due to a combination of network effects and economies of scale (large fixed costs). The S market contains a large number of firms competing directly or in a form of monopolistic competition.
+			</p>
+			<p>
+				There may be many or a single supplier of a particular H system. Many suppliers of a single H is competition <em>within</em> a standard. Many proprietary H (with a single supplier therefore) is competition <em>for</em> a standard (this is more along the lines of [[#katz_ea_1985#]], see also [[#augereay_ea_2004#]]). When there is a single supplier of an H system we will refer to that supplier as the monopolist M. It is important to keep in mind that S1 and H1 do not refer to firms but to systems. The structure of the market within these systems is not yet specified. We may have anything from monopoly to something very close to perfect competition operating in each market
+			</p>
+<pre>
+      Diagram 1
+			
+          C
+      /   |   \
+     S1   S2  ....
+     |    |
+     H1   H2  .... 
+</pre>
+			<p>
+				Examples of such systems include:
+			</p>
+			<ul>
+				<li>
+					Operating Systems (H) and Applications Software (S)
+				</li>
+				<li>
+					The telephone infrastructure (H) and services (S) provided on top of the underlying physical network. Services include local and long distance calling, email, web-browsing etc. 
+				</li>
+			</ul>
+		</st:Section>
+	
+		<st:Section>
+			<st:Title>Porting and Compatibility</st:Title>
+			<p>
+				The model I introduce is designed to focus on the ability to 'port'. That is the ability for an S firm to convert its product to run on a different H system from the one for which it was originally designed. Thus we are less interested here in the traditional concerns with the establishment of market share in the network market and the methods by which consumers form expectations<te:FootNote>There is a very large literature on this. See for example the original paper by [[#katz_ea_1985#]]. For an overview of the literature see [[#farrell_ea_2001:sect 3.7#]] and the citations therein. </te:FootNote>. Rather we focus on the behaviour of a dominant firm once such a position has been reached.
+			</p>
+			<p>
+				The ability to port is analogous to the question of compatibility. Adapting the diagram from above we have:
+			</p>
+<pre>
+          Diagram 2
+
+              C
+          /   |   \
+        /  A  |     \
+       S1 &lt;-&gt; S2  ....
+       |   B  |
+       H1 &lt;-&gt; H2  .... 
+</pre>
+			<p>
+				Porting is indicated by the arrows at A is parallel to the issue of compatibility indicated by arrows at B.
+			</p>
+			<p>
+				Thus we can see the question of porting as analogous in an S/H market to direct compatibility in a simpler model with direct network effects. Given this close analogy it will be worth summarizing the conclusions reached in the general literature on compatibility and converters. The main points made by the literature are as follows:
+			</p>
+			<ul>
+				<li>
+					Focus on compatibility that is not, and converters that are not, perfect. In the case where converters are perfect all firms are then competing in the same market and traditional competition returns - albeit with a single large remaining network effect - and the interesting strategic and welfare questions disappear
+				</li>
+				<li>
+					Compatibility as strategy. The general message is that large dominant firms will not want compatibility while smaller firms will want it:
+					<blockquote refId="farrell_ea_2001" page="43">
+						A firm with a large installed base, or that would have a big expectations advantage, will thus tend to prefer incompatibility. A firm might most prefer in compatibility when (as a practical matter) any competition for expectations is all but over and it controls expectations.
+					</blockquote>
+				</li>
+				<li>
+					Welfare effects can be ambiguous particularly when we don't have full compatibility ([[#katz_ea_1985#]] propositions 6-10, 435ff).
+					The effect of (imperfect) converters can also be ambiguous due to the potentiality for too little standardization [[#farrell_ea_1992#]] (in particular prop 12 [[#farrell_ea_1992:31#]]).
+				</li>
+				<li>
+					Enforcing or facilitating compatibility. This can be a solution to failure to standardize [[#augereay_ea_2003#]], [[#farrell_ea_2001:43-44#]]. It can also be used as a tool of competition policy. However given that competition in network industries is 'non-standard' caution must be used, especially as the literature demonstrates that often the welfare effects of standardization - and the effect on competition - may be ambiguous.
+				</li>
+			</ul>
+			
+		</st:Section>
+	
+	<st:Section>
+		<st:Title>Background</st:Title>
+		<p>
+			The model shares some common inspiration with that of Farrell and Saloner [[#farrell_ea_1992#]], and that of Church and Gandal [[#church_ea_1992#]] but differs from either of them in important respects. The model of Farrell and Saloner investigates the consequences of the use of 'converters' in a market with (direct) network effects. Porting can be seen as similar to the provision of converters. However a porting model relates to a market where network effects are indirect and we have a two tier industry with S sitting on top of H. As we shall see this has important consequences for the model and for the focus of our analysis.
+		</p>
+		<p>
+			Church and Gandal meanwhile have a model with an industry structure more similar to our setup but their focus is on the behaviour of the S market and the equilibrium distribution of S firms across H systems. In their model the behaviour of H firms is not at issue and is not examined. Given that our particular interest is in the behaviour of M, the controller of a particular H system, this leads us again to have a markedly different approach. Nevertheless the framework, and some of the background results of the Church and Gandal model remain relevant.
+		</p>
+		<p>
+			A crucial point to our analysis is that network lock-in and its associated monopoly, even when well-entrenched, is not unassailable. As Bresnahan notes
+			<q refId="bresnahan_2001" page="11">
+				... the theory [of networks] is sometimes
+				written so that there is permanent lock-in -- entry never overcomes the very high barriers
+				of the installed base effects. This is simply theory’s habit of rounding “difficult” up to
+				“impossible” for expositional clarity.
+			</q>
+		</p>
+		<p>
+			This elision of difficult and impossible, while useful for analytical ease, creates a crucial lacuna in understanding the behaviour of a firm such as Microsoft whose monopoly derives from (indirect) network effects. This is because it ignores - and thereby obscures - <em>the</em> primary motivation for much of such a firm's activities: the preservation and extension of the indirect network effects - the barriers to entry - that create its monopoly<te:FootNote>This is a point made by Bresnahan in the particular case of the anti-trust action:
+				<q refId="bresnahan_2001" page="11-12">
+					...	a mechanism existed to lower the entry barriers and make entry possible. That mechanism was divided technical leadership.
+				</q>
+			</te:FootNote>.
+			For, if we assume such monopoly is already unassailable, the monopolist will have no need to entrench itself further.
+		</p>
+		<p>
+			 However, in practice, even in the case of a highly entrenched firm with a very large installed base, actual or potential competition will exist. Moreover technological change will not be entry agnostic - it can be used either to increase or decrease the barrier to entry. Given this fact, technological change and innovation takes on a strategic character and an incumbent firm may well have very large incentives to engage in activities that enhance its own position and reduce the possibility of the entry by competing firms and platforms.
+		</p>
+	</st:Section>	
+	</st:Section>
+	
+	<st:Section>
+	<st:Title>The Model</st:Title>
+	<p>
+		There exist two types of complementary good: a 'Hardware' (H) good and a 'Software' (S) good<te:FootNote>Note these are terms of convenience and are used for schematic purposes and need not mean that an H component really <strong>is</strong> hardware. For example in the case of Microsoft the OS plays the role of hardware.</te:FootNote>. S runs on top of H. We assume that H only facilitates the consumption of S and has no utility in itself. There may be several H 'systems' and a S good will only be compatible with a single H system. There are 2 time periods indexed by 1,2. There are three types of agent:
+	</p>
+	
+	<st:Section>
+	<st:Title>Makers of Hardware</st:Title>
+	<ul>
+		<li>
+			There are two types of H system: H1 and H2.
+		</li>
+		<li>
+			System H1 and H2 which are incompatible. So S that runs on H1 does not run on H2.
+		</li>
+		<li>
+			H1 is controlled by a monopolist M. M can choose what prices to charge in each period: $$p_1 , p_2$$.
+		</li>
+		<li>
+			In first period H2 does not exist and only become available in period 2. H2 when it becomes available is supplied competitively at cost $$gamma$$<te:FootNote>
+				If H2 is non-proprietary this will allow for competitive entry. With an appropriate assumption on technology this will result in price equalling marginal cost (see [[#church_ea_1992:89#]]). However this is not essential assumption. All that matters is that there is sufficient entry that strategic behaviour by firms is not possible and that therefore we may take $$gamma$$ as exogenous for the purposes of the model.
+				<p>
+					For a relevant example consider the PC OS market. Here, despite increasing returns to scale due to large up front fixed costs, the open Linux platform has many suppliers: at present count there are over 40 different Linux 'distributions' (distros) of which at least 5 have a major following (including the well-known commercial ones such as RedHat and Suse). Thus the Linux OS is a dramatic demonstration of competition within a standard (and in this case it results in a $$gamma$$ that is, in fact, zero).
+				</p>
+			</te:FootNote>.
+		</li>
+	</ul>
+	</st:Section>
+	
+	<st:Section>
+	<st:Title>Makers of Software</st:Title>
+	<ul>
+		<li>
+			There is a unit mass of software producers indexed by $$z in [0,1]$$.
+		</li>
+		<li>
+			Software has price $$p_s$$, which is fixed<te:FootNote>The discussion of Church and Gandal's model [[#church_ea_1992#]] below provides a justification for this assumption (in the section Future Work - The Consumer Utility Function)</te:FootNote>
+		</li>
+		<li>
+			Initially, in period 1, all Software firms produce for H1.
+		</li>
+		<li>
+			In period 2 they can still produce for H1 but they can also produce for H2 if they <em>port</em> during period 1. The cost of porting is given by $$c$$. $$c$$ can be manipulated by H1 at a cost of effort/expenditure/obfuscation $$e = e(c)$$<te:FootNote>
+				implicitly this gives $$c = c(e)$$ i.e. cost as a function of effort but the formulation presented is analytically easier. Nevertheless we may occasionally write $$c(e)$$
+			</te:FootNote>. A firm derives net profit from porting $$= n_c * p_s - c - z$$ where $$n_c$$ is the number of consumers on that system. We normalize $$e$$ such that $$e(0) = 0$$.
+		</li>
+	</ul>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>Consumers</st:Title>
+	<ul>
+		<li>
+			There is a unit mass of consumers indexed by $$t in [0,1]$$.
+		</li>
+		<li>
+			Consumers have heterogeneous preference for systems as measured by $$t$$ and have utility function:<br />
+			$$u(p,p_s,N,t) = a - p - p_s + N - {(t, text{on network} 1),(1-t, text{on network 2}):}$$
+			<br/>
+			Where $$p$$ is the price of hardware for that network and $$N$$ is the number of software firms producing for that system. This utility function is similar to or an extension of many that appear in the literature<te:FootNote>e.g. [[#katz_ea_1985#]], [[#farrell_ea_1985#]], [[#farrell_ea_1992#]]</te:FootNote> and has the following characteristics:
+			<ul>
+				<li>Heterogeneity of consumers (horizontal differentiation in the terminology of [[#farrell_ea_2001#]])</li>
+				<li>
+					Indirect Network Effects for porting: these operate through the $$n_s$$ term. From the above model of porting for software firms we can see that (on network 2) $$n_s$$ is increasing in $$n_c$$ hence as we shall see in a reduced form $$n_s$$ becomes a function of $$n_c$$.
+				</li>
+				<li>
+					Quasi-linear in the price of hardware and software
+				</li>
+			</ul>
+		</li>
+	</ul>
+	</st:Section>
+</st:Section>
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<st:Section>
+	<st:Title>Results</st:Title>
+	<st:Section>
+		<st:Title>Equilibrium</st:Title>
+		
+		<p>
+			Let us define:
+		</p>
+		<ul>
+			<li>
+				the fraction porting $$= alpha(e)$$
+			</li>
+			<li>
+				$$t_i = $$ number of consumers on network H1 in period i. Due to lack of competition and technical assumption that $$a$$ is large - see below - we have $$t_1 = 1$$.
+			</li>
+			<li>
+				$$p_i = H1 text(price in period) i$$
+			</li>
+			<li>
+				$$P_i = M text(profits in period) i$$. Total profits are given by $$P = P_1 + P_2$$.
+			</li>
+		</ul>
+		
+		<p>
+			We solve the model by a process of backward induction
+		</p>
+		<ol>
+			<li>
+				Establish $$p_2$$ given $$alpha$$	
+			</li>
+			<li>
+				Establish the number porting given $$p_2$$ and rational expectations
+			</li>
+			<li>
+				Establish $$p_1$$ and $$c$$ (the cost of porting) chosen by M
+			</li>
+		</ol>
+		
+		<p>
+			Formally we have (proofs in the Appendix):
+		</p>
+		<tem:Result type="Prop">
+			$$alpha$$ is given by $$alpha(c) = p_s * mu (2 + gamma - 4 c)$$. Thus the number porting is decreasing in $$c$$ and increasing in $$p_s$$<te:FootNote>
+				To be precise: 
+				$${:d alpha:}/{:d p_s:} = 4 mu^2 (2 + gamma + 4c) > 0$$
+			</te:FootNote>
+		</tem:Result>
+		
+		<tem:Result type="Prop">
+			The first order condition for the optimal level of porting cost (for M) is given by:
+			<tem:Eqn>
+				$$e^{'}(c) = delta mu^2 * (4c + lambda)$$
+			</tem:Eqn>
+		</tem:Result>
+		
+		<p>
+			Where for convenience of notation we define:
+		</p>
+		<tem:Eqn>
+			$$mu = (4 + p_s)^-1$$
+			<br />
+			$$lambda = (2 + gamma)(3 + p_s)$$
+		</tem:Eqn>
+	</st:Section>
+	
+	
+	<st:Section>
+		<st:Title>Some Possibilities for the form of $$e(c)$$</st:Title>
+		<st:Section>
+			<st:Title>Quadratic (linear marginal): $$e(c) = x_1 c^2 + x_2 c$$</st:Title>
+			
+			<p>
+				(for convenience take $$x_1 =  2 mu^2 delta (m + 1), x_2 = mu^2 delta n$$). Substituting and rearranging gives:
+			</p>
+			<tem:Eqn>
+				$$c = (lambda - n) / (4 m) $$
+			</tem:Eqn>
+			<p>
+				In the simplest case $$m = 1, n =0$$ this yields:
+			</p>
+			<tem:Eqn>
+				$$e = lambda / 4$$ 
+			</tem:Eqn> 
+		</st:Section>
+		
+		<st:Section>
+			<st:Title>Cubic (quadratic marginal): $$e(c) = x_1 c^3 + x_2 + c^2 x_3 c$$</st:Title>
+			<p>
+				Take $$x_i = delta mu^2 (y_i)/i, i = 1,3$$ and $$x_i = delta mu^2 (y_i -4) / i, i = 2$$  then<te:FootNote>
+					We choose the positive root since one value will be a local maximum and the other a local minimum and from the SOC it will be the larger value that is the maximum
+				</te:FootNote>:
+			</p>
+			<tem:Eqn>
+				$$c = (y_2 + \sqrt{y_2^2 - 4 * y_1 (y_3 - lambda)})/(4y_1)$$
+			</tem:Eqn>
+			
+		</st:Section>
+	</st:Section>
+
+<st:Section>
+	<st:Title>Welfare</st:Title>
+	<p>
+		An explicit welfare analysis of the basic model is straightforward. It will be useful to distinguish between efficiency (relating to overall surplus) and surplus going to particular groups (e.g. consumer surplus). Intuitively the argument for welfare goes as follows:
+	</p>
+	<ol>
+		<li>
+			In period 2 all users of H1 still have a full set of software available and they are unaffected by porting. Hence total surplus here is unaffected by porting and by $$c$$.
+		</li>
+		<li>
+			By revealed preference those consumers using system 2 could not be better off being on H1. Thus they will only be made better off off by a lower $$c$$ and more S on their system. 
+		</li>
+		<li>
+			Thus increasing $$e$$ cannot increase total surplus in period 2. Since it has a direct cost on first period total surplus the overall effect must be negative.
+		</li>
+		<li>
+			Conclusion: efficient level is $$c = 0$$
+		</li>
+	</ol>
+	<p>
+		Formally we have (full details in the Appendix):
+	</p>
+	
+	<tem:Result type="Prop">
+		 $$gamma \leq 1$$ (<a href="#ass_gamma_leq_1">Assumption 1</a> - see Appendix) is a sufficient condition for $${:del W:} / {:del c:} lt 0$$ and therefore total welfare $$W$$ is maximized when $$e = c = 0$$.
+	</tem:Result>
+	
+	<tem:Result type="Prop">
+		$$gamma \leq 4$$ is a sufficient condition for $${:del D:}/{:del c:} \lt 0$$ which in turn implies that consumer welfare is maximised with $$e = 0$$.
+	</tem:Result>
+	
+	<p>
+		Remark: Dead-weight costs for Welfare come from three distinct sources in this model:
+	</p>
+	<ol>
+		<li>
+			There is the cost of monopoly pricing by M
+		</li>
+		<li>
+			The cost of porting
+		</li>
+		<li>
+			Expenditure $$e$$ by M
+		</li>
+	</ol>
+	<p>
+		The effects all operate in the same direction: lower cost of porting is associated with lower expenditure and lower prices from M. We therefore obtain very unambiguous and clearcut welfare results.
+	</p>
+	
+</st:Section>
+
+	
+</st:Section>
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<st:Section>
+	<st:Title>Discussion</st:Title>
+		<st:Section>
+		<st:Title>
+			The Expenditure by M: $$e$$
+		</st:Title>
+		<p>
+			The cost of porting and providing converters is something that is readily acknowledged<te:FootNote>Often demonstrated by the revealed preference of development firms who rarely port, or only after a significant delay, to other platforms. See also the introduction in [[#farrell_ea_1992#]] and the comments in [[#church_ea_1992#]]</te:FootNote>. However the effort expended, $$e$$, expended by M, while central to the analysis, is less obvious. Therefore, to lend empirical support to this aspect of the model, some examples of 'e' expenditure are provided:
+		</p>
+		<ul>
+			<li>
+				Expenditure of time and effort to write a non-conformant Java VM including a set of Windows specific APIs of dubious technical value but which would have severely undermined the cross-platform nature of Java and hence reduced the ease of porting of Java programs.
+			</li>
+			<li>
+				The .NET platform. Rather than adopting Java in the late 1990s Microsoft designed and built an entire new framework named .NET<te:FootNote>such as
+					<ol>
+						<li>
+							a new object oriented language C# that reproduced Java in every major respect (almost as far as syntax)
+						</li>
+						<li>
+							outputting to an intermediate language (called IL analogous to Java bytecode) that could then be run on any platform (though Microsoft's commitment to this feature of .NET has rapidly waned and a cross platform version of .NET now depends on the efforts of the open source Mono project)
+						</li>
+						<li>
+							provision of comprehensive auxiliary class libraries
+						</li>
+					</ol>
+				</te:FootNote>. While any estimate for the cost of such efforts must be speculative it is probably not an underestimate to suggest that at least $100-$500 million have been spent on the project. Given that .NET provides few advantages over Java but instead replicates most of the core features - except for the crucial one of cross-platform compatibility (promised but not delivered) - this expenditure is a prime example of an investment whose sole aim is to raise or maintain the cost of porting. Moreover Microsoft have gone to great lengths to encourage programmers to write against the .NET APIs (rather than Java) and currently intend to use .NET as the core OS API in Longhorn, the next version of Windows. This demonstrates the large expenditures a monopolist will engage in in order to raise the cost to porting and to lock application writers into its own platform.
+			</li>
+			<li>
+				Microsoft has generally refused to publish details of core formats. The 'IP' locked up in those in terms of useful technological information about the programs is likely to be minimal<te:FootNote>The available information only indicates that these formats are fairly opaque (those interested can find leaked copies of various out of date formats such as Word 97 at <a href="http://www.wotsit.org/">www.wotsit.org</a>). Whether this is because of poor design, obfuscation decisions, or because of the requirements of back compatibility is difficult to tell.</te:FootNote>, but by keeping these formats closed Microsoft make it very hard to port productivity applications to other platforms<te:FootNote>This is also a clear example of the creation of switching costs as a way of locking in existing customers.</te:FootNote>. Examples include the file formats of the applications in Microsoft Office and the specification for the NTFS file system. This is an example where the expenditure by Microsoft is more indirect. It consists of the extra effort required to write and support their own system and, more importantly, the reduction in quality and variety of software applications available for its own platform.
+			</li>
+		</ul>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>
+			Integration: Entry by M into the S Market
+		</st:Title>
+		
+		<st:Section>
+			<st:Title>Introduction</st:Title>
+			<p>
+				Integration by M, and M's motivations for doing so, is an issue that arises frequently in the literature. The above model provides several reasons for M entry into the S market:
+			</p>
+			<ol>
+				<li>
+					<strong>Supplying S increases demand for H.</strong> By supplying the complementary good M increases demand/willingness to pay for hardware (see e.g. [[#davis_ea_2000#]]).
+				</li>
+				<li>
+					<strong>S market is profitable in its own right.</strong> This has strong connections with the literature on tying, see discusion below.
+				</li>
+				<li>
+					<strong>Moving rents upstream.</strong> By driving down the price of S (or otherwise effecting the structure of the S market), M may be able to charge more for H. See [[#farrell_2003#]], [[#farrell_ea_2000#]]. This case should be distinguished from the first one by the fact that the effect operates through M's impact on other S producers rather than the direct effect of extra provision of S by M.
+				</li>
+				<li>
+					<strong>Correcting the effects of obfuscation.</strong> Interpret cost $$c$$ as affecting the quality of software. For example the term relating to software variety in the consumer welfare function could be changed from $$q = n_s$$ to $$q = n_s *(f(e)$$ where $$f(c)$$ measures degree of 'obfuscation' and $$f(0) = 1, f'(c) lt 0$$. This creates an incentive for M to enter the S market to make up for poorer quality of software that is now available. Perhaps M 'obfuscates' its interface to make porting harder but this also reduces quality of software written for H1 itself. So M itself has to start writing the software (as obfuscation does not affect it).
+				</li>
+				<li>
+					<strong>The control of porting.</strong> By integrating M will gain the ability to prevent porting directly in addition to its control of $$c$$, the cost of porting. That is by controlling the S firm, M can simply decide not to port that firms' product to H2. We explore this possibility in more detail below.
+				</li>
+			</ol>
+		</st:Section>
+		
+		<st:Section>
+			<st:Title>
+				The Control of Porting<te:FootNote>"Develop for it? I'll piss on it" was the comment of Bill Gates when asked if he would develop software for the NeXT computer system. The NeXT computer was a PC developed by Steve Jobs after his forced departure from Apple. It provided a different (and competing) OS and programming API to MS-DOS/Windows. Released in 1989 (though prototypes were available from 1987) it was not only based on an entirely different architecture to the dominant IBM compatibles but also had its own (highly advanced) operating system (a Mach / Unix hybrid). Thus, for Microsoft, developing applications for NeXT (or rather porting its existing applications like Microsoft Word and Excel) would have been to assist a competitor against their own Windows platform. Needless to say, Microsoft didn't develop for NeXT and it flopped badly in the market.</te:FootNote>
+			</st:Title>
+			<p>
+				We will consider the different incentives of an integrated vs. an unintegrated S firm. In order to make the point as starkly as possible assume that basic profits are zero in the S market on H1 (e.g. just cover fixed costs). So M has no motivation to enter S for the profits in the S market.
+			</p>
+			<p>
+				Now an unintegrated S firm (of type $$beta$$) ports if and only:
+			</p>
+			<tem:Eqn>
+				$$text(net profits of porting) = Pi_p(beta) = (1-t_2(alpha)) * p_s - (beta + c(e)) >= 0$$
+			</tem:Eqn>
+			
+			<p>
+				Incentive for an integrated firm of type $$beta$$ differs because it takes account of effect on profits of hardware of a decision to port. Let an integrated firm control a mass of dx of S firms. Define $$Pi_p^i(beta)$$ as the net profits from porting of an integrated firm. Then we have the following result (details in the Appendix):
+			</p>
+			<tem:Result type="Prop">
+				$$Pi_p^i(beta) = dx ({:dP_2:}/{:dx:} + Pi_p(beta))$$ and $$Pi_p^i(beta) \lt Pi_p(beta)$$ where $$P_2$$ is, as defined above, the profits of M in period 2.
+			</tem:Result>
+			
+			<p>
+				So an integrated firm is less likely to port. Moreover the corollary of this is that integration is allowing M to make more profits in its hardware business. Or, rather, the ability to prevent porting is allowing it to prevent erosion of its profits. In the marginal case, where an integrated S is indifferent between porting and not porting, the net profits in the S business from porting precisely equal (in absolute terms) the cost to M in the H business from the porting:
+			</p>
+			<tem:Eqn>
+				$$-{:dP_2:}/{:dx:} = Pi_p(beta)$$
+			</tem:Eqn>
+			
+			<p>
+				Moreover what this analysis shows is that there can be a gain to M of integrating above those that would obtain to its S division on its own. By this it is meant that in the case where M does <em>not</em> port M will be making more money than it would simply from porting. The net gain  for M above that for an unintegrated S firm is the difference (when positive):
+			</p>
+			<tem:Eqn>
+				$$text(Net Gain from Not Porting) = text(NGNP) = dx * (-{:dP_2:}/{:dx:} - Pi_p(beta))$$
+			</tem:Eqn>
+			<p>
+				Thus M has incentives to integrate that go beyond the simple financial incentives of profits in the S sector, or even that relate (as in traditional analyses) to promoting the market for its complementary H system.
+			</p>
+			<p>
+				Furthermore in doing this initial calculation we have kept $$e$$ constant and have thus <em>underestimated</em> the benefits to M of not porting. Suppose that $$text(NGNP) >= 0$$ then we have the following ordering on profits: 
+			</p>
+			<tem:Eqn>
+				$$P^i(e^{****},bar(p)) >= P^{i}(e^{**},bar(p)) >= P^{i}(e^{**},p) >= P(e^{**})$$
+			</tem:Eqn>
+			<p>
+			 where the superscript $$i$$ denotes profits in the integrated case, $$e^{**}$$ and $$e^{****}$$ denotes the optimal level of $$e$$ in the unintegrated case and integrated case respectively and $$p, bar(p)$$ represent the choice to port and not port respectively.
+			</p>
+			<p>
+				For M, integration with S firms is an alternative way by offering a unilateral method of reducing $$alpha$$ (by a decision simply not to port) in addition to the indirect route through $$c(e)$$. It therefore provides a way for M to make even greater profits than without integration
+			</p>
+			<p>
+				These 'extra' profits provide another motive for tying behaviour by M beyond those usually found in the literature. Normally anti-competitive behaviour is taken to occur when M leverages its monopoly in one market (H) into a monopoly in another, complementary, market (S) by tying the complement to its monopoly good<te:FootNote>Tying is examined extensively in [[#whinston_1990#]] and was a prominent feature in the Microsoft case in relation to Internet Explorer - see e.g. [[#gilbert_ea_2001#]], [[#whinston_2001#]]) as well as discussion in the stylized facts section above. We also note in passing the relation to a similar issue to tying: exclusive dealing (see e.g. [[#farrell_2004#]]).</te:FootNote>. For this to make sense the tied market must be profitable for otherwise why would M wish to enter at all?
+			</p>
+			<p>
+				This was a substantial issue<te:FootNote>And in fact it was on tying that Judge Jackson was overruled by the Appellate court.</te:FootNote> in the antitrust case since it was never clear that Internet Explorer was profit-making for Microsoft<te:FootNote>Though this would of course be <em>extremely</em> hard to establish since it would involve, at minimum, computing sales and sales price for Windows without Internet Explorer.</te:FootNote>. But the models here makes sense of this and lends weight to various informal analyses offered during the trial. First, a browser could provide another important API. Hence controlling it is important if M wishes to control porting. Second, a browser is important as software in its own right. Hence M might wish to control it so as to have direct control over the porting of this piece of software.
+			</p>
+		</st:Section>
+	</st:Section>
+</st:Section>
+
+<st:Section>
+	<st:Title>Future Work</st:Title>
+	
+	<st:Section>
+		<st:Title>The Consumer Utility Function: More General Cases and Providing Micro-Foundations</st:Title>
+		
+		The results could be extended to more general cases of the indirect utility function $$u(p,p_s,N,t)$$. The major property we require is $$(du)/(dN) > 0$$, i.e. that variety is valued.
+		<p>
+			For example Church and Gandal [[#church_ea_1992#]] (itself strongly based on [[#dixit_ea_1977#]]) starting from a CES utility function (NB: N is finite):
+		</p>
+		<tem:Eqn>
+			$$U(x_1,x_2 ... x_n) = (sum_{i}x_i^{1//beta})^beta + a - kt, 1 \lt beta \lt 2$$
+		</tem:Eqn>
+		Obtain the following form for $$u$$ [[#church_ea_1992:89#]]:
+		<tem:Eqn>
+			$$u(p_s,p,N,t) = N^{beta - 1}(y-p) / (p_s) - kt$$
+		</tem:Eqn>
+		<p>
+			where $$y$$ is the consumer's wealth. They also show that in this case $$p_s = beta * s$$ where $$s$$ is marginal cost and hence is not a strategic variable as it is defined in terms of constants that are exogenous. This provides some justification for the treatment of $$p_s$$ in the model above.
+		</p>
+		<p>
+			Finally Church and Gandal's approach demonstrates that a more complete set of micro-foundations can be provided. This in itself would be an important extension to the model
+		</p>
+	</st:Section>
+		
+	<st:Section>
+		<st:Title>Endogenizing S firm Behaviour</st:Title>
+			Introduce a cost to H1 market of a S firm porting to H2. For example S firms have to decide to port or to improve on the original H1-compatible software. This would make the welfare effects of porting more ambiguous (one of the reasons for the very clear-cut welfare results in the above model is the simple modelling of the provision of software). This could be included in a more general extension of the model where the behaviour of S firms, and hence the size of the S market for each platform, was endogenzied.
+	</st:Section>
+	
+	
+	<st:Section>
+		<st:Title>Integration as a remedy for damaged S</st:Title>
+		<p>
+			Interpret cost $$e$$ as affecting quality of software. (perhaps change term in consumer welfare function for quality q from $$q = n_s$$ to $$q = n_s *(f(e)$$ where $$f(e)$$ measures degree of 'obfuscation' and $$f(0) = 1, f'(e) lt 0$$. This leads onto the M entry into S market story to make up for poorer quality of software that is now available. Story is: M 'obfuscates' interface to make porting harder but this also reduces quality of software written for H1 itself. So M itself has to start writing the software (as obfuscation does not affect it).
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>Innovation</st:Title>
+		<p>
+			The structure of competition and the behaviour of M (via its effect on competition) may have an important impact on innovation<te:FootNote> 
+				<q refId="romer_2000" loc="para14">The third and final type of harm is the most familiar and fundamental. Microsoft has harmed the innovative process because it has limited competition, and competitive markets are, on balance, the best mechanism for guiding technology down a path that benefits consumers.</q>.
+				See also [[#gilbert_ea_2001:38#]] for a discussion of innovation in relation to the antitrust case
+			</te:FootNote>. Moreover, understanding these effects is very important, since innovation is by far the largest factor in determining long run welfare<te:FootNote>
+				As Romer notes in his brief on remedy in the antitrust case:
+				<blockquote refId="romer_2000" loc="para9">
+					Information processing is a pervasive activity in our economy. Even small changes in the rate of innovation in this area can, over time, lead to large productivity gains and big improvements in the standard of living.
+				</blockquote>
+			</te:FootNote>.
+		</p>
+		<p>
+			However innovation is often overlooked. There are several reasons for this. First innovation is 'hidden' since it is only affected indirectly via competition. Hence if one only looks at direct consequences the impact on innovation will be overlooked. Second, and more importantly, innovation is hard to analyze. How competition affects innovation is disputed<te:FootNote>
+				For example for the model presented in this paper there are the following contrasting possibilities. Either by increasing costs M may have a large negative impact on innovation and therefore on welfare. Or, alternatively, as the recipient of large rents M may have very high incentives to innovate and in this case competition by reducing these rents may reduce innovation.
+			</te:FootNote>, the relation of innovation to output is not well understood, and, from a quantitative perspective, innovation - and its impact on GDP - can be very hard to measure<te:FootNote>See [[#pollock_2004#]] for greater discussion of all of these issues</te:FootNote>.
+		</p>
+		<p>
+			Nevertheless recent papers such as Farrell and Katz's [[#farrell_ea_2000#]] and [[#farrell_2003#]] have examined innovation in network markets explicitly. It would be interesting to add such an analysis to this model and the implications for welfare might be dramatic.
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>Exogenous Changes to $$c(e)$$ due to Innovation and the Response of M</st:Title>
+		<p>
+			Consider the impact of innovation on $$c$$, the cost of porting. The motivation for such an investigation is provided by technologies such as Java (see section stylized facts section above) and the arrival of Web browser into the PC market in the mid 90s. Java, in particular, by inserting another layer of interface between the software application and the underlying OS would have radically reduced the cost of porting - practically to zero (though potentially at the cost of some extra initial development cost).
+		</p>
+		<p>
+			A reduction in the cost of porting could be modelled in framework used above as being reflected in an increase in $$e(c)$$ - the expenditure that M must make to achieve a particular level of porting cost. Attention would focus on a) the welfare effects of such an innovation b) the loss in profits suffered by M and the consequent incentive M would have to prevent or undermine such an innovation<te:FootNote>
+				Take the simple case $$e(c) = x_1 c^2 + x_2 c$$ that we addressed above. The arrival of a new technology such Java can be modelled as an increase either in $$x_1$$ or in $$x_2$$ (or both). Fixing upon a change in $$x_2$$ one should calculate {:delP:}/{:delx_2}, the change in M's profits with respect to $$x_2$$.
+			</te:FootNote>. 
+		</p>
+	</st:Section>
+
+</st:Section>
+
+</st:Section>
+
+<!--
+## **************************************************************************
+## **************************************************************************
+-->
+
+<st:Section>
+	<st:Title>Conclusion</st:Title>
+	<p>
+		In this paper we have presented a model of porting that providers new insights into the behaviour of a dominant firm in a network industry. The model illuminates several of the stylized facts presented earlier in the paper, in particular the significant level of integration by Microsoft. It demonstrates that a dominant firm may engage in considerable expenditure to maintain its position and the welfare consequences of so doing may be considerable. While we have focused on the case of Microsoft, there are many other areas that possess similar indirect network effects, for example payment card networks, to which the results of this paper would be relevant.
+	</p>
+	<p>
+		In the model the focus is on porting. Porting is the analogous activity in an INE market to compatibility choice in a DNE market. It has been shown how a dominant firm will attempt to raise the costs of porting to a competing platform. 
+		Much of the literature - and much of the debate surrounding the Microsoft case - is hampered by the difficulty of establishing the welfare costs and competitive effects of the behaviour of a dominant firm<te:FootNote>
+			See e.g. [[#whinston_2001#]]</te:FootNote>. The results presented makes clear that there are may be significant costs to strategic behaviour by a dominant firm and these costs may be 'non-standard'<te:FootNote>
+				This contrasts with the focus of some commentators in the Microsoft case on the traditional dead-weight costs from monopoly pricing. See [[#hall_ea_2000#]], and Schmalensee's testimony at the trial (note that he was an expert witness for Microsoft). See also Liebowitz's analysis of proposed remedy: <a href="http://www.utdallas.edu/~liebowit/msstuff/act2/pig.htm">An Expensive Pig in a Poke: Estimating the Cost of the District Court’s Proposed Breakup of Microsoft</a>. This demonstrates clearly the (erroneous) analysis that results from focusing only on this aspect of a monopolist's behaviour (something that is also also apparent in [[#liebowitz_ea_1999#]] on which this article relies heavily).
+			</te:FootNote>.
+	</p>
+	<p>
+		Attention is drawn to the implications for antitrust policy and enforcement. The results suggest that the major costs of monopoly behaviour may not arise through monopoly pricing. Rather they arise via costs a monopolist imposes on itself and others in pursuit of maintaining its monopoly and the consequences for innovation that arise from the chilling of competition.
+	</p>
+</st:Section>
+
+
+<st:Section>
+	<st:Title>Appendix</st:Title>
+	
+	<st:Section>
+		<st:Title>Equilibrium</st:Title>
+	
+		<p>
+			$$t_2$$ is simultaneously the number of consumers on network H1 and the index of the marginal consumer - the consumer indifferent between the two networks. Noting that the number of software firms on H1 in period 1 and 2 = 1 we have $$t_2$$ defined by the following equation:
+		</p>
+		<tem:Eqn>
+			$$a - p_2 - p_s + 1 - t_2 = a - gamma - p_s + alpha(e) - (1-t_2)$$
+			<br />
+			$$=> t_2 = (2 - p_2 + gamma - alpha)/2$$
+		</tem:Eqn>
+		
+		<p>
+			Profits for M in period 2 are $$P_2 = t_2 * p_2$$ so maximising gives:
+		</p>
+		<tem:Eqn>
+			$$p_2 = (2 + gamma - alpha) / 2$$
+			<br/>
+			$$t_2 = (2 + gamma - alpha) / 4$$
+			<br/>
+			$$text(Profits) = P_2 = ((2 + gamma - alpha)^2) / 8
+		</tem:Eqn>
+		<p>
+			We note for later reference that for plausibility we would want $$p_2 >= gamma$$. A sufficient condition is $$gamma \leq 1$$. So we have:
+		</p>
+		<p>
+			<strong><a name="ass_gamma_leq_1">Assumption 1:</a></strong> $$gamma \leq 1$$.
+		</p>
+		
+		<p>
+			Now marginal software firm (that is the firm indifferent between porting and not porting) has $$z = z^*$$ given by:
+		</p>
+		<tem:Eqn>
+			$$c(e) + z^* = p_s * (1 - t_2)$$
+		</tem:Eqn>
+		<p>
+			Now we can equate $$z^*$$ with $$alpha$$ here since all $$z$$ with $$z \leq z^*$$ will port. So combining this with the value for $$t_2$$ gives:
+		</p>
+		<tem:Eqn>
+			$$c + alpha = p_s * (2 + gamma - alpha^e)/4$$
+		</tem:Eqn>
+		
+		<p>
+			Imposing rational expectations ($$alpha^e = alpha$$ - actual number porting) gives<te:FootNote>
+				Note that strictly this should be:
+				<tem:Eqn>
+					$$alpha(c) = min(1,max(0,(p_s * (2 + gamma) - 4 c) / (4 + p_s)))$$
+				</tem:Eqn>
+				<p>
+					To ensure differentiability for $$c >= 0$$ we will assume $$(p_s * (2 + gamma)) / (4 + p_s) \leq 1$$.
+				</p>
+		</te:FootNote>:
+		</p>
+		<tem:Eqn>
+			$$alpha(c) = (p_s * (2 + gamma) - 4 c) / (4 + p_s)$$
+		</tem:Eqn>
+		
+		
+		<p>
+			So M's problem becomes $$max_(c,p_1) P_1(c) + delta * P_2(c)$$ where:
+		</p>
+		<tem:Eqn>
+			$$P_1(e) = p_1 * q_1 - e(c)$$
+			<br/>
+			$$P_2 = ((2 + gamma - alpha(c))^2)/8$$
+		</tem:Eqn>
+		
+		<p>
+			Because of the separable nature of the profit function maximising with respect to $$p_1$$ and $$e$$ can be performed individually. Maximising wrt $$p_1$$ is standard Monopolist profit maximization problem ($$q_1 = max(1,C - p_1) text(where) C = a + 2 - p_s$$) and yields $$p_1 = max(C - 1, C // 2)$$. Assuming $$a$$ sufficiently large this yields $$p_1 = C - 1 = a - p_s + 1$$.
+		</p>
+		
+		<p>
+			What about $$c$$? Differentiating gives the FOC:
+		</p>
+		<tem:Eqn>
+			$$e^{'}(c) = delta * {:d P_2:}/{d c:}$$
+			<br />
+			$$=> e^{'}(c) = delta * (2 + gamma - alpha(c))/4 * 4/(4 + p_s) = delta mu^2 * (4c + lambda)$$
+		</tem:Eqn>
+		<p>
+			For an interior solution to be a maximum require:
+		</p>
+		<tem:Eqn>
+			$${:d^2 P:}/{:d c^2:}(c) \lt 0 iff e^{''}(c) > 4 mu delta$$
+		</tem:Eqn>
+		<p>
+			Otherwise have maximum value at a boundary, either
+		</p>
+		<ul>
+			<li>
+				with $$alpha = 0$$ and $$c = (p_s ( 2 + gamma))/4$$
+			</li>
+			<li>
+				or $$c = 0, alpha = (p_s * (2 + gamma)) / (4 + p_s)$$
+			</li>
+		</ul>
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>Welfare</st:Title>
+		
+		<st:Section>
+			<st:Title>
+				Total Surplus
+			</st:Title>
+			<p>
+				Let total welfare/surplus be denoted by $$W$$ and consumer welfare/surplus by $$C$$. Let indices be used to indicate period.
+			</p>
+			<tem:Eqn>
+				$$W = W_1 + W_2$$
+				<br/>
+				$$W_1 = int_0^1 (a + 1 - t) - e = (a + 1 - e - int_0^1 t dt) = a + 1 - e(c) - 1/2$$
+				<br/>
+				$$W_2 = int_0^(t_2) (a + 1 - t) + int_(t_2)^1 (a + alpha - (1-t)) = (t_2(a + 1) - {:(t_2)/2:}) + ((1-t_2)(a + alpha) - (1-t_2)/2)$$
+				<br />
+				$$	= a - 1/2 + t_2 (1 - alpha) + alpha$$
+				<br/>
+				$$ = a - 1/2 + (2 + gamma - alpha)/4 (1 - alpha) + alpha$$ (substituting for $$t_2$$)
+				<br/>
+				$$ = text(constant) + (alpha^2)/4 + alpha(1-gamma)/4
+				<br/>
+			</tem:Eqn>
+			<p>
+				Now $${:del alpha:} / {:del c:} lt 0$$. Combining this with the assumption (see <a href="#ass_gamma_leq_1">Assumption 1</a>) that $$gamma >= 1$$ we have:
+			</p>
+			<p>
+				<strong>Proposition 3:</strong> <a href="#ass_gamma_leq_1">Assumption 1</a>, $$gamma \leq 1$$ is a sufficient condition for $${:del W:} / {:del c:} lt 0$$ and therefore total welfare $$W$$ is maximized when $$e = c = 0$$.
+			</p>
+		</st:Section>
+		<st:Section>
+			<st:Title>
+				Consumer Surplus
+			</st:Title>
+			<p>
+				Turning to consumer welfare we have:
+			</p>
+			<tem:Eqn>
+				$$C = C_1 + C_2$$
+				<br />
+				$$C_1 = a - p_1 - p_s + 1 + int_{0}^{1} -t dt = a - p_1 - p_s + 1/2$$
+				<br />
+				$$C_2 = int_{0}^{t_2} a - p_2 - p_s + alpha - t text(dt) + int_{t_2}^{1} a - gamma - p_s + 1-alpha - (1-t) text(dt)$$
+				<br />
+				$$=> C_2 = t_2 * (a - p_2 - p_s + alpha) - {:t_2:}/2 + (1 - t_2)(a - gamma - p_s + 1 - alpha) - (1-t_2)/2$$
+				<br />
+				$$=> C_2 = a - p_s + 1/2 + gamma + alpha (2t_2 -1) - t_2 (gamma + p_2 + 1 )$$
+				<br/>
+				$$=> C_2 = text(constant) + alpha * (gamma - alpha)/2 - alpha / 4 (gamma + p_2 + 1)$$ (substitute for $$t_2$$)
+				<br />
+				$$=> C_2 = text(constant) - (alpha^2)/2 - alpha/4*(p_2 + 1 - gamma) = text(constant) - (alpha^2)/2 - alpha/4*(2 - gamma/2 - alpha/2)$$ (substitute for $$p_2$$)
+				<br />
+				$$=> C_2 = text(constant) - (3alpha^2)/8 - alpha/4 * (2 - gamma/2)$$
+			</tem:Eqn>
+			<p>
+				Again using $${:del alpha:} / {:del c:} lt 0$$ we have:
+			</p>
+			<p>
+				<strong>Proposition 4:</strong> $$gamma \leq 4$$ is a sufficient condition for $${:del D:}/{:del c:} \lt 0$$ which in turn implies that consumer welfare is maximised with $$e = c = 0$$.
+			</p>
+		</st:Section>
+		
+	</st:Section>
+	
+	<st:Section>
+		<st:Title>The Control of Porting</st:Title>
+		<p>
+			Incentive for an integrated firm of type $$beta$$ differs because it takes account of effect on profits of hardware of a decision to port. Specifically the incentive of a firm (or rather a mass of firms of measure dx) to port is:
+		</p>
+		<tem:Eqn>
+			$$Pi_p^i(beta) = dP_2 + text(dx) * Pi_p(beta)$$
+			<br />
+			$$dP_2 = dx * {:d P_2:}/{:d alpha:} {:d alpha:}/{:d x:}$$
+		</tem:Eqn>
+		<p>
+			Dividing through by $$dx$$ gives:
+		</p>
+		<tem:Eqn>
+			$$Pi_p^i(beta) >= 0 iff {:dP_2:}/{:dx:} + Pi_p(beta) >= 0$$
+		</tem:Eqn>
+		<p>
+			Since $${:d P_2:}/{:d alpha:} \lt 0$$ and $${:d alpha:}/{:d x:} > 0$$ we have $${:dP_2:}/{:dx:} \lt 0$$. Hence
+		</p>
+		<tem:Eqn>
+			$$Pi_p^i(beta) \lt Pi_p(beta)$$
+		</tem:Eqn>
+		
+	</st:Section>
+		
+</st:Section>
+	
+<st:EndNotes />
+
+<bib:Biblio
+	xmlns:bib="http://www.witbd.org/xmlns/biblio/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dct="http://purl.org/dc/terms/">
+
+	<!--
+	## ****************************************************************************
+	## Working Paper Archives etc
+	## ****************************************************************************	
+	
+	+ http://iber.berkeley.edu/Wps/econwp.html
+	+ Farrell's page at IDEAS http://ideas.repec.org/e/pfa35.html
+	
+	* liebowitz and margolis ...
+	* papers from augeray in particular: rysman papers 2003a etc 
+	
+	Product Compatibility as a competitive strategy (BOOK) (has article by farrell in it)
+	
+	Shapiro, C., and H. Varian (1999), Information Rules: A Strategic Guide
+to the Network Economy, Harvard Business School Press, Cambridge.
+
+	Carlton, Dennis W., and Michael Waldman (1998) 
+The Strategic Use of Tying to Preserve and Create Market Power in Evolving Industries 
+Working Paper 6831, National Bureau of Economic Research.
+
+# CAN'T GET THIS
+DeGraba, Patrick (1999) Tying and exclusion in the presence of scale economies and
+sources of outside revenue: An application to Microsoft, unpublished manuscript,
+Federal Communications Commission.
+
+	Rochet, J.-C., and J. Tirole (2002) Cooperation among competitors: Some economics of
+payment card associations, RAND Journal of Economics, 33: 549-570.
+
+	READ
+	Monopolistic Competition and Optimum Product Diversity
+	Avinash K. Dixit; Joseph E. Stiglitz
+	The American Economic Review, Vol. 67, No. 3. (Jun., 1977), pp. 297-308.
+	
+	HAVE - partially READ: empirical
+	"Compatibility Standards and Complementary Network Externalities in the PC Software
+Market," 1995, Review of Economics and Statistics, 77: 599-608, 1995.
+
+	    Desirability of Compatibility in the Absence of Network Externalities
+        Nicholas Economides
+        The American Economic Review, Vol. 79, No. 5. (Dec., 1989), pp. 1165-1181.
+				
+	HAVE. Half-Read
+	farrell_ea_1992b
+	Stable URL: http://links.jstor.org/sici?sici=1057-8641%281992%291992%3C1%3ASSIHT%3E2.0.CO%3B2-G
+	    Standard Setting in High-Definition Television
+        Joseph Farrell; Carl Shapiro; Richard R. Nelson; Roger G. Noll
+        Brookings Papers on Economic Activity. Microeconomics, Vol. 1992. (1992), pp. 1-93.
+		
+	Tim Bresnahan's Homepage
+		* http://www.stanford.edu/~tbres/research.htm
+		* Lot's of stuff on microsoft including 
+			* Network Effects andb Microsoft (economic theory of networks as seen in the case documents.  Large pdf.)
+			* The Economics of The Microsoft Case. ENTERED
+		* I don't think either present a lot of models but are more of the summary nature
+	
+	Bresnahan, T. and S. Greenstein "Technological Competition and the Structure of the
+Computer Industry,” Journal of Industrial Economics, 1999.
+	-->
+	
+	<bib:Item id="bresnahan_2001" type="unpub">
+		<dc:title>
+			The Economics of The Microsoft Case
+		</dc:title>
+		<bib:Author>
+			Bresnahan, T.
+		</bib:Author>
+		<dc:description>
+			Unpublished discussion paper
+		</dc:description>
+		<dc:date>1989</dc:date>
+		<bib:Link url="http://www.stanford.edu/~tbres/Microsoft/The_Economics_of_The_Microsoft_Case.pdf" />
+	</bib:Item>
+	
+	
+<!--
+	HOME PAGE of GANDAL:
+	http://spirit.tau.ac.il/public/gandal/Research.htm
+		* HAVE + READ + ENTERED
+			* Indirect Network Effects and Adoption Externalities,” mimeo 2003 (with Jeffrey Church and David Krause).
+	-->
+	<bib:TextInfo id="church_ea_2003" type="unpub">
+		<dc:title>
+			Indirect Network Effects and Adoption Externalities
+		</dc:title>
+		<bib:Author>
+			Church, J.
+		</bib:Author>
+		<bib:Author>
+			Gandal, N.
+		</bib:Author>
+		<bib:Author>
+			Krause, D.
+		</bib:Author>
+		<dc:description>
+			mimeo
+		</dc:description>
+		<dc:date>2003</dc:date>
+		<bib:Link url="http://spirit.tau.ac.il/public/gandal/Research.htm">Available on Gandal's research page</bib:Link> 
+	</bib:TextInfo>
+	
+	<bib:Item id="arthur_1989">
+		<dc:title>
+			Competing Technologies, Increasing Returns and Lock-in by Historical Events
+		</dc:title>
+		<bib:Author>
+			Arthur, Brian
+		</bib:Author>
+		<bib:Journal vol="99">
+			Economic Journal
+		</bib:Journal>
+		<bib:Loc page="106-131"/>
+		<dc:date>1989</dc:date>
+		<bib:Link url="http://www.santafe.edu/arthur/Papers/Pdf_files/EJ.pdf" />
+	</bib:Item>
+	
+	<!--
+## **************************************************************************
+## **************************************************************************
+	-->
+	
+	<bib:Item id="laffont_ea_2000" type="book">
+		<dc:title>
+			Competition in Telecommunications
+		</dc:title>
+		<bib:Author>
+			Laffont, Jean-Jacques
+		</bib:Author>
+		<bib:Author>
+			Tirole, Jean
+		</bib:Author>
+		<bib:Publisher>
+			MIT
+		</bib:Publisher>
+		<dc:date>2000</dc:date>
+	</bib:Item>
+	
+	<bib:TextInfo id="farrell_2003">
+		<dc:title>
+			Integration and Independent Innovation on a Network
+		</dc:title>
+		<bib:Author>
+			Farrell, Joseph
+		</bib:Author>
+		<bib:Journal>
+			AER Papers and Proceedings
+		</bib:Journal>
+		<bib:Loc page="420-424"/>
+		<dc:date>2003</dc:date>
+	</bib:TextInfo>
+	
+	<!-- STATUS = CR (as WP)  -->
+	<bib:TextInfo id="farrell_ea_2000">
+		<dc:title>
+			Innovation, Rent Extraction, and Integration in Systems Markets
+		</dc:title>
+		<bib:Author>
+			Farrell, Joseph
+		</bib:Author>
+		<bib:Author>
+			Katz, M.
+		</bib:Author>
+		<bib:Journal vol="48" num="4">
+			Journal of Industrial Economics
+		</bib:Journal>
+		<bib:Loc page="413-432"/>
+		<dc:date>2000</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="saloner_ea_1995">
+		<dc:title>
+			Adoption of Technologies with Network Effects: An Empirical Examination of the Adoption of Automated Teller Machines
+		</dc:title>
+		<bib:Author>
+			Saloner, G.
+		</bib:Author>
+		<bib:Author>
+			Shepard, S.
+		</bib:Author>
+		<bib:Journal vol="26" num="3" page="479-501">
+			The RAND Journal of Economics 
+		</bib:Journal>
+		<dc:date>1995</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="farrell_ea_1986">
+		<dc:title>
+			Installed Base And Compatibility: Innovation, Product Preannouncements, And Predation
+		</dc:title>
+		<bib:Author>
+			Farrell, J.
+		</bib:Author>
+		<bib:Author>
+			Saloner, G.
+		</bib:Author>
+		<bib:Journal vol="76" page="940-955">
+			American Economic Review
+		</bib:Journal>
+		<dc:date>1986</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="farrell_ea_1985">
+		<dc:title>
+			Standardization, Compatibility and Innovation
+		</dc:title>
+		<bib:Author>
+			Farrell, J.
+		</bib:Author>
+		<bib:Author>
+			Saloner, G.
+		</bib:Author>
+		<bib:Journal vol="16" page="70-83">
+			Rand Journal of Economics
+		</bib:Journal>
+		<dc:date>1985</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="katz_ea_1985">
+		<dc:title>
+			Network Externalities, Competition, and Compatibility
+		</dc:title>
+		<bib:Author>
+			Katz, M.
+		</bib:Author>
+		<bib:Author>
+			Shapiro, C.
+		</bib:Author>
+		<bib:Journal vol="75" page="424-440">
+			American Economic Review
+		</bib:Journal>
+		<dc:date>1985</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="whinston_1990">
+		<dc:title>
+			Tying, Foreclosure, and Exclusion
+		</dc:title>
+		<bib:Author>
+			Whinston, M.
+		</bib:Author>
+		<bib:Journal vol="80" num="4" page="837-859">
+			American Economic Review
+		</bib:Journal>
+		<dc:date>1990</dc:date>
+	</bib:TextInfo>
+	
+	"Compatibility Standards and Complementary Network Externalities in the PC Software
+Market," 1995, Review of Economics and Statistics, 77: 599-608, 1995.
+	
+	<!-- WP of Farrell's
+	http://emlab.berkeley.edu/users/farrell/index.shtml
+	
+	READ - this is a simple model of exclusive dealing that shows (contra Chicago school) possibility of anticompetitive effects
+	"A Simple Price-Theory Model of Anticompetitive Exclusive Dealing," March 2004
+	
+	Good Summary: 
+	"Competition and Lock-In: Competition with Switching Costs and Network Effects," 
+	with Paul Klemperer, December 2001
+	
+	Papers from that:
+	Aoki, R. and J. Small (1999), The Economics of Number Portability: SCs
+and Two Part Tariffs", Working Paper, University of Auckland.
+	available from: http://www.crnec.auckland.ac.nz/crnec/research/wp.html
+
+	-->
+	
+	<bib:Item id="farrell_ea_2001">
+		<dc:title>
+			Competition and Lock-In: Competition with Switching Costs and Network Effects
+		</dc:title>
+		<bib:Author>
+			Farrell, J.
+		</bib:Author>
+		<bib:Author>
+			Klemperer, P.
+		</bib:Author>
+		<dc:description>
+			mimeo. Dated 2001 but latest version is 2003. Preliminary draft chapter for Handbook of Industrial Organization. Also available from Farrell's web page (but in a different pagination).
+		</dc:description>
+		<bib:Link url="http://www.nuff.ox.ac.uk/users/klemperer/lockinwebversion.pdf" />
+		<bib:Link url="http://www.nuff.ox.ac.uk/users/klemperer/papers.html">Klemperer's papers page</bib:Link>
+		<bib:Link url="http://www.nuff.ox.ac.uk/users/klemperer/lockinrefswebversion.pdf">References for the paper</bib:Link>
+		<dc:date>2001</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="farrell_2004">
+		<dc:title>
+			A Simple Price-Theory Model of Anticompetitive Exclusive Dealing
+		</dc:title>
+		<bib:Author>
+			Farrell, J.
+		</bib:Author>
+		<dc:description>
+			Working Paper mimeo
+		</dc:description>
+		<bib:Link url="http://emlab.berkeley.edu/users/farrell/ftp/exclusive2.pdf" />
+		<bib:Link url="http://emlab.berkeley.edu/users/farrell/">Farrell's Working Papers Page</bib:Link>
+		<dc:date>2004</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="aoki_ea_1999" type="wp">
+		<dc:title>
+			The Economics of Number Portability: SCs and Two Part Tariffs
+		</dc:title>
+		<bib:Author>
+			Aoki, R.
+		</bib:Author>
+		<bib:Author>
+			Small, J.
+		</bib:Author>
+		<dc:description>
+			Working Paper, University of Auckland.
+		</dc:description>
+		<bib:Link url="http://www.crnec.auckland.ac.nz/crnec/research/wp.html">Working Papers page (includes link)</bib:Link>
+		<dc:date>2001</dc:date>
+	</bib:Item>
+	
+	<!--
+	 * see whole issue in which this paper is
+	 JIE 1992
+http://uk.jstor.org/browse/00221821/di982428?config=jstor&frame=noframe&userID=51604af7@cam.ac.uk/028258cb3ab4fd135e4ab3&dpi=3
+    Symposium on Compatibility: Incentives and Market Structure
+  -->
+	<bib:TextInfo id="gilbert_1992">
+		<dc:title>
+			Symposium on Compatibility: Incentives and Market Structure
+		</dc:title>
+		<bib:Author>
+			Gilbert, R.
+		</bib:Author>
+		<bib:Journal vol="40" num="1" page="1-8">
+			Journal of Industrial Economics
+		</bib:Journal>
+		<dc:date>1992</dc:date>
+	</bib:TextInfo>
+	
+  <bib:TextInfo id="church_ea_1992">
+		<dc:title>
+			Network Effects, Software Provision and Standardization
+		</dc:title>
+		<bib:Author>
+			Church, J.
+		</bib:Author>
+		<bib:Author>
+			Gandal, N.
+		</bib:Author>
+		<bib:Journal vol="40" num="1" page="85-103">
+			Journal of Industrial Economics
+		</bib:Journal>
+		<dc:date>1992</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="farrell_ea_1992">
+		<dc:title>
+			Converters, Compatibility, and the Control of Interfaces
+		</dc:title>
+		<bib:Author>
+			Farrell, J.
+		</bib:Author>
+		<bib:Author>
+			Saloner, G.
+		</bib:Author>
+		<bib:Journal vol="40" num="1" page="9-35">
+			Journal of Industrial Economics
+		</bib:Journal>
+		<dc:date>1992</dc:date>
+	</bib:TextInfo>
+
+	<bib:TextInfo id="economides_ea_1992">
+		<dc:title>
+			 Competition and Integration Among Complements, and Network Market Structure
+		</dc:title>
+		<bib:Author>
+			Economides, N.
+		</bib:Author>
+		<bib:Author>
+			Salop, S.
+		</bib:Author>
+		<bib:Journal vol="40" num="1" page="105-123">
+			Journal of Industrial Economics
+		</bib:Journal>
+		<dc:date>1992</dc:date>
+	</bib:TextInfo>
+	
+	<!--
+	review of network economics
+	http://www.rnejournal.com/articles/chakravorti_june03.pdf
+STATUS: READ
+	-->
+	<bib:Item id="chakravorti_2003">
+		<dc:title>
+			Theory of Credit Card Networks: A Survey of the Literature
+		</dc:title>
+		<bib:Author>
+			Chakravorti, Sujit
+		</bib:Author>
+		<bib:Journal vol="2" num="2" page="50-68">
+			Review of Network Economics
+		</bib:Journal>
+		<dc:date>2003-06</dc:date>
+		<bib:Link url="http://www.rnejournal.com/articles/chakravorti_june03.pdf" />
+	</bib:Item>
+  
+  <!--
+  Symposia 1994 Spring in JEP.
+	http://uk.jstor.org/browse/08953309/di980579?config=jstor&frame=noframe&userID=51604af7@cam.ac.uk/028258cb3ab4fd135e4ab3&dpi=3
+  -->
+  
+  <bib:TextInfo id="liebowitz_ea_1999" type="book">
+		<dc:title>
+			Winner, Losers and Microsoft: Competition And Antitrust in High Technology
+		</dc:title>
+		<bib:Author>
+			Liebowitz, S.
+		</bib:Author>
+		<bib:Author>
+			Margolis, S.
+		</bib:Author>
+		<dc:date>1999</dc:date>
+		<bib:PublisherInfo>
+			Independent Institute
+		</bib:PublisherInfo>	
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="crandall_ea_2003">
+		<dc:title>
+			Does Antitrust Policy Improve Consumer Welfare? Assessing the Evidence
+		</dc:title>
+		<bib:Author>
+			Crandall, R.
+		</bib:Author>
+		<bib:Author>
+			Winston, C.
+		</bib:Author>
+		<bib:Journal vol="17" num="4" page="3-26">
+			JEP
+		</bib:Journal>
+		<bib:Identifier type="doi" id="10.1257/089533003772034871" />
+		<dc:date>2003</dc:date>
+	</bib:TextInfo>
+  
+  <bib:TextInfo id="baker_2003">
+		<dc:title>
+			The Case for Antitrust Enforcement
+		</dc:title>
+		<bib:Author>
+			Baker, J.
+		</bib:Author>
+		<bib:Journal vol="17" num="4" page="3-26">
+			JEP
+		</bib:Journal>
+		<bib:Identifier type="doi" id="10.1257/089533003772034880" />
+		<dc:date>2003</dc:date>
+	</bib:TextInfo>
+	
+	<!--
+	## symposium at the AER: Economic Policy Issues regarding Microsoft
+
+# READ
+[hall_2000]
+Toward a Quantification of the Effects of Microsoft's Conduct
+Chris E. Hall; Robert E. Hall
+The American Economic Review, Vol. 90, No. 2, Papers and Proceedings of the One Hundred Twelfth Annual Meeting of the American Economic Association. (May, 2000), pp. 188-191.
+http://links.jstor.org/sici?sici=0002-8282%28200005%2990%3A2%3C188%3ATAQOTE%3E2.0.CO%3B2-Y
+
+# READ
+The IBM and Microsoft Cases: What's the Difference? (in Economic Policy Issues regarding Microsoft)
+Franklin M. Fisher
+The American Economic Review, Vol. 90, No. 2, Papers and Proceedings of the One Hundred Twelfth Annual Meeting of the American Economic Association. (May, 2000), pp. 180-183.
+Stable URL: http://links.jstor.org/sici?sici=0002-8282%28200005%2990%3A2%3C180%3ATIAMCW%3E2.0.CO%3B2-3
+A Competitive Perspective on Internet Explorer
+Steven J. Davis and Kevin M. Murphy   
+	-->
+	
+	<bib:Item id="hall_ea_2000">
+		<dc:title>
+			Toward a Quantification of the Effects of Microsoft's Conduct
+		</dc:title>
+		<bib:Author>
+			Hall, C.
+		</bib:Author>
+		<bib:Author>
+			Hall, R.
+		</bib:Author>
+		<bib:Journal vol="90" num="2" page="188-191">
+			AER Papers and Proceedings
+		</bib:Journal>
+		<dc:date>2000-05</dc:date>
+		<bib:Link url="http://links.jstor.org/sici?sici=0002-8282%28200005%2990%3A2%3C188%3ATAQOTE%3E2.0.CO%3B2-Y">JSTOR</bib:Link>
+	</bib:Item>
+	
+	<bib:Item id="fisher_2000">
+		<dc:title>
+			The IBM and Microsoft Cases: What's the Difference
+		</dc:title>
+		<bib:Author>
+			Fisher, Franklin
+		</bib:Author>
+		<bib:Journal vol="90" num="2" page="180-183">
+			AER Papers and Proceedings
+		</bib:Journal>
+		<dc:date>2000-05</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="davis_ea_2000">
+		<dc:title>
+			A Competitive Perspective on Internet Explorer
+		</dc:title>
+		<bib:Author>
+			Davis, Stephen
+		</bib:Author>
+		<bib:Author>
+			Murphy, Kevin
+		</bib:Author>
+		<bib:Journal vol="90" num="2" page="184-187">
+			AER Papers and Proceedings
+		</bib:Journal>
+		<dc:date>2000-05</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="schmalensee_2000">
+		<dc:title>
+			Antitrust Issues in Schumpeterian Industries
+		</dc:title>
+		<bib:Author>
+			Schmalensee, Richard
+		</bib:Author>
+		<bib:Journal vol="90" num="2" page="192-196">
+			AER Papers and Proceedings
+		</bib:Journal>
+		<dc:date>2000-05</dc:date>
+	</bib:Item>
+	
+	<!--
+	Symposium: The Microsoft Case
+	JEP spring 2001
+	
+	READ ALL OF THEM:
+	
+	gilbert_ea summarize most of the issues
+	whinston interesting for comments on the (total) lack of knowledge about welfare outcomes
+	
+	Reading derived from Whinston: (on tying)
+	
+	Carlton, Dennis and Michael Waldman. 2000.
+	The Strategic Use of Tying to Preserve and Create Market Power in Evolving Industries.
+	NBER Working Paper No. 6831.    
+	-->
+	
+	<bib:TextInfo id="gilbert_ea_2001">
+		<dc:title>
+			An Economist’s Guide to U.S. v. Microsoft
+		</dc:title>
+		<bib:Author>
+			Gilbert, R.
+		</bib:Author>
+		<bib:Author>
+			Katz, M.
+		</bib:Author>
+		<bib:Journal vol="15" num="2" page="25-44">
+			JEP
+		</bib:Journal>
+		<dc:date>2001</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="klein_2001">
+		<dc:title>
+			The Microsoft Case: What Can a Dominant Firm Do to Defend Its Market Position?
+		</dc:title>
+		<bib:Author>
+			Klein, B.
+		</bib:Author>
+		<bib:Journal vol="15" num="2" page="45-62">
+			JEP
+		</bib:Journal>
+		<dc:date>2001</dc:date>
+	</bib:TextInfo>
+	
+	<bib:TextInfo id="whinston_2001">
+		<dc:title>
+			Exclusivity and Tying in U.S. v. Microsoft: What We Know, and Don’t Know
+		</dc:title>
+		<bib:Author>
+			Whinston, D.
+		</bib:Author>
+		<bib:Journal vol="15" num="2" page="63-80">
+			JEP
+		</bib:Journal>
+		<dc:date>2001</dc:date>
+	</bib:TextInfo>
+	
+	<!-- random other papers -->
+	
+	<bib:Item id="irwin_1994">
+		<dc:title>
+			Learning by doing spillovers in the semiconductor Industry
+		</dc:title>
+		<bib:Author>
+			Irwin, Douglas
+		</bib:Author>
+		<bib:Author>
+			Klenow, Peter
+		</bib:Author>
+		<bib:Journal vol="102" page="1200-1227">
+			Journal of Political Economy
+		</bib:Journal>
+		<dc:date>1994</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="pollock_2004">
+		<dc:title>
+			The Importance of Patents for Innovation in the Industrial Revolution
+		</dc:title>
+		<bib:Author>
+			Pollock, Rufus
+		</bib:Author>
+		<dc:description>
+			Working Paper
+		</dc:description>
+		<dc:date>2004</dc:date>
+		<bib:Link url="http://www.thefactz.org/economics/mphil_industrial_revolution_essay_trimmed.xml.html">Online version</bib:Link>
+	</bib:Item>
+	
+	
+	<!--
+	## ****************************************************************************
+	## Computing Related
+	## ****************************************************************************
+	
+	DOJ page on the MS case: a treasure trove:
+	* http://www.usdoj.gov/atr/cases/ms_index.htm
+	
+	## Spreadsheet
+
+	http://dssresources.com/history/sshistory.html
+	
+	1. DRDOS
+		* FINALLY: the jackpot http://www.maxframe.com/DR/Info/fullstory/
+		* http://news.bbc.co.uk/1/hi/business/600488.stm
+		* http://www.maxframe.com/DR/Info/fullstory/factrel.html
+		* http://web.archive.org/web/19990508022233/www.calderathin.com/fullstory/NewsRelease_M26.html
+		
+	2. Dos and Windows
+		http://en.wikipedia.org/wiki/History_of_Microsoft_Windows
+	3. DOS
+		http://www.houlden.f9.co.uk/msdos/doshome.htm
+		http://en.wikipedia.org/wiki/MS-DOS - timeline
+		http://www.acad.humberc.on.ca/~frig8279/osessay/dos/history - timeline
+	4. OS
+		http://en.wikipedia.org/wiki/Operating_system
+		
+
+	-->
+	
+	<bib:Item id="gates_1995" type="memo">
+		<dc:title>The Internet Tidal Wave</dc:title>
+		<bib:Author>
+			Gates, Bill
+		</bib:Author>
+		<bib:Link url="http://www.usdoj.gov/atr/cases/exhibits/20.pdf">DOJ exhibit number 20</bib:Link>
+		<dc:date>1995-05-26</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="caldera_drdos_fullstory" type="memo">
+		<dc:title>Caldera claims and auxiliary evidence in Caldera vs. Microsoft DRDOS Lawsuit</dc:title>
+		<bib:Link url="http://www.maxframe.com/DR/Info/fullstory/" />
+	</bib:Item>
+	
+	<bib:Item id="jackson_1999">
+		<dc:title>
+			Findings of Fact in the case of United States vs. Microsoft
+		</dc:title>
+		<bib:Author>
+			Jackson, R.
+		</bib:Author>
+		<bib:Link url="http://www.usdoj.gov/atr/cases/f3800/msjudgex.htm" />
+		<dc:date>1999-11-05</dc:date>
+	</bib:Item>
+	
+	<bib:Item id="doj_1994">
+		<dc:title>
+			COMPLAINT (For Violations of Sections 1 &amp; 2 of the Sherman Act)
+		</dc:title>
+		<bib:Author>
+			Department of Justice Antitrust Division.
+		</bib:Author>
+		<dc:description>
+			US DOJ complaint in the Microsoft OEM licensing case
+		</dc:description>
+		<bib:Link url="http://www.usdoj.gov/atr/cases/f0000/0046.htm" />
+		<bib:Link url="http://www.usdoj.gov/atr/cases/ms_index_licensing.htm">Index Page for Licensing Case</bib:Link>
+		<dc:date>1994-07-15</dc:date>
+	</bib:Item>
+	
+</bib:Biblio>
+
+</body>
+</html>

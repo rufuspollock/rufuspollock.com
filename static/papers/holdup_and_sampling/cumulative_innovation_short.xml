@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/styles/okftext_2_xhtml/text_master_witbd.xsl"?>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:doc="http://www.witbd.org/xmlns/common/document/"
+	xmlns:st="http://www.witbd.org/xmlns/text/structure"
+	xmlns:te="http://www.witbd.org/xmlns/text/basic/"
+	xmlns:bib="http://www.witbd.org/xmlns/biblio/"
+	xmlns:ch="http://xmlchar.sf.net/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	>
+<head>
+	<doc:Metadata>
+		<rdf:RDF
+			xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:dct="http://purl.org/dc/terms/">
+			<rdf:Description rdf:about="">
+				<dc:creator>Rufus Pollock</dc:creator>
+				<dct:created>2005-10-24</dct:created>
+				<rdfs:comment xml:lang="en-GB"></rdfs:comment>
+			</rdf:Description>  
+		</rdf:RDF>
+	</doc:Metadata>
+	<link rel="stylesheet" href="/styles/text_basic.css" title="text_basic" type="text/css" media="screen, projection, print" />
+	<!-- BEGIN:mathml_header-->
+	<object id="mathplayer" classid="clsid:32F66A20-7614-11D4-BD11-00104BD3F987">
+	</object>
+	<?import namespace="mml" implementation="#mathplayer"?>
+	<!-- END:mathml_header-->
+	<!-- BEGIN:asciimathml-->
+	<script type="text/javascript" src="/scripts/asciimathml.js"></script>
+	<!-- END:asciimathml-->
+	<style type="text/css">
+		p.frontpage
+		{
+			text-align: center;
+			margin-bottom: 2em;
+		}
+	</style>
+</head>
+
+<body onload="translate()">
+	<p class="frontpage">
+		Paper to be presented at the DRUID Summer Conference 2006 on<br /><br /><br />
+	</p>
+		
+	<h1>
+		Knowledge, Innovation and Competitiveness:<br />
+		Dynamics of<br />
+		Firms, Networks, Regions and Institutions<br />
+	</h1>
+
+	<p class="frontpage">
+		Copenhagen, Denmark, June 18-20, 2006<br /><br /><br />
+	</p>
+	<p class="frontpage pagebreakafter">
+		<strong>Track</strong><br /><br />
+		F: Intellectual Property Rights: Open vs. Closed Regimes
+	</p>
+	
+	<h1>
+		CUMULATIVE INNOVATION, SAMPLING AND THE HOLD-UP PROBLEM
+		<br /><br />
+		<span style="font-size: 0.9em;">
+			Rufus Pollock
+		</span>
+	</h1>
+	<p class="frontpage">
+		Cambridge University<br />
+		Queens' College<br />
+		Cambridge<br />
+		CB3 9ET<br />
+		United Kingdom<br />
+		<em>rufus.pollock@thefactz.org</em>
+	</p>
+	<p class="frontpage">
+		<strong>2006-06-01</strong>
+	</p>
+	<st:Abstract>
+		<p>
+			Keywords: Cumulative Innovation, Hold-Up, Sampling, Intellectual Property
+		</p>
+		<p>
+			JEL codes: K3, L5, O3
+		</p>
+		<p class="pagebreakafter">
+			With cumulative innovation and imperfect information about the value of innovations, intellectual property rights can result in hold-up and therefore it may be better not to have them. Extending the model to include 'sampling' by second-stage firms we find that the lower the cost of sampling or the larger the differential between the value of second-stage innovations the more likely it is that a regime without intellectual property rights will be preferable. Thus technological change which reduces the cost of encountering and trialling new 'ideas' implies a reduction in the socially optimal level of rights such as patents and copyright.
+		</p>
+	</st:Abstract>
+	
+	<st:Section>
+		<h2>
+			Introduction
+		</h2>
+		<p>
+			Cumulative innovation, whereby new ideas build upon old, is a pervasive phenomenon. However it was not until recently that it received significant attention in the literature. The seminal paper in this regard was that of Green and Scotchmer (1995). They introduced a two-stage innovation model in which the second innovation is enabled or builds upon the first. Their paper primarily concerns itself with how rents are divided between innovators at the two stages, and particularly with the extent to which the first innovator is (under-)compensated for her contribution (the option value) to the second innovation. They investigate how different policy levers related to IP rights, in particular breadth<te:FootNote>
+				A monopoly right (intellectual property right) such as a patent or a copyright confers the right to exclude not simply direct copies but also products that are sufficiently similar. The term lagging/leading breath are often used to denote the space of inferior/superior (respectively) products that are excluded by the patent/copyright (i.e. taken as infringing the monopoly).
+			</te:FootNote>, could be used to affect the bargaining (or its absence) between different innovators and hence the resulting payoffs.
+		</p>
+		<p>
+			A central feature of their model, as well as subsequent work that extended it, was an assumption that knowledge of costs and returns, whether deterministic or stochastic, was shared equally by innovators at different stages (i.e. was common knowledge). With common knowledge all mutually beneficial transactions are concluded, using ex ante licenses where necessary to avoid the possibility of hold-up of second-stage innovators.
+		</p>
+		<p>
+			However this assumption is problematic. If all innovators share the same information why do we need different innovators at first and second stages and why concern ourselves with licenses and bargaining if a single innovator could just as easily do it all? The answer is that this assumption is wrong, something obvious following even a cursory observation of reality: many different firms engage in innovation precisely because they have specialized skills and knowledge that make it effective for them rather than another firm to engage in a given area. This contention is backed up by empirical data and substantial anecdotal<te:FootNote>
+				See e.g. Eisenberg (1998), Hall (2001), Cockburn (2005)
+			</te:FootNote> evidence. For example Ananad and Khanna (2000) demonstrate that most licensing agreements are concluded ex post and not ex ante (for example, in the computer and electronic industries which are well known for the cumulativeness of their innovation, ex ante agreements for only 5 or 6% of all agreements).
+		</p>
+		<p>
+			Thus in this paper we investigate cumulative innovation under asymmetric information, for example where the first-stage innovator only has a probabilistic prior over the second-stage innovator's cost/values but the second-stage innovator knows them precisely<te:FootNote>
+				Of course for consistency the collective distribution of the values/costs of all second stage innovators should correspond to the prior of the first innovator
+			</te:FootNote>. This allows us to investigate hold-up: a situation whereby second stage innovations are held-up (prevented or delayed) by the first stage innovator. In such circumstances the policy choice, in its crudest form, is between patents (second stage innovations infringe and must license) against no patents (second stage innovations do not infringe).
+		</p>
+		<p>
+			This approach adds another dimension to the question of how profit is divided between innovators at different stages. Seen in this light it also has analogies with existing results where the question of whether second stage innovations should be infringing (I) or non-infringing (NI).
+		</p>
+		<p>
+			For example Green and Scotchmer consider explicitly the situation where the value of the second innovation is only known in terms of a probability distribution and show that in such circumstances 'breadth' should be finite. This corresponds to having at least some 2nd stage innovations non-infringing. Denicolo (2000) extends Green and Scotchmer's model with patent races at each stage and finds that in some circumstances it will be better to make second stage innovations non-infringing (in this model one trades off faster second stage innovation with non-infringement against faster first stage innovation when there is infringement).
+		</p>
+		<p>
+			A model much closer to the basic one presented here is provided by Bessen (2004). His paper also considers holdup of second stage products or innovations by first stage innovators. However in his model the focus is primarily on whether ex ante or ex post licensing occurs. He assumes that ex post royalty shares are determined exogenously -- perhaps as a policy variable or determined by invent-around costs and other factors -- and shows that the socially optimal ex post royalty share is less than that obtained in ex ante bargaining. Here we take a more explicit approach that allows us to determine optimal policy as a direct function of fundamental parameters such as the probability of an innovation being of a high or low value type.
+		</p>
+		<p>
+			The second model presented extends the first by the introducing the idea of sampling, whereby second stage firms can sample first stage innovations before deciding which to use (and therefore license). Sampling benefits a firm by increasing the probability of having a high value innovation but involves a fixed charge. We find that, in general, the lower the sampling costs or the larger the differential between high and low value second-stage innovations the more likely it is that a regime without intellectual property rights will be preferable.  Thus, in the context of this model, technological change which reduces the cost of encountering and trialling new 'ideas' should imply a reduction in the socially optimal level of intellectual property rights such as patents and copyright.
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			Two-Stage Model Cumulative Innovation
+		</h2>
+		<st:Section>
+			<h3>
+				The Model
+			</h3>
+			<p>
+				We adopt a simple model of two stage innovation in which the second product can be considered an <q>application</q> of the first innovation, that is a product that incorporates the first innovation. The model, which is specified in detail in the rest of this section can be summarized in the following diagram:
+			</p>
+			<img src="basic_model_game.png" alt="Game theoretic diagram showing structure of the model" />
+			<p>
+				Innovations are described by their net value <te:Math>v</te:Math> (revenue minus costs). Because our interest lies in examining the trade-off between innovation at different stages we make no distinction between social and private value (i.e. there are no deadweight losses) and <te:Math>v</te:Math> may be taken to be either.
+			</p>
+			<p>
+				We assume the base (first) innovation takes two values: low ($$v_{L}^{0}$$) and high ($$v_{H}^{0}$$) with probability $$q, (1-q)$$ respectively. We assume that $$v_{L}^{0} \lt 0$$ so that without some additional source of revenue, for example from licensing (see below), the innovation will not be produced. Applications (2nd stage innovations) also take two values: low ($$v_{L}$$) and high ($$v_{H}$$) with probability <te:Math>p, (1-p)</te:Math> respectively. While the value of a second stage innovation is known to the innovator who produces it, the value is <strong>not</strong> known to the owner of the first stage innovation which it incorporates (this could occur because of imperfect information regarding revenue, costs or both).
+			</p>
+			
+			<st:Section>
+				<h4>
+					Intellectual Property Rights and Licensing
+				</h4>
+				<p>
+					We wish to consider two regimes: one with intellectual property (monopoly) rights (IP) and one without (NIP). With intellectual property rights every second stage innovator will require a license from the first stage one in order to market her product, while without intellectual property rights she may market freely without payment or licence<te:FootNote>
+						Given that we are dealing with cumulative innovation some readers might prefer the infringing (I) vs. non-infringing (NI) distinction with its implication of a distinction between 'horizontal' imitation and 'vertical' improvement of a product. However there are two reasons to prefer the stark distinction of intellectual property rights vs. no intellectual property rights. First in practice the difference between 'vertical' and 'horizontal' changes to products is difficult to maintain and the monopoly exclusion operates equally against the makers of both types of changes. Second, and relatedly from a policy makers point of view breadth and/or height are not easily legislated (and are usually under the control of an external administrative body such as the patent office) while the choice between granting and not granting monopoly protection is clear. Witness, for example, the recent debate over 'software' patents in Europe, or the continuing difficulties in altering patent office (or judicial) norms experienced in the US once the patentability of software and business methods was accepted.
+					</te:FootNote>.
+				</p>
+				<p>
+					We assume that the direct returns to the first innovator (<te:Math>v_{0}</te:Math>) are unaffected by the intellectual property rights regime. While this may appear to be a strong assumption, our focus in this paper is on the division of rents between first and second stage innovators and we therefore believe that little is lost by this simplification. 
+				</p>
+				<p>
+					We take the license to define a lump-sum royalty payment <te:Math>r</te:Math>.
+				</p> 
+			</st:Section>
+			
+			<st:Section>
+				<h4>
+					Sequence of Actions
+				</h4>
+				<p>
+					Thus the sequence of actions in the model is:
+				</p>
+				<ol>
+					<li>
+						Nature determines value type of first stage innovator
+					</li>
+					<li>
+						The first stage innovator sets the royalty rate (if there are no IP rights then the royalty rate is 0)
+					</li>
+					<li>
+						Nature determines value type of a second-stage innovator
+					</li>
+					<li>
+						Given this royalty rate second stage firms decide whether to invest
+					</li>
+					<li>
+						Payoffs are realized
+					</li>
+				</ol>
+			</st:Section>
+				
+		</st:Section>
+	
+		<st:Section>
+			<h3>
+				Solving
+			</h3>
+			<p>
+				A second-stage innovator of type X faces a payoff of <te:Math>v_{X} - r</te:Math> if she invests and 0 if she does not. Given this a second-stage innovator will only invest if <te:Math>r \leq v_{X}</te:Math>. Given this the first innovator faces a straightforward selection/pooling problem with a choice between a low royalty rate <te:Math>r_{L} = v_{L}</te:Math> (all applications produced) or a high royalty rate <te:Math>r_{H} = v_{H}</te:Math> (only high value applications produced). If there are N possible applications then these result in expected payoffs for the first stage innovator of respectively:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					N (v_{L})
+				</te:EqnLine>
+				<te:EqnLine>
+					N (1-p) (v_{H})
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Rearranging we have a low royalty rate is chosen if:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					p r_{L} > (1-p)(r_{H} - r_{L}) \iff p > 1 - \frac{v_{L}}{v_{H}} \equiv \alpha
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Intuitively: the extra revenue from low value producers (LHS) when you have a low royalty must be greater than the revenue foregone (compared to high royalty regime) from high value innovators. Let us denote the low royalty situation RL and the high royalty situation RH.
+			</p>
+		</st:Section>
+			
+		<st:Section>
+			<h3>
+				Welfare
+			</h3>
+			<p>
+				To determine welfare we need to know the 'trade-off' between first and second stage innovations that occurs when revenue is allocated from one to the other by licensing. As stated above without revenue from second stage innovations a proportion <te:Math>q</te:Math> of first stage innovations are not produced. We assume that when royalty income is forthcoming it is sufficient to ensure that all first stage innovations are produced (i.e. $$r > v_{L}^{0}$$). Thus in the absence of royalty income there are <te:Math>q</te:Math> first-stage innovations that are not produced, and these have average value <te:Math>v_{L}^{0}</te:Math>.  The remaining innovations ($$1-q$$) are produced irrespective of whether royalty revenue is received and have average value <te:Math>v_{H}^{0}</te:Math>.
+			</p>
+			<p>
+				Let us now consider social welfare in the four possible situations given by (IP, RL), (IP, RH), (NIP, RL), (IP,RH). Note that due to our earlier assumption welfare is determined by calculating total net value. Let <te:Math>v_{0} = q v_{L}^{0} + (1-q) v_{H}^{0}</te:Math> be average first stage innovator costs (if all innovate) and <te:Math>v = p v_{L} + (1-p) v_{H}</te:Math> average second stage innovator costs (if all innovate).
+			</p>
+			<table class="data">
+				<tr>
+					<td>
+						
+					</td>
+					<th>
+						RL
+					</th>
+					<th>
+						RH
+					</th>
+				</tr>
+				<tr>
+					<th>
+						IP
+					</th>
+					<td>
+						<te:Math>v_{0} + N v</te:Math>
+					</td>
+					<td>
+						<te:Math>v_{0} + N (1-p) (v_{H})</te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						NIP
+					</th>
+					<td>
+						<te:Math>(1-q)(v_{H}^{0} + N v)</te:Math>
+					</td>
+					<td>
+						<te:Math>(1-q)(v_{H}^{0} + N v)</te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						IP - NIP
+					</th>
+					<td>
+						<te:Math>q (v_{L}^{0} + N r_{L}) + qN (v - r_{L}) \geq 0</te:Math>
+					</td>
+					<td>
+						<te:Math>q (v_{L}^{0} + N (1-p) v_{H}) - (1-q) N p v_{L}</te:Math>
+					</td>
+				</tr>
+			</table>
+		</st:Section>
+		<st:Section>
+			<h3>
+				Optimal Policy
+			</h3>
+			<p>
+				It is immediately clear that in the RL situation a patenting regime is preferable. The reason for this is straightforward: in the RL situation all applications will be produced whether there are patents or not. In that case one wishes to maximize returns to the first innovator and patents do this by transferring rents via licensing.
+			</p>
+			<p>
+				The situation with RH is less clear. Intellectual property (monopoly) rights (IP) will be preferable to no intellectual property rights (NIP) if:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					q (v_{L}^{0} + N (1-p) v_{H}) > (1-q) N p v_{L}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Now	<te:Math>v_{L}^{0}</te:Math> (which is negative) must be less in absolute terms than the royalty received <te:Math>N (1-p) r_{H}</te:Math> (we are assuming that the royalty enables low value first stage innovators to produce). Thus define $$\beta$$ as the proportion of the total royalty payment which is used up in paying for first stage innovator net losses (which should be interpreted as corresponding to their higher costs) -- and $$1-\beta$$ is the proportion of the total royalty left as welfare -- then we may write <te:Math>v_{L}^{0} = -\beta (N (1-p) r_{H}), \beta \in (0,1] </te:Math>. Note that $$\beta = 1$$ corresponds to all the royalty being used up to fund first stage innovators higher costs while $$\beta \approx 0$$ means all of the royalty payment is being retained as extra profits (and welfare).
+			</p>
+			<p>
+				Thus, using $$\beta$$ we can rewrite the previous condition as:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					q > \frac{p v_{L}}{(1-\beta)(1-p)v_{H} + pv_{L}} = \frac{\textrm{Holdup Loss}}{\textrm{Net Surplus Under Licensing} + \textrm{Holdup Loss}}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				We can plot this result graphically as follows (recall that we have low royalties, RL, if $$p \geq \alpha$$):	
+			</p>
+			<img src="optimal_policy_as_function_of_q_and_p.png" alt="Plot of optimal policy as function of q and p" />
+			<p>
+				<strong>Figure 1:</strong> The three different lines show in ascending order the marginal value of $$q$$ as a function of $$p$$ for $$\beta$$ equal to 0, 0.5, and 0.99.
+			</p>
+			<p>
+				<te:Math>N p</te:Math> is the 'number' of second stage innovations that do <strong>not</strong> occur <strong>with</strong> intellectual property rights (due to high royalties) while <te:Math>q</te:Math> is the number of first stage innovations that do <strong>not</strong> occur <strong>without</strong> intellectual property rights. As first stage innovations enable second stage ones when we lose a first stage innovation we lose all dependent second stage ones as well. Due to this, to choose no intellectual property rights over intellectual property rights <te:Math>p</te:Math> must be substantially higher (though not too high) relative to <te:Math>q</te:Math>, since only then will the cost of intellectual property rights, in terms of lost second stage innovations, outweigh the gains in terms of more first stage, and dependent second-stage, innovations.
+			</p>
+			<p>
+				As <te:Math>\beta</te:Math> increases the area in which no intellectual property rights are preferable will increase with the line seperating the two regions moving upwards. In the limit as <te:Math>\beta</te:Math> tends to 1 -- which corresponds to most royalty income being used by a first stage innovator to pay costs -- the marginal <te:Math>q</te:Math> tends to 1 -- i.e. it is optimal to have intellectual property rights only if all first stage innovations are of a low value type.
+			</p>
+		</st:Section>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			Cumulative Innovation with Sampling Costs
+		</h2>
+		
+		<st:Section>
+			<h3>
+				Introduction
+			</h3>
+			<p>
+				This model extends the previous by the introduction of sampling by second stage firms. In this situation second stage firms can only use first stage innovations that they have encountered by some form of costly sampling (for example purchasing a good that embodies the innovation). The more products they sample the more likely it is a second stage firm comes up with a good idea of its own -- which is modelled, in this case, by having value innovation rather than a low value one.
+			</p>
+			<p>
+				Obvious real-world examples of such situations would be software and music. In software a new 'app' will likely combine many ideas (and even code) from previous products. But ideas can only come from applications that one has encountered (note that for re-use of code that means access to the source so the software must be open-source). In music, particularly modern music, re-use either explicit or implicit is ubiquitous. For example, in dance and hip-hop, 'sampling', whereby a small section of a previous work is directly copied and then repeated or reworked in some manner, is the very basis of the genre. More generally all composers whether classical or modern use previous musical, ideas, motifs, and melodies as parts of new works<te:FootNote>
+					See e.g. Malcolm Gladwell, The New Yorker, 2004-11-22, <em>Something Borrowed: Should a charge of plagiarism ruin your life?</em>, also <a href="http://www.low-life.fsnet.co.uk/copyright/part3.htm#copyrightinfringement">
+					http://www.low-life.fsnet.co.uk/copyright/part3.htm#copyrightinfringement</a> for information about sampling in dance and hip-hop music.
+				</te:FootNote>
+			</p>
+		</st:Section>
+		
+		<st:Section>
+			<h4>
+				The Model
+			</h4>
+			<p>
+				The model is exactly the same as the basic one except for the addition of an initial sampling period by second stage firms which influences whether they are high or low value. Define the following variables:
+			</p>
+			<ol>
+				<li>
+					<te:Math>k</te:Math>, the number of stage 1 products stage 2 firms choose to sample (via purchase, observation etc)
+				</li>
+				<li>
+					<te:Math>\tau</te:Math> the cost of each sample
+				</li>
+				<li>
+					As before there are	two types of stage 2 firms, high and low value: <te:Math>v_{H}, v_{L}</te:Math>
+				</li>
+				<li>
+					<te:Math>p(k)</te:Math>, probability of being a low value firm given that $$k$$ products are sampled. Naturally <te:Math>p^{'} \leq 0</te:Math> (otherwise no benefit of observing). We also assume diminishing returns for sampling so that <te:Math>p^{''} \geq 0</te:Math> and that if no sampling takes place all firms are of low value type (<te:Math>p(0) = 1</te:Math>). The functional form <te:Math>p(k)</te:Math> is assumed to be common knowledge.
+				</li>
+				<li>
+					<te:Math>r</te:Math>, the lump-sum royalty rate set by stage 1 firms
+				</li>
+				<li>
+					<te:Math>N</te:Math>, the number of potential stage 2 firms
+				</li>
+			</ol>
+			<p>
+				Regarding the sequence of actions the situation is the same as in the original model except for the fact that we now have two options as to when the royalty can be set: either after or before sampling (but as in the original model still before the second stage innovators take their investment decision). We shall refer to these two cases as royalty-after-sampling and royalty-before-sampling. Here we will confine our attention to royalty-after sampling<te:FootNote>
+					The author has also examined the royalty-before-sampling but the situation is considerably more complex and yields fewer insights for policy. In the interests of brevity it has therefore been omitted. The interested reader who wishes to have the details is invited to contact the author.</te:FootNote>.
+				The full sequence of decisions in that case is shown in the following diagram:
+			</p>
+			<img src="cumulative_innovation_discrete_choice_transaction_costs_game.png" alt="cumulative_innovation_discrete_choice_transaction_costs_game.png" />
+		</st:Section>
+		
+		<st:Section>
+			<h3>
+				Solving the Model
+			</h3>
+			<p>
+				We will solve for a subgame perfect nash equilibrium by recursing backwards through the game. Looking at the payoffs at the bottom of the previous diagram we see that the investment decisions by second stage firms are exactly the same as for the original model (this is because sampling costs are sunk and common).
+			</p>
+			<p>
+				Thus once again the first stage firm need only consider two royalty levels: <te:Math>r_{L} = v_{L}</te:Math> and <te:Math>r_{H} = v_{H}</te:Math>. A first stage firm chooses a low royalty rate over a high one if (to be precise the firm is indifferent when there is equality):
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					p(k) \geq 1 - \frac{v_{L}}{v_{H}} \equiv \alpha
+					\iff k \leq p^{-1}(\alpha) \equiv k_{\alpha}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Next define <te:Math>k_{2}</te:Math> as the optimal sampling level chosen by a second stage firm when the royalty level is low (the '2' indicates that this is situation where both firms invest). Formally, this is the level of sampling that maximizes the expected payoff to a firm (as a function of the sampling rate):
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					\Pi(k) = p(k)(v - r_{L} - c_{H} -k\tau) + (1-p(k))(v - r_{L} - c_{L} -k\tau) = - k\tau + (1-p(k))(v_{H}-v_{L})
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				To find the sampling level that maximizes profits impose the first order condition <te:Math>\Pi^{'}(k) = 0</te:Math><te:FootNote>
+					The second order condition, <te:Math>\Pi^{''} \leq 0</te:Math>, is easily checked: <te:Math>\Pi^{''} = -p^{''}(k)(v_{H}-v_{L}) \leq 0</te:Math> since, by assumption, <te:Math>p^{''}(k) \geq 0</te:Math>.
+				</te:FootNote> giving:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					p^{'}(k_{2}) = \frac{-\tau}{v_{H}-v_{L}}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				This is as one would expect: here both firms engage in production and the effect of sampling will be on the cost type (i.e. it will not effect the royalty paid or whether a firm invests). Hence the sampling level will be chosen so that the marginal gain in terms of lower costs (<te:Math>p^{'}(k)(v_{H}-v_{L})</te:Math>) equals the marginal sampling costs (<te:Math>\tau</te:Math>).
+			</p>
+			<p>
+				We are now in a position to state the results. However first we must distinguish between two possibilities regarding knowledge of the sampling level available to first stage innovators. In the first case the first stage innovator does observe the sampling level. In the second case the first stage innovator does not know the sampling level. In what follows we focus on the case where the sampling level is unobserved though the results are little changed when it is observed.
+			</p>
+			<p>
+				<strong>Proposition:</strong> The (perfect bayesian nash) equilibria of the game where second stage innovators play pure strategies are as follows (omitting investment strategy for simplicity):
+			</p>
+			<ol>
+				<li>
+					<strong><te:Math>k_{2} \leq k_{\alpha}</te:Math>:</strong> then there is a unique pure-strategy equilibrium given by: first stage innovator chooses high royalty if the sampling level is greater than <te:Math>k_{\alpha}</te:Math> and a low royalty rate otherwise. The second stage innovator chooses sampling level <te:Math>k_{2}</te:Math>
+				</li>
+				<li>
+					<strong><te:Math>k_{2} > k_{\alpha}</te:Math>:</strong> there is a unique equilibrium with second-stage innovators playing pure strategies. This equilibrium consists of: second-stage innovators sample at level <te:Math>k_{\alpha}</te:Math>; first stage innovators choosing a high royalty level if the sampling level is above <te:Math>k_{\alpha}</te:Math>, a low one if it is below and randomizing between a high and low royalty rate if it is equal to <te:Math>k_{\alpha}</te:Math> (the exact probabilities involved are defined below).
+				</li>
+			</ol>
+			<p>
+				<strong>Proof:</strong> We are restricting to the case where second stage innovators choose pure strategies (allowing mixed strategies yield similar results but complicate the algebra).
+			</p>
+			<p>
+				A first stage innovator through dominance is restricted to playing a mixed strategy consisting of <te:Math>r_{H}, r_{L}</te:Math>. Let us suppose that she plays these with probability <te:Math>x, 1-x</te:Math>. Revenue is then:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					r_{L}(1-x) + (1-p(k))r_{H} x = r_{L} + x * ( (1-p(k))r_{H} - r_{L})
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Maximizing revenue requires <te:Math>x = 0</te:Math> if the term in brackets is less than zero, <te:Math>x = 1</te:Math> if the term in brackets is greater than 0, and allows any value of x if the term in brackets is zero. By the definition of <te:Math>k_{\alpha}</te:Math> (see above) these conditions correspond to the sampling level being less than, greater than or equal to <te:Math>k_{\alpha}</te:Math>.
+			</p>
+			<p>
+				Turning to second stage innovators. Payoffs as a function of the royalty level are as follows:
+			</p>
+			<table class="data">
+				<caption>
+					Payoffs for Innovators
+				</caption>
+				<tr>
+					<td></td>
+					<th>
+						RL
+					</th>
+					<th>
+						RH
+					</th>
+				</tr>
+				<tr>
+					<th>
+						Stage 2
+					</th>
+					<td>
+						<te:Math> - k\tau + (1-p(k))(v_{H}-v_{L})</te:Math>
+					</td>
+					<td>
+						<te:Math>-k\tau</te:Math>
+					</td>
+				</tr>
+			</table>
+			<p>
+				Thus a high royalty level always yields a negative payoff unless the sampling level is 0. Since the royalty will be high if the sampling level is above <te:Math>k_{\alpha}</te:Math> it is immediately apparent that no pure strategy equilibrium can exist in which the sampling level is above <te:Math>k_{\alpha}</te:Math>.
+			</p>
+			<p>
+				Recall that <te:Math>k_{2}</te:Math> was defined as the sampling level that maximized the second stage innovators payoffs when the royalty is low. Thus if <te:Math>k_{2} \leq k_{\alpha}</te:Math>, then <te:Math>k_{2}</te:Math> is the dominant strategy for second stage firms and is the unique pure-strategy equilibrium.
+			</p>
+			<p>
+				If <te:Math>k_{2} > k_{\alpha}</te:Math> the situation is more complex. If individual sampling levels are observable then <te:Math>k = k_{\alpha}</te:Math> is again a dominant strategy. However if the sampling levels is not observable -- as we are assuming -- then first stage firms can not offer a royalty specific to each firm but must offer a general one and we must solve for a perfect bayesian nash equilibrium.
+			</p>
+			<p>
+				We are restricted to equilibria in which the second-stage innovator plays a pure strategy. It immediately follows that we must have that the sampling level chosen is <te:Math>k_{\alpha}</te:Math> (PF: suppose not and that the sampling level is k'. Since we are in a PBE beliefs must be consistent so the first stage innovator expects this sampling level. But for any sampling level other than <te:Math>k_{\alpha}</te:Math> the first stage innovator has a dominating pure strategy of high or low royalty level depending on whether k' is higher or lower than <te:Math>k_{\alpha}</te:Math>. If this is the case then k' must either be 0 or <te:Math>k_{2}</te:Math> respectively but each of these is inconistent with the associated royalty level).
+			</p>
+			<p>
+				For <te:Math>k_{\alpha}</te:Math> to be an equilibrium it must maximize expected profits. Thus we must show the existence of mixed strategy (x) for first stage innovators such that <te:Math>k_{\alpha}</te:Math> is optimal for second stage innovators. Profits are given by:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					x p(k) * -k\tau + (1-x)(1-p(k))(-k\tau + v_{H}-v_{L}) = -k\tau + (1-x)(1-p(k)(v_{H}-v_{L})
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				The solution, k, is given implicitly by:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					p^{'}(k) = \frac{-\tau}{(1-x)(v_{H}-v_{L})}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Since <te:Math>p^{'} \lt 0</te:Math> we have, denoting <te:Math>k(x)</te:Math> as the solution of this as a function of x, that <te:Math>k^{'}(x) \lt 0</te:Math>. Since <te:Math>k(0) = k_{2} > k_{\alpha}</te:Math> and that as <te:Math>x \rightarrow 1</te:Math> the RHS of the above takes arbitrarily large negative values by the intermediate value theorem there must exist a unique <te:Math>x_{\alpha} \in (0,1)</te:Math> such that <te:Math>k(x_{\alpha}) = k_{\alpha}</te:Math>. QED.
+			</p>
+		</st:Section>
+	
+		<st:Section>
+			<h3>
+				Welfare
+			</h3>
+			<p>
+				For the calculation of welfare we proceed as in the original model. A proportion $$q$$ of first stage innovations are low value ($$v_{L}^{0} \lt 0$$) and only occur when there is royalty income. Similar to above define $$v^{0} = q v_{L}^{0} + (1-q) v_{H}^{0} and <te:Math>v(k) =  - k\tau + (1-p(k)) v_{H} + p(k) v_{L}</te:Math> (the value generated by a second stage innovator sampling at level $$k$$). Further define $$v(\alpha) = v(k_{\alpha}), v(2) = v(k_{2})$$. Then total welfare is as follows:
+			</p>
+			<table class="data">
+				<caption>
+					Total Welfare
+				</caption>
+				<tr>
+					<td></td>
+					<th>
+						<te:Math>k_{2} \leq k_{\alpha}</te:Math>
+					</th>
+					<th>
+					<te:Math>k_{2} > k_{\alpha}</te:Math>
+					</th>
+				</tr>
+				<tr>
+					<th>
+						Payoff to First Stage Firms (IP)
+					</th>
+					<td>
+						<te:Math>v^{0} + N v_{L}</te:Math>
+					</td>
+					<td>
+						<te:Math>v^{0} + N v_{L}</te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Payoff to Second Stage Firms (IP)
+					</th>
+					<td>
+						<te:Math>- k_{2}\tau + (1-p(k_{2}))(v_{H}-v_{L})</te:Math>
+					</td>
+					<td>
+						<te:Math>-k_{\alpha} \tau + (1-x_{alpha})(1-p(k_{\alpha}))(v_{H}-v_{L})</te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Welfare (IP)
+					</th>
+					<td>
+						<te:Math>v^{0} + N v(2)</te:Math>
+					</td>
+					<td>
+						<te:Math>v^{0} + N ( v(\alpha) - x_{alpha} p(k_{\alpha}) v_{L} ) </te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Welfare (NIP)
+					</th>
+					<td>
+						<te:Math>(1-q) (v_{H}^{0} + N v(2))</te:Math>
+					</td>
+					<td>
+						<te:Math>(1-q) (v_{H}^{0} + N v(2))</te:Math>
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Net Difference (IP - NIP)
+					</th>
+					<td>
+						<te:Math>q ((v_{L}^{0} + N r_{L}) + N (v(\k_{2}) - r_{L}) ) \geq 0</te:Math>
+					</td>
+					<td>
+						<te:Math>S = q v_{L}^{0} + N v(\alpha)  - N(1-q) (v(2) - N x_{alpha} p(k_{\alpha}) v_{L}</te:Math>
+					</td>
+				</tr>
+			</table>
+			<p>
+				Some rearranging yields:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					S = q(Nv(2) + v_{L}^{0}) - N(v(2) - v(\alpha) - Nx_{alpha} p(k_{\alpha})v_{L}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Thus for for intellectual property rights to be preferable to no intellectual property rights when <te:Math>k_{2} > k_{\alpha}</te:Math> requires:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					q \geq q^{m] \equiv \frac{ N(v(2) - v(\alpha)) + Nx_{alpha} p(k_{\alpha}) v_{L}} {N (v(2)-v(\alpha)) + Nx_{alpha} p(k_{\alpha}) v_{L} + ( (N v(\alpha) - Nx_{alpha} p(k_{\alpha}) v_{L}) - (-v_{L}^{0}) ) }
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				(Where <te:Math>q^{m}</te:Math> has been defined as the probability of a low value first stage innovation which leaves one indifferent between having and not having intellectual property rights.) In words this can be written as:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					q \geq q^{m] \equiv \frac{ \textrm{Benefit of Higher Sampling w/o IP} + \textrm{Holdup Cost}} { \textrm{Benefit of Higher Sampling w/o IP} + \textrm{Holdup Cost} + \textrm{Net Surplus under Licensing} }
+				</te:EqnLine>
+			</te:Eqn>
+		</st:Section>
+	
+		<st:Section>
+			<h3>
+				Policy Implications
+			</h3>
+			
+			<p>
+				From our calculations of welfare it follows that we should choose to have intellectual property rights if <te:Math>k_{2} \leq k_{\alpha}</te:Math> or if <te:Math>k_{2} > k_{\alpha}</te:Math> and <te:Math>q \geq q^{m}</te:Math>. 
+			</p>
+			<p>
+				Now <te:Math>q^{m}</te:Math> increases in <te:Math>k_{2}</te:Math>, decreases in <te:Math>k_{\alpha}</te:Math>. Thus the policy choice is directly related to the relative sizes of these different sampling levels.
+			</p>
+			<p>
+				What can we say about these two values as a function of the underlying parameters? Recall that the probability of a low value innovation goes down with sampling (<te:Math>p^{'} \leq 0</te:Math>) but at a diminishing rate (<te:Math>p^{''} > 0</te:Math>) and that:
+			</p>
+			<te:Eqn>
+				<te:EqnLine>
+					p(k_{\alpha}) = \frac{v_{H}-v_{L}}{v_{H}}
+				</te:EqnLine>
+			</te:Eqn>
+			<te:Eqn>
+				<te:EqnLine>
+					p^{'}(k_{2}) = \frac{-\tau}{v_{H}-v_{L}}
+				</te:EqnLine>
+			</te:Eqn>
+			<p>
+				Then:
+			</p>
+			<ul>
+				<li>
+					Reducing sampling costs, <te:Math>\tau</te:Math>, increases the level of optimal sampling <te:Math>k_{2}</te:Math> but leaves <te:Math>k_{\alpha}</te:Math> unaffected.
+				</li>
+				<li>
+					Increasing the advantage of high value over low value innovations (<te:Math>v_{H}-v_{L}</te:Math>) increases the optimal level of sampling, <te:Math>k_{2}</te:Math>, but reduces <te:Math>k_{\alpha}</te:Math> the sampling level at which a high royalty is charged (intuitively: if the the differential between high and low value firms is greater then the loss to a first stage innovator of 'losing' low value firms by charging the high royalty rate is smaller. Therefore the number of high value firms <te:Math>1-p(k)</te:Math> at which the switch to a high royalty rate is made can be smaller).
+				</li>
+				<li>
+					Increasing the value of a second stage innovation, <te:Math>v</te:Math>, while leaving all other parameters constant increases <te:Math>k_{\alpha}</te:Math> but leaves the optimal level of sampling unchanged (the intuition is exactly the same as for the previous item).
+				</li>
+			</ul>
+			<p>
+				These results suggest the following, corresponding, conclusions for policy:
+			</p>
+			<ol>
+				<li>
+					Reducing sampling costs make it more likely that a freer (no intellectual property rights) regime will be optimal. This is because the 'optimal' level of sampling (<te:Math>k_{2})</te:Math> will be sufficiently greater than the restricted level of sampling (<te:Math>k_{\alpha}</te:Math>) that the loss in terms of hold-up of second stage products ($$x_{\alpha} * p(k_{\alpha})$$) and lower average value of second stage firms outweigh the benefits of more first stage (and dependent second-stage) innovations.
+				</li>
+				<li>
+					Increasing the differential between high and low value types (which could be interpreted as sampling becoming more important for product quality) makes it more likely that a freer (no intellectual property rights) regime will be optimal. Conversely increasing the value of an innovation while leaving value differentials constant (which in some sense corresponds to value differentials being less important) makes it more likely that a intellectual property rights regime will be optimal.
+				</li>
+			</ol>
+		</st:Section>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			Conclusion
+		</h2>
+		<p>
+			In this paper we have examined how asymmetric information about the value of of follow-on innovations combined with intellectual property rights such as patents can result in hold-up. Presenting the policy decision as a choice between having or not having intellectual property rights such as patents we have shown that, in contrast to parts of the previous literature, in some circumstances it may be optimal to have no intellectual property rights. For while intellectual property rights help transfer income from second-stage to first-stage innovators they can also lead to hold-up with a resulting reduction in second-stage innovation.
+		</p>
+		<p>
+			In the first, and simpler, model presented we were able to plot optimal policy as a function of the fundamental variables which in this case were the probabilities of the first and second stage innovations having high or low values. It was shown that in general a intellectual property rights regime would be optimal but if the probability of a low value second-stage innovation was high enough compared to the probability of a low value first-stage innovation then no intellectual property rights would be preferable.
+		</p>
+		<p>
+			We then proceeded to extend this basic model by the introduction of sampling costs. Focusing on the case of royalty-after-sampling we demonstrated the existence of an equilibrium. The major result here was that the presence of intellectual property rights may restrict the level of sampling below what would be socially optimal. Thus, when considering the intellectual property rights regime, there is a trade-off between the benefits of transferring revenue to first-stage innovators and the costs in terms of fewer second stage innovations (with lower average value). Examining this trade-off we find that the lower the cost of sampling and the greater the differential between the low and high values of second-stage innovations the more likely it is that a regime <em>without</em> intellectual property rights will be preferable.
+		</p>
+		<p>
+			Thus technological change which reduces the cost of encountering and trialling new 'ideas' should imply a reduction in the socially optimal level of intellectual property rights such as patents and copyright. Examples of such technological change in recent years include the advances in computers and communications which has dramatically reduced the cost of accessing and reusing cultural material such as music and film as well as greatly increasing the number of 'ideas' that a software developer can encounter and trial.
+		</p>
+		<p>
+			Finally there remains plentiful scope to improve and extend the present work. For example it was assumed that non-licensing income (v) for the first-stage innovator was unaffected by the intellectual property rights regime. However this is unlikely to be the case and the model could be improved by the the inclusion of the direct effect of no intellectual property rights on the revenue of the first-stage innovator. 
+		</p>
+		<p>
+			It would also be useful to extend the analysis to the case of continuous distribution of values as well as to allow the intellectual property rights regime to affect sampling costs. It would also be valuable to examine what occurs when the structure of innovation is more complex, for example by having second-stage inventions incorporate many first stage innovations (componentized) or having heterogeneity across innovations with some developments used more than others. Finally, one of the most important extensions would be to properly integrate transaction costs into the analysis. Transaction costs relating to both the acquisition of information and the execution of contracts are significant and without them we lack a key element for the furtherance of our understanding of the process of innovation both in this model and in general.
+		</p>
+	</st:Section>
+	
+	<st:EndNotes />
+	
+	<bib:Biblio>
+		<bib:Item id="eisenberg_ea_1998">
+			<dc:title>
+				Can Patents Deter Innovation? The Anticommons in Biomedical Research
+			</dc:title>
+			<bib:Author>
+				Eisenberg, R.
+			</bib:Author>
+			<bib:Author>
+				Heller, M.
+			</bib:Author>
+			<bib:Journal vol="280" num="5364" page="690-701">
+				Science
+			</bib:Journal>
+			<dc:identifier>
+				DOI: 10.1126/science.280.5364.698
+			</dc:identifier>
+			<dc:date>1998-05-01</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="matutes_ea_1996">
+			<dc:title>
+				Optimal Patent Design and the Diffusion of Innovations
+			</dc:title>
+			<bib:Author>
+				Matutues, C.
+			</bib:Author>
+			<bib:Author>
+				Regibeau, Pierre.
+			</bib:Author>
+			<bib:Author>
+				Rockett, C.
+			</bib:Author>
+			<bib:Journal vol="27" num="1" page="60-83">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:source>
+				<a href="http://links.jstor.org/sici?sici=0741-6261%28199621%2927%3A1%3C60%3AOPDATD%3E2.0.CO%3B2-D">
+					http://links.jstor.org/sici?sici=0741-6261%28199621%2927%3A1%3C60%3AOPDATD%3E2.0.CO%3B2-D
+				</a>
+			</dc:source>
+			<dc:date>1996</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="denicolo_2000">
+			<dc:title>
+				Two-Stage Patent Races and Patent Policy
+			</dc:title>
+			<bib:Author>
+				Denicolo, V.
+			</bib:Author>
+			<bib:Journal vol="31" page="488-501">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:date>2000</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="gallini_1992">
+			<dc:title>
+				Patent Policy and Costly Imitation
+			</dc:title>
+			<bib:Author>
+				Gallini, N.
+			</bib:Author>
+			<bib:Journal vol="23" num="1" page="52-63">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:source>
+				<a href="http://links.jstor.org/sici?sici=0741-6261%28199221%2923%3A1%3C52%3APPACI%3E2.0.CO%3B2-S">
+					http://links.jstor.org/sici?sici=0741-6261%28199221%2923%3A1%3C52%3APPACI%3E2.0.CO%3B2-S
+				</a>
+			</dc:source>
+			<dc:date>1992</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="green_ea_1995">
+			<dc:title>
+				On the Division of Profit between Sequential Innovators
+			</dc:title>
+			<bib:Author>
+				Green, J.
+			</bib:Author>
+			<bib:Author>
+				Scotchmer, S.
+			</bib:Author>
+			<bib:Journal vol="26" num="1" page="20-33">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:date>1995</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="bessen_2004">
+			<dc:title>
+				Hold-up and Patent Licensing of Cumulative Innovations with Private Information
+			</dc:title>
+			<bib:Author>
+				Bessen, J.
+			</bib:Author>
+			<bib:Journal vol="82" num="3" page="321-326">
+				Economics Letters
+			</bib:Journal>
+			<dc:date>2004</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="odonoghue_ea_1998">
+			<dc:title>
+				Patent Breadth, Patent Life, and the Pace of Technological Improvement
+			</dc:title>
+			<bib:Author>
+				O'Donoghue, T.
+			</bib:Author>
+			<bib:Author>
+				Scotchmer, S.
+			</bib:Author>
+			<bib:Author>
+				Thisse, J.
+			</bib:Author>
+			<bib:Journal vol="7" page="1-32">
+				Journal of Economics and Management Strategy
+			</bib:Journal>
+			<dc:date>1998</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="menell_ea_2005">
+			<dc:title>
+				Intellectual Property
+			</dc:title>
+			<bib:Author>
+				Menell, P.
+			</bib:Author>
+			<bib:Author>
+				Scotchmer, S.
+			</bib:Author>
+			<dc:description>
+				forthcoming, Handbook of Law and Economics.  Mitch Polinsky and Steven Shavell, eds.  Amsterdam: Elsevier.
+			</dc:description>
+			<dc:source>
+				<a href="http://socrates.berkeley.edu/~scotch/ms_06_10_2005.pdf">
+					http://socrates.berkeley.edu/~scotch/ms_06_10_2005.pdf
+				</a>
+			</dc:source>
+			<dc:date>2005</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="chang_1995">
+			<dc:title>
+				Patent Scope, Antitrust Policy, and Cumulative Innovation
+			</dc:title>
+			<bib:Author>
+				Chang, H.
+			</bib:Author>
+			<bib:Journal vol="26" num="1" page="34-57">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:date>1995</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="hall_ea_2001">
+			<dc:title>
+				The patent paradox revisited: an empirical study of patenting in the U.S. semiconductor industry, 1979–1995
+			</dc:title>
+			<bib:Author>
+				Hall, B.
+			</bib:Author>
+			<bib:Author>
+				Ziedonis, R.
+			</bib:Author>
+			<bib:Journal vol="32" num="1" page="101-128">
+				Rand Journal of Economics
+			</bib:Journal>
+			<dc:date>2001</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="cockburn_2005">
+			<dc:title>
+				Blurred Boundaries: Tensions Between Open Scientific Resources and Commercial Exploitation of Knowledge in Biomedical Research
+			</dc:title>
+			<bib:Author>
+				Cockburn, I.
+			</bib:Author>
+			<dc:date>2005</dc:date>
+		</bib:Item>
+		
+		<bib:Item id="anand_ea_2000">
+			<dc:title>
+				The Structure of Licensing Contracts
+			</dc:title>
+			<bib:Author>
+				Anand, B.
+			</bib:Author>
+			<bib:Author>
+				Khanna, T.
+			</bib:Author>
+			<bib:Journal vol="48" num="1" page="103-135">
+				The Journal of Industrial Economics
+			</bib:Journal>
+			<dc:date>2000</dc:date>
+		</bib:Item>
+		
+	</bib:Biblio>
+	
+</body>
+</html>

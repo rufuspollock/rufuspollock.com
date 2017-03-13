@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="okftext_2_xhtml/text_master_witbd.xsl"?>
+<html
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:doc="http://www.witbd.org/xmlns/common/document/"
+	xmlns:st="http://www.witbd.org/xmlns/text/structure"
+	xmlns:te="http://www.witbd.org/xmlns/text/basic/"
+	xmlns:bib="http://www.witbd.org/xmlns/biblio/"
+	xmlns:ch="http://xmlchar.sf.net/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	>
+<head>
+	<doc:Metadata>
+		<rdf:RDF
+			xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:dct="http://purl.org/dc/terms/">
+			<rdf:Description rdf:about="">
+				<dc:title>
+					Cumulative Innovation with Imperfect Information: The Problem of Hold-Up
+				</dc:title>
+				<dc:creator>Rufus Pollock</dc:creator>
+				<dct:created>2005-10-24</dct:created>
+				<rdfs:comment xml:lang="en-GB"></rdfs:comment>
+			</rdf:Description>  
+		</rdf:RDF>
+	</doc:Metadata>
+	<link rel="stylesheet" href="text_basic.css" title="text_basic" type="text/css" media="screen, projection, print" />
+	<!-- BEGIN:mathml_header-->
+	<object id="mathplayer" classid="clsid:32F66A20-7614-11D4-BD11-00104BD3F987">
+	</object>
+	<?import namespace="mml" implementation="#mathplayer"?>
+	<!-- END:mathml_header-->
+	<!-- BEGIN:asciimathml-->
+	<script type="text/javascript" src="asciimathml.js"></script>
+	<!-- END:asciimathml-->
+</head>
+
+<body onload="translate()">
+	<h1>
+		Cumulative Innovation with Imperfect Information: The Hold-Up Problem
+	</h1>
+	
+	<st:TableOfContents />
+	
+	<st:Section>
+		<h2>
+			Component Based Innovation
+		</h2>
+		<p>
+			Consider the situation in which a new innovation incorporates many previous innovations. I shall term this situation component-based innovation. Furthermore let us combine this with the previous model by assuming that there are many subsequent/new innovations that may utilize a given current innovation so that asymmetric information is again relevant.
+		</p>
+		<p>
+			Here it will be more convenient (and perhaps realistic!) to use continuous distributions for the costs of innovations. Let us denote the density function for first stage innovations by F and second stage by G (note these are not probability density functions as they need not sum to one but instead denote 'total' number of innovations with cost less than a given level). As in our first model second stage innovators must license first stage innovations that they infringe or incorporate in their innovation. The royalty rate for this is set by first stage innovators.
+		</p>
+		<p>
+			Suppose there are n first stage innovations an new innovator must license to make their product. Suppose that the innovation has known value v but the cost is only known to the innovator precisely (the CDF is common knowledge). First stage innovator <te:Math>i</te:Math> maximizes his/her revenue<te:FootNote>
+				This situation is very similar to that related to the use of common resources.
+			</te:FootNote>:
+		</p>
+		<te:Eqn>
+			<te:EqnLine>
+				r_{i}v * \int_{0}^{ v (1-R) } dG 
+					= r_{i} v * G( v (1-R))
+			</te:EqnLine>
+		</te:Eqn>
+		<p>
+			Where <te:Math>R = \sum_{j=1}^{n} r_{j}</te:Math>. Solving this gives:
+		</p>
+		<te:Eqn>
+			<te:EqnLine>
+				\frac{G^{'} r_{i} v}{ G } = 1
+			</te:EqnLine>
+		</te:Eqn>
+		<p>
+			Without specifying G we only have some general results such as:
+		</p>
+		<p>
+			Proposition: (Trivial) Revenue left to 2nd stage innovator is decreasing in n. (Less Trivial) Total expected revenue to 1st stage innovators is decreasing in n. 
+		</p>
+		<p>
+			Special case: <te:Math>G(x) = kx</te:Math> then solving (assuming symmetry among first stage innovators) we have:
+		</p>
+		<te:Eqn>
+			<te:EqnLine>
+				r_{i} = r = \frac{1}{n+1}
+			</te:EqnLine>
+		</te:Eqn>
+		<p>
+			Thus 2nd stage innovators receive <te:Math>\frac{v}{n+1}</te:Math> and innovations are produced which have a value to cost ratio above n+1. Total revenue to first stage innovators (from licensing) is <te:Math>\frac{kv}{(n+1)^{2}}</te:Math>
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			Multi-stage Cumulative Innovation with Componentization
+		</h2>
+		<p>
+			Useful to change <te:Math>r_{i}</te:Math> to denote total royalty amounts rather than royalty shares. With multi-stage innovation there is now no distinction between first and second stage innovations: any given innovation is at one point building upon previous inventions and then in turn being used by subsequent ones.
+		</p>
+		<p>
+			[[INSERT fig 2]]
+		</p>
+		<p>
+			Given this symmetry it is natural that some of the previous results are changed. For example we now have:
+		</p>
+		<p>
+			<strong>Equivalence 'Theorem':</strong> Given strong symmetry (all royalty payments are the same, and on average same number of royalty payments as receipts) net income is always v, the amount received when there is no infringement.
+		</p>
+		<p>
+			<strong>Proof:</strong> Suppose gross income before royalty payments is <te:Math>I</te:Math>. Assuming symmetry <te:Math>I</te:Math> is the same (on average?) for each generation, so letting R define total royalty we have:
+		</p>
+		<te:Eqn>
+			<te:EqnLine>
+				I = v + RI \iff I = \frac{v}{1-R}
+			</te:EqnLine>
+		</te:Eqn>
+		<p>
+			Now net income is what is left from gross income after royalty payments so equals <te:Math>(1-R)I</te:Math>. Substituting for <te:Math>I</te:Math> we have that net income is <te:Math>v</te:Math>.
+		</p>
+		<p>
+			<strong>Remarks:</strong> this result is quite surprising since, on its face at least, it tells us that whether there infringement (as a consequence of granting exclusive rights) or not makes no difference to net revenues<te:FootNote>
+				Combining this with the usual assumption that monopoly rights such as patents would increase direct income (<te:Math>v</te:Math>) by reducing competition this would imply that the grant of such rights would always increase innovation.
+			</te:FootNote>. Not only does this render irrevelant much of the literature with its attention to division of profit in cumulative innovation but also appears to remove all concern about hold-up and associated problems.
+		</p>
+		<p>
+			However, futher examination, suggests, I believe, a different lesson. Much as the fundamental welfare theorems are more useful in their illustration of the necessity of their assumptions (perfect markets, complete information, convexity of production sets) than in the actual results they outline so too this 'theorem' is more valuable in demonstrating what assumptions will have to be altered or dropped if we are to gain insight into the reality of the innovation process.
+		</p>
+		<p>
+			For example consider adding discounting so that future royalty payments are discounted at rate <te:Math>\delta</te:Math>. In that situation net income now becomes:
+		</p>
+		<te:Eqn>
+			<te:EqnLine>
+				\frac{1-R}{1-R\delta} v
+			</te:EqnLine>
+		</te:Eqn>
+		<p>
+			Now, once again, the level of R is important, in fact for all values of <te:Math>\delta</te:Math> less than one (no discounting) total revenue and therefore the level of innovation go to zero as R goes to one.
+		</p>
+		<p>
+			[[TODO: big firm/little firm and negotiating issues]]<br />
+			[[TODO: income/royalty rate not observable]]
+		</p>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			Transaction Costs With Cumulative Innovation and Hold-Up
+		</h2>
+		<p>
+			We now extend the previous models by the introduction of transaction costs. The ubiquity of transaction costs in reality is only matched by the paucity of good empirical evidence about their magnitude in most areas (with the notable exception of finance). Nevertheless transaction costs, encompassing both informational and other items, must clearly bulk large in any analysis of innovation. Transaction costs can be divided into:
+		</p>
+		<ol>
+			<li>
+				Information costs such as those involved in observation or discovery
+			</li>
+			<li>
+				'Pure' transaction costs such as purchasing overheads (legal fees etc), delay in purchasing, cost of payment and enforcement mechanisms
+			</li>
+		</ol>
+		<p>
+			[[TODO: discussion of per-item observation costs related to cost of buying good which embodies the idea (higher with patents) e.g. music and software]]
+		</p>
+		
+		<st:Section>
+			<h3>
+				Possible Models
+			</h3>
+			<p>
+				2-stage model, possible options
+			</p>
+			<ol>
+				<li>
+					Straightforward transaction cost t (either observed or not -- if constant it won't matter either way). Thus firm 2 returns are now (1-r) v - c - t.
+				</li>
+				<li>
+					Transaction costs per item observed (but only one finally used): (1-r) v(k) - c(k) - t(k). Normally will set either v or c independent of k.
+				</li>
+				<li>
+					(simplification of previous) number of items observed by 2nd firm exogenously given but linked to patents and associated transaction costs implicitly
+				</li>
+			</ol>
+			<p>
+				Equilibrium multi-stage models: [[TODO]]. Could be interesting as you would get feedback.
+			</p>
+		</st:Section>
+	</st:Section>
+	
+	<st:Section>
+		<h2>
+			'Unprocessed' Extensions
+		</h2>
+		<ol>
+			<li>
+				Uncertainty over both cost and value
+			</li>
+			<li>
+				Circulation model. Take 'ideas' as embodied in products. Thus you only encounter ideas when you get/use products (think software, music etc). Then the quality or number of ideas is a function of number of previous ideas seen. Then patents by reducing diffusion/ciruclation reduce number of new good ideas.
+			</li>
+		</ol>
+	</st:Section>
+	
+	<st:EndNotes />
+	
+</body>
+</html>

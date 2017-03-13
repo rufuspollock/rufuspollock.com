@@ -1,0 +1,265 @@
+body {
+  color: #fff;
+}
+
+h1,h2,h3 {
+  font-family: bold Helvetica,sans-serif;
+  font-weight: normal;
+}
+
+#slide0 h1 {
+  font-size: 290%;
+}
+
+#slide0 h3.author {
+  margin-top: 1em;
+}
+
+#slide0 h3.author .links {
+  display: block;
+  font-size: 70%;
+}
+
+.slide h2.centre {
+  margin-top: 2.5em;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  padding-top: 0;
+}
+
+.slide h2.centre-notop {
+  font-size: 2.5em;
+}
+
+.slide h2.large {
+  padding-top: 1.5em;
+  font-size: 1.8em;
+}
+
+h2.section {
+  margin-top: 2.2em;
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.fullscreen {
+  width: 25em;
+  margin-left: 2.5em;
+}
+
+.slide {
+  font-size: 90%;
+}
+
+/* added by rgrp */
+img.displayed
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 5px;
+}
+
+img.full
+{
+  width: 80%;
+  max-height: 80%;
+}
+
+img.fullheight
+{
+  height: 95%;
+  max-width: 95%;
+}
+
+img.xxlarge
+{
+  width: 80%;
+  max-height: 80%;
+}
+
+img.xlarge
+{
+  width: 70%;
+  max-height: 70%;
+}
+
+img.large
+{
+  width: 60%;
+  max-height: 60%;
+}
+
+img.medium
+{
+  width: 50%;
+  max-height: 50%;
+}
+
+img.small
+{
+  width: 40%;
+  max-height: 40%;
+}
+
+img.small-width
+{
+  width: 40%;
+}
+
+img.xsmall
+{
+  width: 30%;
+  max-height: 30%;
+}
+
+img.xxsmall
+{
+  width: 15%;
+  max-height: 15%;
+}
+
+img.xxxsmall
+{
+  width: 10%;
+  max-height: 10%;
+}
+
+
+p.eqn
+{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table
+{
+  text-align: center;
+  font-size: 0.8em;
+  /* centre the table in the page */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+  
+  border-collapse: separate;
+  border-spacing: 2px;
+  border: outset 2px;
+}
+
+table td, table th
+{
+  vertical-align: center;
+  border: inset 2px;
+  padding: 5px;
+}
+
+table caption
+{
+  text-align: center;
+  caption-side: bottom;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: none;
+}
+
+p {
+  text-align: center;
+}
+
+a, a:link, a:visited {
+  color: white;
+}
+
+table.no-border, table.no-border * {
+  border: none; 
+}
+
+/* componentization stuff */
+table.componentization img {
+  height: 9em;
+}
+
+table.componentization td {
+  width: 33%;
+}
+
+.white-text, .white-text a, .white-text a:link {
+  color: white;
+}
+
+/* background slides with insets */
+
+div.background {
+  height: 90%;
+  width: 100%;
+  color: #333;
+}
+
+div.background h2:first-child, .centre-back {
+  padding-top: 20%;
+  font-size: 2.5em;
+  font-weight: bold;
+  max-width: 80%;
+  margin: auto;
+}
+
+.inset {
+  position: absolute;
+  width: 40%;
+  margin: auto;
+  margin-top: 20%;
+  font-size: 60%;
+  text-align: left;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.inset p {
+  text-align: left;
+}
+
+img.background {
+  width: 100%;
+  position: relative;
+}
+
+.slide-with-background {
+  height: 100%;
+  padding-top: 1em;
+}
+
+.inset h2 {
+  padding: 0.5em;
+}
+
+div.white-text {
+  color: white;
+}
+
+div.white-text * {
+  color: white;
+}
+
+div.white-text h2 * {
+  color: white;
+}
+
+pre {
+  color: white;
+}
+
+
+table.supporters img {
+  height: 80px;
+  background: transparent;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+table.data-catalogues img {
+  width: 75%;
+}
+

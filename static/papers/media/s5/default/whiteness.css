@@ -1,0 +1,24 @@
+body {
+  color: #333;
+  background-color: white;
+}
+
+#slide0 h1, a, a:link, a:visited {
+  color: #333;
+}
+
+#footer {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
+
+.inset {
+  background-color: white;
+}
+
+pre {
+  color: black;
+}
