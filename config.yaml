@@ -1,3 +1,18 @@
-baseurl:  /
-title: Rufus Pollock Online
-languageCode: en-us
+baseurl: "/"
+title: "Rufus Pollock Online"
+languageCode: "en-us"
+
+permalinks:
+  post: /:year/:month/:day/:slug/
+
+# themes: information economy, data systems, wise society, notebook
+# tags: anything i want!
+# projects: for list see projects database
+# posttype: updates, talks, own-work, essays
+# featured: yes, no
+taxonomies:
+  theme: "themes"
+  tag: "tags"
+  project: "projects"
+  posttype: "posttypes"	
+
