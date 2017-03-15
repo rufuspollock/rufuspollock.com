@@ -5235,3 +5235,110 @@ header.navigation ul.submenu li a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.bullets {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em;
+  margin-bottom: 1.5;
+  overflow: auto;
+  padding: 0;
+}
+
+.bullets .bullet {
+  flex-basis: 20em;
+  flex-grow: 1;
+}
+
+.bullets .bullet-icon {
+  background: black;
+  border-radius: 50%;
+  float: left;
+  height: 3.5em;
+  padding: 0.875em;
+  width: 3.5em;
+}
+
+.bullets .bullet-icon-1 {
+  background: black;
+}
+
+.bullets .bullet-icon-2 {
+  background: black;
+}
+
+.bullets .bullet-icon-3 {
+  background: #00FFF9;
+}
+
+.bullets .bullet-content {
+  margin-bottom: 2em;
+  margin-left: 4.9em;
+}
+
+.bullets h2 {
+  border-bottom: 1px solid rgba(51, 51, 51, 0.2);
+  display: inline-block;
+  font-size: 1.4em;
+  margin: 0 0 0.58333em 0;
+  padding-top: 0.5em;
+}
+
+.bullets li {
+  list-style: none;
+}
+
+.bullets p {
+  color: #333;
+  line-height: 1.5;
+}
+
+.bullets img {
+  max-width: 100%;
+}
+
+.themes-section {
+  background-color: black;
+}
+
+.themes-section .newhero {
+  align-items: center;
+  background: #47e5ba;
+  background-position: right;
+  background-size: none;
+  display: flex;
+  justify-content: center;
+  min-height: 25em;
+  padding: 2em;
+}
+
+@media screen and (min-width: 53.75em) {
+  .themes-section .newhero {
+    background-position: left;
+    background-size: cover;
+    justify-content: flex-end;
+  }
+}
+
+.themes-section .newhero .hero-content {
+  max-width: 30em;
+  text-align: center;
+}
+
+@media screen and (min-width: 53.75em) {
+  .themes-section .newhero .hero-content {
+    text-align: left;
+  }
+}
+
+.themes-section .bullets {
+  max-width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.themes-section .bullets::after {
+  clear: both;
+  content: "";
+  display: table;
+}
