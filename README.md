@@ -4,6 +4,12 @@ Central git repo is on gitlab:
 
 http://gitlab.com/rufuspollock/rufuspollock.com
 
+
+## Site Architecture
+
+TODO
+
+
 ## Technical Stuff
 
 * The source is managed in git.
