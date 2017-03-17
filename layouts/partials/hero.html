@@ -1,0 +1,24 @@
+<div class="newhero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.backgroundpath }})">
+  <div class="hero-body">
+
+    <div class="hero-content">
+      <h1> {{ .Title }} </h1>
+      {{ .Content }}
+      {{ range .Params.buttons }}
+        <a class="button" href="{{ .link }}" target="{{ .target }}">{{ .title }}</a>
+      {{ end }}
+    </div>
+
+    <div class="video">
+      <iframe width="450" height="253" src="{{ .Params.videourl }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+  </div>
+
+  <div class="call-to-action">
+
+    <p>Writings & projects</p>
+    <p class="arrow-down"><a href="#blog-post"><i class="ion-chevron-down"></i></a></p>
+
+  </div>
+</div>

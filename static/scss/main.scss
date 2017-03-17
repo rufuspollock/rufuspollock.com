@@ -247,6 +247,7 @@ header.navigation {
   $navigation-submenu-padding: 1em;
   $navigation-submenu-width: 12em;
   $horizontal-bar-mode: $large-screen;
+  $container: 90%;
 
   background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
@@ -255,6 +256,7 @@ header.navigation {
   z-index: 999;
 
   .navigation-wrapper {
+    @include outer-container($container);
     @include clearfix;
     position: relative;
     z-index: 9999;
@@ -524,7 +526,7 @@ header.navigation {
     max-width: 35em;
     text-align: center;
 
-    .button{
+    a.button{
       margin-top: 25px;
       border: 1px solid #fff;
     }
@@ -850,11 +852,10 @@ header.navigation {
   $action-color: #477DCA !default;
   $dark-gray: #333 !default;
   $base-font-color: $dark-gray !default;
-  $icon-bullet-size: 3.5em;
+  $icon-bullet-size: 5.5em;
 
   display: flex;
   flex-wrap: wrap;
-  margin: 1em;
   margin-bottom: $base-line-height;
   overflow: auto;
   padding: 0;
@@ -869,25 +870,25 @@ header.navigation {
     border-radius: 50%;
     float: left;
     height: $icon-bullet-size;
-    padding: $icon-bullet-size / 4;
+    padding: 0;
     width: $icon-bullet-size;
   }
 
   .bullet-icon-1 {
-    background: black;
+    background: white;
   }
 
   .bullet-icon-2 {
-    background:black;
+    background: white;
   }
 
   .bullet-icon-3 {
-    background:#00FFF9;
+    background: white;
   }
 
   .bullet-content {
     margin-bottom: 2em;
-    margin-left: $icon-bullet-size * 1.4;
+    margin-left: $icon-bullet-size * 1.27;
   }
 
   h2 {
@@ -895,7 +896,7 @@ header.navigation {
     display: inline-block;
     font-size: $icon-bullet-size / 2.5;
     margin: 0 0 ($icon-bullet-size / 6) 0;
-    padding-top: $icon-bullet-size / 7;
+    padding-top: $icon-bullet-size / 9;
   }
 
   li {
@@ -912,21 +913,80 @@ header.navigation {
   }
 }
 
+// writings & essays
+.comment {
+  $base-border-radius: 3px !default;
+  $base-spacing: 1.5em !default;
+  $action-color: #477DCA !default;
+  $dark-gray: #333 !default;
+  $base-font-color: $dark-gray !default;
+  $comment-gutter: 1.4em;
+  $comment-image-padding: 0.7em;
+  $comment-image-width: 4em;
+  $comment-color: $base-font-color;
+  $comment-background: lighten($action-color, 15%);
+  $comment-detail-color: transparentize($comment-color, 0.5);
+  $comment-image-vert-alignment: top;
+
+  display: table;
+  margin-bottom: $base-spacing;
+  padding-bottom: 1em;
+  width: 70%;
+
+  .comment-image,
+  .comment-content {
+    display: table-cell;
+    vertical-align: $comment-image-vert-alignment;
+  }
+
+  .comment-image {
+    padding-right: $comment-gutter;
+
+    > img {
+      display: block;
+      height: auto;
+      max-width: none;
+      width: $comment-image-width;
+    }
+
+    .comment-reverse-order & {
+      padding-left: 10px;
+      padding-right: 0;
+    }
+  }
+
+  .comment-content {
+    width: 100%;
+
+    h3 {
+      font-size: 1em;
+      margin: 0 0 0.5em 0;
+    }
+
+    p {
+      line-height: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    p.comment-detail {
+      color: $comment-detail-color;
+      font-size: 0.9em;
+      font-style: italic;
+    }
+  }
+}
+
 .themes-section {
-   background-color: black;
-   $container: 85%;
+  $container: 95%;
+  $dark-gray: #333 !default;
 
   .newhero {
     $large-screen: 50em !default;
-    align-items: center;
-    // the one item we've changed
+    min-height: 88vh;
     background: #47e5ba;
-    background-position: right;
+    background-position: none;
     background-size: none;
-    display: flex;
-    justify-content: center;
-    min-height: 25em;
-    padding: 2em;
+    position: relative;
 
     @include media($large-screen) {
       background-position: left;
@@ -934,17 +994,61 @@ header.navigation {
       justify-content: flex-end;
     }
 
-    .hero-content {
-      max-width: 30em;
-      text-align: center;
+    .hero-body {
+      @include outer-container($container);
+      align-items: center;
+      display: flex;
+      justify-content: flex-start !important;
+      min-height: 88vh;
+      padding: 2em 2em 6em 2em;
 
-      @include media($large-screen) {
-        text-align: left;
+      .hero-content {
+        max-width: 30em;
+        text-align: center;
+        @include media($large-screen) {
+          text-align: left;
+        }
+        a {
+          margin: 1.95em 0.5em 0 0;
+          border-radius: 0;
+        }
+      }
+
+      .video {
+        @include shift(1.5);
+      }
+    }
+
+    .call-to-action {
+      width: 50%;
+      height: 12%;
+      position: absolute;
+      left: 25%;
+      top: 88%;
+      p {
+        text-align: center;
+        align-items: center;
+        margin: 0;
+        font-size: 0.9em;
+      }
+      .arrow-down {
+        font-size: 2.6em;
+        a {
+          color: $dark-gray;
+        }
       }
     }
   }
 
-  .bullets {
-    @include outer-container($container);
+  h1 {
+    font-size: 2.6em;
+  }
+  h2 {
+    font-size: 2em;
+  }
+
+  section {
+    padding: 3em 0 0 0;
+    @include outer-container($container - 5%);
   }
 }

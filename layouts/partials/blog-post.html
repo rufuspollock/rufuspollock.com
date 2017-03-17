@@ -1,0 +1,20 @@
+{{ if isset .Params "themetoshow" }}
+  {{ $theme := .Params.themetoshow }}
+  <section id="blog-post">
+    <h2>Writings and Essays</h2>
+    {{ range first 3 (where .Site.Pages "Params.themes" "intersect" $theme) }}
+
+        <div class="comment">
+          <div class="comment-image">
+            <img src="../images/pen.png">
+          </div>
+          <div class="comment-content">
+            <h3>{{ .Title }}</h3>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .Permalink }}">Read full article</a>
+          </div>
+        </div>
+
+    {{ end }}
+  </section>
+{{ end }}
