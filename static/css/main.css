@@ -4139,7 +4139,8 @@ header.navigation {
   padding: 0; }
   .bullets .bullet {
     flex-basis: 20em;
-    flex-grow: 1; }
+    flex-grow: 1;
+    max-width: 33.33%; }
   .bullets .bullet-icon {
     background: black;
     border-radius: 50%;
@@ -4267,5 +4268,20 @@ header.navigation {
     clear: both;
     content: "";
     display: table; }
+.themes-section .logo-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left; }
+  .themes-section .logo-section li {
+    align-self: center;
+    list-style: none;
+    padding: 2em;
+    text-align: center; }
+    .themes-section .logo-section li .square-logo {
+      max-height: 5em; }
+    .themes-section .logo-section li .wide-logo {
+      max-width: 10em; }
+    .themes-section .logo-section li .wider-logo {
+      max-width: 15em; }
 
 /*# sourceMappingURL=main.css.map */
