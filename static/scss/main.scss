@@ -863,6 +863,7 @@ header.navigation {
   .bullet {
     flex-basis: 20em;
     flex-grow: 1;
+    max-width: 33.33%;
   }
 
   .bullet-icon {
@@ -1053,5 +1054,30 @@ header.navigation {
   section {
     padding: 3em 0 0 0;
     @include outer-container($container - 5%);
+  }
+
+  .logo-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+
+    li {
+      align-self: center;
+      list-style: none;
+      padding: 2em;
+      text-align: center;
+
+      .square-logo {
+        max-height: 5em;
+      }
+
+      .wide-logo {
+        max-width: 10em;
+      }
+
+      .wider-logo {
+        max-width: 15em;
+      }
+    }
   }
 }
