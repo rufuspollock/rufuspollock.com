@@ -1,0 +1,21 @@
+{{ if isset .Params "projectstoshow" }}
+<section>
+  <h2>Projects</h2>
+  <ul class="bullets">
+    {{ range where .Site.Pages "Section" "project" }}
+    {{ $project := . }}
+    {{ if isset .Params "logopath" }}
+    <li class="bullet">
+      <div class="bullet-icon bullet-icon-1">
+        <img src="{{ $.Site.BaseURL }}images/{{ $project.Params.logopath }}" />
+      </div>
+      <div class="bullet-content">
+        <a href="{{ $project.Params.website }}"><h2>{{ $project.Title }}</h2></a>
+        <p>{{ $project.Content }}</p>
+        </div>
+    </li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
