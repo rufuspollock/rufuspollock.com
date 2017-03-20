@@ -859,6 +859,7 @@ header.navigation {
   margin-bottom: $base-line-height;
   overflow: auto;
   padding: 0;
+  margin-top: 3em;
 
   .bullet {
     flex-basis: 20em;
@@ -1080,4 +1081,46 @@ header.navigation {
       }
     }
   }
+
+  .side-image {
+    $large-screen: 53.75em !default;
+    background: #F9F9F9;
+    @include media($large-screen) {
+      @include row(table);
+    }
+
+    .images-wrapper {
+      display: block;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F9F9F9;
+      min-height: 12em;
+      @include media($large-screen) {
+        @include span-columns(10);
+        background-position: center;
+      }
+    }
+
+    .side-image-content {
+      @include span-columns(12);
+      padding: 1em 1em 4em 1em;
+      h1 {
+        margin-bottom: 0.25em;
+      }
+      p {
+        margin-bottom: 0.25em;
+      }
+      .content {
+        margin-top: 1.75em;
+      }
+
+      @include media($large-screen) {
+        @include span-columns(8);
+        padding: 4em 4em 8em 4em;
+      }
+    }
+
+    @include reset-display();
+  }
+
 }

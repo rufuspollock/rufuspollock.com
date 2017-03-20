@@ -11,7 +11,7 @@
         <img src="{{ $.Site.BaseURL }}images/{{ $project.Params.logopath }}" />
       </div>
       <div class="bullet-content">
-        <a href="{{ $project.Params.website }}"><h2>{{ $project.Title }}</h2></a>
+        <a href="{{ .Permalink }}"><h2>{{ $project.Title }}</h2></a>
         <p>{{ $project.Summary }}</p>
         </div>
     </li>
