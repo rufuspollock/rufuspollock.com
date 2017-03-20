@@ -13,13 +13,12 @@ before_script:
   - git lfs pull
   - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz
   - echo "3fc43b23a35dfe5290196bd0fc01f13f  hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
-  - mv ./hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 ./hugo_0.19_linux_amd64/hugo
-  - tar xf hugo_0.19_Linux-64bit.tar.gz && cp ./hugo_0.19_linux_amd64/hugo /usr/bin
-  - hugo version
+  - tar xf hugo_0.19_Linux-64bit.tar.gz && cp ./hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 /usr/bin
+  - hugo_0.19_linux_amd64 version
 
 pages:
   script:
-  - hugo
+  - hugo_0.19_linux_amd64
   artifacts:
     paths:
     - public
