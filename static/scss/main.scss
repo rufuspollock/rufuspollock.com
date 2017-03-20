@@ -889,6 +889,9 @@ header.navigation {
   .bullet-content {
     margin-bottom: 2em;
     margin-left: $icon-bullet-size * 1.27;
+    a {
+      color: black;
+    }
   }
 
   h2 {
