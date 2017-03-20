@@ -1,0 +1,76 @@
+{{ partial "head.html" . }}
+    <body>
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+
+                  {{ partial "navbar.html" . }}
+
+                  <div class="themes-section">
+
+                    <div class="newhero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.backgroundpath }})">
+                      <div class="hero-body">
+
+                        <div class="hero-content">
+                          <h1> {{ .Title }} </h1>
+                          {{ .Content }}
+                          {{ range .Params.buttons }}
+                            <a class="button" href="{{ .link }}" target="{{ .target }}">{{ .title }}</a>
+                          {{ end }}
+                        </div>
+
+                      </div>
+
+                      <div class="call-to-action">
+
+                        <p>More</p>
+                        <p class="arrow-down"><a href="#projects"><i class="ion-chevron-down"></i></a></p>
+
+                      </div>
+                    </div>
+
+
+                    <section id="projects">
+                      <h2>Featured projects</h2>
+                      <ul class="bullets">
+                        {{ range where .Data.Pages "Section" "project" }}
+                        {{ if eq .Params.featured true }}
+                        <li class="bullet">
+                          <div class="bullet-icon bullet-icon-1">
+                            <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
+                          </div>
+                          <div class="bullet-content">
+                            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+                            <p>{{ .Summary }}</p>
+                            </div>
+                        </li>
+                        {{ end }}
+                        {{ end }}
+                      </ul>
+                    </section>
+
+                    <section>
+                      <h2>More projects</h2>
+                      <ul class="bullets">
+                        {{ range where .Data.Pages "Section" "project" }}
+                        {{ if ne .Params.featured true }}
+                        <li class="bullet">
+                          <div class="bullet-icon bullet-icon-1">
+                            <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
+                          </div>
+                          <div class="bullet-content">
+                            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+                            <p>{{ .Summary }}</p>
+                            </div>
+                        </li>
+                        {{ end }}
+                        {{ end }}
+                      </ul>
+                    </section>
+
+                  </div>
+
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+</html>
