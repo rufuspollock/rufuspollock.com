@@ -12,7 +12,7 @@ before_script:
   - tar xf git-lfs-linux-amd64-2.0.1.tar.gz && mv git-lfs-2.0.1/git-lfs /usr/bin/ && rm -Rf git-lfs-2.0.1
   - git lfs pull
   - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz
-  - echo "3FC43B23A35DFE5290196BD0FC01F13F  hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
+  - echo "3fc43b23a35dfe5290196bd0fc01f13f  hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
   - tar xf hugo_0.19_Linux-64bit.tar.gz && cp ./hugo /usr/bin
   - hugo version
 
