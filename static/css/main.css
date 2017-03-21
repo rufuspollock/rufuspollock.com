@@ -4161,7 +4161,6 @@ header.navigation {
     .bullets .bullet-content a {
       color: black; }
   .bullets h2 {
-    border-bottom: 1px solid rgba(51, 51, 51, 0.2);
     display: inline-block;
     font-size: 2.2em;
     margin: 0 0 0.91667em 0;

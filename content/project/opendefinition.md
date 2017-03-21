@@ -4,6 +4,7 @@ section: project
 website: http://opendefinition.org/
 logoPath: open-data-square.png
 imagePath: open-definition-image.jpg
+featured: true
 ---
 
 The Open Definition sets out principles that define “openness” in relation to data and content. It makes precise the meaning of “open” in the terms “open data” and “open content” and thereby ensures quality and encourages compatibility between different pools of open material.

@@ -4,7 +4,6 @@ section: project
 website: http://data.okfn.org/roadmap/core-datasets/
 logoPath: open-data-square.png
 imagePath: project-core-datasets.png
-featured: true
 startend: 2013 - present
 ---
 
