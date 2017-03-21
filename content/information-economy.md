@@ -8,7 +8,7 @@ buttons: [
   {title: Open Knowledge >>, link: "https://okfn.org/", target: _blank},
   {title: Open leaders programme >>, link: "http://open-leaders.com/", target: _blank}
 ]
-projectstoshow: [CKAN, Open Spending, Open Trials]
+projectstoshow: [Open Knowledge International, Open Data Index, Open Definition]
 ---
 
 If you have ever been online, watched a movie or taken a medicine you have been a user of information. Today information in the form of software, databases and innovations is becoming more important than ever before. Information is becoming main thing we make, trade and use.

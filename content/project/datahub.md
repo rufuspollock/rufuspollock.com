@@ -4,7 +4,6 @@ section: project
 website: http://datahub.io/
 logoPath: Icon-DataHub.png
 imagePath: project-datahub.png
-featured: true
 ---
 
 DataHub is the free, powerful data management platform from Open Knowledge International, based on the CKAN data management system.
