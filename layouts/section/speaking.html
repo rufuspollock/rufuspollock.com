@@ -1,0 +1,63 @@
+{{ partial "head.html" . }}
+    <body>
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+
+                  {{ partial "navbar.html" . }}
+
+                  <div class="themes-section">
+
+                    <div class="newhero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.backgroundpath }})">
+                      <div class="hero-body">
+
+                        <div class="hero-content">
+                          <h1> {{ .Title }} </h1>
+                          {{ .Content }}
+                          {{ range .Params.buttons }}
+                            <a class="button" href="{{ .link }}" target="{{ .target }}">{{ .title }}</a>
+                          {{ end }}
+                        </div>
+
+                        <div class="video">
+                          <iframe width="450" height="253" src="{{ .Params.videourl }}" frameborder="0" allowfullscreen></iframe>
+                        </div>
+
+                      </div>
+
+                      <div class="call-to-action">
+
+                        <p>More videos</p>
+                        <p class="arrow-down"><a href="#upcoming"><i class="ion-chevron-down"></i></a></p>
+
+                      </div>
+                    </div>
+
+                    <section>
+                      <h2>More videos</h2>
+                      <ul class="links">
+                        {{ range .Site.Data.video.speaking.talks.videolinks }}
+                        <li class="link">
+                          <div>
+                            <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+                          </div>
+                        </li>
+                        {{ end }}
+                      </ul>
+                    </section>
+
+                    <section>
+                      <h2>Where I Spoke</h2>
+                      <ul class="logo-section">
+                        {{ range .Params.logostoshow }}
+                        <li><img class="{{ .wideness }}" src="{{ $.Site.BaseURL }}images/{{ .source }}" alt="" /></li>
+                        {{ end }}
+                      </ul>
+                    </section>
+
+                  </div>
+
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+</html>
