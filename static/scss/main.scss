@@ -1123,4 +1123,21 @@ header.navigation {
     @include reset-display();
   }
 
+  .links {
+    $base-line-height: 1.5em !default;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: $base-line-height;
+    overflow: auto;
+    padding: 0;
+    margin-top: 3em;
+
+    .link {
+      flex-basis: 30em;
+      flex-grow: 1;
+      max-width: 50%;
+    }
+  }
+
 }
