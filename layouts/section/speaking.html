@@ -27,12 +27,12 @@
                       <div class="call-to-action">
 
                         <p>More videos</p>
-                        <p class="arrow-down"><a href="#upcoming"><i class="ion-chevron-down"></i></a></p>
+                        <p class="arrow-down"><a onclick="scrollDown()"><i class="ion-chevron-down"></i></a></p>
 
                       </div>
                     </div>
 
-                    <section>
+                    <section class="next-section">
                       <h2>More videos</h2>
                       <ul class="links">
                         {{ range .Site.Data.video.speaking.talks.videolinks }}
