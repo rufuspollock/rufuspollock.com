@@ -2,6 +2,7 @@
     <body>
         <div class="content-wrapper">
             <div class="content-wrapper__inner">
+              {{ partial "navbar.html" . }}
                 {{ range .Data.Pages.GroupByDate "2006" }}
                 <h2>{{ .Key }}</h2>
                 <ul id="list">
