@@ -4143,18 +4143,12 @@ header.navigation {
     flex-grow: 1;
     max-width: 33.33%; }
   .bullets .bullet-icon {
-    background: black;
+    background: white;
     border-radius: 50%;
     float: left;
     height: 5.5em;
     padding: 0;
     width: 5.5em; }
-  .bullets .bullet-icon-1 {
-    background: white; }
-  .bullets .bullet-icon-2 {
-    background: white; }
-  .bullets .bullet-icon-3 {
-    background: white; }
   .bullets .bullet-content {
     margin-bottom: 2em;
     margin-left: 6.985em; }
@@ -4171,6 +4165,42 @@ header.navigation {
     color: #333;
     line-height: 1.5; }
   .bullets img {
+    max-width: 100%; }
+
+.bullets-small {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1.5;
+  overflow: auto;
+  padding: 0;
+  margin-top: 3em; }
+  .bullets-small .bullet-small {
+    flex-basis: 10em;
+    flex-grow: 1;
+    max-width: 25%; }
+  .bullets-small .bullet-icon-small {
+    background: white;
+    border-radius: 50%;
+    float: left;
+    height: 4.95em;
+    padding: 0;
+    width: 4.95em; }
+  .bullets-small .bullet-content-small {
+    margin-bottom: 2em;
+    margin: 0 1.375em 2em 5.5em; }
+    .bullets-small .bullet-content-small a {
+      color: black; }
+      .bullets-small .bullet-content-small a h2 {
+        display: inline-block;
+        font-size: 1.57143em;
+        margin: 0 0.91667em 0.91667em 0;
+        padding-top: 0; }
+  .bullets-small li {
+    list-style: none; }
+  .bullets-small p {
+    color: #333;
+    line-height: 1.5; }
+  .bullets-small img {
     max-width: 100%; }
 
 .comment {

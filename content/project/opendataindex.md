@@ -1,6 +1,7 @@
 ---
 title: Open Data Index
 section: project
+weight: 4
 website: http://index.okfn.org/
 logoPath: opendataindex.jpg
 imagePath: Index_screen1-1024x645.png

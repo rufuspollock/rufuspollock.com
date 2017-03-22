@@ -1,6 +1,7 @@
 ---
 title: Open Definition
 section: project
+weight: 3
 website: http://opendefinition.org/
 logoPath: open-data-square.png
 imagePath: open-definition-image.jpg

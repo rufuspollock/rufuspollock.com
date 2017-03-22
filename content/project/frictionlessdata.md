@@ -1,6 +1,7 @@
 ---
 title: Frictionless Data
 section: project
+weight: 7
 website: http://frictionlessdata.io/
 logoPath: frictionlessdata.jpg
 imagePath: project-frictionless-data.png
