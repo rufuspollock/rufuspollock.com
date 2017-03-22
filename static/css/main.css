@@ -4357,5 +4357,33 @@ header.navigation {
     flex-basis: 30em;
     flex-grow: 1;
     max-width: 50%; }
+.themes-section .event {
+  display: table;
+  margin-bottom: 1.5em;
+  margin-top: 3em;
+  padding-bottom: 1em;
+  width: 90%; }
+  .themes-section .event .event-image,
+  .themes-section .event .event-content {
+    display: table-cell;
+    vertical-align: top; }
+  .themes-section .event .event-image {
+    padding-right: 1.4em; }
+    .themes-section .event .event-image > img {
+      display: block;
+      height: auto;
+      max-width: none;
+      width: 25em; }
+  .themes-section .event .event-content {
+    width: 100%; }
+  .themes-section .event h3 {
+    font-size: 1.7em;
+    margin-bottom: 0.25em; }
+  .themes-section .event .subheading {
+    color: #666666;
+    font-size: 0.9em;
+    margin-bottom: 0; }
+    .themes-section .event .subheading a {
+      color: #666666; }
 
 /*# sourceMappingURL=main.css.map */

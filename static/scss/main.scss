@@ -1185,4 +1185,47 @@ header.navigation {
     }
   }
 
+  .event {
+    $base-spacing: 1.5em !default;
+    $dark-gray: #333 !default;
+    $base-font-color: $dark-gray !default;
+    $event-gutter: 1.4em;
+    $event-image-width: 25em;
+    $event-image-vert-alignment: top;
+    display: table;
+    margin-bottom: $base-spacing;
+    margin-top: $base-spacing * 2;
+    padding-bottom: 1em;
+    width: 90%;
+    .event-image,
+    .event-content {
+      display: table-cell;
+      vertical-align: $event-image-vert-alignment;
+    }
+    .event-image {
+      padding-right: $event-gutter;
+      > img {
+        display: block;
+        height: auto;
+        max-width: none;
+        width: $event-image-width;
+      }
+    }
+    .event-content {
+      width: 100%;
+    }
+    h3 {
+      font-size: 1.7em;
+      margin-bottom: 0.25em;
+    }
+    .subheading {
+      color: lighten($dark-gray, 20%);
+      font-size: 0.9em;
+      margin-bottom: 0;
+      a {
+        color: lighten($dark-gray, 20%);
+      }
+    }
+  }
+
 }
