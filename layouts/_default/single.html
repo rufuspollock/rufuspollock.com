@@ -3,21 +3,7 @@
         <div class="content-wrapper">
             <div class="content-wrapper__inner">
                 <div>
-                  <header class="navigation" role="banner">
-                    <div class="navigation-wrapper">
-                      <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-                      <nav role="navigation">
-                        <ul id="js-navigation-menu" class="navigation-menu show">
-                          <li style= "margin-left:25px; font-size:21px; font-weight:500"class="nav-link"><a href="/">RUFUS POLLOCK</a></li>
-                          <li style= "font-size:14px;"class="nav-link"><a href="/about/">ABOUT</a></li>
-                          <li style= "font-size:14px;"class="nav-link"><a href="/speaking/">SPEAKING</a></li>
-                          <li style= "font-size:14px;"class="nav-link"><a href="/consulting/">CONSULTING</a></li>
-                          <li style= "font-size:14px;"class="nav-link"><a href="/open/">OPEN WORLD</a></li>
-                            <li style= "font-size:14px;"class="nav-link"><a href="/contact/">CONTACT</a></li>
-                        </ul>
-                      </nav>
-                    </div>
-                  </header>
+                  {{ partial "navbar.html" . }}
                   <!-- <h1>{{ .Title }}</h1> -->
                     {{ .Content }}
                 </div>
