@@ -1,6 +1,7 @@
 ---
 title: Open Spending
 section: project
+weight: 6
 website: https://openspending.org/
 logoPath: os.png
 imagePath: Image - OpenSpending.png

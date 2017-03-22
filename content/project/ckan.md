@@ -1,6 +1,7 @@
 ---
 title: CKAN
 section: project
+weight: 9
 website: https://CKAN.org/
 logoPath: ckan.png
 imagePath: ckan_image.jpg

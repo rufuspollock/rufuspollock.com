@@ -1,6 +1,7 @@
 ---
 title: Open Trials
 section: project
+weight: 5
 website: https://opentrials.net/
 logoPath: trial.png
 imagePath: Image - OpenTrials.png

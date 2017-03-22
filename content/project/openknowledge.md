@@ -1,6 +1,7 @@
 ---
 title: Open Knowledge International
 section: project
+weight: 8
 website: http://okfn.org/
 logoPath: icon-grey-512x512.png
 imagePath: icon-grey-512x512.png
