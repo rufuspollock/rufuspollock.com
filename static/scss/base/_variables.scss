@@ -33,7 +33,7 @@ $action-color: $base-accent-color;
 $base-link-color: $base-accent-color !default;
 
 // Border
-$base-border-color: $light-gray;
+$base-border-color: darken($light-gray, 40%);
 $base-border: 1px solid $base-border-color;
 
 // Forms

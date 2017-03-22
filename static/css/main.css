@@ -395,8 +395,8 @@ a.button {
     opacity: 0.5; }
 
 fieldset {
-  background-color: white;
-  border: 1px solid #FAFAFA;
+  background-color: #aeaeae;
+  border: 1px solid #949494;
   margin: 0 0 0.75em;
   padding: 1.5em; }
 
@@ -419,7 +419,7 @@ input[type="email"], input[type="number"], input[type="password"], input[type="s
 select[multiple=multiple],
 textarea {
   background-color: #fff;
-  border: 1px solid #FAFAFA;
+  border: 1px solid #949494;
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
@@ -432,7 +432,7 @@ textarea {
   input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="url"]:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="time"]:hover, input[type="week"]:hover,
   select[multiple=multiple]:hover,
   textarea:hover {
-    border-color: #e1e1e1; }
+    border-color: #7b7b7b; }
   input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, input[type="color"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus,
   select[multiple=multiple]:focus,
   textarea:focus {
@@ -497,13 +497,13 @@ table {
   width: 100%; }
 
 th {
-  border-bottom: 1px solid #d4d4d4;
+  border-bottom: 1px solid #6e6e6e;
   font-weight: 600;
   padding: 0.75em 0;
   text-align: left; }
 
 td {
-  border-bottom: 1px solid #FAFAFA;
+  border-bottom: 1px solid #949494;
   padding: 0.75em 0; }
 
 tr,
@@ -546,7 +546,7 @@ a {
     outline: none; }
 
 hr {
-  border-bottom: 1px solid #FAFAFA;
+  border-bottom: 1px solid #949494;
   border-left: none;
   border-right: none;
   border-top: none;
@@ -3799,7 +3799,7 @@ header.navigation {
           margin-right: 1em; } }
       header.navigation li.more > a::after {
         content: "›";
-        font-size: 1.2em;
+        font-size: 1em;
         position: absolute;
         right: 0.5em; }
     header.navigation li.more:focus > .submenu, header.navigation li.more:hover > .submenu {
@@ -3833,7 +3833,7 @@ header.navigation {
       padding-right: 0; }
       @media screen and (min-width: 53.75em) {
         header.navigation ul.submenu li {
-          line-height: 46.15385px; }
+          line-height: 37.5px; }
           header.navigation ul.submenu li:first-child > a {
             border-top-left-radius: 3px;
             border-top-right-radius: 3px; }
@@ -3851,7 +3851,7 @@ header.navigation {
             background-color: #fff;
             padding-left: 1em;
             text-align: left;
-            width: 12em; } }
+            width: 15.6em; } }
 
 .hero {
   align-items: center;
