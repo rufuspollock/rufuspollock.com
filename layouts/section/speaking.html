@@ -33,6 +33,27 @@
                     </div>
 
                     <section class="next-section">
+                      <h2>Speaking next</h2>
+                      {{ $theme := .Params.themetoshow }}
+                      {{ range where .Site.Pages "Params.themes" "intersect" $theme }}
+                      {{ $date := time .Params.eventdate }}
+                      {{ if ge $date.Unix .Now.Unix }}
+                      <div class="event">
+                        <div class="event-content">
+                          <h3>{{ .Params.venue }}</h3>
+                          <p class="subheading"><i class="icon ion-calendar"></i> {{ $date.Format "2 January 2006" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon ion-location"></i> {{ .Params.location }}</p>
+                          <p class="subheading"><a href="{{ .Params.link }}" target="_blank">more about venue</a></p>
+                          <p>{{ .Content }}</p>
+                        </div>
+                        <div class="event-image">
+                          <img src="{{ with .Params.image }}{{ $.Site.BaseURL }}images/{{ . }}{{ else }}../images/pen.png{{ end }}">
+                        </div>
+                      </div>
+                      {{ end }}
+                      {{ end }}
+                    </section>
+
+                    <section>
                       <h2>More videos</h2>
                       <ul class="links">
                         {{ range .Site.Data.video.speaking.talks.videolinks }}
