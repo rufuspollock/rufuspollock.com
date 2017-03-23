@@ -1,6 +1,6 @@
 ---
 title: Speaking
-backgroundPath: background-speaker.jpg
+backgroundColor: 6ba3e8
 videoUrl: "https://www.youtube.com/embed/4nsVs87QGhQ"
 buttons: [
   {title: Book me, link: "/contact"}

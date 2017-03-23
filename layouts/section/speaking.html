@@ -7,7 +7,7 @@
 
                   <div class="themes-section">
 
-                    <div class="newhero" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.backgroundpath }})">
+                    <div class="newhero" style="background: #{{ .Params.backgroundcolor }}">
                       <div class="hero-body">
 
                         <div class="hero-content">
@@ -55,14 +55,34 @@
 
                     <section>
                       <h2>More videos</h2>
-                      <ul class="links">
-                        {{ range .Site.Data.video.speaking.talks.videolinks }}
-                        <li class="link">
-                          <div>
-                            <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+                      <ul class="bullets">
+                        <li class="bullet">
+                          <div class="bullet-video">
+                            <iframe src="https://www.youtube.com/embed/15L7i0201ms?autoplay=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+                          </div>
+                          <div class="bullet-video-content">
+                            <a class="read-more">Rufus Pollock - We Shift</a>
+                            <p>Short description about the video</p>
                           </div>
                         </li>
-                        {{ end }}
+                        <li class="bullet">
+                          <div class="bullet-video">
+                            <iframe src="https://www.youtube.com/embed/6cRtbA_d4RI?autoplay=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+                          </div>
+                          <div class="bullet-video-content">
+                            <a class="read-more">Open Data: How We Got Here and Where We're Going by Rufus Pollock</a>
+                            <p>Short description about the video</p>
+                          </div>
+                        </li>
+                        <li class="bullet">
+                          <div class="bullet-video">
+                            <iframe src="https://www.youtube.com/embed/gWRTzg05Tmk?autoplay=0&showinfo=0&controls=0" frameborder="0" allowfullscreen></iframe>
+                          </div>
+                          <div class="bullet-video-content">
+                            <a class="read-more">Rufus Pollock | The Long Struggle for Open Knowledge</a>
+                            <p>Short description about the video</p>
+                          </div>
+                        </li>
                       </ul>
                     </section>
 

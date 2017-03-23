@@ -4204,6 +4204,14 @@ header.navigation {
       color: black; }
     .bullets .bullet-content .read-more {
       color: #0fb3ff !important; }
+  .bullets .bullet-video {
+    padding: 0; }
+    .bullets .bullet-video iframe {
+      height: 191px;
+      width: 340px; }
+  .bullets .bullet-video-content {
+    height: auto;
+    width: 340px; }
   .bullets h2 {
     display: inline-block;
     font-size: 2.2em;
@@ -4289,7 +4297,6 @@ header.navigation {
 
 .themes-section .newhero {
   min-height: 88vh;
-  background: #47e5ba;
   background-position: none;
   background-size: none;
   position: relative; }
