@@ -943,6 +943,17 @@ header.navigation {
     }
   }
 
+  .bullet-video {
+    padding: 0;
+    iframe {
+      @include size(340px 191px);
+    }
+  }
+
+  .bullet-video-content {
+    @include size(340px auto);
+  }
+
   h2 {
     display: inline-block;
     font-size: $icon-bullet-size / 2.5;
@@ -1095,7 +1106,6 @@ header.navigation {
   .newhero {
     $large-screen: 50em !default;
     min-height: 88vh;
-    background: #47e5ba;
     background-position: none;
     background-size: none;
     position: relative;
