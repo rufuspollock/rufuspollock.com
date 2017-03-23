@@ -12,7 +12,10 @@
       </div>
       <div class="bullet-content">
         <a href="{{ .Permalink }}"><h2>{{ $project.Title }}</h2></a>
-        <p>{{ $project.Summary }}</p>
+        <p>
+          {{ $project.Summary }}
+          <a href="{{ .Permalink }}" class="read-more">Read more</a>
+        </p>
         </div>
     </li>
     {{ end }}

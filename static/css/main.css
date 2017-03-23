@@ -4202,6 +4202,8 @@ header.navigation {
     margin-left: 6.985em; }
     .bullets .bullet-content a {
       color: black; }
+    .bullets .bullet-content .read-more {
+      color: #0fb3ff !important; }
   .bullets h2 {
     display: inline-block;
     font-size: 2.2em;
@@ -4243,6 +4245,8 @@ header.navigation {
         font-size: 1.57143em;
         margin: 0 0.91667em 0.91667em 0;
         padding-top: 0; }
+    .bullets-small .bullet-content-small .read-more {
+      color: #0fb3ff !important; }
   .bullets-small li {
     list-style: none; }
   .bullets-small p {

@@ -938,6 +938,9 @@ header.navigation {
     a {
       color: black;
     }
+    .read-more {
+      color: #0fb3ff !important;
+    }
   }
 
   h2 {
@@ -1002,6 +1005,9 @@ header.navigation {
         margin: 0 ($icon-bullet-size / 6) ($icon-bullet-size / 6) 0;
         padding-top: 0;
       }
+    }
+    .read-more {
+      color: #0fb3ff !important;
     }
   }
 

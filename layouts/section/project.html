@@ -18,7 +18,10 @@
                           </div>
                           <div class="bullet-content">
                             <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-                            <p>{{ .Summary }}</p>
+                            <p>
+                              {{ .Summary }}
+                              <a href="{{ .Permalink }}" class="read-more">Read more</a>
+                            </p>
                           </div>
                         </li>
                         {{ end }}
@@ -37,7 +40,10 @@
                           </div>
                           <div class="bullet-content-small">
                             <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-                            <p>{{ .Summary }}</p>
+                            <p>
+                              {{ .Summary }}
+                              <a href="{{ .Permalink }}" class="read-more">Read more</a>
+                            </p>
                           </div>
                         </li>
                         {{ end }}
