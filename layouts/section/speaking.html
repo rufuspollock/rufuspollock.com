@@ -27,12 +27,12 @@
                       <div class="call-to-action">
 
                         <p>More videos</p>
-                        <p class="arrow-down"><a onclick="scrollDown()"><i class="ion-chevron-down"></i></a></p>
+                        <p class="arrow-down"><a onclick="scrollDown()" href="#next-section"><i class="ion-chevron-down"></i></a></p>
 
                       </div>
                     </div>
 
-                    <section class="next-section">
+                    <section id="next-section">
                       <h2>Speaking next</h2>
                       {{ $theme := .Params.themetoshow }}
                       {{ range where .Site.Pages "Params.themes" "intersect" $theme }}
