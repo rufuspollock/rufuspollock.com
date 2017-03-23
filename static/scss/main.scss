@@ -501,164 +501,220 @@ header.navigation {
 
 // ========================================================
 // front page
-
-.hero {
-  $large-screen: 50em !default;
-  align-items: center;
-  background: url("../images/Rufus_Pollock_2-1024x684.jpeg");
-  background-position: right;
-  background-size: none;
-  display: block;
-  justify-content: center;
-  min-height: 7em;
-  padding: 2em;
-
-  @include media($large-screen) {
-    background-position: left;
-    background-size: cover;
-    justify-content: flex-end;
-  }
-
-
-  .hero-content {
-    margin-top:12em;
-    margin-bottom:10em;
-    max-width: 35em;
-    text-align: center;
-
-    a.button{
-      margin-top: 25px;
-      border: 1px solid #fff;
-    }
-
-    @include media($large-screen) {
-      text-align: left;
-    }
-  }
-
-  .hero-logo {
-    margin: auto;
-  }
-}
-
-.video-wrapper {
-  height: 0;
-  overflow: hidden;
-  padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
-  position: relative;
-
-  embed,
-  object,
-  iframe {
-    @include position(absolute, 0 null null 0);
-    @include size(100%);
-  }
-}
-
-.side-image {
-  $base-line-height: 1.5em !default;
-  $action-color: #477DCA !default;
-  $dark-gray: #333 !default;
-  $large-screen: 53.75em !default;
-  $base-font-color: $dark-gray !default;
-  $side-image-background-top: #B5EBEB;
-  $side-image-background-bottom: #5DAC5D;
-  $side-image-content-background: #F9F9F9;
-  $side-image-border: 1px solid darken(transparentize($side-image-background-bottom, 0.8), 30%);
-
-  background: $side-image-content-background;
-
-  @include media($large-screen) {
-    @include row(table);
-  }
-
-  .images-wrapper {
-    background: url("../images/wise.jpg"),
-                linear-gradient($side-image-background-top, $side-image-background-bottom),
-                no-repeat $side-image-background-top scroll;
-    background-color: $side-image-background-top;
-    background-size: cover;
+.home-template {
+  .hero {
+    $large-screen: 50em !default;
+    align-items: center;
+    background: url("../images/Rufus_Pollock_2.jpeg");
+    background-position: right;
+    background-size: none;
     display: block;
-    min-height: 12em;
-    padding: 3em;
+    justify-content: center;
+    min-height: 7em;
+    padding: 2em 5%;
 
     @include media($large-screen) {
-      @include span-columns(6);
-      background-position: bottom;
+      background-position: left;
       background-size: cover;
-
-    }
-  }
-
-  .images-wrapper-2 {
-    background: url("../images/DSC_9088bw_Sarah_Hickson.jpg"),
-                linear-gradient($side-image-background-top, $side-image-background-bottom),
-                no-repeat $side-image-background-top scroll;
-    background-color: $side-image-background-top;
-    background-size: cover;
-    display: block;
-    min-height: 12em;
-    padding: 3em;
-
-    @include media($large-screen) {
-      @include span-columns(6);
-      background-position: bottom;
-      background-size: cover;
-
-    }
-  }
-
-  .images-wrapper-3 {
-    background: url("../images/6.jpg"),
-                linear-gradient($side-image-background-top, $side-image-background-bottom),
-                no-repeat $side-image-background-top scroll;
-    background-color: $side-image-background-top;
-    background-size: cover;
-    display: block;
-    min-height: 12em;
-    padding: 3em;
-
-    @include media($large-screen) {
-      @include span-columns(6);
-      background-position: bottom;
-      background-size: cover;
-      border-right: $side-image-border;
-    }
-  }
-
-  .side-image-content {
-    @include span-columns(12);
-    padding: 1em 1em 4em 1em;
-
-    @include media($large-screen) {
-      @include span-columns(6);
-      padding: 4em 4em 8em 4em;
+      justify-content: flex-end;
     }
 
-    h1 {
-      margin-bottom: 0.9em;
-    }
 
-    h4 {
-      background: #BBB;
+    .hero-content {
+      margin-top:12em;
+      margin-bottom:10em;
+      max-width: 35em;
+      text-align: center;
       color: white;
-      display: inline-block;
-      font-size: 0.75em;
-      margin-bottom: 1.3em;
-      padding: 3px 8px;
-      text-transform: uppercase;
+      h1, h3, h4 {
+        margin-bottom:20px;
+      }
+      h1 {
+        font-size: 70px;
+        font-weight: 300;
+      }
+      h3 {
+        font-size:30px;
+        font-weight:300;
+      }
+      h4 {
+        font-size: 25px;
+        font-weight: 200;
+      }
+      a.button{
+        margin: 25px 10px 20px 0;
+        border: 1px solid #fff;
+        border-radius: 0;
+        font-size: 20px;
+      }
+      a {
+        i {
+          color: white;
+          font-size:25px;
+          margin-right:6px;
+        }
+      }
+
+      @include media($large-screen) {
+        text-align: left;
+      }
     }
 
-    p {
-      color: $base-font-color;
-      line-height: $base-line-height;
-      margin-bottom: 3em;
+    .hero-logo {
+      margin: auto;
+    }
+
+    .call-to-action {
+      @include position(absolute, 88% null null 25%);
+      @include size(50% 12%);
+      p {
+        color: white;
+        text-align: center;
+        align-items: center;
+        margin: 0;
+        font-size: 0.9em;
+      }
+      .arrow-down {
+        font-size: 2.6em;
+        a {
+          color: white;
+        }
+      }
     }
   }
 
-  @include reset-display();
-}
+  .video {
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 65%; // For ratio 16:9. 75% if ratio is 4:3
+    position: relative;
+    .video-wrapper {
+      embed,
+      object,
+      iframe {
+        @include position(13vh null null calc(50vw - 420px));
+        @include size(840px 450px);
+      }
+      margin-bottom: 15vh;
+    }
+    .video-text {
+      text-align: center;
+      @include position(2em null null 23vw);
+      @include size(54vw);
+      h3 {
+        font-size: 1.7em;
+      }
+    }
+  }
 
+  .fellow {
+    @include outer-container(90%);
+    h2 {
+      font-size: 1.9em;
+    }
+    padding-top: 3em;
+    .logo-section {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: left;
+
+      li {
+        align-self: center;
+        list-style: none;
+        padding: 2em;
+        text-align: center;
+
+        .square-logo {
+          max-height: 5em;
+        }
+
+        .wide-logo {
+          max-width: 10em;
+        }
+
+        .wider-logo {
+          max-width: 15em;
+        }
+      }
+    }
+  }
+
+  .side-image {
+    $base-line-height: 1.5em !default;
+    $action-color: #477DCA !default;
+    $dark-gray: #333 !default;
+    $large-screen: 53.75em !default;
+    $base-font-color: $dark-gray !default;
+    $side-image-background-top: #B5EBEB;
+    $side-image-background-bottom: #5DAC5D;
+    $side-image-content-background: #F9F9F9;
+    $side-image-border: 1px solid darken(transparentize($side-image-background-bottom, 0.8), 30%);
+
+    background: white;
+
+    @include media($large-screen) {
+      @include row(table);
+    }
+
+    .images-wrapper {
+      background: url("../images/wise.jpg"),
+                  linear-gradient($side-image-background-top, $side-image-background-bottom),
+                  no-repeat $side-image-background-top scroll;
+      background-color: $side-image-background-top;
+      background-size: cover;
+      display: block;
+      min-height: 12em;
+      padding: 3em;
+
+      @include media($large-screen) {
+        @include span-columns(6);
+        background-position: right;
+        background-size: cover;
+
+      }
+    }
+
+    .side-image-content {
+      @include span-columns(12);
+      padding: 1em 1em 4em 1em;
+
+      @include media($large-screen) {
+        @include span-columns(6);
+        padding: 4em 5% 8em 5%;
+      }
+
+      h2 {
+        margin-bottom: 0.9em;
+        font-size: 1.9em;
+      }
+
+      h4 {
+        background: #BBB;
+        color: white;
+        display: inline-block;
+        font-size: 0.75em;
+        margin-bottom: 1.3em;
+        padding: 3px 8px;
+        text-transform: uppercase;
+      }
+
+      p {
+        color: $base-font-color;
+        line-height: $base-line-height;
+        margin-bottom: 3em;
+      }
+
+      a.button {
+        color: black;
+        border: 1px solid black;
+        background-color: white;
+        border-radius: 0;
+      }
+    }
+
+    @include reset-display();
+  }
+}
 
 // ========================================================
 // other pages
