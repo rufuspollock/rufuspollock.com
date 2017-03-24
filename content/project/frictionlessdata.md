@@ -6,6 +6,7 @@ website: http://frictionlessdata.io/
 logoPath: frictionlessdata.jpg
 imagePath: project-frictionless-data.png
 featured: true
+themes: [u'Data Systems']
 ---
 
 Frictionless Data is removing the friction in working with data by developing a set of tools, standards, and best practices for publishing data. The heart of Frictionless Data is the Data Package standard, a containerization format for any kind of data based on existing practices for publishing open-source software.

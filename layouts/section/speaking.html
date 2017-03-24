@@ -85,11 +85,7 @@
 
                     <section>
                       <h2>Where I Spoke</h2>
-                      <ul class="logo-section">
-                        {{ range .Params.logostoshow }}
-                        <li><img class="{{ .wideness }}" src="{{ $.Site.BaseURL }}images/{{ .source }}" alt="" /></li>
-                        {{ end }}
-                      </ul>
+                      {{ partial "logos.html" . }}
                     </section>
 
                   </div>
