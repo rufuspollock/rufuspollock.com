@@ -4,8 +4,31 @@
             <div class="content-wrapper__inner">
                 <div>
                   {{ partial "navbar.html" . }}
-                  <!-- <h1>{{ .Title }}</h1> -->
+
+                  <section class="other-pages">
+                    <h1>{{ .Title }}</h1>
                     {{ .Content }}
+                    {{ if eq .Params.news true }}
+                    <section class="posts">
+                      {{ range first 10 (where .Site.Pages "Section" "post") }}
+                        <h2>{{ .Title }}</h2>
+                        <div class="comment">
+                          <div class="comment-image">
+                            <img src="../images/pen.png">
+                          </div>
+                          <div class="comment-content">
+                            <p><i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}</p>
+                            <p>{{ .Summary }}</p>
+                            <a href="{{ .Permalink }}">Read full article</a>
+                          </div>
+                        </div>
+
+                      {{ end }}
+                    </section>
+                    {{ end }}
+                  </section>
+
+
                 </div>
             </div>
         </div>
