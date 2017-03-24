@@ -938,8 +938,13 @@ header.navigation {
     a {
       color: black;
     }
-    .read-more {
-      color: #0fb3ff !important;
+    .button {
+      font-weight: 400;
+      color: $dark-gray;
+      border: 1px solid black;
+      background-color: white;
+      border-radius: 0;
+      padding: 0.5em 0.8em;
     }
   }
 
@@ -1017,8 +1022,13 @@ header.navigation {
         padding-top: 0;
       }
     }
-    .read-more {
-      color: #0fb3ff !important;
+    .button {
+      font-weight: 400;
+      color: $dark-gray;
+      border: 1px solid black;
+      background-color: white;
+      border-radius: 0;
+      padding: 0.5em 0.8em;
     }
   }
 
