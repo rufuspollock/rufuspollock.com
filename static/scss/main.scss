@@ -501,28 +501,29 @@ header.navigation {
 
 // ========================================================
 // front page
+$large-screen: 50em !default;
+$extra-small-screen: 320px;
+
 .home-template {
   .hero {
-    $large-screen: 50em !default;
     align-items: center;
     background: url("../images/Rufus_Pollock_2.jpeg");
+    background-repeat: no-repeat;
     background-position: right;
     background-size: none;
     display: block;
     justify-content: center;
-    min-height: 7em;
+    min-height: 38em;
     padding: 2em 5%;
 
     @include media($large-screen) {
+      padding: 12em 5%;
       background-position: left;
       background-size: cover;
       justify-content: flex-end;
     }
 
-
     .hero-content {
-      margin-top:12em;
-      margin-bottom:10em;
       max-width: 35em;
       text-align: center;
       color: white;
@@ -545,13 +546,18 @@ header.navigation {
         margin: 25px 10px 20px 0;
         border: 1px solid #fff;
         border-radius: 0;
-        font-size: 20px;
+        @include media($large-screen) {
+          font-size: 20px;
+        }
       }
       a {
         i {
           color: white;
           font-size:25px;
           margin-right:6px;
+          @include media($large-screen) {
+            font-size: 25px;
+          }
         }
       }
 
@@ -579,28 +585,42 @@ header.navigation {
         a {
           color: white;
         }
+        @include media($large-screen) {
+          font-size: 2.6em;
+        }
       }
     }
   }
 
+  #next-section {
+    min-height: 500px;
+  }
+
   .video {
-    height: 0;
+    $large-screen: 50em !default;
     overflow: hidden;
-    padding-bottom: 65%; // For ratio 16:9. 75% if ratio is 4:3
     position: relative;
+    margin-bottom: 3em;
     .video-wrapper {
+      margin-bottom: 15vh;
       embed,
       object,
       iframe {
-        @include position(13vh null null calc(50vw - 420px));
-        @include size(840px 450px);
+        @include position(7vh null null 0);
+        @include size(100vw 56.2vw);
+        @include media($large-screen) {
+          @include position(13vh null null calc(50vw - 420px));
+          @include size(840px 450px);
+        }
       }
-      margin-bottom: 15vh;
     }
     .video-text {
       text-align: center;
-      @include position(2em null null 23vw);
-      @include size(54vw);
+      @include media($large-screen) {
+        @include position(2em null null 23vw);
+        @include size(54vw null);
+      }
+
       h3 {
         font-size: 1.7em;
       }
@@ -651,9 +671,15 @@ header.navigation {
     $side-image-border: 1px solid darken(transparentize($side-image-background-bottom, 0.8), 30%);
 
     background: white;
+    div.images-wrapper.last {
+      display: none;
+    }
 
     @include media($large-screen) {
       @include row(table);
+      div.images-wrapper.last {
+        display: table-cell;
+      }
     }
 
     .images-wrapper {
@@ -661,16 +687,19 @@ header.navigation {
                   linear-gradient($side-image-background-top, $side-image-background-bottom),
                   no-repeat $side-image-background-top scroll;
       background-color: $side-image-background-top;
-      background-size: cover;
+      background-size: 100vw 100vw;
+      min-height: 100vw;
+      @include media($large-screen) {
+        background-size: cover;
+        padding: 3em;
+        min-height: 12em;
+      }
       display: block;
-      min-height: 12em;
-      padding: 3em;
 
       @include media($large-screen) {
         @include span-columns(6);
         background-position: right;
         background-size: cover;
-
       }
     }
 
@@ -725,8 +754,11 @@ header.navigation {
 }
 
 .post-content {
-  @include span-columns(10);
-  @include shift(1);
+  @include span-columns(12);
+  @include media($large-screen) {
+    @include span-columns(10);
+    @include shift(1);
+  }
 
   &:nth-child(n+2) {
     padding-top:$base-spacing / 2;
@@ -920,7 +952,9 @@ header.navigation {
   .bullet {
     flex-basis: 20em;
     flex-grow: 1;
-    max-width: 33.33%;
+    @include media($large-screen) {
+      max-width: 33.33%;
+    }
   }
 
   .bullet-icon {
@@ -998,7 +1032,9 @@ header.navigation {
   .bullet-small {
     flex-basis: 10em;
     flex-grow: 1;
-    max-width: 25%;
+    @include media($large-screen) {
+      max-width: 25%;
+    }
   }
 
   .bullet-icon-small {
@@ -1064,7 +1100,9 @@ header.navigation {
   display: table;
   margin-bottom: $base-spacing;
   padding-bottom: 1em;
-  width: 70%;
+  @include media($large-screen) {
+    width: 70%;
+  }
 
   .comment-image,
   .comment-content {
@@ -1121,6 +1159,7 @@ header.navigation {
     position: relative;
 
     @include media($large-screen) {
+      @include row(table);
       background-position: left;
       background-size: cover;
       justify-content: flex-end;
@@ -1128,16 +1167,22 @@ header.navigation {
 
     .hero-body {
       @include outer-container($container);
-      align-items: center;
-      display: flex;
-      justify-content: flex-start !important;
-      min-height: 88vh;
       padding: 2em 2em 6em 2em;
+      @include media($large-screen) {
+        min-height: 88vh;
+        align-items: center;
+        display: flex;
+        justify-content: flex-start !important;
+
+      }
+
 
       .hero-content {
-        max-width: 30em;
-        text-align: center;
+        width: 100%;
+        display: block;
         @include media($large-screen) {
+          @include span-columns(6);
+          max-width: 30em;
           text-align: left;
         }
         a {
@@ -1147,16 +1192,33 @@ header.navigation {
       }
 
       .video {
-        @include shift(1.5);
+        @include span-columns(12);
+        iframe {
+          margin: 2em 0;
+          @include size(80vw 44.96vw);
+          @include media($large-screen) {
+            margin: 0;
+            @include size(450px 253px);
+          }
+        }
+        @include media($large-screen) {
+          @include span-columns(6);
+          @include shift(1.5);
+        }
       }
+
+      @include reset-display();
     }
 
     .call-to-action {
       width: 50%;
-      height: 12%;
       position: absolute;
       left: 25%;
-      top: 88%;
+      top: 90%;
+      @include media($large-screen) {
+        height: 12%;
+        top: 88%;
+      }
       p {
         text-align: center;
         align-items: center;
@@ -1279,12 +1341,16 @@ header.navigation {
     margin-top: $base-spacing * 2;
     padding-bottom: 1em;
     width: 90%;
-    .event-image,
     .event-content {
       display: table-cell;
       vertical-align: $event-image-vert-alignment;
     }
     .event-image {
+      display: none;
+      @include media($large-screen) {
+        display: table-cell;
+      }
+      vertical-align: $event-image-vert-alignment;
       padding-right: $event-gutter;
       > img {
         display: block;
