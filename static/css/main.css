@@ -4445,4 +4445,22 @@ header.navigation {
     .themes-section .event .subheading a {
       color: #666666; }
 
+section.other-pages {
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3em; }
+  section.other-pages::after {
+    clear: both;
+    content: "";
+    display: table; }
+  section.other-pages h1 {
+    font-size: 2.6em;
+    max-width: 768px;
+    margin-bottom: 1.5em; }
+  section.other-pages h2 {
+    font-size: 1.7em; }
+  section.other-pages .posts {
+    max-width: 900px; }
+
 /*# sourceMappingURL=main.css.map */

@@ -1,6 +1,6 @@
 ---
 date: 2017-03-22T22:18:06
-title: "2017 03 22 talk at republica"
+title: "Talk at re:publica"
 eventdate: 2017-05-09
 eventtime: 13:00
 venue: re:publica

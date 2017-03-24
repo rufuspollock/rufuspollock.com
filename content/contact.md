@@ -1,12 +1,12 @@
-+++
-
-+++
+---
+title: Contact
+---
 
 <div class="page-content">
   <div class="post">
     <article class="post-content">
 
-    <div style="margin-top:60px;"class="record">
+    <div class="record">
 
 <form action="https://formspree.io/rufus@rufuspollock.org"
       method="POST">
