@@ -1,10 +1,7 @@
 {{ if isset .Params "logostoshow" }}
-<section>
-  <h2>Clients</h2>
   <ul class="logo-section">
     {{ range .Params.logostoshow }}
     <li><img class="{{ .wideness }}" src="{{ $.Site.BaseURL }}images/{{ .source }}" alt="" /></li>
     {{ end }}
   </ul>
-</section>
 {{ end }}

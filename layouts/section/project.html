@@ -7,27 +7,7 @@
 
                   <div class="themes-section">
 
-                    <section class="next-section">
-                      <h2>Featured projects</h2>
-                      <ul class="bullets">
-                        {{ range where .Data.Pages.ByWeight.Reverse "Section" "project" }}
-                        {{ if eq .Params.featured true }}
-                        <li class="bullet">
-                          <div class="bullet-icon">
-                            <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
-                          </div>
-                          <div class="bullet-content">
-                            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-                            <p>
-                              {{ .Summary }}
-                              <a href="{{ .Permalink }}" class="button">Read more >></a>
-                            </p>
-                          </div>
-                        </li>
-                        {{ end }}
-                        {{ end }}
-                      </ul>
-                    </section>
+                    {{ partial "featured-projects.html" . }}
 
                     <section>
                       <h2>More projects</h2>

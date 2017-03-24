@@ -1,11 +1,11 @@
-{{ if isset .Params "projectstoshow" }}
-{{ $projectstoshow := .Params.projectstoshow }}
+{{ if isset .Params "themetoshow" }}
+{{ $projectstoshow := .Params.themetoshow }}
 <section>
-  <h2>Projects</h2>
+  <h2>Featured projects</h2>
   <ul class="bullets">
     {{ range where .Site.Pages "Section" "project" }}
     {{ $project := . }}
-    {{ if in $projectstoshow $project.Title }}
+    {{ if and (intersect $project.Params.themes $projectstoshow) (eq .Params.featured true) }}
     <li class="bullet">
       <div class="bullet-icon bullet-icon-1">
         <img src="{{ $.Site.BaseURL }}images/{{ $project.Params.logopath }}" />
