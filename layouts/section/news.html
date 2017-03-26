@@ -8,9 +8,8 @@
                   <section class="other-pages">
                     <h1>{{ .Title }}</h1>
                     {{ .Content }}
-                    {{ if eq .Params.news true }}
                     <section class="news">
-                      {{ range where .Site.Pages "Section" "post" }}
+                      {{ range first 5 (where .Site.Pages "Section" "post") }}
                       <div class="single-news">
                         <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
                         <div class="news-body">
@@ -21,10 +20,15 @@
                         </div>
                       </div>
                       {{ end }}
+                      <div class="single-news">
+                        <div class="news-body">
+                          <div class="news-content">
+                            <a href="all">All news...</a>
+                          </div>
+                        </div>
+                      </div>
                     </section>
-                    {{ end }}
                   </section>
-
 
                 </div>
             </div>

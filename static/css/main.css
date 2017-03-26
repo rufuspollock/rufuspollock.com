@@ -4504,11 +4504,20 @@ section.other-pages {
     display: table; }
   section.other-pages h1 {
     font-size: 2.6em;
-    max-width: 768px;
     margin-bottom: 1.5em; }
   section.other-pages h2 {
-    font-size: 1.7em; }
-  section.other-pages .posts {
-    max-width: 900px; }
+    font-size: 1.4em;
+    font-weight: normal; }
+  section.other-pages .news {
+    max-width: 700px; }
+    section.other-pages .news .single-news {
+      padding: 2em 2.5em 2em 2em;
+      margin: 0 0 1em 0;
+      border: 1px solid #e4e4e4; }
+      section.other-pages .news .single-news a {
+        text-decoration: none; }
+    section.other-pages .news p.date {
+      font-size: 0.8em;
+      color: #666666; }
 
 /*# sourceMappingURL=main.css.map */
