@@ -8,7 +8,8 @@ $mm_maxWidth: 380px;
   "bourbon/bourbon",
   "base/base",
   "neat/neat",
-  "icons/icons"
+  "icons/icons",
+  "refills/navigation"
 ;
 
 $small-screen: em(400);
@@ -227,271 +228,34 @@ a.button {
   }
 }
 
+// =======================================================
+// navigation
 header.navigation {
-  $base-border-color: gainsboro !default;
-  $base-border-radius: 3px !default;
-  $action-color: #477DCA !default;
-  $dark-gray: #333 !default;
-  $large-screen: 53.75em !default;
-  $navigation-padding: 1em;
-  $navigation-background: #fff;
-  $navigation-color: transparentize(black, 0.3);
-  $navigation-color-hover: black;
   $navigation-height: 60px;
-  $navigation-nav-button-background: $action-color;
-  $navigation-nav-button-background-hover: lighten($navigation-background, 10%);
-  $navigation-nav-button-border: 1px solid lighten($navigation-nav-button-background, 20%);
-  $navigation-search-background: lighten($navigation-background, 5);
-  $navigation-search-border: 1px solid darken($navigation-background, 5);
-  $navigation-active-link-color: transparentize(black, 0.5);
-  $navigation-submenu-padding: 1em;
-  $navigation-submenu-width: 12em;
   $horizontal-bar-mode: $large-screen;
+  $navigation-submenu-width: 12em;
   $container: 90%;
-
-  background-color: $navigation-background;
-  border-bottom: 1px solid darken($navigation-background, 10);
-  min-height: $navigation-height;
-  width: 100%;
-  z-index: 999;
 
   .navigation-wrapper {
     @include outer-container($container);
-    @include clearfix;
-    position: relative;
-    z-index: 9999;
-  }
-
-  .logo {
-    float: left;
-    max-height: $navigation-height;
-    padding-left: $navigation-padding;
-    padding-right: 2em;
-
-    img {
-      max-height: $navigation-height;
-      padding: 0.8em 0;
-    }
-  }
-
-  // Mobile view
-
-  .navigation-menu-button {
-    color: $navigation-color;
-    display: block;
-    float: right;
-    line-height: $navigation-height;
-    margin: 0;
-    padding-right: 1em;
-    text-decoration: none;
-    text-transform: uppercase;
-
-    @include media ($horizontal-bar-mode) {
-      display: none;
-    }
-
-    &:focus,
-    &:hover {
-      color: $navigation-color-hover;
-    }
-  }
-
-  // Nav menu
-
-  nav {
-    float: none;
-    min-height: $navigation-height;
-    z-index: 9999999;
-
-    @include media ($horizontal-bar-mode) {
-      float: left;
-    }
-  }
-
-  ul.navigation-menu {
-    clear: both;
-    display: none;
-    margin: 0 auto;
-    overflow: visible;
-    padding: 0;
-    width: 100%;
-    z-index: 9999;
-
-    &.show {
-      display: block;
-    }
-
-    @include media ($horizontal-bar-mode) {
-      display: inline;
-      margin: 0;
-      padding: 0;
-    }
-  }
-
-  // The nav items
-
-  ul li.nav-link {
-    background: $navigation-background;
-    display: block;
-    line-height: $navigation-height;
-    overflow: hidden;
-    padding-right: 0.8em;
-    text-align: right;
-    width: 100%;
-    z-index: 9999;
-
-    @include media ($horizontal-bar-mode) {
-      background: transparent;
-      display: inline;
-      line-height: $navigation-height;
-      text-decoration: none;
-      width: auto;
-    }
-
-    a {
-      color: $navigation-color;
-      display: inline-block;
-      text-decoration: none;
-
-      @include media ($horizontal-bar-mode) {
-        padding-right: 1em;
-      }
-
-      &:focus,
-      &:hover {
-        color: $navigation-color-hover;
-      }
-    }
-  }
-
-  .active-nav-item a {
-    border-bottom: 1px solid $navigation-active-link-color;
-    padding-bottom: 3px;
-  }
-
-  // Sub menus
-
-  li.more.nav-link {
-    padding-right: 0;
-
-    @include media($horizontal-bar-mode) {
-      padding-right: $navigation-submenu-padding;
-    }
-
-    > ul > li:first-child a  {
-      padding-top: 1em;
-    }
-
-    a {
-      margin-right: $navigation-submenu-padding;
-    }
-
-    > a {
-      padding-right: 0.6em;
-    }
-
-    > a::after {
-      @include position(absolute, auto -0.4em auto auto);
-      color: $navigation-color;
-      content: "\25BE";
-    }
   }
 
   li.more {
-    overflow: visible;
-    padding-right: 0;
-
-    a {
-      padding-right: 0.8em;
-    }
-
     > a {
-      padding-right: 1.6em;
-      position: relative;
-
-      @include media($horizontal-bar-mode) {
-        margin-right: $navigation-submenu-padding;
-      }
-
       &::after {
-        content: "›";
         font-size: 1em;
-        position: absolute;
-        right: $navigation-submenu-padding / 2;
       }
-    }
-
-    &:focus > .submenu,
-    &:hover > .submenu {
-      display: block;
-    }
-
-    @include media($horizontal-bar-mode) {
-      padding-right: 0.8em;
-      position: relative;
     }
   }
 
   ul.submenu {
-    display: none;
-    padding-left: 0;
-
-    @include media($horizontal-bar-mode) {
-      left: -$navigation-submenu-padding;
-      position: absolute;
-      top: 1.5em;
-    }
-
-    .submenu.fly-out-right {
-      @include media($horizontal-bar-mode) {
-        left: $navigation-submenu-width - 0.2em;
-        top: 0;
-      }
-    }
-
-    .submenu.fly-out-left {
-      @include media($horizontal-bar-mode) {
-        left: -$navigation-submenu-width + 0.2em;
-        top: 0;
-      }
-    }
-
-    .submenu {
-      @include media($horizontal-bar-mode) {
-        left: $navigation-submenu-width - 0.2em;
-        top: 0;
-      }
-    }
-
     li {
-      display: block;
-      padding-right: 0;
-
       @include media($horizontal-bar-mode) {
         line-height: $navigation-height / 1.6;
-
-        &:first-child > a {
-          border-top-left-radius: $base-border-radius;
-          border-top-right-radius: $base-border-radius;
-        }
-
-        &:last-child > a {
-          border-bottom-left-radius: $base-border-radius;
-          border-bottom-right-radius: $base-border-radius;
-          padding-bottom: 0.7em;
-        }
       }
 
       a {
-        background-color: darken($navigation-background, 3%);
-        display: inline-block;
-        text-align: right;
-        width: 100%;
-
         @include media($horizontal-bar-mode) {
-          background-color: $navigation-background;
-          padding-left: $navigation-submenu-padding;
-          text-align: left;
           width: $navigation-submenu-width * 1.3;
         }
       }
@@ -501,31 +265,28 @@ header.navigation {
 
 // ========================================================
 // front page
-$large-screen: 50em !default;
-$extra-small-screen: 320px;
-
 .home-template {
+  @import "refills/hero";
   .hero {
     align-items: center;
     background: url("../images/Rufus_Pollock_2.jpeg");
-    background-repeat: no-repeat;
     background-position: right;
     background-size: none;
+    background-repeat: no-repeat;
     display: block;
     justify-content: center;
     min-height: 38em;
     padding: 2em 5%;
 
     @include media($large-screen) {
-      padding: 12em 5%;
       background-position: left;
       background-size: cover;
       justify-content: flex-end;
+      padding: 12em 5%;
     }
 
     .hero-content {
       max-width: 35em;
-      text-align: center;
       color: white;
       h1, h3, h4 {
         margin-bottom:20px;
@@ -560,14 +321,6 @@ $extra-small-screen: 320px;
           }
         }
       }
-
-      @include media($large-screen) {
-        text-align: left;
-      }
-    }
-
-    .hero-logo {
-      margin: auto;
     }
 
     .call-to-action {
@@ -633,30 +386,7 @@ $extra-small-screen: 320px;
       font-size: 1.9em;
     }
     padding-top: 3em;
-    .logo-section {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: left;
-
-      li {
-        align-self: center;
-        list-style: none;
-        padding: 2em;
-        text-align: center;
-
-        .square-logo {
-          max-height: 5em;
-        }
-
-        .wide-logo {
-          max-width: 10em;
-        }
-
-        .wider-logo {
-          max-width: 15em;
-        }
-      }
-    }
+    @import "refills/logos.scss";
   }
 
   .side-image {
@@ -778,163 +508,9 @@ $extra-small-screen: 320px;
   }
 }
 
-// consulting and projects page
-@mixin grid-item-columns($columns) {
-  width: (100% / 12) * $columns;
-}
-
-.grid-items {
-  $action-color: #477DCA !default;
-  $base-background-color: white !default;
-  $medium-screen: 40em !default;
-  $large-screen: 53.75em !default;
-  $grid-items-background: $base-background-color;
-  $grid-item-background: desaturate($action-color, 30%);
-  $grid-item-colors:
-    desaturate($action-color, 30%),
-    #3581A5,
-    #5FBEBE,
-    #98C79A,
-    #A7A891,
-    #BDCC97,
-    #979EA0;
-  $grid-item-border-size: 9px;
-  $grid-item-columns: 4;
-  $grid-item-big-columns: 8;
-  $grid-item-color: white;
-  $grid-item-height: 22em;
-
-  @include clearfix;
-
-  .grid-item {
-    background: $grid-item-background;
-    border-bottom: $grid-item-border-size solid $grid-items-background;
-    border-left: ($grid-item-border-size / 2) solid $grid-items-background;
-    border-right: ($grid-item-border-size / 2) solid $grid-items-background;
-    border-top: 0;
-    cursor: pointer;
-    float: left;
-    height: $grid-item-height;
-    outline: none;
-    overflow: hidden;
-    padding: 2em;
-    text-align: center;
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-    width: 100%;
-
-    @include media($large-screen) {
-      @include grid-item-columns($grid-item-columns);
-    }
-
-    @for $i from 1 through length($grid-item-colors) { // assign colors from $grid-item-colors list
-      &:nth-child(#{$i}) {
-        $background-from-list: nth($grid-item-colors, $i);
-        background-color: $background-from-list;
-
-
-        &:focus,
-        &:hover {
-          background-color: darken($background-from-list, 10%);
-          background-position: top;
-          background-repeat: no-repeat;
-          background-size: cover;
-        }
-      }
-    }
-  }
-
-  .grid-item img {
-    display: block;
-    height: 3em;
-    margin: 0 auto 1em;
-  }
-
-  .grid-item h1 {
-    color: $grid-item-color;
-    font-size: 1.3em;
-    margin-bottom: 0.4em;
-  }
-
-  .grid-item p {
-    color: #5E5D5E;
-    line-height: 1.5em;
-    margin:auto;
-    margin-top:10em;
-
-    @include media($medium-screen) {
-      max-width: 100%;
-    }
-  }
-
-  .grid-item-big {
-    @include media($large-screen) {
-      @include grid-item-columns($grid-item-big-columns);
-    }
-
-    p {
-      @include media($medium-screen) {
-        max-width: 60%;
-      }
-    }
-  }
-
-  .grid-item-image {
-    background: url("/images/ckan.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-2 {
-    background: url("/images/AET.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-3 {
-    background: url("/images/os.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-4 {
-    background: url("/images/other06.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-5 {
-    background: url("/images/frcitionless.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-6 {
-    background: url("/images/Open-Knowledge-logo-design-johnson-banks-16.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  .grid-item-image-7 {
-    background: url("/images/atomatic03.jpg");
-    background-color: $grid-item-background;
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-}
-
-
 // ========================================================
 // Themes - Information Economy
 
-// Bourbon Refills: bullets (unchanged)
 .bullets {
   $base-line-height: 1.5em !default;
   $action-color: #477DCA !default;
@@ -1081,8 +657,6 @@ $extra-small-screen: 320px;
 
   .bullet-content-small {
     margin-bottom: 2em;
-    //margin: 0 $icon-bullet-size/4 2em $icon-bullet-size;
-
   }
 
   li {
@@ -1100,71 +674,25 @@ $extra-small-screen: 320px;
 }
 
 // writings & essays
+@import "refills/comment";
 .comment {
-  $base-border-radius: 3px !default;
-  $base-spacing: 1.5em !default;
-  $action-color: #477DCA !default;
-  $dark-gray: #333 !default;
-  $base-font-color: $dark-gray !default;
-  $comment-gutter: 1.4em;
-  $comment-image-padding: 0.7em;
-  $comment-image-width: 4em;
-  $comment-color: $base-font-color;
-  $comment-background: lighten($action-color, 15%);
-  $comment-detail-color: transparentize($comment-color, 0.5);
-  $comment-image-vert-alignment: top;
-
-  display: table;
-  margin-bottom: $base-spacing;
-  padding-bottom: 1em;
+  border-bottom: null;
   @include media($large-screen) {
     width: 70%;
   }
 
-  .comment-image,
-  .comment-content {
-    display: table-cell;
-    vertical-align: $comment-image-vert-alignment;
-  }
-
   .comment-image {
-    padding-right: $comment-gutter;
 
     > img {
-      display: block;
-      height: auto;
-      max-width: none;
-      width: $comment-image-width;
-    }
-
-    .comment-reverse-order & {
-      padding-left: 10px;
-      padding-right: 0;
-    }
-  }
-
-  .comment-content {
-    width: 100%;
-
-    h3 {
-      font-size: 1em;
-      margin: 0 0 0.5em 0;
-    }
-
-    p {
-      line-height: 1.5em;
-      margin-bottom: 0.5em;
-    }
-
-    p.comment-detail {
-      color: $comment-detail-color;
-      font-size: 0.9em;
-      font-style: italic;
+      background: none;
+      border-radius: 0;
+      padding: 0;
     }
   }
 }
 
 .themes-section {
+  @import "refills/logos";
   $container: 95%;
   $dark-gray: #333 !default;
 
@@ -1261,31 +789,6 @@ $extra-small-screen: 320px;
   section {
     padding: 3em 0 0 0;
     @include outer-container($container - 5%);
-  }
-
-  .logo-section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: left;
-
-    li {
-      align-self: center;
-      list-style: none;
-      padding: 2em;
-      text-align: center;
-
-      .square-logo {
-        max-height: 5em;
-      }
-
-      .wide-logo {
-        max-width: 10em;
-      }
-
-      .wider-logo {
-        max-width: 15em;
-      }
-    }
   }
 
   .side-image {
