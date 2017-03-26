@@ -14,5 +14,10 @@ taxonomies:
   theme: "themes"
   tag: "tags"
   project: "projects"
-  posttype: "posttypes"	
+  posttype: "posttypes"
 
+params:
+  github: https://github.com/rgrp/
+  twitter: https://twitter.com/@rufuspollock/
+  linkedin: https://www.linkedin.com/in/rufus-pollock-00a86348/
+  facebook: https://www.facebook.com/rufus.pollock/
