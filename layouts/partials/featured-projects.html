@@ -4,19 +4,23 @@
   <h2>Featured projects</h2>
   <ul class="bullets">
     {{ range where .Site.Pages "Section" "project" }}
-    {{ $project := . }}
-    {{ if and (intersect $project.Params.themes $projectstoshow) (eq .Params.featured true) }}
+    {{ if and (intersect .Params.themes $projectstoshow) (eq .Params.featured true) }}
     <li class="bullet">
-      <div class="bullet-icon bullet-icon-1">
-        <img src="{{ $.Site.BaseURL }}images/{{ $project.Params.logopath }}" />
+      <div class="bullet-icon">
+        <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
+        <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+      </div>
+      <div class="bullet-image">
+        <img src="{{ $.Site.BaseURL }}images/{{ .Params.imagepath }}" alt="">
       </div>
       <div class="bullet-content">
-        <a href="{{ .Permalink }}"><h2>{{ $project.Title }}</h2></a>
-        <p>
-          {{ $project.Summary }}
-          <a href="{{ .Permalink }}" class="button">Read more >></a>
-        </p>
-        </div>
+        {{ if gt (len .Summary) 90 }}
+          {{ slicestr .Summary 3 90 }}...
+        {{ else }}
+          {{ .Summary }}...
+        {{ end }}
+        <a href="{{ .Permalink }}">read more</a>
+      </div>
     </li>
     {{ end }}
     {{ end }}

@@ -4226,26 +4226,38 @@ header.navigation {
     flex-grow: 1; }
     @media screen and (min-width: 53.75em) {
       .bullets .bullet {
-        max-width: 33.33%; } }
+        max-width: 33.33%;
+        padding: 0 2em; } }
   .bullets .bullet-icon {
+    display: flex;
     background: white;
-    border-radius: 50%;
-    float: left;
-    height: 5.5em;
-    padding: 0;
-    width: 5.5em; }
-  .bullets .bullet-content {
-    margin-bottom: 2em;
-    margin-left: 6.985em; }
-    .bullets .bullet-content a {
-      color: black; }
-    .bullets .bullet-content .button {
-      font-weight: 400;
+    margin-bottom: 2em; }
+    .bullets .bullet-icon img {
+      height: 15%;
+      padding: 0;
+      width: 15%; }
+    .bullets .bullet-icon a {
+      text-decoration: none; }
+    .bullets .bullet-icon h2 {
+      display: flex;
+      width: 100%;
+      font-size: 1.57143em;
+      padding: 0;
+      margin: 0 0 0 10%;
       color: #333;
-      border: 1px solid black;
-      background-color: white;
-      border-radius: 0;
-      padding: 0.5em 0.8em; }
+      position: relative;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .bullets .bullet-image {
+    height: 150px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #333;
+    margin-bottom: 1em; }
+  .bullets .bullet-content {
+    margin-bottom: 2em; }
   .bullets .bullet-video {
     padding: 0; }
     .bullets .bullet-video iframe {
@@ -4254,11 +4266,6 @@ header.navigation {
   .bullets .bullet-video-content {
     height: auto;
     width: 340px; }
-  .bullets h2 {
-    display: inline-block;
-    font-size: 2.2em;
-    margin: 0 0 0.91667em 0;
-    padding-top: 0.61111em; }
   .bullets li {
     list-style: none; }
   .bullets p {
@@ -4275,35 +4282,42 @@ header.navigation {
   padding: 0;
   margin-top: 3em; }
   .bullets-small .bullet-small {
-    flex-basis: 10em;
+    flex-basis: 20em;
     flex-grow: 1; }
     @media screen and (min-width: 53.75em) {
       .bullets-small .bullet-small {
-        max-width: 25%; } }
+        max-width: 25%;
+        padding: 0 2em; } }
   .bullets-small .bullet-icon-small {
+    display: flex;
     background: white;
-    border-radius: 50%;
-    float: left;
-    height: 4.95em;
-    padding: 0;
-    width: 4.95em; }
-  .bullets-small .bullet-content-small {
-    margin-bottom: 2em;
-    margin: 0 1.375em 2em 5.5em; }
-    .bullets-small .bullet-content-small a {
-      color: black; }
-      .bullets-small .bullet-content-small a h2 {
-        display: inline-block;
-        font-size: 1.57143em;
-        margin: 0 0.91667em 0.91667em 0;
-        padding-top: 0; }
-    .bullets-small .bullet-content-small .button {
-      font-weight: 400;
+    margin-bottom: 2em; }
+    .bullets-small .bullet-icon-small img {
+      height: 15%;
+      padding: 0;
+      width: 15%; }
+    .bullets-small .bullet-icon-small a {
+      text-decoration: none; }
+    .bullets-small .bullet-icon-small h2 {
+      display: flex;
+      width: 100%;
+      font-size: 1.22222em;
+      padding: 0;
+      margin: 0 0 0 10%;
       color: #333;
-      border: 1px solid black;
-      background-color: white;
-      border-radius: 0;
-      padding: 0.5em 0.8em; }
+      position: relative;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .bullets-small .bullet-image-small {
+    height: 150px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #333;
+    margin-bottom: 1em; }
+  .bullets-small .bullet-content-small {
+    margin-bottom: 2em; }
   .bullets-small li {
     list-style: none; }
   .bullets-small p {

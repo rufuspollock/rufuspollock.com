@@ -17,13 +17,18 @@
                         <li class="bullet-small">
                           <div class="bullet-icon-small">
                             <img src="{{ $.Site.BaseURL }}images/{{ .Params.logopath }}" />
+                            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+                          </div>
+                          <div class="bullet-image-small">
+                            <img src="{{ $.Site.BaseURL }}images/{{ .Params.imagepath }}" alt="">
                           </div>
                           <div class="bullet-content-small">
-                            <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
-                            <p>
-                              {{ .Summary }}
-                              <a href="{{ .Permalink }}" class="button">Read more >></a>
-                            </p>
+                            {{ if gt (len .Summary) 60 }}
+                              {{ slicestr .Summary 3 60 }}...
+                            {{ else }}
+                              {{ .Summary }}...
+                            {{ end }}
+                            <a href="{{ .Permalink }}">read more</a>
                           </div>
                         </li>
                         {{ end }}
