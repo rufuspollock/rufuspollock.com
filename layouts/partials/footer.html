@@ -1,27 +1,29 @@
-    <footer class="site-footer">
-        <div>
-        {{ if .Site.Params.twitter }}
-        <a href="http://twitter.com/{{ .Site.Params.twitter }}" title="Twitter"><span class="fa fa-tt fa-2x"></span></a>
-        {{ end }}
-        {{ if .Site.Params.bitbucket }}
-        <a href="https://bitbucket.org/{{ .Site.Params.bitbucket }}" title="Bitbucket"><span class="fa fa-bitbucket fa-2x"></span></a>
-        {{ end }}
-        {{ if .Site.Params.github }}
-        <a href="https://github.com/{{ .Site.Params.github }}" title="GitHub"><span class="fa fa-github fa-2x"></span></a>
-        {{ end }}
-        {{ if .Site.Params.flickr }}
-        <a href="http://www.flickr.com/photos/{{ .Site.Params.flickr }}/" title="Flickr"><span class="fa fa-flickr fa-2x"></span></a>
-        {{ end }}
+<!--<div class="wrapper-for-content-outside-of-footer">
+   Uncomment this whole section for a sticky footer. The content of the page should be inside of this .wrapper-for-content-outside-of-footer
+</div>-->
 
-        {{ if .Site.Params.linkedin }}
-       <a href="http://no.linkedin.com/in/{{ .Site.Params.linkedin }}/en" title="Linkedin"> <i class='fa fa-ll fa-2x'></i></a>
-        {{ end }}
-        {{ if .Site.Params.email }}
-        <a href="mailto:{{ .Site.Params.email }}" title="Email {{ .Site.Params.email }}"> <i class='fa fa-envelope-o fa-2x'></i></a>
-        {{ end }}
-        </div>
-        <div class="inner">
-             <section ><a href="http://ghostscroll.grmmph.com/">HugoScroll</a> theme by <a href="http://fredrikloch.me">Fredrik</a>.<br>
-              Proudly published with <a class="i-ghost" href="http://gohugo.io">Hugo</a></section>
-        </div>
-    </footer>
+<footer class="footer-2" role="contentinfo">
+  <!-- <div class="footer-logo">
+    <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_square.png" alt="Logo image">
+  </div> -->
+  <ul>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+
+  <div class="footer-secondary-links">
+
+    <ul class="footer-social">
+      <li><a target="_blank" href="{{ .Site.Params.github }}"><i class="icon ion-social-github" ></i></a></li>
+      <li><a target="_blank" href="{{ .Site.Params.twitter }}"> <i class="icon ion-social-twitter" ></i></a></li>
+      <li><a target="_blank" href="{{ .Site.Params.linkedin }}"> <i class="icon ion-social-linkedin" ></i></a></li>
+      <li><a target="_blank" href="{{ .Site.Params.facebook }}"> <i class="icon ion-social-facebook" ></i></a></li>
+    </ul>
+    
+    <ul>
+      <li>Copyright © 2017</li>
+    </ul>
+
+
+  </div>
+</footer>
