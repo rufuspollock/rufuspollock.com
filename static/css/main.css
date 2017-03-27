@@ -3632,6 +3632,9 @@ body a:visited {
 body a:hover {
   text-decoration: underline; }
 
+.content-wrapper {
+  min-height: calc(100vh - 4.8em); }
+
 header.navigation {
   background-color: #fff;
   border-bottom: 1px solid #e6e6e6;
@@ -4428,7 +4431,6 @@ section.other-pages {
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
-  min-height: calc(100vh - 4.8em - 60px);
   padding-top: 3em; }
   section.other-pages::after {
     clear: both;
