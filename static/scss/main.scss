@@ -3,233 +3,44 @@
 
 $mm_maxWidth: 380px;
 
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i');
+
 @import
   "normalize",
   "bourbon/bourbon",
   "base/base",
   "neat/neat",
   "icons/icons",
-  "refills/navigation"
+  "refills/typography"
 ;
 
 $small-screen: em(400);
 $extra-large-screen: em(1280);
 
-a {
-  color: #0FB3FF;
-  text-decoration: underline;
+body {
+  h2 {
+    font-size: 1.6em;
+    font-weight: 500;
+  }
+  a {
+    color: #0FB3FF;
+  }
+  a:visited {
+    color: darken(#0FB3FF, 15%);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 a.button {
   @extend button;
 }
 
-.post {
-  font-family: $serif;
-  @include outer-container;
-  text-align:center;
-
-  .post-content {
-    text-align:left;
-
-    h1 {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 2em;
-      font-weight: 700;
-      margin-bottom: 0.5em;
-      color:black;
-
-      @include media($medium-screen) {
-        font-size: 2.6em;
-      }
-    }
-
-    code,
-    p code {
-      background: $light-gray;
-      border-radius: $base-border-radius * 1.5;
-      border: 1px solid $medium-gray;
-      font-family: $monospaced;
-      font-size: 0.75em;
-      font-style: normal;
-      padding: 0.1em 0.4em;
-      white-space: nowrap;
-
-      strong {
-        font-family: $monospaced;
-      }
-    }
-
-    pre,
-    .panel {
-      border-radius: $base-border-radius * 1.5;
-      border: 1px solid $medium-gray;
-      margin-left:- $base-spacing;
-      margin-right:- $base-spacing;
-
-      code {
-        white-space: pre-wrap;
-        background-color: transparent;
-        border:none;
-        padding:0;
-      }
-    }
-
-    h2 {
-      font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;;
-      font-size: 1.4em;
-      line-height: 1.3em;
-      margin-bottom: .4em;
-      font-weight:700;
-      color:black;
-    }
-
-    h3 {
-      font-size: 1.4em;
-      font-family: $serif;
-      font-weight: 400;
-      margin-bottom: .4em;
-    }
-
-    h4 {
-      font-size: 1.2em;
-      margin-bottom: .4em;
-      color:black;
-    }
-
-    h5 {
-      margin-bottom: .4em;
-    }
-
-    h6 {
-      display:inline;
-    }
-
-    p.date {
-      color: transparentize($base-font-color, .6);
-      font-family: $serif;
-      font-size: rem(13);
-      font-style: italic;
-      margin-bottom: 0.3em;
-    }
-
-    p {
-      font-family: $serif;
-      font-size: rem(15);
-      line-height: 1.6em;
-      margin-bottom: 1.5em;
-    }
-
-    ul {
-      @extend %default-ul;
-    }
-
-    ol {
-      @extend %default-ol;
-    }
-
-    p,
-    li {
-      strong {
-        font-family: $sans-serif;
-        font-weight: 700;
-      }
-    }
-
-    a.read-more {
-      display: inline-block;
-      font-family: $sans-serif;
-      font-size: 0.8em;
-      font-weight: 700;
-      margin-left: 0.2em;
-      position: relative;
-      text-transform: uppercase;
-
-      span {
-        font-family: $serif;
-        font-size: 1.5em;
-        font-style: normal;
-        position: absolute;
-        right: -12px;
-        top: -1px;
-      }
-    }
-
-    hr {
-      width: 3em;
-    }
-
-    .author {
-      font-family: $serif;
-      font-style: italic;
-      margin-top:-1em;
-      margin-bottom: 1.5em;
-
-      ul {
-        display:inline;
-        padding:0;
-
-        li {
-          display:inline;
-
-          &:after {
-            content:',';
-          }
-
-          &:nth-last-child(2):after {
-            content:' &';
-          }
-
-          &:last-child:after {
-            content:'.';
-          }
-        }
-      }
-    }
-
-    .note {
-      background-color:rgba($base-accent-color, 0.1);
-      padding:$base-spacing;
-      margin-left:- $base-spacing;
-      margin-right:- $base-spacing;
-      margin-bottom: $base-spacing;
-      font-family:$sans-serif;
-
-      h6 {
-        background-color:rgba($base-accent-color, 0.6);
-        margin-top: - $base-spacing;
-        margin-right: - $base-spacing;
-        margin-bottom: $base-spacing / 2;
-        margin-left: - $base-spacing;
-        padding: $base-spacing / 3 $base-spacing $base-spacing / 3 $base-spacing;
-        color:#fff;
-        display:block;
-      }
-
-      p  {
-        font-family:$sans-serif;
-      }
-
-      :last-child {
-        margin-bottom:0;
-      }
-    }
-
-    .footnotes {
-      border-top:solid 1px $medium-gray;
-      font-size: 12px;
-      padding-top:5px;
-      margin-top:$base-spacing;
-
-      p {
-        font-size: 12px;
-      }
-    }
-  }
-}
 
 // =======================================================
 // navigation
+@import "refills/navigation";
 header.navigation {
   $navigation-height: 60px;
   $horizontal-bar-mode: $large-screen;
@@ -290,35 +101,23 @@ header.navigation {
       color: white;
       h1, h3, h4 {
         margin-bottom:20px;
-      }
-      h1 {
-        font-size: 70px;
         font-weight: 300;
       }
-      h3 {
-        font-size:30px;
-        font-weight:300;
-      }
-      h4 {
-        font-size: 25px;
-        font-weight: 200;
+      h1 {
+        font-size: 4em;
+        font-weight: 300;
       }
       a.button{
         margin: 25px 10px 20px 0;
         border: 1px solid #fff;
         border-radius: 0;
-        @include media($large-screen) {
-          font-size: 20px;
-        }
+        color: white;
       }
       a {
         i {
           color: white;
           font-size:25px;
           margin-right:6px;
-          @include media($large-screen) {
-            font-size: 25px;
-          }
         }
       }
     }
@@ -331,7 +130,7 @@ header.navigation {
         text-align: center;
         align-items: center;
         margin: 0;
-        font-size: 0.9em;
+        //font-size: 0.9em;
       }
       .arrow-down {
         font-size: 2.6em;
@@ -363,28 +162,24 @@ header.navigation {
         @include size(100vw 56.2vw);
         @include media($large-screen) {
           @include position(13vh null null calc(50vw - 420px));
-          @include size(840px 450px);
+          @include size(854px 480px);
         }
       }
     }
     .video-text {
-      text-align: center;
+      margin-bottom: 2em;
+      text-align: left;
+      padding: 0 5%;
       @include media($large-screen) {
-        @include position(2em null null 23vw);
-        @include size(54vw null);
-      }
-
-      h3 {
-        font-size: 1.7em;
+        padding: 0;
+        @include position(2em null null 28vw);
+        @include size(44vw null);
       }
     }
   }
 
   .fellow {
     @include outer-container(90%);
-    h2 {
-      font-size: 1.9em;
-    }
     padding-top: 3em;
     @import "refills/logos.scss";
   }
@@ -444,7 +239,7 @@ header.navigation {
 
       h2 {
         margin-bottom: 0.9em;
-        font-size: 1.9em;
+        //font-size: 1.9em;
       }
 
       h4 {
@@ -468,6 +263,7 @@ header.navigation {
         border: 1px solid black;
         background-color: white;
         border-radius: 0;
+        font-weight: normal;
       }
     }
 
@@ -664,7 +460,6 @@ header.navigation {
   }
 
   p {
-    color: $base-font-color;
     line-height: $base-line-height;
   }
 
@@ -676,17 +471,14 @@ header.navigation {
 // writings & essays
 @import "refills/comment";
 .comment {
-  border-bottom: null;
   @include media($large-screen) {
     width: 70%;
   }
 
   .comment-image {
-
-    > img {
-      background: none;
-      border-radius: 0;
-      padding: 0;
+    padding-right: 2.4em;
+    i {
+      font-size: 4em;
     }
   }
 }
@@ -730,9 +522,13 @@ header.navigation {
           max-width: 30em;
           text-align: left;
         }
+        p {
+          font-weight: normal;
+        }
         a {
-          margin: 1.95em 0.5em 0 0;
+          margin: 1.35em 0.5em 0 0;
           border-radius: 0;
+          color: white;
         }
       }
 
@@ -768,7 +564,6 @@ header.navigation {
         text-align: center;
         align-items: center;
         margin: 0;
-        font-size: 0.9em;
       }
       .arrow-down {
         font-size: 2.6em;
@@ -779,13 +574,6 @@ header.navigation {
     }
   }
 
-  h1 {
-    font-size: 2.6em;
-  }
-  h2 {
-    font-size: 2em;
-  }
-
   section {
     padding: 3em 0 0 0;
     @include outer-container($container - 5%);
@@ -793,7 +581,7 @@ header.navigation {
 
   .side-image {
     $large-screen: 53.75em !default;
-    background: #F9F9F9;
+    background: white;
     @include media($large-screen) {
       @include row(table);
     }
@@ -802,7 +590,7 @@ header.navigation {
       display: block;
       background-size: contain;
       background-repeat: no-repeat;
-      background-color: #F9F9F9;
+      border: 1px solid #e4e4e4;
       min-height: 12em;
       @include media($large-screen) {
         @include span-columns(10);
@@ -825,7 +613,7 @@ header.navigation {
 
       @include media($large-screen) {
         @include span-columns(8);
-        padding: 4em 4em 8em 4em;
+        padding: 0em 4em 0em 0em;
       }
     }
 
@@ -882,46 +670,28 @@ header.navigation {
     .event-content {
       width: 100%;
     }
-    h3 {
-      font-size: 1.7em;
-      margin-bottom: 0.25em;
-    }
-    .subheading {
-      color: lighten($dark-gray, 20%);
-      font-size: 0.9em;
-      margin-bottom: 0;
-      a {
-        color: lighten($dark-gray, 20%);
-      }
-    }
   }
 
 }
 
 section.other-pages {
   @include outer-container(90%);
-  padding-top: 3em;
-  h1 {
-    font-size: 2.6em;
-    margin-bottom: 1.5em;
-  }
-  h2 {
-    font-size: 1.4em;
-    font-weight: normal;
-  }
-  .news {
+  @import "refills/logos.scss";
+  @include media($large-screen) {
     max-width: 700px;
+  }
+  padding-top: 3em;
+  .news {
     .single-news {
       padding: 2em 2.5em 2em 2em;
       margin: 0 0 1em 0;
       border: 1px solid #e4e4e4;
-      a {
-        text-decoration: none;
-      }
     }
-    p.date {
-      font-size: 0.8em;
-      color: lighten($dark-gray, 20%);
-    }
+  }
+  .post-single {
+    max-width: 700px;
+  }
+  form > input, form > textarea {
+    border-radius: 0;
   }
 }

@@ -5,8 +5,8 @@ backgroundPath: background-information.jpg
 videoUrl: "https://www.youtube.com/embed/6cRtbA_d4RI"
 themetoshow: [u'Information Economy']
 buttons: [
-  {title: Open Knowledge >>, link: "https://okfn.org/", target: _blank},
-  {title: Open leaders programme >>, link: "http://open-leaders.com/", target: _blank}
+  {title: Open Knowledge &rsaquo;, link: "https://okfn.org/", target: _blank},
+  {title: Open leaders programme &rsaquo;, link: "http://open-leaders.com/", target: _blank}
 ]
 ---
 

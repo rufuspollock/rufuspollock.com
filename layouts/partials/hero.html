@@ -5,7 +5,7 @@
       <h1> {{ .Title }} </h1>
       {{ .Content }}
       {{ range .Params.buttons }}
-        <a class="button" href="{{ .link }}" target="{{ .target }}">{{ .title }}</a>
+        <a class="button" href="{{ .link }}" target="{{ .target }}">{{ htmlUnescape .title }}</a>
       {{ end }}
     </div>
 

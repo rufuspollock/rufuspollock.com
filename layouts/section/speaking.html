@@ -41,8 +41,8 @@
                       <div class="event">
                         <div class="event-content">
                           <h3>{{ .Params.venue }}</h3>
-                          <p class="subheading"><i class="icon ion-calendar"></i> {{ $date.Format "2 January 2006" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon ion-location"></i> {{ .Params.location }}</p>
-                          <p class="subheading"><a href="{{ .Params.link }}" target="_blank">more about venue</a></p>
+                          <p class="date"><i class="icon ion-calendar"></i> {{ $date.Format "2 January 2006" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon ion-location"></i> {{ .Params.location }}</p>
+                          <p><a href="{{ .Params.link }}" target="_blank">more about venue</a></p>
                           <p>{{ .Content }}</p>
                         </div>
                         <div class="event-image">

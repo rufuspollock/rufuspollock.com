@@ -2,16 +2,17 @@
   {{ $theme := .Params.themetoshow }}
   <section id="next-section">
     <h2>Writings and Essays</h2>
-    {{ range first 3 (where .Site.Pages "Params.themes" "intersect" $theme) }}
+    {{ $allposts :=  where .Site.Pages "Section" "post"}}
+    {{ range first 3 (where $allposts "Params.themes" "intersect" $theme) }}
 
         <div class="comment">
           <div class="comment-image">
-            <img src="../images/pen.png">
+            <i class="icon ion-document"></i>
           </div>
           <div class="comment-content">
             <h3>{{ .Title }}</h3>
             <p>{{ .Summary }}</p>
-            <a href="{{ .Permalink }}">Read full article</a>
+            <a href="{{ .Permalink }}">Read full article <span>&rsaquo;</span></a>
           </div>
         </div>
 

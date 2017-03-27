@@ -5,7 +5,7 @@ backgroundPath: background-data-systems.jpg
 videoUrl: "https://www.youtube.com/embed/tKSk9p-V6s4"
 buttons: [
   {title: Hire me, link: "/contact"},
-  {title: Datopian >>, link: "http://datopian.com/", target: _blank}
+  {title: Datopian &rsaquo;, link: "http://datopian.com/", target: _blank}
 ]
 themetoshow: [u'Data Systems']
 logostoshow: [
