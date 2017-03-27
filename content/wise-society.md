@@ -4,7 +4,7 @@ type: ideas
 backgroundPath: background-wise.jpg
 videoUrl: "https://www.youtube.com/embed/_QR-1o5ci7s"
 buttons: [
-  {title: Art/ Earth/ Tech >>, link: "http://artearthtech.com/", target: _blank}
+  {title: Art/ Earth/ Tech &rsaquo;, link: "http://artearthtech.com/", target: _blank}
 ]
 themetoshow: [u'Wise Society']
 ---

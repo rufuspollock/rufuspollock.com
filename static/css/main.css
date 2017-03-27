@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i");
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -469,15 +470,6 @@ ol {
   list-style-type: none;
   margin: 0;
   padding: 0; }
-  .post .post-content ul {
-    list-style-type: disc;
-    margin-bottom: 0.75em;
-    padding-left: 1.5em; }
-  .post .post-content ol {
-    list-style-type: decimal;
-    margin-bottom: 0.75em;
-    padding-left: 1.5em; }
-
 dl {
   margin-bottom: 0.75em; }
   dl dt {
@@ -3529,6 +3521,118 @@ html {
 .ion-xbox:before {
   content: ""; }
 
+body {
+  font-family: "Lato", sans-serif;
+  text-align: left; }
+  body::after {
+    clear: both;
+    content: "";
+    display: table; }
+  body h1,
+  body h2,
+  body h3,
+  body p {
+    margin: 0; }
+  body hr {
+    border-bottom: 1px solid #FAFAFA;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    margin: 1.5em 0; }
+  body p {
+    color: #333;
+    line-height: 1.5; }
+  body a {
+    color: black;
+    text-decoration: none; }
+  body .type {
+    border-bottom: 1px solid;
+    display: inline-block;
+    font-family: "Lato", sans-serif;
+    font-size: 0.7em;
+    font-weight: 900;
+    letter-spacing: 1px;
+    margin-bottom: 2em;
+    padding: 0.1em 0;
+    text-align: left;
+    text-transform: uppercase; }
+  body h1 {
+    font-family: "Lato", sans-serif;
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 0.6em; }
+    @media screen and (min-width: 40em) {
+      body h1 {
+        font-size: 2.4em; } }
+  body h2 {
+    font-family: "Lato", sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    line-height: 1.4em;
+    margin-bottom: 1.2em; }
+    @media screen and (min-width: 40em) {
+      body h2 {
+        font-size: 1.4em; } }
+  body code {
+    background: #f7f7f7;
+    border-radius: 4.5px;
+    border: 1px solid #e0e0e0;
+    font-family: monaco;
+    font-size: 0.65em;
+    font-style: normal;
+    padding: 0.1em 0.4em;
+    white-space: nowrap; }
+  body h3 {
+    font-family: "Lato", sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.4em;
+    margin-bottom: 0.5em;
+    text-transform: uppercase; }
+  body p.date {
+    color: rgba(51, 51, 51, 0.4);
+    font-family: "Lato", sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 0.5em; }
+  body p {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    letter-spacing: 1;
+    margin-bottom: 1.5em; }
+    body p span {
+      font-family: "Lato", sans-serif;
+      font-size: 0.8em;
+      font-weight: 600;
+      text-transform: uppercase; }
+  body hr {
+    width: 3em; }
+  body a.read-more {
+    display: inline-block;
+    font-family: "Lato", sans-serif;
+    font-size: 0.8em;
+    font-weight: 700;
+    margin-left: 0.2em;
+    position: relative;
+    text-transform: uppercase; }
+    body a.read-more span {
+      font-size: 1.7em;
+      position: absolute;
+      right: -10px;
+      top: -2px; }
+  body p.author {
+    font-family: "Lato", sans-serif;
+    font-style: italic; }
+
+body h2 {
+  font-size: 1.6em;
+  font-weight: 500; }
+body a {
+  color: #0FB3FF; }
+body a:visited {
+  color: #0084c2; }
+body a:hover {
+  text-decoration: underline; }
+
 header.navigation {
   background-color: #fff;
   border-bottom: 1px solid #e6e6e6;
@@ -3752,152 +3856,6 @@ header.navigation {
           box-sizing: border-box;
           display: block; } }
 
-a {
-  color: #0FB3FF;
-  text-decoration: underline; }
-
-.post {
-  font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-  max-width: 68em;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center; }
-  .post::after {
-    clear: both;
-    content: "";
-    display: table; }
-  .post .post-content {
-    text-align: left; }
-    .post .post-content h1 {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 2em;
-      font-weight: 700;
-      margin-bottom: 0.5em;
-      color: black; }
-      @media screen and (min-width: 40em) {
-        .post .post-content h1 {
-          font-size: 2.6em; } }
-    .post .post-content code,
-    .post .post-content p code {
-      background: #FAFAFA;
-      border-radius: 4.5px;
-      border: 1px solid #EDEDED;
-      font-family: monaco, Consolas, "Lucida Console", monospace;
-      font-size: 0.75em;
-      font-style: normal;
-      padding: 0.1em 0.4em;
-      white-space: nowrap; }
-      .post .post-content code strong,
-      .post .post-content p code strong {
-        font-family: monaco, Consolas, "Lucida Console", monospace; }
-    .post .post-content pre,
-    .post .post-content .panel {
-      border-radius: 4.5px;
-      border: 1px solid #EDEDED;
-      margin-left: -1.5em;
-      margin-right: -1.5em; }
-      .post .post-content pre code,
-      .post .post-content .panel code {
-        white-space: pre-wrap;
-        background-color: transparent;
-        border: none;
-        padding: 0; }
-    .post .post-content h2 {
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 1.4em;
-      line-height: 1.3em;
-      margin-bottom: .4em;
-      font-weight: 700;
-      color: black; }
-    .post .post-content h3 {
-      font-size: 1.4em;
-      font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-      font-weight: 400;
-      margin-bottom: .4em; }
-    .post .post-content h4 {
-      font-size: 1.2em;
-      margin-bottom: .4em;
-      color: black; }
-    .post .post-content h5 {
-      margin-bottom: .4em; }
-    .post .post-content h6 {
-      display: inline; }
-    .post .post-content p.date {
-      color: rgba(51, 51, 51, 0.4);
-      font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-      font-size: 0.8125rem;
-      font-style: italic;
-      margin-bottom: 0.3em; }
-    .post .post-content p {
-      font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-      font-size: 0.9375rem;
-      line-height: 1.6em;
-      margin-bottom: 1.5em; }
-    .post .post-content p strong,
-    .post .post-content li strong {
-      font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: 700; }
-    .post .post-content a.read-more {
-      display: inline-block;
-      font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-size: 0.8em;
-      font-weight: 700;
-      margin-left: 0.2em;
-      position: relative;
-      text-transform: uppercase; }
-      .post .post-content a.read-more span {
-        font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-        font-size: 1.5em;
-        font-style: normal;
-        position: absolute;
-        right: -12px;
-        top: -1px; }
-    .post .post-content hr {
-      width: 3em; }
-    .post .post-content .author {
-      font-family: "Lora", Georgia, Cambria, "Times New Roman", Times, serif;
-      font-style: italic;
-      margin-top: -1em;
-      margin-bottom: 1.5em; }
-      .post .post-content .author ul {
-        display: inline;
-        padding: 0; }
-        .post .post-content .author ul li {
-          display: inline; }
-          .post .post-content .author ul li:after {
-            content: ','; }
-          .post .post-content .author ul li:nth-last-child(2):after {
-            content: ' &'; }
-          .post .post-content .author ul li:last-child:after {
-            content: '.'; }
-    .post .post-content .note {
-      background-color: rgba(0, 0, 0, 0.1);
-      padding: 1.5em;
-      margin-left: -1.5em;
-      margin-right: -1.5em;
-      margin-bottom: 1.5em;
-      font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; }
-      .post .post-content .note h6 {
-        background-color: rgba(0, 0, 0, 0.6);
-        margin-top: -1.5em;
-        margin-right: -1.5em;
-        margin-bottom: 0.75em;
-        margin-left: -1.5em;
-        padding: 0.5em 1.5em 0.5em 1.5em;
-        color: #fff;
-        display: block; }
-      .post .post-content .note p {
-        font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif; }
-      .post .post-content .note :last-child {
-        margin-bottom: 0; }
-    .post .post-content .footnotes {
-      border-top: solid 1px #EDEDED;
-      font-size: 12px;
-      padding-top: 5px;
-      margin-top: 1.5em; }
-      .post .post-content .footnotes p {
-        font-size: 12px; }
-
 header.navigation .navigation-wrapper {
   max-width: 90%;
   margin-left: auto;
@@ -3957,30 +3915,20 @@ header.navigation li.more > a::after {
     max-width: 35em;
     color: white; }
     .home-template .hero .hero-content h1, .home-template .hero .hero-content h3, .home-template .hero .hero-content h4 {
-      margin-bottom: 20px; }
+      margin-bottom: 20px;
+      font-weight: 300; }
     .home-template .hero .hero-content h1 {
-      font-size: 70px;
+      font-size: 4em;
       font-weight: 300; }
-    .home-template .hero .hero-content h3 {
-      font-size: 30px;
-      font-weight: 300; }
-    .home-template .hero .hero-content h4 {
-      font-size: 25px;
-      font-weight: 200; }
     .home-template .hero .hero-content a.button {
       margin: 25px 10px 20px 0;
       border: 1px solid #fff;
-      border-radius: 0; }
-      @media screen and (min-width: 53.75em) {
-        .home-template .hero .hero-content a.button {
-          font-size: 20px; } }
+      border-radius: 0;
+      color: white; }
     .home-template .hero .hero-content a i {
       color: white;
       font-size: 25px;
       margin-right: 6px; }
-      @media screen and (min-width: 53.75em) {
-        .home-template .hero .hero-content a i {
-          font-size: 25px; } }
   .home-template .hero .call-to-action {
     position: absolute;
     top: 88%;
@@ -3991,8 +3939,7 @@ header.navigation li.more > a::after {
       color: white;
       text-align: center;
       align-items: center;
-      margin: 0;
-      font-size: 0.9em; }
+      margin: 0; }
     .home-template .hero .call-to-action .arrow-down {
       font-size: 2.6em; }
       .home-template .hero .call-to-action .arrow-down a {
@@ -4023,18 +3970,19 @@ header.navigation li.more > a::after {
           position: relative;
           top: 13vh;
           left: calc(50vw - 420px);
-          height: 450px;
-          width: 840px; } }
+          height: 480px;
+          width: 854px; } }
   .home-template .video .video-text {
-    text-align: center; }
+    margin-bottom: 2em;
+    text-align: left;
+    padding: 0 5%; }
     @media screen and (min-width: 53.75em) {
       .home-template .video .video-text {
+        padding: 0;
         position: relative;
         top: 2em;
-        left: 23vw;
-        width: 54vw; } }
-    .home-template .video .video-text h3 {
-      font-size: 1.7em; }
+        left: 28vw;
+        width: 44vw; } }
 .home-template .fellow {
   max-width: 90%;
   margin-left: auto;
@@ -4044,8 +3992,6 @@ header.navigation li.more > a::after {
     clear: both;
     content: "";
     display: table; }
-  .home-template .fellow h2 {
-    font-size: 1.9em; }
   .home-template .fellow .logo-section {
     display: flex;
     flex-wrap: wrap;
@@ -4099,8 +4045,7 @@ header.navigation li.more > a::after {
         width: 50%;
         padding: 4em 5% 8em 5%; } }
     .home-template .side-image .side-image-content h2 {
-      margin-bottom: 0.9em;
-      font-size: 1.9em; }
+      margin-bottom: 0.9em; }
     .home-template .side-image .side-image-content h4 {
       background: #BBB;
       color: white;
@@ -4117,7 +4062,8 @@ header.navigation li.more > a::after {
       color: black;
       border: 1px solid black;
       background-color: white;
-      border-radius: 0; }
+      border-radius: 0;
+      font-weight: normal; }
 
 .page-content > :first-child {
   min-height: 400px; }
@@ -4262,7 +4208,6 @@ header.navigation li.more > a::after {
   .bullets-small li {
     list-style: none; }
   .bullets-small p {
-    color: #333;
     line-height: 1.5; }
   .bullets-small img {
     max-width: 100%; }
@@ -4303,15 +4248,13 @@ header.navigation li.more > a::after {
       font-size: 0.9em;
       font-style: italic; }
 
-.comment {
-  border-bottom: null; }
-  @media screen and (min-width: 53.75em) {
-    .comment {
-      width: 70%; } }
-  .comment .comment-image > img {
-    background: none;
-    border-radius: 0;
-    padding: 0; }
+@media screen and (min-width: 53.75em) {
+  .comment {
+    width: 70%; } }
+.comment .comment-image {
+  padding-right: 2.4em; }
+  .comment .comment-image i {
+    font-size: 4em; }
 
 .themes-section .logo-section {
   display: flex;
@@ -4365,9 +4308,12 @@ header.navigation li.more > a::after {
           width: 50%;
           max-width: 30em;
           text-align: left; } }
+      .themes-section .newhero .hero-body .hero-content p {
+        font-weight: normal; }
       .themes-section .newhero .hero-body .hero-content a {
-        margin: 1.95em 0.5em 0 0;
-        border-radius: 0; }
+        margin: 1.35em 0.5em 0 0;
+        border-radius: 0;
+        color: white; }
     .themes-section .newhero .hero-body .video {
       display: table-cell;
       width: 100%; }
@@ -4397,16 +4343,11 @@ header.navigation li.more > a::after {
     .themes-section .newhero .call-to-action p {
       text-align: center;
       align-items: center;
-      margin: 0;
-      font-size: 0.9em; }
+      margin: 0; }
     .themes-section .newhero .call-to-action .arrow-down {
       font-size: 2.6em; }
       .themes-section .newhero .call-to-action .arrow-down a {
         color: #333; }
-.themes-section h1 {
-  font-size: 2.6em; }
-.themes-section h2 {
-  font-size: 2em; }
 .themes-section section {
   padding: 3em 0 0 0;
   max-width: 90%;
@@ -4417,7 +4358,7 @@ header.navigation li.more > a::after {
     content: "";
     display: table; }
 .themes-section .side-image {
-  background: #F9F9F9; }
+  background: white; }
   @media screen and (min-width: 53.75em) {
     .themes-section .side-image {
       display: table;
@@ -4427,7 +4368,7 @@ header.navigation li.more > a::after {
     display: block;
     background-size: contain;
     background-repeat: no-repeat;
-    background-color: #F9F9F9;
+    border: 1px solid #e4e4e4;
     min-height: 12em; }
     @media screen and (min-width: 53.75em) {
       .themes-section .side-image .images-wrapper {
@@ -4448,7 +4389,7 @@ header.navigation li.more > a::after {
       .themes-section .side-image .side-image-content {
         display: table-cell;
         width: 66.66667%;
-        padding: 4em 4em 8em 4em; } }
+        padding: 0em 4em 0em 0em; } }
 .themes-section .links {
   display: flex;
   flex-wrap: wrap;
@@ -4483,15 +4424,6 @@ header.navigation li.more > a::after {
       width: 25em; }
   .themes-section .event .event-content {
     width: 100%; }
-  .themes-section .event h3 {
-    font-size: 1.7em;
-    margin-bottom: 0.25em; }
-  .themes-section .event .subheading {
-    color: #666666;
-    font-size: 0.9em;
-    margin-bottom: 0; }
-    .themes-section .event .subheading a {
-      color: #666666; }
 
 section.other-pages {
   max-width: 90%;
@@ -4502,22 +4434,31 @@ section.other-pages {
     clear: both;
     content: "";
     display: table; }
-  section.other-pages h1 {
-    font-size: 2.6em;
-    margin-bottom: 1.5em; }
-  section.other-pages h2 {
-    font-size: 1.4em;
-    font-weight: normal; }
-  section.other-pages .news {
+  section.other-pages .logo-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left; }
+    section.other-pages .logo-section li {
+      align-self: center;
+      list-style: none;
+      padding: 2em;
+      text-align: center; }
+      section.other-pages .logo-section li .square-logo {
+        max-height: 5em; }
+      section.other-pages .logo-section li .wide-logo {
+        max-width: 10em; }
+      section.other-pages .logo-section li .wider-logo {
+        max-width: 15em; }
+  @media screen and (min-width: 53.75em) {
+    section.other-pages {
+      max-width: 700px; } }
+  section.other-pages .news .single-news {
+    padding: 2em 2.5em 2em 2em;
+    margin: 0 0 1em 0;
+    border: 1px solid #e4e4e4; }
+  section.other-pages .post-single {
     max-width: 700px; }
-    section.other-pages .news .single-news {
-      padding: 2em 2.5em 2em 2em;
-      margin: 0 0 1em 0;
-      border: 1px solid #e4e4e4; }
-      section.other-pages .news .single-news a {
-        text-decoration: none; }
-    section.other-pages .news p.date {
-      font-size: 0.8em;
-      color: #666666; }
+  section.other-pages form > input, section.other-pages form > textarea {
+    border-radius: 0; }
 
 /*# sourceMappingURL=main.css.map */
