@@ -543,7 +543,7 @@ header.navigation {
           @include size(80vw 44.96vw);
           @include media($large-screen) {
             margin: 0;
-            @include size(450px 253px);
+            @include size(533px 300px);
           }
         }
         @include media($large-screen) {

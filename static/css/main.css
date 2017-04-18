@@ -4324,8 +4324,8 @@ header.navigation li.more > a::after {
         @media screen and (min-width: 53.75em) {
           .themes-section .newhero .hero-body .video iframe {
             margin: 0;
-            height: 253px;
-            width: 450px; } }
+            height: 300px;
+            width: 533px; } }
       @media screen and (min-width: 53.75em) {
         .themes-section .newhero .hero-body .video {
           display: table-cell;
