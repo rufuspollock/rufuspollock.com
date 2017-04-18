@@ -3,7 +3,7 @@ title: >-
   Giving Away the Printer Charging for the Printer Cartridges
 slug: giving-away-the-printer-charging-for-the-printer-cartridges
 date: 2007-05-07T09:57:10
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

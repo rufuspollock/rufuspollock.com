@@ -3,10 +3,10 @@ title: >-
   Public Domain Calculators Workshop
 slug: public-domain-calculators-workshop
 date: 2009-11-06T12:55:48
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge']
-posttypes: [u'Own Work']
+projects: ['Academia', 'Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

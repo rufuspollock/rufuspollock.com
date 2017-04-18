@@ -4,7 +4,7 @@ title: >-
 slug: the-assasination-of-jesse-james-by-the-coward-robert-ford
 date: 2007-12-12T20:31:33
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,9 +4,9 @@ title: >-
 slug: ffii-statement-at-wipo-iim-13th-april-2005
 date: 2005-04-13T22:52:44
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
-posttypes: [u'Talks']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

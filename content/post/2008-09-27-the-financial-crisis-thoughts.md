@@ -3,7 +3,7 @@ title: >-
   The Financial Crisis: Thoughts
 slug: the-financial-crisis-thoughts
 date: 2008-09-27T19:29:07
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

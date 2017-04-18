@@ -4,7 +4,7 @@ title: >-
 slug: the-farthest-shore-by-ursula-leguin
 date: 2007-08-15T20:21:42
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

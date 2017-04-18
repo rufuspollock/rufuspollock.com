@@ -3,9 +3,9 @@ title: >-
   Open World Public talk Wed 23 Nov at Copenhagen University
 slug: open-world-public-talk-wed-23-nov-at-copenhagen-university
 date: 2016-11-21T13:50:20
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

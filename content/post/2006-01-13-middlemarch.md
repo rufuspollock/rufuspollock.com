@@ -4,7 +4,7 @@ title: >-
 slug: middlemarch
 date: 2006-01-13T12:39:24
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

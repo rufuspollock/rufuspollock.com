@@ -3,10 +3,10 @@ title: >-
   The 2008 Open Knowledge Conference (OKCon): Tomorrow at LSE in London
 slug: the-2008-open-knowledge-conference-okcon-tomorrow-at-lse-in-london
 date: 2008-03-14T12:42:48
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

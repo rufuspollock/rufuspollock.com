@@ -4,7 +4,7 @@ title: >-
 slug: sunshine-cleaning
 date: 2009-07-02T21:35:16
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

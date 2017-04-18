@@ -4,7 +4,7 @@ title: >-
 slug: the-private-lives-of-pippa-lee
 date: 2009-07-16T20:14:32
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

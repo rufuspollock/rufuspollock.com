@@ -4,7 +4,7 @@ title: >-
 slug: set-trackpad-sensitivity-for-thinkpad-on-ubuntu
 date: 2010-07-11T00:07:47
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

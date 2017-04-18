@@ -3,9 +3,9 @@ title: >-
   Git (and Github) for Data
 slug: git-and-github-for-data
 date: 2013-07-02T11:02:33
-themes: [u'Data Systems', u'Information Economy', u'Notebook']
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+themes: ['Data Systems', 'Information Economy', 'Notebook']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

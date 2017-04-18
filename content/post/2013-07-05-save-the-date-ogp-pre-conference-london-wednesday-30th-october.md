@@ -3,9 +3,9 @@ title: >-
   Save the Date – OGP Pre-Conference, London Wednesday 30th October
 slug: save-the-date-ogp-pre-conference-london-wednesday-30th-october
 date: 2013-07-05T13:05:17
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

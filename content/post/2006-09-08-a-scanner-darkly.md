@@ -4,7 +4,7 @@ title: >-
 slug: a-scanner-darkly
 date: 2006-09-08T13:10:06
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

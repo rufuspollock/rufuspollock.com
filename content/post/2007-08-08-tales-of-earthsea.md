@@ -4,7 +4,7 @@ title: >-
 slug: tales-of-earthsea
 date: 2007-08-08T18:40:02
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

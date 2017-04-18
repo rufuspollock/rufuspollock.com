@@ -3,7 +3,7 @@ title: >-
   The Barrington Atlas of the Greek and Roman World
 slug: the-barrington-atlas-of-the-greek-and-roman-world
 date: 2006-05-01T14:51:07
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

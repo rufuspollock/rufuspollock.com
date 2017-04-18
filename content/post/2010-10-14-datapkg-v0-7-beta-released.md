@@ -3,10 +3,10 @@ title: >-
   Datapkg v0.7 Beta Released
 slug: datapkg-v0-7-beta-released
 date: 2010-10-14T12:21:30
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Updates']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

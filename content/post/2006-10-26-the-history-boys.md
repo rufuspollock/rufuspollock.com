@@ -4,7 +4,7 @@ title: >-
 slug: the-history-boys
 date: 2006-10-26T19:04:26
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

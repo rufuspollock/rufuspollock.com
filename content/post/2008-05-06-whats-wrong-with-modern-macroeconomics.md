@@ -4,8 +4,8 @@ title: >-
 slug: whats-wrong-with-modern-macroeconomics
 date: 2008-05-06T08:36:29
 themes: []
-tags: [u'Economics']
-projects: [u'Academia']
+tags: ['Economics']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -3,9 +3,9 @@ title: >-
   "Models of Public Sector Information Provision via Trading Funds" Report Published Today
 slug: models-of-public-sector-information-provision-via-trading-funds-report-published-today
 date: 2008-03-12T18:01:40
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

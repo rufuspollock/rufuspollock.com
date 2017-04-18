@@ -4,7 +4,7 @@ title: >-
 slug: average-annual-change-in-us-mean-family-income-1950-2010
 date: 2012-09-01T12:12:32
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

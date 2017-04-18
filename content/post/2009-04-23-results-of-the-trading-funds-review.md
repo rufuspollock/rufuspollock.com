@@ -3,8 +3,8 @@ title: >-
   Results of the Trading Funds Review
 slug: results-of-the-trading-funds-review
 date: 2009-04-23T16:10:56
-themes: [u'Information Economy']
-tags: [u'Government']
+themes: ['Information Economy']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

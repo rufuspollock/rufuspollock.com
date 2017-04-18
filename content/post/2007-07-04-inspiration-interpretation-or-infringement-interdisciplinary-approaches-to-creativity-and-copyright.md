@@ -3,9 +3,9 @@ title: >-
   Inspiration, Interpretation or Infringement? Interdisciplinary Approaches to Creativity and Copyright
 slug: inspiration-interpretation-or-infringement-interdisciplinary-approaches-to-creativity-and-copyright
 date: 2007-07-04T16:19:55
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,7 +4,7 @@ title: >-
 slug: and-when-did-you-last-see-your-father
 date: 2007-10-22T20:23:25
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

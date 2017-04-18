@@ -4,7 +4,7 @@ title: >-
 slug: private-fears-in-public-places-coeurs
 date: 2007-07-25T20:11:39
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

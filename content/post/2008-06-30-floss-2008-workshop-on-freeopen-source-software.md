@@ -3,10 +3,10 @@ title: >-
   FLOSS 2008 Workshop on Free/Open Source Software
 slug: floss-2008-workshop-on-freeopen-source-software
 date: 2008-06-30T10:33:22
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,9 +3,9 @@ title: >-
   Putting Open at the Heart of the Digital Age
 slug: putting-open-at-the-heart-of-the-digital-age
 date: 2015-06-05T15:40:17
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: True
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

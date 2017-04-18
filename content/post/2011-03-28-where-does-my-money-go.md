@@ -3,10 +3,10 @@ title: >-
   Where Does My Money Go ...
 slug: where-does-my-money-go
 date: 2011-03-28T17:38:51
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

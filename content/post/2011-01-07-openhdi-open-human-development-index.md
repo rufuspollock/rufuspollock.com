@@ -3,10 +3,10 @@ title: >-
   OpenHDI: Open Human Development Index
 slug: openhdi-open-human-development-index
 date: 2011-01-07T10:00:56
-themes: [u'Data Systems', u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Updates']
+themes: ['Data Systems', 'Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

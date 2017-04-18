@@ -5,8 +5,8 @@ slug: announcing-a-leadership-update-at-open-knowledge
 date: 2014-09-18T15:05:31
 themes: []
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Updates']
+projects: ['Open Knowledge']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

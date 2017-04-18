@@ -3,9 +3,9 @@ title: >-
   Tim Hubbard at Cambridge University Pugwash Society
 slug: tim-hubbard-at-cambridge-university-pugwash-society
 date: 2007-02-21T15:42:08
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

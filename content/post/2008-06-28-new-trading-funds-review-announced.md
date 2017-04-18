@@ -3,8 +3,8 @@ title: >-
   New Trading Funds Review Announced
 slug: new-trading-funds-review-announced
 date: 2008-06-28T15:06:00
-themes: [u'Information Economy']
-tags: [u'Government']
+themes: ['Information Economy']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   The Elusive Disappearance of Community
 slug: the-elusive-disappearance-of-community
 date: 2009-12-03T09:17:42
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

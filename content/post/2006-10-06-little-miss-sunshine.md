@@ -4,7 +4,7 @@ title: >-
 slug: little-miss-sunshine
 date: 2006-10-06T18:45:07
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

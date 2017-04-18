@@ -4,7 +4,7 @@ title: >-
 slug: golden-balls-cojones-del-oro
 date: 2006-01-26T19:11:38
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

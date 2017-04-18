@@ -3,9 +3,9 @@ title: >-
   NEF Confusion over Creative Commons Non-Commercial License Being Open
 slug: nef-confusion-over-creative-commons-non-commercial-license-being-open
 date: 2016-04-03T12:00:00
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

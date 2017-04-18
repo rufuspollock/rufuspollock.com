@@ -4,7 +4,7 @@ title: >-
 slug: thinking-about-annotation
 date: 2007-01-17T18:36:12
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

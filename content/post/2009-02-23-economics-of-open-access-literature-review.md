@@ -3,7 +3,7 @@ title: >-
   Economics of Open Access Literature Review
 slug: economics-of-open-access-literature-review
 date: 2009-02-23T11:30:41
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

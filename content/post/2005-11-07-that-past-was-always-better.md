@@ -4,7 +4,7 @@ title: >-
 slug: that-past-was-always-better
 date: 2005-11-07T18:58:10
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

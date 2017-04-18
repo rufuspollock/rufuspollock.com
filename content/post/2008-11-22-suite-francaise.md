@@ -4,7 +4,7 @@ title: >-
 slug: suite-francaise
 date: 2008-11-22T12:10:24
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

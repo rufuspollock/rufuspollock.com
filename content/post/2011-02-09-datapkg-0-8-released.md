@@ -3,10 +3,10 @@ title: >-
   Datapkg 0.8 Released
 slug: datapkg-0-8-released
 date: 2011-02-09T17:48:11
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

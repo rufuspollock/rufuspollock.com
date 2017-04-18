@@ -3,8 +3,8 @@ title: >-
   European Parliament Votes on Term Extension: The Result
 slug: european-parliament-votes-on-term-extension-the-result
 date: 2009-04-24T18:39:28
-themes: [u'Information Economy']
-tags: [u'Government']
+themes: ['Information Economy']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

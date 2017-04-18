@@ -3,9 +3,9 @@ title: >-
   Workshop on Well-Being I
 slug: workshop-on-well-being-i
 date: 2008-01-22T19:39:49
-themes: [u'Information Economy', u'Wise Society']
+themes: ['Information Economy', 'Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

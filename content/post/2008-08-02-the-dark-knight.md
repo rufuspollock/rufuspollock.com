@@ -4,7 +4,7 @@ title: >-
 slug: the-dark-knight
 date: 2008-08-02T17:21:31
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Transaction Costs of Copyright Clearance
 slug: transaction-costs-of-copyright-clearance
 date: 2007-09-28T10:53:21
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

@@ -3,9 +3,9 @@ title: >-
   Creative Commons and the Commons
 slug: creative-commons-and-the-commons
 date: 2011-04-12T16:10:36
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

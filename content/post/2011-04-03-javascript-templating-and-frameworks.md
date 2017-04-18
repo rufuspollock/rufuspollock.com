@@ -4,8 +4,8 @@ title: >-
 slug: javascript-templating-and-frameworks
 date: 2011-04-03T11:10:13
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

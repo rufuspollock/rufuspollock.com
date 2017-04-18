@@ -4,7 +4,7 @@ title: >-
 slug: walter-lippman-goes-to-town-on-the-1916-republican-convention
 date: 2005-02-02T10:46:42
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

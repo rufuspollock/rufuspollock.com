@@ -3,10 +3,10 @@ title: >-
   Speaking Today at media140 Dataconomy Event
 slug: speaking-today-at-media140-dataconomy-event
 date: 2010-10-21T11:05:21
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

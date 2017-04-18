@@ -4,9 +4,9 @@ title: >-
 slug: open-source-annotation-toolkit-for-inline-online-web-annotation
 date: 2010-11-11T10:55:03
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Updates']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

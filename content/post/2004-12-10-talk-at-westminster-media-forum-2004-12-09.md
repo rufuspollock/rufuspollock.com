@@ -3,10 +3,10 @@ title: >-
   Talk at Westminster Media Forum 2004-12-09
 slug: talk-at-westminster-media-forum-2004-12-09
 date: 2004-12-10T16:44:16
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

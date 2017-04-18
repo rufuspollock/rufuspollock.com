@@ -5,7 +5,7 @@ slug: workshop-on-rationality-and-emotions-notes-from-day-2
 date: 2008-01-10T20:28:44
 themes: []
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

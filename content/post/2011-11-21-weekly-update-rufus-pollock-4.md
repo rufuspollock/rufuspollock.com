@@ -5,8 +5,8 @@ slug: weekly-update-rufus-pollock-4
 date: 2011-11-21T11:32:16
 themes: []
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

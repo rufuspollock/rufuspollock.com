@@ -4,7 +4,7 @@ title: >-
 slug: stephensons-in-the-beginning-was-the-command-line
 date: 2006-07-14T20:38:59
 themes: []
-tags: [u'Books', u'Tech']
+tags: ['Books', 'Tech']
 projects: []
 posttypes: []
 featured: False

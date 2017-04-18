@@ -3,7 +3,7 @@ title: >-
   Interview for Radio Österreich in Vienna on Open Data, Open Source and transparency
 slug: interview-for-radio-osterreich-in-vienna-on-open-data-open-source-and-transparency
 date: 2016-06-28T15:58:25
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

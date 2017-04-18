@@ -3,9 +3,9 @@ title: >-
   Open Data Can Speed up Research - Andy Beck of Harvard Medical School
 slug: open-data-can-speed-up-research-andy-beck-of-harvard-medical-school
 date: 2015-04-23T08:03:06
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

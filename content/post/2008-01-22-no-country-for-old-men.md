@@ -4,7 +4,7 @@ title: >-
 slug: no-country-for-old-men
 date: 2008-01-22T21:55:38
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

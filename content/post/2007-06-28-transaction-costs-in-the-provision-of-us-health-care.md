@@ -3,8 +3,8 @@ title: >-
   Transaction Costs in the Provision of US Health Care
 slug: transaction-costs-in-the-provision-of-us-health-care
 date: 2007-06-28T14:06:49
-themes: [u'Notebook']
-tags: [u'Government']
+themes: ['Notebook']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

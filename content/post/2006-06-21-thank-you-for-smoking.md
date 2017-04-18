@@ -4,7 +4,7 @@ title: >-
 slug: thank-you-for-smoking
 date: 2006-06-21T20:01:26
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: the-last-king-of-scotland
 date: 2007-01-30T19:10:49
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

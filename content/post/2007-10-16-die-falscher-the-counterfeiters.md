@@ -4,7 +4,7 @@ title: >-
 slug: die-falscher-the-counterfeiters
 date: 2007-10-16T20:29:32
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

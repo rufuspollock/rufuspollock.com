@@ -3,10 +3,10 @@ title: >-
   Talking at Legal Aspects of Public Sector Information (LAPSI) Conference in Milan
 slug: talking-at-legal-aspects-of-public-sector-information-lapsi-conference-in-milan
 date: 2011-05-03T15:28:57
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Talks', u'Updates']
+projects: ['Academia', 'Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

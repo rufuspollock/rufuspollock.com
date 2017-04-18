@@ -4,7 +4,7 @@ title: >-
 slug: inland-empire
 date: 2007-03-12T19:00:08
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

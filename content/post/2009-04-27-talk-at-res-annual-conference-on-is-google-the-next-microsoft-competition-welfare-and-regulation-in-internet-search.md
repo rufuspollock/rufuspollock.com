@@ -3,10 +3,10 @@ title: >-
   Talk at RES Annual Conference on "Is Google the Next Microsoft? Competition, Welfare and Regulation in Internet Search"
 slug: talk-at-res-annual-conference-on-is-google-the-next-microsoft-competition-welfare-and-regulation-in-internet-search
 date: 2009-04-27T09:28:22
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

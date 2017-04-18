@@ -4,7 +4,7 @@ title: >-
 slug: be-kind-rewind
 date: 2008-02-25T21:14:38
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

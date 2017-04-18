@@ -4,7 +4,7 @@ title: >-
 slug: tell-no-one
 date: 2007-06-22T17:21:20
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

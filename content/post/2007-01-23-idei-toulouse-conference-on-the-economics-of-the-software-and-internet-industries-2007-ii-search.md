@@ -3,7 +3,7 @@ title: >-
   IDEI Toulouse Conference on the Economics of the Software and Internet Industries 2007: II Search
 slug: idei-toulouse-conference-on-the-economics-of-the-software-and-internet-industries-2007-ii-search
 date: 2007-01-23T20:23:28
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

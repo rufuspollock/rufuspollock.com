@@ -3,9 +3,9 @@ title: >-
   Society for Economic Research on Copyright Issues (SERCI) Annual Congress 2007
 slug: society-for-economic-research-on-copyright-issues-serci-annual-congress-2007
 date: 2007-07-19T12:24:29
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

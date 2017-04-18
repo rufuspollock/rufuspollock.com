@@ -3,9 +3,9 @@ title: >-
   Open Information Age talk at University of Bath Wednesday 14th December
 slug: open-information-age-talk-at-university-of-bath-wednesday-14th-dec
 date: 2016-12-08T14:34:29
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

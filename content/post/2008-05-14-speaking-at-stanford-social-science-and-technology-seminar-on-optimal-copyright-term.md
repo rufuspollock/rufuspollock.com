@@ -3,10 +3,10 @@ title: >-
   Speaking at Stanford Social Science and Technology Seminar on Optimal Copyright Term
 slug: speaking-at-stanford-social-science-and-technology-seminar-on-optimal-copyright-term
 date: 2008-05-14T18:51:37
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

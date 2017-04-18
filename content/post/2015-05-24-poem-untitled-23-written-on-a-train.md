@@ -4,7 +4,7 @@ title: >-
 slug: poem-untitled-23-written-on-a-train
 date: 2015-05-24T19:27:01
 themes: []
-tags: [u'Poetry']
+tags: ['Poetry']
 projects: []
 posttypes: []
 featured: False

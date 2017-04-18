@@ -4,7 +4,7 @@ title: >-
 slug: open-archives-initiative-oai-software
 date: 2004-12-28T17:47:00
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

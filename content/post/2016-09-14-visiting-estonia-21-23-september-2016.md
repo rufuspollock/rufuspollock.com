@@ -3,10 +3,10 @@ title: >-
   Visiting Estonia 21-23 September 2016
 slug: visiting-estonia-21-23-september-2016
 date: 2016-09-14T10:35:45
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

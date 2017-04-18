@@ -3,7 +3,7 @@ title: >-
   Transaction costs: the case of DRM
 slug: transaction-costs-the-case-of-drm
 date: 2006-03-27T12:41:28
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

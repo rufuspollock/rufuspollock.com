@@ -3,9 +3,9 @@ title: >-
   The Social Value of Project Gutenberg's Etexts
 slug: the-social-value-of-project-gutenbergs-etexts
 date: 2006-04-10T16:38:33
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

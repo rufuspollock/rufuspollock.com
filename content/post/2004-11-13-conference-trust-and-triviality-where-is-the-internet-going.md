@@ -3,7 +3,7 @@ title: >-
   Conference: Trust and Triviality: where is the Internet Going
 slug: conference-trust-and-triviality-where-is-the-internet-going
 date: 2004-11-13T09:42:40
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
 projects: []
 posttypes: []

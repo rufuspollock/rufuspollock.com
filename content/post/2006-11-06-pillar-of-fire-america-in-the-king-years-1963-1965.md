@@ -4,7 +4,7 @@ title: >-
 slug: pillar-of-fire-america-in-the-king-years-1963-1965
 date: 2006-11-06T18:14:24
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

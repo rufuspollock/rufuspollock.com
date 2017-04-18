@@ -3,7 +3,7 @@ title: >-
   Some Essays from my Schooldays
 slug: some-essays-from-schooldays
 date: 2006-10-05T08:30:38
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

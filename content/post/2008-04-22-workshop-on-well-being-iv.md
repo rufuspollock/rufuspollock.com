@@ -5,7 +5,7 @@ slug: workshop-on-well-being-iv
 date: 2008-04-22T14:15:11
 themes: []
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

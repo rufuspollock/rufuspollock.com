@@ -4,9 +4,9 @@ title: >-
 slug: tabular-data-formats
 date: 2011-10-09T14:04:52
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

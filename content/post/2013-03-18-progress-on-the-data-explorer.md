@@ -4,8 +4,8 @@ title: >-
 slug: progress-on-the-data-explorer
 date: 2013-03-18T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

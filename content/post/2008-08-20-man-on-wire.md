@@ -4,7 +4,7 @@ title: >-
 slug: man-on-wire
 date: 2008-08-20T21:38:42
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Dutch Study on Filesharing
 slug: dutch-study-on-filesharing
 date: 2009-01-23T09:38:06
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

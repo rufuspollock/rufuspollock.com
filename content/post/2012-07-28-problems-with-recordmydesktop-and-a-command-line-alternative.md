@@ -4,7 +4,7 @@ title: >-
 slug: problems-with-recordmydesktop-and-a-command-line-alternative
 date: 2012-07-28T16:46:35
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

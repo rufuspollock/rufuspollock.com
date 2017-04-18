@@ -3,10 +3,10 @@ title: >-
   Comments on An Economic Model of Friendship: Homophily, Minorities and Segregation by Currarini, Jackson and Pin (2007)
 slug: comments-on-%e2%80%9can-economic-model-of-friendship-homophily-minorities-and-segregation%e2%80%9d-by-currarini-jackson-and-pin-2007
 date: 2008-01-15T12:53:43
-themes: [u'networks friendship homophily']
+themes: ['networks friendship homophily']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

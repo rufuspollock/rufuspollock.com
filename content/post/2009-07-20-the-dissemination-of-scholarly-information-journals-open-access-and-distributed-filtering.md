@@ -3,10 +3,10 @@ title: >-
   The Dissemination of Scholarly Information: Journals, Open-Access and Distributed Filtering
 slug: the-dissemination-of-scholarly-information-journals-open-access-and-distributed-filtering
 date: 2009-07-20T12:20:39
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge']
-posttypes: [u'Own Work']
+projects: ['Academia', 'Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

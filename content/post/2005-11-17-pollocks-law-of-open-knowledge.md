@@ -3,9 +3,9 @@ title: >-
   Open Knowledge Drives out Closed
 slug: pollocks-law-of-open-knowledge
 date: 2005-11-17T21:17:00
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

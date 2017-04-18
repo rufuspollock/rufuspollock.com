@@ -3,7 +3,7 @@ title: >-
   Qualcomm and Patent Submarining
 slug: qualcomm-and-patent-submarining
 date: 2009-08-14T17:28:30
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

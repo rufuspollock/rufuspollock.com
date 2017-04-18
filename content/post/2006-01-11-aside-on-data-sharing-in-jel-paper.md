@@ -3,8 +3,8 @@ title: >-
   Aside on Data Sharing in JEL paper
 slug: aside-on-data-sharing-in-jel-paper
 date: 2006-01-11T16:09:40
-themes: [u'Data Systems']
-tags: [u'Economics']
+themes: ['Data Systems']
+tags: ['Economics']
 projects: []
 posttypes: []
 featured: False

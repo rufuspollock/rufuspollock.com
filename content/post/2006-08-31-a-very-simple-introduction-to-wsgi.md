@@ -4,7 +4,7 @@ title: >-
 slug: a-very-simple-introduction-to-wsgi
 date: 2006-08-31T16:24:46
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

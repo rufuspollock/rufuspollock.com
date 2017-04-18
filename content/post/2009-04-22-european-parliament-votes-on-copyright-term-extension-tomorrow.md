@@ -3,8 +3,8 @@ title: >-
   European Parliament Votes on Copyright Term Extension Tomorrow
 slug: european-parliament-votes-on-copyright-term-extension-tomorrow
 date: 2009-04-22T12:14:24
-themes: [u'Information Economy']
-tags: [u'Government']
+themes: ['Information Economy']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

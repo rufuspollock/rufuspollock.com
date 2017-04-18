@@ -3,10 +3,10 @@ title: >-
   CKAN v1.2 Released together with Datapkg v0.7
 slug: ckan-v1-2-released-together-with-datapkg-v0-7
 date: 2010-11-30T21:14:33
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Updates']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

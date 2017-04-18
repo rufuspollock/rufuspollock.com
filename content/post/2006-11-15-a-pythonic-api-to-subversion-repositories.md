@@ -4,7 +4,7 @@ title: >-
 slug: a-pythonic-api-to-subversion-repositories
 date: 2006-11-15T14:01:35
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

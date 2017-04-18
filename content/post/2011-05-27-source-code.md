@@ -4,7 +4,7 @@ title: >-
 slug: source-code
 date: 2011-05-27T15:31:57
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

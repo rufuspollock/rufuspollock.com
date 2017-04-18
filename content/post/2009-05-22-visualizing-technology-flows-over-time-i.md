@@ -3,10 +3,10 @@ title: >-
   Visualizing Technology Flows Over Time (I)
 slug: visualizing-technology-flows-over-time-i
 date: 2009-05-22T11:31:00
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

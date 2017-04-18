@@ -3,7 +3,7 @@ title: >-
   The Mac Premium and the Apple Tax
 slug: the-mac-premium-and-the-apple-tax
 date: 2009-10-18T19:57:38
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

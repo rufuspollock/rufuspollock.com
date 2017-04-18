@@ -4,7 +4,7 @@ title: >-
 slug: eastern-promises
 date: 2007-10-29T21:09:22
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

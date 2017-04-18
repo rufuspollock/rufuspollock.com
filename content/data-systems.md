@@ -7,7 +7,7 @@ buttons: [
   {title: Hire me, link: "/contact"},
   {title: Datopian &rsaquo;, link: "http://datopian.com/", target: _blank}
 ]
-themetoshow: [u'Data Systems']
+themetoshow: ['Data Systems']
 logostoshow: [
   {source: World_Bank_Group_logo.png, wideness: wider-logo},
   {source: United-Nations-Logo-1024x881.jpg, wideness: square-logo},

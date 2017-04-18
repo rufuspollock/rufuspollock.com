@@ -4,7 +4,7 @@ title: >-
 slug: the-golden-compass
 date: 2007-12-08T19:09:38
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

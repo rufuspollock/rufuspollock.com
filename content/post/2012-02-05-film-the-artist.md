@@ -4,7 +4,7 @@ title: >-
 slug: film-the-artist
 date: 2012-02-05T21:01:31
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

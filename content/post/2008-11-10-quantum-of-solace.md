@@ -4,7 +4,7 @@ title: >-
 slug: quantum-of-solace
 date: 2008-11-10T20:57:01
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,9 +3,9 @@ title: >-
   2009 Open Knowledge Conference (OKCon) This Saturday
 slug: 2009-open-knowledge-conference-okcon-this-saturday
 date: 2009-03-23T14:12:07
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

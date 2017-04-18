@@ -3,7 +3,7 @@ title: >-
   The Wage Curve: A Power Law Relationship of Wages to Unemployment
 slug: the-wage-curve-a-power-law-relationship-of-wages-to-unemployment
 date: 2007-11-15T20:33:41
-themes: [u'Notebook', u'power-law', u'wage-curve']
+themes: ['Notebook', 'power-law', 'wage-curve']
 tags: []
 projects: []
 posttypes: []

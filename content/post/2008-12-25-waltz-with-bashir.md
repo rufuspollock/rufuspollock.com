@@ -4,7 +4,7 @@ title: >-
 slug: waltz-with-bashir
 date: 2008-12-25T21:01:45
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

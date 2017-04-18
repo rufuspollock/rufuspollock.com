@@ -4,7 +4,7 @@ title: >-
 slug: the-squid-and-the-whale
 date: 2006-06-08T18:41:57
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: john-maynard-keynes-the-economist-as-saviour-1920-1937-by-robert-skidelsky
 date: 2006-12-05T08:31:27
 themes: []
-tags: [u'Books', u'History']
+tags: ['Books', 'History']
 projects: []
 posttypes: []
 featured: False

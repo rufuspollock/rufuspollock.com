@@ -4,7 +4,7 @@ title: >-
 slug: the-city-and-the-city-by-china-mieville
 date: 2011-03-12T08:12:28
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

@@ -5,8 +5,8 @@ slug: weekly-update-16th-january-2012-rufus-pollock
 date: 2012-01-16T13:41:48
 themes: []
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

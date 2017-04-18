@@ -4,7 +4,7 @@ title: >-
 slug: time-and-chance-happen-to-them-all
 date: 2006-11-10T08:56:38
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

@@ -5,8 +5,8 @@ slug: 2008-international-industrial-organization-conference-iioc
 date: 2008-05-20T01:28:12
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -4,7 +4,7 @@ title: >-
 slug: linguistic-nativism
 date: 2006-11-02T11:51:04
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

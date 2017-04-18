@@ -3,10 +3,10 @@ title: >-
   Introducing YourTopia - Development beyond GDP
 slug: introducing-yourtopia-development-beyond-gdp
 date: 2011-01-12T14:39:10
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Updates']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

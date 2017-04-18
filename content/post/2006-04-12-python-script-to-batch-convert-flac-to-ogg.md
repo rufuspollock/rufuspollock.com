@@ -4,7 +4,7 @@ title: >-
 slug: python-script-to-batch-convert-flac-to-ogg
 date: 2006-04-12T10:59:46
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

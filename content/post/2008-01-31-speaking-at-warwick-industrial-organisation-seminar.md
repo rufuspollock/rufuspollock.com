@@ -3,10 +3,10 @@ title: >-
   Speaking at Warwick Industrial Organisation Seminar
 slug: speaking-at-warwick-industrial-organisation-seminar
 date: 2008-01-31T10:35:18
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -4,7 +4,7 @@ title: >-
 slug: slumdog-millionaire
 date: 2009-01-13T21:07:14
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

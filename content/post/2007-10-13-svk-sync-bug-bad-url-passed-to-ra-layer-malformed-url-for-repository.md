@@ -4,7 +4,7 @@ title: >-
 slug: svk-sync-bug-bad-url-passed-to-ra-layer-malformed-url-for-repository
 date: 2007-10-13T12:02:44
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

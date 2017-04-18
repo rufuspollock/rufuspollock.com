@@ -3,10 +3,10 @@ title: >-
   Discounting and Self-Control
 slug: discounting-and-self-control
 date: 2009-05-19T10:05:07
-themes: [u'Notebook', u'Wise Society']
+themes: ['Notebook', 'Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
-posttypes: [u'Own Work']
+projects: ['Academia', 'Happiness']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

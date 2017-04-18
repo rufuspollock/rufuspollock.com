@@ -4,7 +4,7 @@ title: >-
 slug: john-maynard-keynes-fighting-for-britain-1937-1946-by-robert-skidelsky
 date: 2008-07-08T11:15:13
 themes: []
-tags: [u'Books', u'History']
+tags: ['Books', 'History']
 projects: []
 posttypes: []
 featured: False

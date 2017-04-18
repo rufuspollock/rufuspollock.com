@@ -3,9 +3,9 @@ title: >-
   Slides Now Up from Talk at "Musicians, Fans and Online Copyright" Event
 slug: slides-now-up-from-talk-at-musicians-fans-and-online-copyright-event
 date: 2008-03-26T10:59:35
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

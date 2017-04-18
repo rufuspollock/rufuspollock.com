@@ -4,7 +4,7 @@ title: >-
 slug: the-radetzky-march
 date: 2006-08-12T10:03:08
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

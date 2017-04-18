@@ -3,10 +3,10 @@ title: >-
   Speaking at CCSR in Manchester about Open Data
 slug: speaking-at-ccsr-in-manchester-about-open-data
 date: 2011-01-24T11:59:21
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Talks', u'Updates']
+projects: ['Academia', 'Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

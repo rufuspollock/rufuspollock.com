@@ -3,7 +3,7 @@ title: >-
   Great Video: Data Sharing and Management Snafu in 3 Short Acts
 slug: great-video-data-sharing-and-management-snafu-in-3-short-acts
 date: 2015-09-24T13:52:41
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

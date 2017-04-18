@@ -3,8 +3,8 @@ title: >-
   Something New Under the Sun: An Environmental History of the Twentieth Century World by J.R. McNeill
 slug: an-environmental-history-of-the-twentieth-century-world
 date: 2007-10-17T10:12:02
-themes: [u'Information Economy']
-tags: [u'Books']
+themes: ['Information Economy']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: revolutionary-road
 date: 2009-02-06T20:08:06
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

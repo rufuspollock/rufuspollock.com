@@ -4,8 +4,8 @@ title: >-
 slug: cleaning-up-greater-london-authority-spending-for-openspending
 date: 2013-04-03T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

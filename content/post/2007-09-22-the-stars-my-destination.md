@@ -4,7 +4,7 @@ title: >-
 slug: the-stars-my-destination
 date: 2007-09-22T12:14:51
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

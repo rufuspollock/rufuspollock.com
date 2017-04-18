@@ -3,7 +3,7 @@ title: >-
   Research Fellowship on Economics of PSI
 slug: research-fellowship-on-economics-of-psi
 date: 2009-07-24T11:28:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

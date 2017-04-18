@@ -3,7 +3,7 @@ title: >-
   Opiate: Definition from the Devil's Dictionary
 slug: opiate-definition-from-the-devils-dictionary
 date: 2005-01-01T10:56:30
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

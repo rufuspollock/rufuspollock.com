@@ -3,9 +3,9 @@ title: >-
   Historical Banking Crises and the Rules of the Game
 slug: historical-banking-crises-and-the-rules-of-the-game
 date: 2009-12-07T19:01:12
-themes: [u'finance financial-crisis', u'Notebook']
+themes: ['finance financial-crisis', 'Notebook']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

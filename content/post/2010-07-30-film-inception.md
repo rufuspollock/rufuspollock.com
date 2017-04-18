@@ -4,7 +4,7 @@ title: >-
 slug: film-inception
 date: 2010-07-30T21:44:36
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

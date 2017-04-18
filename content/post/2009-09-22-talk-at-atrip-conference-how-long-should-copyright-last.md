@@ -3,10 +3,10 @@ title: >-
   Talk at ATRIP Conference: How Long Should Copyright Last?
 slug: talk-at-atrip-conference-how-long-should-copyright-last
 date: 2009-09-22T12:07:52
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -5,8 +5,8 @@ slug: stackelberg-added-to-atlas-of-economics-models
 date: 2008-05-29T16:10:55
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Updates']
+projects: ['Academia']
+posttypes: ['Own Work', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

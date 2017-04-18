@@ -4,7 +4,7 @@ title: >-
 slug: female-agents
 date: 2008-07-10T20:10:48
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

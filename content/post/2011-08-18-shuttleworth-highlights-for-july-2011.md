@@ -5,8 +5,8 @@ slug: shuttleworth-highlights-for-july-2011
 date: 2011-08-18T15:20:53
 themes: []
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

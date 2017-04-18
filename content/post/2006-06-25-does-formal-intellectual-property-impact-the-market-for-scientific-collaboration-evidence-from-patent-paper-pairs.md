@@ -3,7 +3,7 @@ title: >-
   Does Formal Intellectual Property Impact The Market For Scientific Collaboration? Evidence From Patent-Paper Pairs
 slug: does-formal-intellectual-property-impact-the-market-for-scientific-collaboration-evidence-from-patent-paper-pairs
 date: 2006-06-25T13:22:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

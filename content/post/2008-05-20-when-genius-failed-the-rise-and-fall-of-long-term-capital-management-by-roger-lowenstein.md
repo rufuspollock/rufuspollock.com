@@ -4,7 +4,7 @@ title: >-
 slug: when-genius-failed-the-rise-and-fall-of-long-term-capital-management-by-roger-lowenstein
 date: 2008-05-20T09:08:48
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: the-social-network
 date: 2010-11-01T21:18:21
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

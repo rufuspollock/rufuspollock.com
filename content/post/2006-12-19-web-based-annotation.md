@@ -3,9 +3,9 @@ title: >-
   Web-Based Annotation
 slug: web-based-annotation
 date: 2006-12-19T17:38:10
-themes: [u'Data Systems']
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+themes: ['Data Systems']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

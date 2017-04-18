@@ -3,7 +3,7 @@ title: >-
   Scherer Paper on "The Political Economy of Patent Policy Reform in the United States"
 slug: scherer-paper-on-the-political-economy-of-patent-policy-reform-in-the-united-states
 date: 2007-10-18T11:12:19
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

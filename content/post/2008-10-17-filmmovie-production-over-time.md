@@ -3,9 +3,9 @@ title: >-
   Film/Movie Production Over Time
 slug: filmmovie-production-over-time
 date: 2008-10-17T12:15:49
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

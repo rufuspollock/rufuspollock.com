@@ -4,8 +4,8 @@ title: >-
 slug: open-data-maker-night-london-no-3-tuesday-16th-july
 date: 2013-07-08T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

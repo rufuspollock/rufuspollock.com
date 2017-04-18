@@ -3,10 +3,10 @@ title: >-
   Copyright is a Monopoly! (And isn't like normal property)
 slug: copyright-is-a-monopoly-and-isnt-like-normal-property
 date: 2011-01-31T08:10:14
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
-posttypes: [u'Own Work']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

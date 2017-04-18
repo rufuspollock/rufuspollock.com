@@ -4,7 +4,7 @@ title: >-
 slug: public-debt-public-finances-and-openspending
 date: 2012-06-17T17:02:03
 themes: []
-tags: [u'OpenSpending']
+tags: ['OpenSpending']
 projects: []
 posttypes: []
 featured: False

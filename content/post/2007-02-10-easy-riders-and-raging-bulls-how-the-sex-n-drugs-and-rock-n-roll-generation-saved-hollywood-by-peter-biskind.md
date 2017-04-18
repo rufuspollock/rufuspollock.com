@@ -4,7 +4,7 @@ title: >-
 slug: easy-riders-and-raging-bulls-how-the-sex-n-drugs-and-rock-n-roll-generation-saved-hollywood-by-peter-biskind
 date: 2007-02-10T10:14:31
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

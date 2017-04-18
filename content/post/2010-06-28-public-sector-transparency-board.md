@@ -3,9 +3,9 @@ title: >-
   Public Sector Transparency Board
 slug: public-sector-transparency-board
 date: 2010-06-28T14:57:51
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia', u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia', 'Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

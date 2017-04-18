@@ -3,7 +3,7 @@ title: >-
   Philosophy's Permanently Open Horizons
 slug: philosophys-permanently-open-horizons
 date: 2005-01-06T10:57:26
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

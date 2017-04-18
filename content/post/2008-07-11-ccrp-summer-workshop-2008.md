@@ -5,8 +5,8 @@ slug: ccrp-summer-workshop-2008
 date: 2008-07-11T17:02:56
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,8 +3,8 @@ title: >-
   BSA Study on Software Piracy
 slug: bsa-study-on-software-piracy
 date: 2005-12-14T12:56:38
-themes: [u'Information Economy']
-tags: [u'Tech']
+themes: ['Information Economy']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

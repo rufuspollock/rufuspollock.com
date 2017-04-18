@@ -3,10 +3,10 @@ title: >-
   Talking at OpenTech on Saturday
 slug: talking-at-opentech-on-saturday
 date: 2008-07-03T11:21:23
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge']
-posttypes: [u'Own Work', u'Talks']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -4,7 +4,7 @@ title: >-
 slug: the-chronicles-of-narnia-prince-caspian
 date: 2008-07-15T20:20:21
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

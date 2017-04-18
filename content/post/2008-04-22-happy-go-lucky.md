@@ -4,7 +4,7 @@ title: >-
 slug: happy-go-lucky
 date: 2008-04-22T21:01:10
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

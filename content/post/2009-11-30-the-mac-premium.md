@@ -4,7 +4,7 @@ title: >-
 slug: the-mac-premium
 date: 2009-11-30T11:45:55
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

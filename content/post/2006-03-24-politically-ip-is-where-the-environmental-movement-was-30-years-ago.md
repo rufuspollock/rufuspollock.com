@@ -4,7 +4,7 @@ title: >-
 slug: politically-ip-is-where-the-environmental-movement-was-30-years-ago
 date: 2006-03-24T10:09:10
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

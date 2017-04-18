@@ -3,9 +3,9 @@ title: >-
   Public Domain in Europe (EUPD) Research Project
 slug: public-domain-in-europe-eupd-research-project
 date: 2008-05-26T17:24:10
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'EUPD']
+projects: ['Academia', 'EUPD']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

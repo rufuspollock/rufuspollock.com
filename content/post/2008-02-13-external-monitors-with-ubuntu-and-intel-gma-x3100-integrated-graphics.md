@@ -4,7 +4,7 @@ title: >-
 slug: external-monitors-with-ubuntu-and-intel-gma-x3100-integrated-graphics
 date: 2008-02-13T23:14:27
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

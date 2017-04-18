@@ -3,7 +3,7 @@ title: >-
   (Yet) Another Empirical Analysis of File Sharing
 slug: the-impact-of-digital-file-sharing-on-the-music-industry-an-empirical-analysis
 date: 2006-09-24T10:08:36
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

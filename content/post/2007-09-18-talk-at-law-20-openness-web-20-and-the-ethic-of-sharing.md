@@ -3,9 +3,9 @@ title: >-
   Talk at Law 2.0?: Openness, Web 2.0 and the Ethic of Sharing
 slug: talk-at-law-20-openness-web-20-and-the-ethic-of-sharing
 date: 2007-09-18T14:00:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

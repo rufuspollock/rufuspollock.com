@@ -3,8 +3,8 @@ title: >-
   Nemesis by Max Hastings
 slug: nemesis-by-max-hastings
 date: 2008-01-03T13:55:32
-themes: [u'mcarthur atomic-bomb japan usa']
-tags: [u'Books']
+themes: ['mcarthur atomic-bomb japan usa']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

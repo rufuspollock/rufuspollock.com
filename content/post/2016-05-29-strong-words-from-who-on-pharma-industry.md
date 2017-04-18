@@ -3,9 +3,9 @@ title: >-
   Strong words from WHO on Pharma Industry
 slug: strong-words-from-who-on-pharma-industry
 date: 2016-05-29T05:44:30
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

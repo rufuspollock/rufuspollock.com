@@ -4,7 +4,7 @@ title: >-
 slug: cannibalism-and-the-common-law-by-a-simpson
 date: 2008-04-09T14:51:08
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

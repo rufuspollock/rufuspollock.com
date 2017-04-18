@@ -4,7 +4,7 @@ title: >-
 slug: john-maynard-keynes-hopes-betrayed-1883-1920-by-robert-skidelsky
 date: 2006-10-30T10:01:36
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

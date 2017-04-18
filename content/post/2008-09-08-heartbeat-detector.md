@@ -4,7 +4,7 @@ title: >-
 slug: heartbeat-detector
 date: 2008-09-08T21:33:02
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

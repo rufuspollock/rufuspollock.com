@@ -5,8 +5,8 @@ slug: introducing-open-knowledge-foundation-labs
 date: 2013-07-09T11:30:13
 themes: []
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Updates']
+projects: ['Open Knowledge']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

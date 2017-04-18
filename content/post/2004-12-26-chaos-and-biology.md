@@ -3,7 +3,7 @@ title: >-
   Chaos and Biology
 slug: chaos-and-biology
 date: 2004-12-26T21:14:49
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

@@ -4,7 +4,7 @@ title: >-
 slug: swing-time
 date: 2005-12-21T08:07:42
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

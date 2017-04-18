@@ -4,7 +4,7 @@ title: >-
 slug: margaret-thatcher-theres-no-such-thing-as-society
 date: 2004-12-28T17:28:06
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

@@ -3,10 +3,10 @@ title: >-
   Papers on the Size and Value of EU Public Domain
 slug: papers-on-the-size-and-value-of-eu-public-domain
 date: 2010-10-11T08:38:52
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia']
-posttypes: [u'Own Work']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

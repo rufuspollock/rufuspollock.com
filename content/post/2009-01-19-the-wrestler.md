@@ -4,7 +4,7 @@ title: >-
 slug: the-wrestler
 date: 2009-01-19T20:43:54
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

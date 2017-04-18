@@ -4,7 +4,7 @@ title: >-
 slug: machiavelli-on-the-values-of-foresight-and-prompt-action-in-statecraft-and-medicine
 date: 2007-12-01T16:39:27
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

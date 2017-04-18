@@ -3,9 +3,9 @@ title: >-
   iCommons Day 1: Friday Keynote with Lessig and Zittrain
 slug: icommons-day-1-friday-keynote-with-lessig-and-zittrain
 date: 2007-06-15T19:47:08
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

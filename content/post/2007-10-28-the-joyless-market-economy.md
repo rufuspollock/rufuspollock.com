@@ -3,7 +3,7 @@ title: >-
   The Joyless Market Economy
 slug: the-joyless-market-economy
 date: 2007-10-28T18:18:39
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

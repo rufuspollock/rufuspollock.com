@@ -3,10 +3,10 @@ title: >-
   Author "Significance" From Catalogue Data
 slug: author-significance-from-catalogue-data
 date: 2009-11-05T14:34:23
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'EUPD']
-posttypes: [u'Own Work']
+projects: ['EUPD']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

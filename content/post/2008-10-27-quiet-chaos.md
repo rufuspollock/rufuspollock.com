@@ -4,7 +4,7 @@ title: >-
 slug: quiet-chaos
 date: 2008-10-27T21:33:47
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

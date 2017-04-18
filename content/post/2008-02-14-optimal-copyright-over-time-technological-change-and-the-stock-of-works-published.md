@@ -3,10 +3,10 @@ title: >-
   "Optimal Copyright over Time: Technological Change and the Stock of Works" Published
 slug: optimal-copyright-over-time-technological-change-and-the-stock-of-works-published
 date: 2008-02-14T14:15:52
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

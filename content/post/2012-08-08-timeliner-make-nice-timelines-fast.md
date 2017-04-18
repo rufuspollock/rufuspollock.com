@@ -4,8 +4,8 @@ title: >-
 slug: timeliner-make-nice-timelines-fast
 date: 2012-08-08T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -3,10 +3,10 @@ title: >-
   Talks this Week: Open Data at ESTC in Vienna and TOP-IX Annual Conference in Turin
 slug: talks-this-week-open-data-at-estc-in-vienna-and-top-ix-annual-conference-in-turin
 date: 2010-12-02T10:59:17
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

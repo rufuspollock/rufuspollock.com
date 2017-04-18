@@ -3,9 +3,9 @@ title: >-
   Of Mice and Academics: Examining the Effect of Openness on Innovation
 slug: of-mice-and-academics-examining-the-effect-of-openness-on-innovation
 date: 2009-02-23T10:13:01
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

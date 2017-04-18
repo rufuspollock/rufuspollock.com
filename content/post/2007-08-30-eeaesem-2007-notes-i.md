@@ -5,7 +5,7 @@ slug: eeaesem-2007-notes-i
 date: 2007-08-30T12:37:40
 themes: []
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

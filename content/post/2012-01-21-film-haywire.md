@@ -4,7 +4,7 @@ title: >-
 slug: film-haywire
 date: 2012-01-21T21:53:00
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,8 +4,8 @@ title: >-
 slug: herd-behaviour-in-downsizing
 date: 2004-12-28T17:55:32
 themes: []
-tags: [u'Economics']
-projects: [u'Academia']
+tags: ['Economics']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,7 +4,7 @@ title: >-
 slug: javascript-libraries-for-working-with-data
 date: 2011-05-08T13:35:59
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

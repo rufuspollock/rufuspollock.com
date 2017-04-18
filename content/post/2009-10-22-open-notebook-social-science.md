@@ -3,9 +3,9 @@ title: >-
   Open Notebook Social Science
 slug: open-notebook-social-science
 date: 2009-10-22T10:04:35
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia', u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia', 'Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

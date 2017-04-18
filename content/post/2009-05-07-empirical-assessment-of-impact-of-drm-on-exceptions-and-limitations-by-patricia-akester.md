@@ -3,9 +3,9 @@ title: >-
   Empirical Assessment of Impact of DRM on Exceptions and Limitations by Patricia Akester
 slug: empirical-assessment-of-impact-of-drm-on-exceptions-and-limitations-by-patricia-akester
 date: 2009-05-07T12:09:26
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

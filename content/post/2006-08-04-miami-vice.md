@@ -4,7 +4,7 @@ title: >-
 slug: miami-vice
 date: 2006-08-04T18:36:41
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

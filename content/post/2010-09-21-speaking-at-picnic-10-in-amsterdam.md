@@ -3,10 +3,10 @@ title: >-
   Speaking at PICNIC 10 in Amsterdam
 slug: speaking-at-picnic-10-in-amsterdam
 date: 2010-09-21T19:57:14
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

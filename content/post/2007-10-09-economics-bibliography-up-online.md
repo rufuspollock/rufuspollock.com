@@ -3,9 +3,9 @@ title: >-
   Economics Bibliography Up Online
 slug: economics-bibliography-up-online
 date: 2007-10-09T10:15:33
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

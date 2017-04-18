@@ -4,7 +4,7 @@ title: >-
 slug: candy-crush-king-digital-entertainment-offshoring-and-tax
 date: 2014-03-26T08:40:32
 themes: []
-tags: [u'OpenSpending']
+tags: ['OpenSpending']
 projects: []
 posttypes: []
 featured: False

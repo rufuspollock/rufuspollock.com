@@ -4,7 +4,7 @@ title: >-
 slug: 2-days-in-paris
 date: 2007-09-22T19:50:38
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

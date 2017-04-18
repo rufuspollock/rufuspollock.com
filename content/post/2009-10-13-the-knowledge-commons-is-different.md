@@ -3,9 +3,9 @@ title: >-
   The Knowledge Commons is Different
 slug: the-knowledge-commons-is-different
 date: 2009-10-13T14:42:46
-themes: [u'Information Economy', u'Notebook']
-tags: [u'Cinema', u'Tech']
-projects: [u'Academia', u'Open Knowledge']
+themes: ['Information Economy', 'Notebook']
+tags: ['Cinema', 'Tech']
+projects: ['Academia', 'Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,7 +4,7 @@ title: >-
 slug: the-story-of-irene-and-vernon-castle
 date: 2006-07-28T21:39:34
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

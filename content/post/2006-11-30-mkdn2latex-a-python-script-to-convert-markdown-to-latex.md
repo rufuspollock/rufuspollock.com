@@ -4,7 +4,7 @@ title: >-
 slug: mkdn2latex-a-python-script-to-convert-markdown-to-latex
 date: 2006-11-30T13:28:09
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: the-tree-of-life
 date: 2011-07-29T14:06:47
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

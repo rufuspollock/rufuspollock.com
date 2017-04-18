@@ -4,7 +4,7 @@ title: >-
 slug: books-recently-read
 date: 2014-08-03T11:47:44
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

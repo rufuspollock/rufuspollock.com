@@ -4,7 +4,7 @@ title: >-
 slug: grey-dawn-you-welcome-not-my-spirit-to-the-day
 date: 2015-02-14T11:05:39
 themes: []
-tags: [u'Poetry']
+tags: ['Poetry']
 projects: []
 posttypes: []
 featured: False

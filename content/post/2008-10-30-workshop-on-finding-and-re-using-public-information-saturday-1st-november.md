@@ -3,10 +3,10 @@ title: >-
   Workshop on Finding and Re-using Public Information, Saturday 1st November
 slug: workshop-on-finding-and-re-using-public-information-saturday-1st-november
 date: 2008-10-30T17:20:47
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Own Work']
+projects: ['Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -5,7 +5,7 @@ slug: workshop-on-well-being-vi
 date: 2008-06-24T11:57:14
 themes: []
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

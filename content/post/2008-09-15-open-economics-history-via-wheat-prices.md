@@ -4,8 +4,8 @@ title: >-
 slug: open-economics-history-via-wheat-prices
 date: 2008-09-15T11:11:35
 themes: []
-tags: [u'History']
-projects: [u'Open Knowledge']
+tags: ['History']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

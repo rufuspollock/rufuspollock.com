@@ -4,7 +4,7 @@ title: >-
 slug: cock-and-bull-story
 date: 2006-01-24T18:10:43
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

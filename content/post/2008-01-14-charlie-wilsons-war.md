@@ -4,7 +4,7 @@ title: >-
 slug: charlie-wilsons-war
 date: 2008-01-14T21:15:10
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

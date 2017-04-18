@@ -3,7 +3,7 @@ title: >-
   Reflections on the Blockchain
 slug: reflections-on-the-blockchain
 date: 2016-07-02T13:16:47
-themes: [u'Bitcoin', u'Blockchain', u'Information Economy']
+themes: ['Bitcoin', 'Blockchain', 'Information Economy']
 tags: []
 projects: []
 posttypes: []

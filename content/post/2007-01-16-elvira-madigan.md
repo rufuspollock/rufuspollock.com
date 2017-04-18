@@ -4,7 +4,7 @@ title: >-
 slug: elvira-madigan
 date: 2007-01-16T19:00:00
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

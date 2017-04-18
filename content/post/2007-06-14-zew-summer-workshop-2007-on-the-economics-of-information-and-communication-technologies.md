@@ -3,9 +3,9 @@ title: >-
   ZEW Summer Workshop 2007 on The Economics of Information and Communication Technologies
 slug: zew-summer-workshop-2007-on-the-economics-of-information-and-communication-technologies
 date: 2007-06-14T21:59:12
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

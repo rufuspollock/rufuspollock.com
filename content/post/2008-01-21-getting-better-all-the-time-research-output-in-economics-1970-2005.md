@@ -3,7 +3,7 @@ title: >-
   Getting Better All the Time? Research Output in Economics 1970-2005
 slug: getting-better-all-the-time-research-output-in-economics-1970-2005
 date: 2008-01-21T12:13:10
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

@@ -4,7 +4,7 @@ title: >-
 slug: indiana-jones-and-the-kingdom-of-the-crystal-skull
 date: 2008-06-05T21:21:37
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: renaissance
 date: 2006-07-15T17:11:11
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

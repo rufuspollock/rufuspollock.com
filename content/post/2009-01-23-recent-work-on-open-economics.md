@@ -3,10 +3,10 @@ title: >-
   Recent Work on Open Economics
 slug: recent-work-on-open-economics
 date: 2009-01-23T10:51:20
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Open Knowledge']
-posttypes: [u'Own Work']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

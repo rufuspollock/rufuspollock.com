@@ -4,7 +4,7 @@ title: >-
 slug: coding-standards
 date: 2003-10-19T14:43:33
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

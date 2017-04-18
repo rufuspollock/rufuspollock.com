@@ -4,7 +4,7 @@ title: >-
 slug: the-walker
 date: 2007-09-05T19:14:14
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

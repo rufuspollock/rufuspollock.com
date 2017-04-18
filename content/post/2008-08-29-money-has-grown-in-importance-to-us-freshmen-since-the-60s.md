@@ -3,9 +3,9 @@ title: >-
   Money Has Grown in Importance to US Freshmen Since the 60s
 slug: money-has-grown-in-importance-to-us-freshmen-since-the-60s
 date: 2008-08-29T10:09:02
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Happiness']
+projects: ['Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

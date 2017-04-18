@@ -3,9 +3,9 @@ title: >-
   A Data Revolution that Works for All of Us
 slug: a-data-revolution-that-works-for-all-of-us
 date: 2014-09-24T12:10:09
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

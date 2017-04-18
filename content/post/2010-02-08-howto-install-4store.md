@@ -4,7 +4,7 @@ title: >-
 slug: howto-install-4store
 date: 2010-02-08T13:20:46
 themes: []
-tags: [u'Books', u'Tech']
+tags: ['Books', 'Tech']
 projects: []
 posttypes: []
 featured: False

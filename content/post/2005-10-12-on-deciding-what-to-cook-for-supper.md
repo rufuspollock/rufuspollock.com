@@ -3,7 +3,7 @@ title: >-
   On Deciding What To Cook for Supper
 slug: on-deciding-what-to-cook-for-supper
 date: 2005-10-12T16:34:47
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

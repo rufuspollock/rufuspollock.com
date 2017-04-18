@@ -4,7 +4,7 @@ title: >-
 slug: guns-and-the-american-psyche
 date: 2005-06-06T10:47:37
 themes: []
-tags: [u'Books', u'Government']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

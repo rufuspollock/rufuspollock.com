@@ -5,7 +5,7 @@ slug: demand-theory-a-primer
 date: 2007-10-05T16:02:53
 themes: []
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

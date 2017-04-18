@@ -3,9 +3,9 @@ title: >-
   "Is Google the next Microsoft?" Paper Updated
 slug: is-google-the-next-microsoft-paper-updated
 date: 2008-09-25T09:40:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

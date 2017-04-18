@@ -3,7 +3,7 @@ title: >-
   All of our lock-in fears prove justified - Twitter
 slug: all-of-our-lock-in-fears-prove-justified-twitter
 date: 2015-04-19T09:57:39
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

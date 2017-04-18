@@ -3,7 +3,7 @@ title: >-
   The ESP Experiments of Soal
 slug: the-esp-experiments-of-soal
 date: 2004-11-28T19:24:06
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

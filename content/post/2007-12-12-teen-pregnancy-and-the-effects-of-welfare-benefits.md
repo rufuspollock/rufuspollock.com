@@ -4,7 +4,7 @@ title: >-
 slug: teen-pregnancy-and-the-effects-of-welfare-benefits
 date: 2007-12-12T10:51:43
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

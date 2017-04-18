@@ -3,8 +3,8 @@ title: >-
   Flexible Dates in Python (including BC)
 slug: flexible-dates-in-python
 date: 2009-06-18T19:37:09
-themes: [u'Information Economy']
-tags: [u'Books', u'Tech']
+themes: ['Information Economy']
+tags: ['Books', 'Tech']
 projects: []
 posttypes: []
 featured: False

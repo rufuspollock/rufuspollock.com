@@ -4,7 +4,7 @@ title: >-
 slug: sqlalchemy-migrate-with-pylons
 date: 2009-07-27T19:57:31
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

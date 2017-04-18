@@ -3,10 +3,10 @@ title: >-
   Open Government Data Goes Global - OGDCamp Keynote
 slug: open-government-data-goes-global-ogdcamp-keynote
 date: 2010-11-24T19:39:37
-themes: [u'Information Economy', u'ogdcamp']
+themes: ['Information Economy', 'ogdcamp']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Own Work', u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Own Work', 'Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -4,7 +4,7 @@ title: >-
 slug: parkinsons-laws-and-painting-the-bikeshed
 date: 2005-09-24T19:12:38
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

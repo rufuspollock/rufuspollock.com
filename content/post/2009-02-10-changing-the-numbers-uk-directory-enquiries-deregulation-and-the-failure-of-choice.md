@@ -3,10 +3,10 @@ title: >-
   Changing the Numbers: UK Directory Enquiries Deregulation and the Failure of Choice
 slug: changing-the-numbers-uk-directory-enquiries-deregulation-and-the-failure-of-choice
 date: 2009-02-10T13:11:29
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

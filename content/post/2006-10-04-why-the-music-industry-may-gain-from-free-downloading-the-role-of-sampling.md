@@ -3,9 +3,9 @@ title: >-
   Why the music industry may gain from free downloading: The role of sampling
 slug: why-the-music-industry-may-gain-from-free-downloading-the-role-of-sampling
 date: 2006-10-04T18:15:07
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

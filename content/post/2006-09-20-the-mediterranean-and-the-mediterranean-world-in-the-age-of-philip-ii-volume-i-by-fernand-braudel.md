@@ -4,7 +4,7 @@ title: >-
 slug: the-mediterranean-and-the-mediterranean-world-in-the-age-of-philip-ii-volume-i-by-fernand-braudel
 date: 2006-09-20T11:58:25
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

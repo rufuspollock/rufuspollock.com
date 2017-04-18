@@ -4,9 +4,9 @@ title: >-
 slug: pywordpress-python-library-for-wordpress
 date: 2011-01-05T10:42:15
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
-posttypes: [u'Own Work']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

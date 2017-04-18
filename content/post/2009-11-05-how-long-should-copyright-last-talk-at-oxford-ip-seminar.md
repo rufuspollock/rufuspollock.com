@@ -3,10 +3,10 @@ title: >-
   How Long Should Copyright Last? Talk at Oxford IP Seminar
 slug: how-long-should-copyright-last-talk-at-oxford-ip-seminar
 date: 2009-11-05T12:01:10
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'EUPD']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia', 'EUPD']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,10 +3,10 @@ title: >-
   The Dissemination of Scholarly Information: A Question of (In-)Sufficient Instruments
 slug: dissemination-of-scholarly-information
 date: 2008-07-16T14:54:00
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge']
-posttypes: [u'Own Work']
+projects: ['Academia', 'Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

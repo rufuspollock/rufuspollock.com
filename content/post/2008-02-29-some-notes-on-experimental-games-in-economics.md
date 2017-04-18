@@ -5,8 +5,8 @@ slug: some-notes-on-experimental-games-in-economics
 date: 2008-02-29T17:58:37
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Updates']
+projects: ['Academia']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

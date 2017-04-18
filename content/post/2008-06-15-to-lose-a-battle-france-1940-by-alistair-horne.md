@@ -4,7 +4,7 @@ title: >-
 slug: to-lose-a-battle-france-1940-by-alistair-horne
 date: 2008-06-15T15:25:54
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

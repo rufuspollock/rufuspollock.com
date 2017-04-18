@@ -4,7 +4,7 @@ title: >-
 slug: psychoanalysis-psychotherapy-and-freudianism
 date: 2005-11-25T17:46:57
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

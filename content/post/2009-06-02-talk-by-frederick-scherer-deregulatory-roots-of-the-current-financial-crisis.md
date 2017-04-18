@@ -3,9 +3,9 @@ title: >-
   Talk by Frederick Scherer: Deregulatory Roots of the Current Financial Crisis
 slug: talk-by-frederick-scherer-deregulatory-roots-of-the-current-financial-crisis
 date: 2009-06-02T18:47:01
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

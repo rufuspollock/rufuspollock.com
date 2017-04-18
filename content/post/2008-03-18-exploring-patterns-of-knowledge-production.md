@@ -3,10 +3,10 @@ title: >-
   Exploring Patterns of Knowledge Production
 slug: exploring-patterns-of-knowledge-production
 date: 2008-03-18T16:01:29
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

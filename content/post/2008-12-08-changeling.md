@@ -4,7 +4,7 @@ title: >-
 slug: changeling
 date: 2008-12-08T21:28:56
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

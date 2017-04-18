@@ -4,7 +4,7 @@ title: >-
 slug: what-financial-trading-systems-tell-us-about-markets
 date: 2006-07-16T09:56:34
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

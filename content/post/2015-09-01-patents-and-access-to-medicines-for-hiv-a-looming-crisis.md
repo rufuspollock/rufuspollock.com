@@ -3,9 +3,9 @@ title: >-
   Patents and Access to Medicines for HIV - a looming crisis
 slug: patents-and-access-to-medicines-for-hiv-a-looming-crisis
 date: 2015-09-01T08:29:59
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

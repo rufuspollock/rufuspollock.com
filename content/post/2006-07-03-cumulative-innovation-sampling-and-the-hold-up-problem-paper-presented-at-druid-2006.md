@@ -3,7 +3,7 @@ title: >-
   Cumulative Innovation, Sampling and the Hold-up Problem: Paper Presented at DRUID 2006
 slug: cumulative-innovation-sampling-and-the-hold-up-problem-paper-presented-at-druid-2006
 date: 2006-07-03T13:37:45
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

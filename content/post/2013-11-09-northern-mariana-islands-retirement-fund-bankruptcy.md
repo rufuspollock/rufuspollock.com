@@ -4,7 +4,7 @@ title: >-
 slug: northern-mariana-islands-retirement-fund-bankruptcy
 date: 2013-11-09T09:37:14
 themes: []
-tags: [u'OpenSpending']
+tags: ['OpenSpending']
 projects: []
 posttypes: []
 featured: False

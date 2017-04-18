@@ -4,7 +4,7 @@ title: >-
 slug: the-lives-of-others-das-leben-der-anden
 date: 2007-04-29T17:21:02
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Firefox versus IE: Browser Market Shares over Time
 slug: firefox-versus-ie-browser-market-shares-over-time
 date: 2008-11-11T11:05:21
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
 projects: []
 posttypes: []

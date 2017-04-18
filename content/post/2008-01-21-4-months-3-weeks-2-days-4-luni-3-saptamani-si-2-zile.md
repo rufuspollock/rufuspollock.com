@@ -4,7 +4,7 @@ title: >-
 slug: 4-months-3-weeks-2-days-4-luni-3-saptamani-si-2-zile
 date: 2008-01-21T21:14:24
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

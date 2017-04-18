@@ -3,10 +3,10 @@ title: >-
   The Economics of Knowledge: A Review of the Theoretical Literature
 slug: the-economics-of-knowledge-a-review-of-the-theoretical-literature
 date: 2008-04-14T15:18:23
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,9 +3,9 @@ title: >-
   Visualizing Technology Flows from Patent Data
 slug: visualizing-technology-flows-from-patent-data
 date: 2008-11-24T18:03:30
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

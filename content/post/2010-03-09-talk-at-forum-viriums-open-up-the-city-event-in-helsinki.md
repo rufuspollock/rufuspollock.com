@@ -3,10 +3,10 @@ title: >-
   Talk at Forum Virium's Open Up the City Event in Helsinki
 slug: talk-at-forum-viriums-open-up-the-city-event-in-helsinki
 date: 2010-03-09T19:32:09
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia', u'Open Knowledge']
-posttypes: [u'Own Work', u'Talks']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia', 'Open Knowledge']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -4,9 +4,9 @@ title: >-
 slug: ann-pywordpress-python-wordpress-library-using-the-wordpress-xml-rpc-api
 date: 2011-12-29T11:24:55
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
-posttypes: [u'Own Work']
+tags: ['Tech']
+projects: ['Open Knowledge']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

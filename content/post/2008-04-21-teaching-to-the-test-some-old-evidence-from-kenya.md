@@ -3,7 +3,7 @@ title: >-
   Teaching to the Test: Some (Old) Evidence from Kenya
 slug: teaching-to-the-test-some-old-evidence-from-kenya
 date: 2008-04-21T10:14:06
-themes: [u'Notebook', u'Wise Society']
+themes: ['Notebook', 'Wise Society']
 tags: []
 projects: []
 posttypes: []

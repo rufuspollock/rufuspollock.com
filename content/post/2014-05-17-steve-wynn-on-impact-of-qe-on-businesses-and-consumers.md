@@ -3,7 +3,7 @@ title: >-
   Steve Wynn on Impact of QE on Businesses and Consumers
 slug: steve-wynn-on-impact-of-qe-on-businesses-and-consumers
 date: 2014-05-17T15:44:31
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

@@ -3,8 +3,8 @@ title: >-
   Data Storage and Transfer Costs: Some Back of the Envelope Estimates
 slug: data-storage-and-transfer-costs-some-back-of-the-envelope-estimates
 date: 2008-09-02T11:29:37
-themes: [u'Notebook']
-tags: [u'Tech']
+themes: ['Notebook']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

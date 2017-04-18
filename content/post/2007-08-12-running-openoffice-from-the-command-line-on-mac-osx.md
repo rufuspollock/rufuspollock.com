@@ -4,7 +4,7 @@ title: >-
 slug: running-openoffice-from-the-command-line-on-mac-osx
 date: 2007-08-12T20:43:46
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

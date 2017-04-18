@@ -4,7 +4,7 @@ title: >-
 slug: csv2ascii-display-csv-as-ascii-tables
 date: 2006-10-13T08:22:38
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

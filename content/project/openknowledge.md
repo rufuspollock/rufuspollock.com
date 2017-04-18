@@ -6,7 +6,7 @@ website: http://okfn.org/
 logoPath: icon-grey-512x512.png
 imagePath: icon-grey-512x512.png
 featured: true
-themes: [u'Information Economy']
+themes: ['Information Economy']
 ---
 
 Open Knowledge is a global non-profit network committed to an open information age and using advocacy, technology and training to unlock information and empower people to use it to make a difference to what is important to them.

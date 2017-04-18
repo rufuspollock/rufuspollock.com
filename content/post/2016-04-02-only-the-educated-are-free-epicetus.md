@@ -4,7 +4,7 @@ title: >-
 slug: only-the-educated-are-free-epicetus
 date: 2016-04-02T09:18:57
 themes: []
-tags: [u'Quote']
+tags: ['Quote']
 projects: []
 posttypes: []
 featured: False

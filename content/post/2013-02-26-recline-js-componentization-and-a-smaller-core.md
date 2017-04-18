@@ -4,8 +4,8 @@ title: >-
 slug: recline-js-componentization-and-a-smaller-core
 date: 2013-02-26T08:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

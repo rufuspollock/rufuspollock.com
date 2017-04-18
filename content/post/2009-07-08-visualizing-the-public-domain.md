@@ -3,10 +3,10 @@ title: >-
   Visualizing the Public Domain
 slug: visualizing-the-public-domain
 date: 2009-07-08T15:05:40
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'EUPD']
-posttypes: [u'Own Work']
+projects: ['Academia', 'EUPD']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,7 +3,7 @@ title: >-
   CCIA 'Study' on the Benefits of Fair Use
 slug: ccia-study-on-the-benefits-of-fair-use
 date: 2007-09-14T15:36:52
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

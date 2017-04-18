@@ -4,7 +4,7 @@ title: >-
 slug: some-notes-on-converting-from-subversion-to-mercurial-hg
 date: 2008-05-17T22:20:13
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

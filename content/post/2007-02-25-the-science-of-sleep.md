@@ -4,7 +4,7 @@ title: >-
 slug: the-science-of-sleep
 date: 2007-02-25T15:00:06
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Oberholzer and Strumpf Study Published in JPE
 slug: oberholzer-and-strumpf-study-published-in-jpe
 date: 2007-02-19T08:09:48
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

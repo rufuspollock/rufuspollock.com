@@ -4,7 +4,7 @@ title: >-
 slug: a-review-of-plotting-libraries-for-python
 date: 2007-06-05T14:59:40
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

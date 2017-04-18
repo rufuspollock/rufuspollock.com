@@ -4,7 +4,7 @@ title: >-
 slug: mirror-mask
 date: 2006-04-08T18:59:47
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

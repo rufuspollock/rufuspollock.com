@@ -4,7 +4,7 @@ title: >-
 slug: optimal-size-of-nations-and-organizations
 date: 2008-03-02T19:29:05
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

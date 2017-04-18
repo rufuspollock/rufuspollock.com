@@ -4,8 +4,8 @@ title: >-
 slug: debt-does-not-equal-revenue-except-in-california
 date: 2012-08-12T17:17:48
 themes: []
-tags: [u'OpenSpending']
-projects: [u'Open Knowledge']
+tags: ['OpenSpending']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -3,8 +3,8 @@ title: >-
   Tacitus on Horoscopes, Fate and Happiness
 slug: tacitus-on-horoscopes-fate-and-happiness
 date: 2007-11-13T18:15:12
-themes: [u'tacitus annals happiness']
-tags: [u'Books']
+themes: ['tacitus annals happiness']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

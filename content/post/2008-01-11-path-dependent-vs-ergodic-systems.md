@@ -3,7 +3,7 @@ title: >-
   Path-Dependent vs. Ergodic Systems
 slug: path-dependent-vs-ergodic-systems
 date: 2008-01-11T20:26:40
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

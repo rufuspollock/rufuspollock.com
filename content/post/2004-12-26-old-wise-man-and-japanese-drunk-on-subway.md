@@ -4,7 +4,7 @@ title: >-
 slug: old-wise-man-and-japanese-drunk-on-subway
 date: 2004-12-26T21:29:58
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

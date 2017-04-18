@@ -3,7 +3,7 @@ title: >-
   Supply Responses to Digital Distribution: Recorded Music and Live Performances
 slug: supply-responses-to-digital-distribution-recorded-music-and-live-performances
 date: 2006-10-16T13:52:08
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

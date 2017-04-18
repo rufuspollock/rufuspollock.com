@@ -4,7 +4,7 @@ title: >-
 slug: qwerty-and-technological-lock-in
 date: 2004-12-28T17:35:10
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

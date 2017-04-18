@@ -4,7 +4,7 @@ title: >-
 slug: wdiff-compare-two-files-word-by-word
 date: 2006-07-14T20:11:59
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

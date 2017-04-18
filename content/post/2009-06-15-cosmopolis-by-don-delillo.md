@@ -4,7 +4,7 @@ title: >-
 slug: cosmopolis-by-don-delillo
 date: 2009-06-15T09:36:14
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

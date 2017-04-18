@@ -3,9 +3,9 @@ title: >-
   New Open Access Journals from the Econometric Society
 slug: new-open-access-journals-from-the-econometric-society
 date: 2009-02-06T10:57:04
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

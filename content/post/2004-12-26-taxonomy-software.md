@@ -4,7 +4,7 @@ title: >-
 slug: taxonomy-software
 date: 2004-12-26T13:37:59
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

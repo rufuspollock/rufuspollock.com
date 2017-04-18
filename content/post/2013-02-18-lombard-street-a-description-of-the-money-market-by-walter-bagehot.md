@@ -4,7 +4,7 @@ title: >-
 slug: lombard-street-a-description-of-the-money-market-by-walter-bagehot
 date: 2013-02-18T13:56:33
 themes: []
-tags: [u'Books', u'Economics']
+tags: ['Books', 'Economics']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   In Dublin to talk at Open Repositories 2016 and more!
 slug: in-dublin-to-talk-at-open-repositories-2016-and-more
 date: 2016-06-09T17:38:59
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

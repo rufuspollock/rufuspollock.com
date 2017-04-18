@@ -3,7 +3,7 @@ title: >-
   Measuring Output
 slug: measuring-output
 date: 2005-12-01T20:56:59
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
 projects: []
 posttypes: []

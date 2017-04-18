@@ -4,7 +4,7 @@ title: >-
 slug: the-shipping-news-by-annie-proulx
 date: 2008-04-12T14:54:37
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

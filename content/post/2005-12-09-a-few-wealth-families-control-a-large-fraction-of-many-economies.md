@@ -4,7 +4,7 @@ title: >-
 slug: a-few-wealth-families-control-a-large-fraction-of-many-economies
 date: 2005-12-09T18:24:59
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

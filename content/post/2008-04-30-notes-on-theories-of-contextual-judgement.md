@@ -3,9 +3,9 @@ title: >-
   Notes on Theories of Contextual Judgement
 slug: notes-on-theories-of-contextual-judgement
 date: 2008-04-30T16:10:10
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

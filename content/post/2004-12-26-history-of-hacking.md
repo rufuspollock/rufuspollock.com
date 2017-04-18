@@ -4,7 +4,7 @@ title: >-
 slug: history-of-hacking
 date: 2004-12-26T16:54:24
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

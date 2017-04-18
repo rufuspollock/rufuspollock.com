@@ -4,7 +4,7 @@ title: >-
 slug: mrs-henderson-presents
 date: 2005-12-12T18:04:17
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

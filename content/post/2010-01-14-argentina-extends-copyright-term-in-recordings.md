@@ -3,8 +3,8 @@ title: >-
   Argentina Extends Copyright Term in Recordings
 slug: argentina-extends-copyright-term-in-recordings
 date: 2010-01-14T17:54:00
-themes: [u'Information Economy']
-tags: [u'Government']
+themes: ['Information Economy']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

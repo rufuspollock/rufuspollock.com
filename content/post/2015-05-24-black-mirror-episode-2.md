@@ -4,7 +4,7 @@ title: >-
 slug: black-mirror-episode-2
 date: 2015-05-24T19:16:37
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

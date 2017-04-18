@@ -4,7 +4,7 @@ title: >-
 slug: trading-fund-review-announced
 date: 2008-06-25T09:56:34
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

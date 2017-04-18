@@ -4,7 +4,7 @@ title: >-
 slug: imagemagick-convert-notes
 date: 2009-01-12T12:17:37
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

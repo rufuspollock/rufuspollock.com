@@ -3,10 +3,10 @@ title: >-
   Atlas of Economic Models Launched (in alpha)
 slug: atlas-of-economic-models-launched-in-alpha
 date: 2007-12-27T14:20:23
-themes: [u'atlas', u'Data Systems']
+themes: ['atlas', 'Data Systems']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

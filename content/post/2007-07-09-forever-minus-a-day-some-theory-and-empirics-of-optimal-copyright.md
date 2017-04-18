@@ -3,9 +3,9 @@ title: >-
   Forever Minus a Day? Some Theory and Empirics of Optimal Copyright
 slug: forever-minus-a-day-some-theory-and-empirics-of-optimal-copyright
 date: 2007-07-09T13:37:46
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

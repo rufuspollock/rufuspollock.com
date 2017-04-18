@@ -4,7 +4,7 @@ title: >-
 slug: superman-returns
 date: 2006-08-14T20:10:42
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

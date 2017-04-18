@@ -4,7 +4,7 @@ title: >-
 slug: ogilvys-how-to-write-memo
 date: 2016-02-03T18:49:52
 themes: []
-tags: [u'Quote']
+tags: ['Quote']
 projects: []
 posttypes: []
 featured: False

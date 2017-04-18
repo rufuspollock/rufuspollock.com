@@ -4,9 +4,9 @@ title: >-
 slug: markdown2latex
 date: 2008-06-23T10:51:14
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
-posttypes: [u'Own Work']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

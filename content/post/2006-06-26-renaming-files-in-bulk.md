@@ -4,7 +4,7 @@ title: >-
 slug: renaming-files-in-bulk
 date: 2006-06-26T18:28:15
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

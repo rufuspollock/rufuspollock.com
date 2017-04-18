@@ -3,7 +3,7 @@ title: >-
   New Study: "The Impact of Music Downloads and P2P File-Sharing on the Purchase of Music: A Study for Industry Canada"
 slug: new-study-the-impact-of-music-downloads-and-p2p-file-sharing-on-the-purchase-of-music-a-study-for-industry-canada
 date: 2007-11-07T10:37:25
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

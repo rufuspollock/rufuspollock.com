@@ -4,7 +4,7 @@ title: >-
 slug: my-brother-was-an-only-child
 date: 2008-04-23T22:10:31
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: transaction-costs-and-the-future-of-the-firm
 date: 2006-11-30T11:45:45
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Macaulay on Copyright Extensions
 slug: macaulay-on-copyright-extensions
 date: 2004-12-06T19:17:27
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

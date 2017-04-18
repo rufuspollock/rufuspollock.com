@@ -4,7 +4,7 @@ title: >-
 slug: the-illusionist
 date: 2007-03-16T19:03:32
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

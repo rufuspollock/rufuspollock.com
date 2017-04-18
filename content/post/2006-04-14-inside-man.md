@@ -4,7 +4,7 @@ title: >-
 slug: inside-man
 date: 2006-04-14T21:18:35
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

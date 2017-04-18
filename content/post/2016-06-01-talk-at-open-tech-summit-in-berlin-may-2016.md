@@ -3,7 +3,7 @@ title: >-
   Talk at Open Tech Summit in Berlin May 2016
 slug: talk-at-open-tech-summit-in-berlin-may-2016
 date: 2016-06-01T14:43:51
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

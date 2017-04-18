@@ -4,7 +4,7 @@ title: >-
 slug: the-uses-of-poetry-rebellion-and-the-praise-of-murderers
 date: 2005-07-09T10:48:54
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

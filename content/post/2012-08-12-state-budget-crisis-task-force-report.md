@@ -4,8 +4,8 @@ title: >-
 slug: state-budget-crisis-task-force-report
 date: 2012-08-12T18:04:37
 themes: []
-tags: [u'OpenSpending']
-projects: [u'Open Knowledge']
+tags: ['OpenSpending']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

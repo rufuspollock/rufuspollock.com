@@ -4,7 +4,7 @@ title: >-
 slug: technology-and-history
 date: 2006-05-28T19:56:09
 themes: []
-tags: [u'History']
+tags: ['History']
 projects: []
 posttypes: []
 featured: False

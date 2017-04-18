@@ -4,7 +4,7 @@ title: >-
 slug: enlightened-tv-series
 date: 2015-02-08T09:11:41
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

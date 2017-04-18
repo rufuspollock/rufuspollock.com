@@ -4,7 +4,7 @@ title: >-
 slug: film-the-american
 date: 2011-05-14T18:00:00
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   IDEI Toulouse Conference on the Economics of the Software and Internet Industries 2007: I General Notes
 slug: conference-on-the-economics-of-the-software-and-internet-industries-2007-idei-toulouse-i-general-notes
 date: 2007-01-22T12:34:18
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

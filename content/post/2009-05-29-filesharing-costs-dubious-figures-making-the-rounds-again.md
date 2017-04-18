@@ -3,7 +3,7 @@ title: >-
   Filesharing Costs: Dubious Figures Making the Rounds Again
 slug: filesharing-costs-dubious-figures-making-the-rounds-again
 date: 2009-05-29T15:08:09
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

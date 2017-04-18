@@ -3,7 +3,7 @@ title: >-
   Extracts from the Report of the 1876-1878 Royal Commission on Copyright
 slug: extracts-from-the-report-of-the-1876-1878-royal-commission-on-copyright
 date: 2006-10-04T10:08:55
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

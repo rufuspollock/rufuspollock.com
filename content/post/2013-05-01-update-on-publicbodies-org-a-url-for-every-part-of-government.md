@@ -4,8 +4,8 @@ title: >-
 slug: update-on-publicbodies-org-a-url-for-every-part-of-government
 date: 2013-05-01T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

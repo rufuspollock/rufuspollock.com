@@ -4,7 +4,7 @@ title: >-
 slug: counting-words-in-a-latex-file
 date: 2007-08-24T13:04:13
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

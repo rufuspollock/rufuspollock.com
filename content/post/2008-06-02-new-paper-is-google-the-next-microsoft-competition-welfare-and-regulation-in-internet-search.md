@@ -3,10 +3,10 @@ title: >-
   New Paper: "Is Google the next Microsoft? Competition, Welfare and Regulation in Internet Search"
 slug: new-paper-is-google-the-next-microsoft-competition-welfare-and-regulation-in-internet-search
 date: 2008-06-02T11:32:56
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

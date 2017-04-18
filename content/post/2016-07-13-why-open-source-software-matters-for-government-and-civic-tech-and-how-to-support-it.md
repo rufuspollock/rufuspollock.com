@@ -3,9 +3,9 @@ title: >-
   Why Open Source Software Matters for Government and Civic Tech - and How to Support It
 slug: why-open-source-software-matters-for-government-and-civic-tech-and-how-to-support-it
 date: 2016-07-13T15:05:28
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

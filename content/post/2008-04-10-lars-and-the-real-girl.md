@@ -4,7 +4,7 @@ title: >-
 slug: lars-and-the-real-girl
 date: 2008-04-10T21:17:25
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

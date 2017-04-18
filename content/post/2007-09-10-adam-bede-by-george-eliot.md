@@ -4,7 +4,7 @@ title: >-
 slug: adam-bede-by-george-eliot
 date: 2007-09-10T09:17:21
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

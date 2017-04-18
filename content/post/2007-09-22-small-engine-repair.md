@@ -4,7 +4,7 @@ title: >-
 slug: small-engine-repair
 date: 2007-09-22T10:12:05
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

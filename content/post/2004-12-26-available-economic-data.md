@@ -4,7 +4,7 @@ title: >-
 slug: available-economic-data
 date: 2004-12-26T21:09:41
 themes: []
-tags: [u'Economics']
+tags: ['Economics']
 projects: []
 posttypes: []
 featured: False

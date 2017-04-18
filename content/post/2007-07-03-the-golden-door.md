@@ -4,7 +4,7 @@ title: >-
 slug: the-golden-door
 date: 2007-07-03T20:15:12
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

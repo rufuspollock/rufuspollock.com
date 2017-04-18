@@ -4,7 +4,7 @@ title: >-
 slug: the-watchmen
 date: 2009-03-18T11:25:41
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: lud-in-the-mist-by-hope-mirrlees
 date: 2006-11-27T18:29:04
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

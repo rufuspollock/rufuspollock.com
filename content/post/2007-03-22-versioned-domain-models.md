@@ -4,7 +4,7 @@ title: >-
 slug: versioned-domain-models
 date: 2007-03-22T16:16:10
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

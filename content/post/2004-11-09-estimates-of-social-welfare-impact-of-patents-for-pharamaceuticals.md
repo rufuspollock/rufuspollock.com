@@ -3,7 +3,7 @@ title: >-
   The impact on social welfare of introducing patents for pharamaceuticals in India
 slug: estimates-of-social-welfare-impact-of-patents-for-pharamaceuticals
 date: 2004-11-09T11:19:30
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

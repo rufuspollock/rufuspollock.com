@@ -3,10 +3,10 @@ title: >-
   Shuttleworth Fellowship Quarterly Review - Feb 2012
 slug: shuttleworth-fellowship-quarterly-review-feb-2012
 date: 2012-03-05T10:30:06
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

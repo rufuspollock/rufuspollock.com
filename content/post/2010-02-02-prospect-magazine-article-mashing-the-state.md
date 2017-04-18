@@ -3,9 +3,9 @@ title: >-
   Prospect Magazine Article: Mashing the State
 slug: prospect-magazine-article-mashing-the-state
 date: 2010-02-02T11:04:03
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

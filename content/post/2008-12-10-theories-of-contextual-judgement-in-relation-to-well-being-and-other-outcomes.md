@@ -3,10 +3,10 @@ title: >-
   Theories of Contextual Judgement in Relation to Well-Being and Other Outcomes
 slug: theories-of-contextual-judgement-in-relation-to-well-being-and-other-outcomes
 date: 2008-12-10T10:50:19
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
-posttypes: [u'Own Work']
+projects: ['Academia', 'Happiness']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

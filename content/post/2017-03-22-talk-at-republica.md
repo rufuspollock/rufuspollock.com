@@ -7,7 +7,7 @@ venue: re:publica
 location: Berlin, Germany
 link: https://re-publica.com/
 image: Logo_republica_Conference_Event_Black.png
-themes: [u'Information Economy', u'Speaking']
+themes: ['Information Economy', 'Speaking']
 ---
 
 I will be speaking at Republica on the 9th of May in Berlin.

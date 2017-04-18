@@ -4,7 +4,7 @@ title: >-
 slug: harsh-times
 date: 2006-08-21T18:16:58
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Some Notes on 'Complexity' and Self-Ordered Criticality
 slug: some-notes-on-complexity-and-self-ordered-criticality
 date: 2008-03-23T20:20:42
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

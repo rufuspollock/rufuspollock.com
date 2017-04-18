@@ -4,7 +4,7 @@ title: >-
 slug: trust-us-were-experts
 date: 2007-04-25T16:09:35
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

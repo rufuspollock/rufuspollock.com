@@ -3,10 +3,10 @@ title: >-
   Size of the Public Domain II
 slug: size-of-the-public-domain-ii
 date: 2009-07-16T11:24:14
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'EUPD']
-posttypes: [u'Own Work']
+projects: ['Academia', 'EUPD']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

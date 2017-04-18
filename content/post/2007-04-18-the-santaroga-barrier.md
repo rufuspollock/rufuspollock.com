@@ -4,7 +4,7 @@ title: >-
 slug: the-santaroga-barrier
 date: 2007-04-18T07:17:12
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

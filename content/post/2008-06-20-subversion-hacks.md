@@ -4,7 +4,7 @@ title: >-
 slug: subversion-hacks
 date: 2008-06-20T13:45:55
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

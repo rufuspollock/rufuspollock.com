@@ -4,7 +4,7 @@ title: >-
 slug: the-darjeeling-express
 date: 2007-11-28T20:08:53
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

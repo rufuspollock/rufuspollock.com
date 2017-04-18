@@ -4,7 +4,7 @@ title: >-
 slug: reverse-proxying-to-wordpresscom
 date: 2009-10-02T10:50:11
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

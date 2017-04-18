@@ -3,7 +3,7 @@ title: >-
   The Robustness Principle
 slug: the-robustness-principle
 date: 2007-02-22T10:29:23
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

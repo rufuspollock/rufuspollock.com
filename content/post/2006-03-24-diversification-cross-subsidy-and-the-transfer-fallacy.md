@@ -3,7 +3,7 @@ title: >-
   Diversification, cross subsidy and the transfer fallacy
 slug: diversification-cross-subsidy-and-the-transfer-fallacy
 date: 2006-03-24T14:01:34
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

@@ -3,7 +3,7 @@ title: >-
   Proposal in Brazil to Legalize Non-Commercial File-Sharing and Monetize P2P
 slug: proposal-in-brazil-to-legalize-non-commercial-file-sharing-and-monetize-p2p
 date: 2010-09-02T14:42:26
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

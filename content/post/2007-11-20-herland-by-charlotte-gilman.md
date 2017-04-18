@@ -3,8 +3,8 @@ title: >-
   Herland by Charlotte Gilman
 slug: herland-by-charlotte-gilman
 date: 2007-11-20T20:24:18
-themes: [u'feminism']
-tags: [u'Books']
+themes: ['feminism']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

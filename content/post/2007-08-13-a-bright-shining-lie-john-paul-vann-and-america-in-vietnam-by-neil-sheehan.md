@@ -4,7 +4,7 @@ title: >-
 slug: a-bright-shining-lie-john-paul-vann-and-america-in-vietnam-by-neil-sheehan
 date: 2007-08-13T16:21:00
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

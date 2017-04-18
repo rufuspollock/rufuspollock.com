@@ -4,7 +4,7 @@ title: >-
 slug: symbols-and-humans
 date: 2005-11-03T23:15:35
 themes: []
-tags: [u'Books', u'Quote']
+tags: ['Books', 'Quote']
 projects: []
 posttypes: []
 featured: False

@@ -3,7 +3,7 @@ title: >-
   Summary of P2P Literature
 slug: summary-of-p2p-literature
 date: 2005-11-21T15:22:59
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

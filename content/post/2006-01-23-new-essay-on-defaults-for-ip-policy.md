@@ -3,7 +3,7 @@ title: >-
   New Essay on Defaults for IP Policy
 slug: new-essay-on-defaults-for-ip-policy
 date: 2006-01-23T13:29:56
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

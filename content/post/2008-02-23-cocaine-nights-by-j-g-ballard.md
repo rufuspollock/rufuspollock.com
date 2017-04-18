@@ -4,7 +4,7 @@ title: >-
 slug: cocaine-nights-by-j-g-ballard
 date: 2008-02-23T19:02:43
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

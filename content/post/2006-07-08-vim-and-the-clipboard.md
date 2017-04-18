@@ -4,7 +4,7 @@ title: >-
 slug: vim-and-the-clipboard
 date: 2006-07-08T10:51:22
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

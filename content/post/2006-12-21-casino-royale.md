@@ -4,7 +4,7 @@ title: >-
 slug: casino-royale
 date: 2006-12-21T18:06:47
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: ten-canoes
 date: 2007-06-07T18:58:17
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

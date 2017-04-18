@@ -4,7 +4,7 @@ title: >-
 slug: the-prestige
 date: 2006-11-20T19:35:32
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

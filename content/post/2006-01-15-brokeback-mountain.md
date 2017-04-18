@@ -4,7 +4,7 @@ title: >-
 slug: brokeback-mountain
 date: 2006-01-15T20:09:45
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

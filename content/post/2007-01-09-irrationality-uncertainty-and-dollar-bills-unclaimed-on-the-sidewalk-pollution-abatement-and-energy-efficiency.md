@@ -3,9 +3,9 @@ title: >-
   Irrationality, Uncertainty and Dollar Bills Unclaimed on the Sidewalk: Pollution Abatement and Energy Efficiency
 slug: irrationality-uncertainty-and-dollar-bills-unclaimed-on-the-sidewalk-pollution-abatement-and-energy-efficiency
 date: 2007-01-09T11:31:02
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -3,7 +3,7 @@ title: >-
   Filesharing in Denmark
 slug: filesharing-in-denmark
 date: 2006-07-06T09:52:12
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

@@ -4,7 +4,7 @@ title: >-
 slug: rescue-dawn
 date: 2007-12-10T21:57:05
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

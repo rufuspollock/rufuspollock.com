@@ -4,7 +4,7 @@ title: >-
 slug: fixing-wordpress-when-you-change-the-site-url
 date: 2006-03-08T22:49:17
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: dump-python-interactive-session-to-a-file
 date: 2007-04-06T17:33:10
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

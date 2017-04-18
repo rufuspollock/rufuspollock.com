@@ -3,9 +3,9 @@ title: >-
   The Value of the Public Domain
 slug: the-value-of-the-public-domain
 date: 2006-11-27T11:35:46
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

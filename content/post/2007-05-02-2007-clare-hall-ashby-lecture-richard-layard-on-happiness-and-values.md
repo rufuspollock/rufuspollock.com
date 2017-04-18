@@ -3,9 +3,9 @@ title: >-
   2007 Clare Hall Ashby Lecture: Richard Layard on Happiness and Values
 slug: 2007-clare-hall-ashby-lecture-richard-layard-on-happiness-and-values
 date: 2007-05-02T19:18:16
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Happiness']
+projects: ['Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

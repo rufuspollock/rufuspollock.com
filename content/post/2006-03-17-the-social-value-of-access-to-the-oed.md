@@ -3,9 +3,9 @@ title: >-
   The Social Value of Access to the OED
 slug: the-social-value-of-access-to-the-oed
 date: 2006-03-17T13:34:37
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,7 +4,7 @@ title: >-
 slug: the-cranes-are-flying
 date: 2006-01-31T17:13:41
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

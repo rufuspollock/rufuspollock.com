@@ -3,7 +3,7 @@ title: >-
   Google vs Facebook Data Point
 slug: google-vs-facebook-data-point
 date: 2016-10-17T17:15:34
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

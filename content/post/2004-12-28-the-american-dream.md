@@ -4,7 +4,7 @@ title: >-
 slug: the-american-dream
 date: 2004-12-28T17:33:13
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

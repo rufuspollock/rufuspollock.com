@@ -4,7 +4,7 @@ title: >-
 slug: three-times
 date: 2006-09-27T20:57:40
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

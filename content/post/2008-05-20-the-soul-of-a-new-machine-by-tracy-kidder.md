@@ -4,7 +4,7 @@ title: >-
 slug: the-soul-of-a-new-machine-by-tracy-kidder
 date: 2008-05-20T16:10:58
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

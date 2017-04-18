@@ -6,7 +6,7 @@ website: http://index.okfn.org/
 logoPath: opendataindex.jpg
 imagePath: Index_screen1-1024x645.png
 featured: true
-themes: [u'Information Economy']
+themes: ['Information Economy']
 ---
 
 The Global Open Data Index is an annual effort to measure the state of open government data around the world. The crowdsourced survey is designed to assess the openness of specific government datasets according to the Open Definition.

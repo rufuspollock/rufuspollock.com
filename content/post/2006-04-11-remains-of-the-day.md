@@ -4,7 +4,7 @@ title: >-
 slug: remains-of-the-day
 date: 2006-04-11T15:51:07
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

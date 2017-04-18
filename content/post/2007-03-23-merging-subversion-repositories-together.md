@@ -4,7 +4,7 @@ title: >-
 slug: merging-subversion-repositories-together
 date: 2007-03-23T21:05:31
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

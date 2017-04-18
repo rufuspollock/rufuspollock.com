@@ -4,7 +4,7 @@ title: >-
 slug: life-and-fate-by-vasily-grossman
 date: 2007-06-19T07:16:43
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

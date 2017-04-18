@@ -4,7 +4,7 @@ title: >-
 slug: paypal-transaction-costs-for-micro-donations
 date: 2007-08-06T09:38:01
 themes: []
-tags: [u'Economics']
+tags: ['Economics']
 projects: []
 posttypes: []
 featured: False

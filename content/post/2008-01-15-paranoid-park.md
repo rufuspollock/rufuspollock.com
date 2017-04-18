@@ -4,7 +4,7 @@ title: >-
 slug: paranoid-park
 date: 2008-01-15T21:19:47
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

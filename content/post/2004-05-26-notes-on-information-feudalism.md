@@ -3,8 +3,8 @@ title: >-
   Notes on Information Feudalism
 slug: notes-on-information-feudalism
 date: 2004-05-26T21:42:16
-themes: [u'Information Economy']
-tags: [u'Books', u'Government']
+themes: ['Information Economy']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

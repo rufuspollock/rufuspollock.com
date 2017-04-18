@@ -3,9 +3,9 @@ title: >-
   Open Letter re. Proposed Copyright Term Extension for Sound Recordings
 slug: open-letter-re-proposed-copyright-term-extension-for-sound-recordings
 date: 2009-03-24T10:08:05
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

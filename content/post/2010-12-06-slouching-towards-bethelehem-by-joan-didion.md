@@ -4,7 +4,7 @@ title: >-
 slug: slouching-towards-bethelehem-by-joan-didion
 date: 2010-12-06T21:48:29
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

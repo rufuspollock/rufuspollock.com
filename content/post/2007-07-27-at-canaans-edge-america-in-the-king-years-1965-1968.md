@@ -4,7 +4,7 @@ title: >-
 slug: at-canaans-edge-america-in-the-king-years-1965-1968
 date: 2007-07-27T08:54:29
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

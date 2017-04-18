@@ -3,7 +3,7 @@ title: >-
   Toshiba Laptop Screen Problem
 slug: toshiba-laptop-screen-problem
 date: 2004-03-27T14:02:07
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

@@ -4,7 +4,7 @@ title: >-
 slug: overlord-d-day-and-the-battle-for-normandy-1944-by-max-hastings
 date: 2008-02-09T15:48:45
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

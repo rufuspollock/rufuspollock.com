@@ -3,8 +3,8 @@ title: >-
   Hayek on IP
 slug: hayek-on-ip
 date: 2007-04-06T17:36:59
-themes: [u'Information Economy']
-tags: [u'Books']
+themes: ['Information Economy']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

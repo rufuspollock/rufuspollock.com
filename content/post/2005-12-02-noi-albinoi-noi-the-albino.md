@@ -4,7 +4,7 @@ title: >-
 slug: noi-albinoi-noi-the-albino
 date: 2005-12-02T16:02:26
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

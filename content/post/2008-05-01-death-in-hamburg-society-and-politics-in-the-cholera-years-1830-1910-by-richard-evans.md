@@ -4,7 +4,7 @@ title: >-
 slug: death-in-hamburg-society-and-politics-in-the-cholera-years-1830-1910-by-richard-evans
 date: 2008-05-01T10:58:54
 themes: []
-tags: [u'Books', u'Government']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

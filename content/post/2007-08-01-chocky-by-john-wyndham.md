@@ -4,7 +4,7 @@ title: >-
 slug: chocky-by-john-wyndham
 date: 2007-08-01T13:06:38
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

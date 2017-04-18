@@ -4,7 +4,7 @@ title: >-
 slug: ive-loved-you-so-long
 date: 2008-10-13T21:27:55
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

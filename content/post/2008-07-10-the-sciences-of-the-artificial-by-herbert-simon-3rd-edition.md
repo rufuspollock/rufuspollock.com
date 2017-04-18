@@ -4,7 +4,7 @@ title: >-
 slug: the-sciences-of-the-artificial-by-herbert-simon-3rd-edition
 date: 2008-07-10T11:45:53
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

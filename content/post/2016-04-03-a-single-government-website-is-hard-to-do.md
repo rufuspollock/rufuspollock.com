@@ -3,7 +3,7 @@ title: >-
   A Single Government Website is Hard To Do
 slug: a-single-government-website-is-hard-to-do
 date: 2016-04-03T21:33:28
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

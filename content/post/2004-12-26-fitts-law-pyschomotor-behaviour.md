@@ -3,7 +3,7 @@ title: >-
   Fitt's Law (Pyschomotor Behaviour)
 slug: fitts-law-pyschomotor-behaviour
 date: 2004-12-26T21:13:20
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

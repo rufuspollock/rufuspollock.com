@@ -4,7 +4,7 @@ title: >-
 slug: la-grande-bellezza
 date: 2016-03-15T08:00:10
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

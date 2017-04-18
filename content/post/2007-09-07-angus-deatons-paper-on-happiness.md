@@ -5,7 +5,7 @@ slug: angus-deatons-paper-on-happiness
 date: 2007-09-07T20:56:51
 themes: []
 tags: []
-projects: [u'Happiness']
+projects: ['Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

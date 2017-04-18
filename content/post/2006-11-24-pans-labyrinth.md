@@ -4,7 +4,7 @@ title: >-
 slug: pans-labyrinth
 date: 2006-11-24T18:37:21
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

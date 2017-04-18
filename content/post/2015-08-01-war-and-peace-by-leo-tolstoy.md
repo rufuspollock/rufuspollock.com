@@ -4,7 +4,7 @@ title: >-
 slug: war-and-peace-by-leo-tolstoy
 date: 2015-08-01T20:07:53
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

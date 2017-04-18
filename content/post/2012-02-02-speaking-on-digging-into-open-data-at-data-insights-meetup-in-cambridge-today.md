@@ -5,8 +5,8 @@ slug: speaking-on-digging-into-open-data-at-data-insights-meetup-in-cambridge-to
 date: 2012-02-02T15:07:31
 themes: []
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

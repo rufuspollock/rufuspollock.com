@@ -4,7 +4,7 @@ title: >-
 slug: corrupting-democracy-power-secrecy-and-the-fbi-under-hoover
 date: 2006-07-27T17:26:57
 themes: []
-tags: [u'Books', u'Government']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

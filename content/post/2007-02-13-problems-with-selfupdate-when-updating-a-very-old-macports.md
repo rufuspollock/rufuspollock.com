@@ -4,7 +4,7 @@ title: >-
 slug: problems-with-selfupdate-when-updating-a-very-old-macports
 date: 2007-02-13T13:06:19
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

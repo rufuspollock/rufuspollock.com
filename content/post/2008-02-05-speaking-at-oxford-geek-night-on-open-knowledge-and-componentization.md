@@ -3,10 +3,10 @@ title: >-
   Speaking at Oxford Geek Night on Open Knowledge and Componentization
 slug: speaking-at-oxford-geek-night-on-open-knowledge-and-componentization
 date: 2008-02-05T20:10:18
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

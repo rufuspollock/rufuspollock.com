@@ -4,7 +4,7 @@ title: >-
 slug: psmith-in-the-city-by-pg-wodehouse
 date: 2007-07-31T13:08:30
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

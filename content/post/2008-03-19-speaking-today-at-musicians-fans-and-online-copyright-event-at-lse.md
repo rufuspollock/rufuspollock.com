@@ -3,10 +3,10 @@ title: >-
   Speaking Today at "Musicians, fans and online copyright" Event at LSE
 slug: speaking-today-at-musicians-fans-and-online-copyright-event-at-lse
 date: 2008-03-19T09:30:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

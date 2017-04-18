@@ -4,7 +4,7 @@ title: >-
 slug: voices-of-the-old-sea-by-norman-lewis
 date: 2007-10-20T16:39:28
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

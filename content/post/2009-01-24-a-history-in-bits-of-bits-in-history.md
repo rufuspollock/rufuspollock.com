@@ -3,10 +3,10 @@ title: >-
   A History in Bits of Bits in History
 slug: a-history-in-bits-of-bits-in-history
 date: 2009-01-24T13:42:46
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
-posttypes: [u'Own Work']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

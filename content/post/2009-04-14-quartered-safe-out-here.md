@@ -4,7 +4,7 @@ title: >-
 slug: quartered-safe-out-here
 date: 2009-04-14T10:33:31
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

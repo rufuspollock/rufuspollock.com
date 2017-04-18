@@ -4,7 +4,7 @@ title: >-
 slug: bright-star
 date: 2009-11-15T21:15:19
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

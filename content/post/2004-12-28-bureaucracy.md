@@ -4,7 +4,7 @@ title: >-
 slug: bureaucracy
 date: 2004-12-28T21:03:22
 themes: []
-tags: [u'Government']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

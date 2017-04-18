@@ -3,9 +3,9 @@ title: >-
   Mindfulness-based Cognitive Therapy Can Help With Depression
 slug: mindfulness-based-cognitive-therapy-can-help-with-depression
 date: 2008-12-02T11:54:52
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Happiness']
+projects: ['Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

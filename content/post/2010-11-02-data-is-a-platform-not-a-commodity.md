@@ -3,9 +3,9 @@ title: >-
   Data is a Platform not a Commodity
 slug: data-is-a-platform-not-a-commodity
 date: 2010-11-02T18:18:21
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,7 +4,7 @@ title: >-
 slug: migrating-drupal-to-wordpress
 date: 2005-10-10T20:26:57
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

@@ -5,7 +5,7 @@ slug: automated-identification-works-from-manifestations
 date: 2010-02-16T11:45:42
 themes: []
 tags: []
-projects: [u'Academia']
+projects: ['Academia']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

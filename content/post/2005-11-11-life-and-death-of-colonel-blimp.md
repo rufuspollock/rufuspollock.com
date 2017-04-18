@@ -4,7 +4,7 @@ title: >-
 slug: life-and-death-of-colonel-blimp
 date: 2005-11-11T15:03:11
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

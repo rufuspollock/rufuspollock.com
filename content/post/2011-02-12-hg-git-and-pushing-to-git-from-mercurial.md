@@ -4,7 +4,7 @@ title: >-
 slug: hg-git-and-pushing-to-git-from-mercurial
 date: 2011-02-12T13:06:59
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

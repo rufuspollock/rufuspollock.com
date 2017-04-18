@@ -3,7 +3,7 @@ title: >-
   An Alternative Form of Copyright 'Enforcement'
 slug: an-alternative-form-of-copyright-enforcement
 date: 2006-06-05T07:11:54
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

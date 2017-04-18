@@ -3,9 +3,9 @@ title: >-
   Workshop on Well-Being III
 slug: workshop-on-well-being-iii
 date: 2008-03-17T19:35:39
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

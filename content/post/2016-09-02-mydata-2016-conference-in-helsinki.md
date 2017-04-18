@@ -3,10 +3,10 @@ title: >-
   MyData 2016 Conference in Helsinki
 slug: mydata-2016-conference-in-helsinki
 date: 2016-09-02T08:40:44
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

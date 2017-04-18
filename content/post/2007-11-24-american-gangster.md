@@ -4,7 +4,7 @@ title: >-
 slug: american-gangster
 date: 2007-11-24T21:01:06
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

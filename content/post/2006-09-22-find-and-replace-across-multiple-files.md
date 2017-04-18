@@ -4,7 +4,7 @@ title: >-
 slug: find-and-replace-across-multiple-files
 date: 2006-09-22T11:21:15
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

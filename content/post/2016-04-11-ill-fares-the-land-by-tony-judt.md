@@ -4,7 +4,7 @@ title: >-
 slug: ill-fares-the-land-by-tony-judt
 date: 2016-04-11T20:37:37
 themes: []
-tags: [u'Books', u'Government']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: flame-citron-flammen-citronen
 date: 2009-03-24T19:19:40
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

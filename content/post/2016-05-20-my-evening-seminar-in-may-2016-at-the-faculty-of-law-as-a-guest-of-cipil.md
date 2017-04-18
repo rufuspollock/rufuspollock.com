@@ -3,7 +3,7 @@ title: >-
   Evening Seminar on Open Information Age at the University of Cambridge Faculty of Law
 slug: my-evening-seminar-in-may-2016-at-the-faculty-of-law-as-a-guest-of-cipil
 date: 2016-05-20T14:14:58
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

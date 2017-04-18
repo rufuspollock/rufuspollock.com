@@ -4,7 +4,7 @@ title: >-
 slug: success-reveals-virtue
 date: 2006-03-01T13:41:56
 themes: []
-tags: [u'Intellectual Myths']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

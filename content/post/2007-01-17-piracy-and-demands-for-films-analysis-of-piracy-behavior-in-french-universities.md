@@ -3,7 +3,7 @@ title: >-
   Piracy and Demands for Films: Analysis of Piracy Behavior in French Universities
 slug: piracy-and-demands-for-films-analysis-of-piracy-behavior-in-french-universities
 date: 2007-01-17T10:34:46
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

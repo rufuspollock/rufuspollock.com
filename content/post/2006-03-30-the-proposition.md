@@ -4,7 +4,7 @@ title: >-
 slug: the-proposition
 date: 2006-03-30T17:36:49
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

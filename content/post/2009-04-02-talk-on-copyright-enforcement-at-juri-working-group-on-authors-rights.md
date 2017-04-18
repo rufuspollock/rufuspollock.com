@@ -3,10 +3,10 @@ title: >-
   Talk on Copyright Enforcement at JURI Working Group on Authors' Rights
 slug: talk-on-copyright-enforcement-at-juri-working-group-on-authors-rights
 date: 2009-04-02T09:16:15
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

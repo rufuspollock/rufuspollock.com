@@ -4,7 +4,7 @@ title: >-
 slug: unicode-to-ascii-mappings-for-standard-characters-from-wordprocessed-documents
 date: 2006-09-25T17:22:35
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

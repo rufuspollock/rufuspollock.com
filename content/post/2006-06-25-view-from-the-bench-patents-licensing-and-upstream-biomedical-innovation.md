@@ -3,7 +3,7 @@ title: >-
   View from the Bench: Patents, licensing and upstream biomedical innovation
 slug: view-from-the-bench-patents-licensing-and-upstream-biomedical-innovation
 date: 2006-06-25T13:28:12
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

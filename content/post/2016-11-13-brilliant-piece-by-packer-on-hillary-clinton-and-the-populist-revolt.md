@@ -4,7 +4,7 @@ title: >-
 slug: brilliant-piece-by-packer-on-hillary-clinton-and-the-populist-revolt
 date: 2016-11-13T17:27:23
 themes: []
-tags: [u'Books', u'Government']
+tags: ['Books', 'Government']
 projects: []
 posttypes: []
 featured: False

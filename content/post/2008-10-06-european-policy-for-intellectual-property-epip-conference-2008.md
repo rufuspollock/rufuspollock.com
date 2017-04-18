@@ -3,10 +3,10 @@ title: >-
   European Policy for Intellectual Property (EPIP) Conference 2008
 slug: european-policy-for-intellectual-property-epip-conference-2008
 date: 2008-10-06T14:32:08
-themes: [u'Information Economy', u'Notebook']
+themes: ['Information Economy', 'Notebook']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

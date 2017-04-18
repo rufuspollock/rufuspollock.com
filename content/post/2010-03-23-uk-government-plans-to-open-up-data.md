@@ -3,9 +3,9 @@ title: >-
   UK Government Plans to Open Up Data
 slug: uk-government-plans-to-open-up-data
 date: 2010-03-23T11:05:29
-themes: [u'Information Economy']
-tags: [u'Government']
-projects: [u'Academia', u'Open Knowledge']
+themes: ['Information Economy']
+tags: ['Government']
+projects: ['Academia', 'Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

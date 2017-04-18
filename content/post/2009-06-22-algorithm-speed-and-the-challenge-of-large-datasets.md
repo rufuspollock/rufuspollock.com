@@ -3,10 +3,10 @@ title: >-
   Algorithm Speed and the Challenge of Large Datasets
 slug: algorithm-speed-and-the-challenge-of-large-datasets
 date: 2009-06-22T17:30:52
-themes: [u'Information Economy', u'Notebook']
-tags: [u'Tech']
-projects: [u'Academia', u'EUPD']
-posttypes: [u'Own Work']
+themes: ['Information Economy', 'Notebook']
+tags: ['Tech']
+projects: ['Academia', 'EUPD']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

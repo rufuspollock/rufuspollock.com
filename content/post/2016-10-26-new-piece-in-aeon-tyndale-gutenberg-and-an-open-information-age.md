@@ -3,7 +3,7 @@ title: >-
   New Piece in Aeon: Tyndale, Gutenberg and an Open Information Age
 slug: new-piece-in-aeon-tyndale-gutenberg-and-an-open-information-age
 date: 2016-10-26T10:05:45
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

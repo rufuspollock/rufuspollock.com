@@ -3,8 +3,8 @@ title: >-
   Ordnance Survey and Google: Why All the Fuss?
 slug: ordnance-survey-and-google-why-all-the-fuss
 date: 2008-11-20T19:44:36
-themes: [u'Notebook']
-tags: [u'Government']
+themes: ['Notebook']
+tags: ['Government']
 projects: []
 posttypes: []
 featured: False

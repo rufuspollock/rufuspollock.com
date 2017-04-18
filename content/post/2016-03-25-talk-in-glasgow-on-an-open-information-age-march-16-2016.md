@@ -3,10 +3,10 @@ title: >-
   Talk in Glasgow on an “Open Information Age” March 16 2016
 slug: talk-in-glasgow-on-an-open-information-age-march-16-2016
 date: 2016-03-25T09:50:30
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Talks']
+projects: ['Open Knowledge']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

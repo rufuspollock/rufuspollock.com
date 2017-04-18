@@ -3,7 +3,7 @@ title: >-
   Information Technology's Inbuilt (Progressive) Politics
 slug: information-technologys-inbuilt-progressive-politics
 date: 2004-06-12T17:33:31
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

@@ -3,7 +3,7 @@ title: >-
   Ray Corrigan's New Book: Digital Decision Making
 slug: ray-corrigans-new-book-digital-decision-making
 date: 2007-11-09T09:11:04
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

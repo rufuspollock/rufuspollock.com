@@ -3,10 +3,10 @@ title: >-
   Is Google the next Microsoft? Monopoly, Competition, Regulation and Antitrust in Online Search
 slug: is-google-the-next-microsoft-competition-welfare-and-regulation-in-online-search-published
 date: 2010-12-15T15:30:38
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia']
-posttypes: [u'Own Work']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

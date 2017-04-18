@@ -3,7 +3,7 @@ title: >-
   3G Cellular Standards and Patents (and Transaction Costs)
 slug: 3g-cellular-standards-and-patents-and-transaction-costs
 date: 2006-06-12T09:25:03
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

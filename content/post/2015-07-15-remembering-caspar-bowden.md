@@ -3,7 +3,7 @@ title: >-
   Remembering Caspar Bowden
 slug: remembering-caspar-bowden
 date: 2015-07-15T17:43:25
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

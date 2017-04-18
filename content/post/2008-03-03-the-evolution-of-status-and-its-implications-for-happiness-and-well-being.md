@@ -5,7 +5,7 @@ slug: the-evolution-of-status-and-its-implications-for-happiness-and-well-being
 date: 2008-03-03T08:43:32
 themes: []
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

@@ -4,8 +4,8 @@ title: >-
 slug: versioning-revisioning-for-data-databases-and-domain-models-copy-on-write-and-diffs
 date: 2010-09-10T08:12:51
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

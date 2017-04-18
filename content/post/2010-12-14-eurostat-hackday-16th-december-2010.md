@@ -3,10 +3,10 @@ title: >-
   Eurostat Hackday, 16th December 2010
 slug: eurostat-hackday-16th-december-2010
 date: 2010-12-14T19:20:06
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

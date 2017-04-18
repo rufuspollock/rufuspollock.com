@@ -4,7 +4,7 @@ title: >-
 slug: adding-mathematics-to-markdown
 date: 2007-01-08T11:53:30
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: under-the-mud
 date: 2007-07-06T17:49:01
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

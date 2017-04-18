@@ -3,7 +3,7 @@ title: >-
   The Open Rights Group Celebrates Two Years
 slug: the-open-rights-group-celebrates-two-years
 date: 2007-11-19T20:27:14
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

@@ -4,7 +4,7 @@ title: >-
 slug: wsgi-middleware
 date: 2006-09-28T19:15:29
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

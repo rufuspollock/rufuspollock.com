@@ -4,7 +4,7 @@ title: >-
 slug: the-class-entre-les-murs
 date: 2009-03-04T19:47:07
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

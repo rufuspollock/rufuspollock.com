@@ -4,7 +4,7 @@ title: >-
 slug: accordion-crimes-by-annie-proulx
 date: 2008-09-13T17:19:08
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

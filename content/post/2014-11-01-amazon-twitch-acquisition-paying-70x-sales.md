@@ -3,7 +3,7 @@ title: >-
   Amazon Twitch Acquisition - Paying 70x Sales
 slug: amazon-twitch-acquisition-paying-70x-sales
 date: 2014-11-01T15:57:35
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

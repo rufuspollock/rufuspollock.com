@@ -3,9 +3,9 @@ title: >-
   Computing Copyright (or Public Domain) Status of Cultural Works
 slug: computing-copyright-or-public-domain-status-of-cultural-works
 date: 2009-03-12T12:50:20
-themes: [u'Information Economy']
-tags: [u'Tech']
-projects: [u'Academia', u'EUPD']
+themes: ['Information Economy']
+tags: ['Tech']
+projects: ['Academia', 'EUPD']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

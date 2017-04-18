@@ -5,8 +5,8 @@ slug: 2007-iioc-conference-savannah-georgia
 date: 2007-04-15T19:50:09
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

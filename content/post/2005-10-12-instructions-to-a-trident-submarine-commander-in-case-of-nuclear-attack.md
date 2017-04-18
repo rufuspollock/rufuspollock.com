@@ -3,7 +3,7 @@ title: >-
   Instructions to a Trident Submarine Commander in Case of Nuclear Attack
 slug: instructions-to-a-trident-submarine-commander-in-case-of-nuclear-attack
 date: 2005-10-12T16:42:41
-themes: [u'Notebook']
+themes: ['Notebook']
 tags: []
 projects: []
 posttypes: []

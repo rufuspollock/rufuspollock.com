@@ -3,8 +3,8 @@ title: >-
   Intellectual Myths: ARPA Created Internet to Have Communication System to Resist Nuclear Attack
 slug: intellectual-myths-arpa-created-internet-to-have-communication-system-to-resist-nuclear-attack
 date: 2016-02-14T10:42:56
-themes: [u'Internet']
-tags: [u'Intellectual Myths']
+themes: ['Internet']
+tags: ['Intellectual Myths']
 projects: []
 posttypes: []
 featured: False

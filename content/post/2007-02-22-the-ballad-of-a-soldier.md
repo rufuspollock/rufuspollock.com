@@ -4,7 +4,7 @@ title: >-
 slug: the-ballad-of-a-soldier
 date: 2007-02-22T19:54:43
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

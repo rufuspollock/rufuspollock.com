@@ -4,7 +4,7 @@ title: >-
 slug: before-the-devil-knows-youre-dead
 date: 2008-02-04T21:56:59
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

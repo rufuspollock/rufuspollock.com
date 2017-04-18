@@ -4,7 +4,7 @@ title: >-
 slug: lenovo-x61s-battery-life
 date: 2010-04-30T20:00:41
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

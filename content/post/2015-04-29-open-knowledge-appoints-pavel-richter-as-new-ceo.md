@@ -5,8 +5,8 @@ slug: open-knowledge-appoints-pavel-richter-as-new-ceo
 date: 2015-04-29T15:13:15
 themes: []
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Updates']
+projects: ['Open Knowledge']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

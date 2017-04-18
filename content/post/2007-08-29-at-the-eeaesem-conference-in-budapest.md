@@ -5,8 +5,8 @@ slug: at-the-eeaesem-conference-in-budapest
 date: 2007-08-29T13:47:46
 themes: []
 tags: []
-projects: [u'Academia']
-posttypes: [u'Talks']
+projects: ['Academia']
+posttypes: ['Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

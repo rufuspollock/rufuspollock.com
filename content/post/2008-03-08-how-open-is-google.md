@@ -3,9 +3,9 @@ title: >-
   How Open is Google?
 slug: how-open-is-google
 date: 2008-03-08T09:19:45
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

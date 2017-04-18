@@ -4,8 +4,8 @@ title: >-
 slug: the-data-transformer-cleaning-up-data-in-the-browser
 date: 2012-07-31T07:00:00
 themes: []
-tags: [u'Tech']
-projects: [u'Open Knowledge']
+tags: ['Tech']
+projects: ['Open Knowledge']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

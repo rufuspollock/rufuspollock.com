@@ -3,8 +3,8 @@ title: >-
   Contact Management Software
 slug: contact-management-software
 date: 2005-04-12T12:53:38
-themes: [u'Notebook']
-tags: [u'Tech']
+themes: ['Notebook']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

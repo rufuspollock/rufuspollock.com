@@ -4,7 +4,7 @@ title: >-
 slug: the-wackness
 date: 2008-09-01T21:19:22
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

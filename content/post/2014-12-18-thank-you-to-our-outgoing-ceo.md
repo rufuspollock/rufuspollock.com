@@ -5,8 +5,8 @@ slug: thank-you-to-our-outgoing-ceo
 date: 2014-12-18T10:30:38
 themes: []
 tags: []
-projects: [u'Open Knowledge']
-posttypes: [u'Updates']
+projects: ['Open Knowledge']
+posttypes: ['Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

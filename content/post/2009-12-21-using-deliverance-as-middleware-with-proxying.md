@@ -4,7 +4,7 @@ title: >-
 slug: using-deliverance-as-middleware-with-proxying
 date: 2009-12-21T15:00:51
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

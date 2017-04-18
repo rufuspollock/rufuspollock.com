@@ -3,7 +3,7 @@ title: >-
   The Costs of DRM
 slug: the-costs-of-drm
 date: 2005-10-16T10:51:53
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
 projects: []
 posttypes: []

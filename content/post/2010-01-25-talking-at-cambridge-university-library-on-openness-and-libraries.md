@@ -3,10 +3,10 @@ title: >-
   Talking at Cambridge University Library on Openness and Libraries
 slug: talking-at-cambridge-university-library-on-openness-and-libraries
 date: 2010-01-25T13:40:08
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'Open Knowledge']
-posttypes: [u'Own Work', u'Talks']
+projects: ['Academia', 'Open Knowledge']
+posttypes: ['Own Work', 'Talks']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

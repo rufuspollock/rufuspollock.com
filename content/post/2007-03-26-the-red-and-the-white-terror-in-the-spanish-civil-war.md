@@ -4,7 +4,7 @@ title: >-
 slug: the-red-and-the-white-terror-in-the-spanish-civil-war
 date: 2007-03-26T11:52:19
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: accessing-open-access-repositories-using-the-python-oaipmh-package
 date: 2006-10-06T08:22:43
 themes: []
-tags: [u'Tech']
+tags: ['Tech']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: where-the-truth-lies
 date: 2005-12-19T18:05:56
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

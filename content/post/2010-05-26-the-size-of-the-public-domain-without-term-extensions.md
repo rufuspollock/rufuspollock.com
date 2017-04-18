@@ -3,10 +3,10 @@ title: >-
   The Size of the Public Domain (Without Term Extensions)
 slug: the-size-of-the-public-domain-without-term-extensions
 date: 2010-05-26T08:03:24
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Academia', u'EUPD']
-posttypes: [u'Own Work']
+projects: ['Academia', 'EUPD']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

@@ -3,9 +3,9 @@ title: >-
   ESRC Well-Being Research Workshop at the LSE
 slug: esrc-well-being-research-workshop-at-the-lse
 date: 2008-10-13T07:43:38
-themes: [u'Notebook', u'Wise Society']
+themes: ['Notebook', 'Wise Society']
 tags: []
-projects: [u'Academia', u'Happiness']
+projects: ['Academia', 'Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]

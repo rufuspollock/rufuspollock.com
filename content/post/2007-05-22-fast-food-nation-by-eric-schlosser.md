@@ -4,7 +4,7 @@ title: >-
 slug: fast-food-nation-by-eric-schlosser
 date: 2007-05-22T09:58:01
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

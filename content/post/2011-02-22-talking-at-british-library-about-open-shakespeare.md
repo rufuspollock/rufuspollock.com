@@ -3,10 +3,10 @@ title: >-
   Talking at British Library about Open Shakespeare
 slug: talking-at-british-library-about-open-shakespeare
 date: 2011-02-22T21:38:41
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

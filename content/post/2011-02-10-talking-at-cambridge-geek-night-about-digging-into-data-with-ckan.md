@@ -3,10 +3,10 @@ title: >-
   Talking at Cambridge Geek Night about Digging into Data with CKAN
 slug: talking-at-cambridge-geek-night-about-digging-into-data-with-ckan
 date: 2011-02-10T12:27:42
-themes: [u'Information Economy']
+themes: ['Information Economy']
 tags: []
-projects: [u'Open Knowledge', u'Shuttleworth Fellowship']
-posttypes: [u'Talks', u'Updates']
+projects: ['Open Knowledge', 'Shuttleworth Fellowship']
+posttypes: ['Talks', 'Updates']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

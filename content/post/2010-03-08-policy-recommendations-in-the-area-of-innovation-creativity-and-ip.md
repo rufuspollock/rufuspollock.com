@@ -3,10 +3,10 @@ title: >-
   Policy Recommendations in the Area of Innovation, Creativity and IP
 slug: policy-recommendations-in-the-area-of-innovation-creativity-and-ip
 date: 2010-03-08T16:51:52
-themes: [u'Information Economy']
-tags: [u'Cinema', u'Government', u'Tech']
-projects: [u'Academia']
-posttypes: [u'Own Work']
+themes: ['Information Economy']
+tags: ['Cinema', 'Government', 'Tech']
+projects: ['Academia']
+posttypes: ['Own Work']
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:

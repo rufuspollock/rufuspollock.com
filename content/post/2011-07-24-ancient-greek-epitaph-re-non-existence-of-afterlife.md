@@ -3,8 +3,8 @@ title: >-
   Ancient Greek Epitaph re Non-Existence of Afterlife
 slug: ancient-greek-epitaph-re-non-existence-of-afterlife
 date: 2011-07-24T18:39:51
-themes: [u'afterlife', u'ancient-greek', u'death']
-tags: [u'Quote']
+themes: ['afterlife', 'ancient-greek', 'death']
+tags: ['Quote']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: how-nature-works-by-per-bak
 date: 2008-09-11T15:36:36
 themes: []
-tags: [u'Books']
+tags: ['Books']
 projects: []
 posttypes: []
 featured: False

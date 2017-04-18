@@ -4,7 +4,7 @@ title: >-
 slug: is-game-theory-of-any-value-for-the-historical-analysis-of-institutions
 date: 2008-03-04T15:23:44
 themes: []
-tags: [u'Economics', u'History']
+tags: ['Economics', 'History']
 projects: []
 posttypes: []
 featured: False

@@ -4,7 +4,7 @@ title: >-
 slug: the-damned-united
 date: 2009-04-02T20:22:32
 themes: []
-tags: [u'Cinema']
+tags: ['Cinema']
 projects: []
 posttypes: []
 featured: False

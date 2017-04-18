@@ -3,9 +3,9 @@ title: >-
   Buddhist Economics
 slug: buddhist-economics
 date: 2008-11-03T17:48:50
-themes: [u'Wise Society']
+themes: ['Wise Society']
 tags: []
-projects: [u'Happiness']
+projects: ['Happiness']
 posttypes: []
 featured: False
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
