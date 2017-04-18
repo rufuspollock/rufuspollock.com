@@ -1,6 +1,7 @@
 baseurl: "/"
 title: "Rufus Pollock Online"
 languageCode: "en-us"
+googleAnalytics: "UA-35035650-1"
 
 permalinks:
   post: /:year/:month/:day/:slug/
