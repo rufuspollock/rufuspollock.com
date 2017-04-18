@@ -698,6 +698,13 @@ section.other-pages {
   form > input, form > textarea {
     border-radius: 0;
   }
+
+  input[type="submit"] {
+      background-color: rgba(0,0,0,0);
+      border: 1px solid $dark-gray;
+      border-radius: 0;
+      color: $dark-gray;
+  }
 }
 
 @import "refills/footer";

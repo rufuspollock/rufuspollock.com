@@ -4,11 +4,9 @@ title: Contact
 
 <form action="https://formspree.io/rufus@rufuspollock.org"
       method="POST">
-    <h4>Name</h4>
-    <input type="text" name="name" />
-    <h4>Email</h4>
-    <input type="email" name="_replyto" />
-    <h4>Message</h4>
-    <textarea  name="message"> </textarea>
+    <p>Fields marked with an * are required</p>
+    <input type="text" name="name" placeholder="Name*" />
+    <input type="email" name="_replyto" placeholder="Email*" />
+    <textarea  name="message" placeholder="Message*"></textarea>
     <input type="submit" value="Send">
 </form>

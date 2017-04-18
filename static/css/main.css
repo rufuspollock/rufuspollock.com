@@ -4460,6 +4460,11 @@ section.other-pages {
     max-width: 700px; }
   section.other-pages form > input, section.other-pages form > textarea {
     border-radius: 0; }
+  section.other-pages input[type="submit"] {
+    background-color: transparent;
+    border: 1px solid #333;
+    border-radius: 0;
+    color: #333; }
 
 .footer-2 {
   background: black;
