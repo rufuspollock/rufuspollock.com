@@ -466,9 +466,7 @@ select {
 
 ul,
 ol {
-  list-style-type: none;
-  margin: 0;
-  padding: 0; }
+  margin: 0; }
 dl {
   margin-bottom: 0.75em; }
   dl dt {
@@ -4539,5 +4537,11 @@ section.other-pages {
       text-decoration: underline; }
   .footer-2 .footer-secondary-links ul li a {
     line-height: 1.8em; }
+
+div.toc {
+  margin-bottom: 1em; }
+  div.toc hr {
+    border: 1px solid #e6e6e6;
+    width: auto; }
 
 /*# sourceMappingURL=main.css.map */
