@@ -8,6 +8,8 @@ wordpress:
   - page_id: 288
 ---
 
+{{< toc >}}
+
 # Models
 
 ## Bak-Sneppen Model

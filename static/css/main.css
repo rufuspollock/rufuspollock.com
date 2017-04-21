@@ -4592,7 +4592,8 @@ section.other-pages {
     line-height: 1.8em; }
 
 div.toc {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  margin-top: 2em; }
   div.toc hr {
     border: 1px solid #e6e6e6;
     width: auto; }

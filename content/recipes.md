@@ -8,6 +8,8 @@ wordpress:
   - page_id: 59
 ---
 
+{{< toc >}}
+
 ### Egg Nog
 
 1 Bottle of Brandy

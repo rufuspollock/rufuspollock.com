@@ -8,6 +8,8 @@ wordpress:
   - page_id: 518
 ---
 
+{{< toc >}}
+
 # Zen of the Command Line
 
 ----

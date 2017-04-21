@@ -10,12 +10,12 @@ wordpress:
 
 # Economics - Papers & Notes
 
-  * **Licence:** All material on this site including these papers are made available under the [open licence](http://opendefinition.org/) detailed on the [copying page][2]. 
+  * **Licence:** All material on this site including these papers are made available under the [open licence](http://opendefinition.org/) detailed on the [copying page][2].
   * **Organization:** (roughly) material is organized by subject matter then by time of update with the most recent first.
   * **Other material:** Other information, including announcements and more informal discussion, can be found on the main 'blog' section of the site in the [Economics category](/tags/economics).
   * **Contacting me:** details on how to contact me can be found on [the About page](/about/).
 
-[toc]
+{{< toc >}}
 
 ## Papers: Innovation, Knowledge Production and Openness
 
@@ -29,10 +29,10 @@ wordpress:
 
   * [The Value of the EU Public Domain](/economics/papers/value_of_the_public_domain_eu.pdf)
 
-     > This paper reports results from a large recent study of the public domain in the European Union. Based on a combination of catalogue, commercial and survey data we present detailed figures both on the prices (and price differences) of in copyright and public domain material and on the usage of that material.  Combined with the estimates for the size of the EU public domain presented in the companion paper our results allow us to provide the first quantitative estimate for the `value' of the public domain (i.e. welfare gains from its existence) in any jurisdiction. We also find clear, and statistically significant, differences between the prices of in-copyright and public-domain in the two areas which we have significant data: books and sounds recordings in the UK. Patterns of usage indicate a significant demand for public domain material but limitations of the data make it difficult to draw conclusions on the impact of entry into the public domain on demand.
+     > This paper reports results from a large recent study of the public domain in the European Union. Based on a combination of catalogue, commercial and survey data we present detailed figures both on the prices (and price differences) of in copyright and public domain material and on the usage of that material.  Combined with the estimates for the size of the EU public domain presented in the companion paper our results allow us to provide the first quantitative estimate for the `value` of the public domain (i.e. welfare gains from its existence) in any jurisdiction. We also find clear, and statistically significant, differences between the prices of in-copyright and public-domain in the two areas which we have significant data: books and sounds recordings in the UK. Patterns of usage indicate a significant demand for public domain material but limitations of the data make it difficult to draw conclusions on the impact of entry into the public domain on demand.
  * [Summary Slides Covering Size and Value of the Public Domain](/economics/papers/size_and_value_of_the_public_domain_communia_talk_20100201.pdf) - Talk at COMMUNIA in Feb 2010
   * [Announce Post](http://rufuspollock.org/2010/10/11/papers-on-the-size-and-value-of-eu-public-domain/)
-  * [Posts related to this research and EU Public Domain (EUPD) Project](http://rufuspollock.org/tags/eupd/) 
+  * [Posts related to this research and EU Public Domain (EUPD) Project](http://rufuspollock.org/tags/eupd/)
 
 ### The Dissemination of Scholarly Information: Old Approaches and New Possibilities
 
@@ -51,7 +51,7 @@ wordpress:
 
 ### Forever Minus a Day? Theory and Empirics of Optimal Copyright Term
 
-  * Last Updated: 2008-10 (created: 2008-01). 
+  * Last Updated: 2008-10 (created: 2008-01).
   * Link: [Forever Minus a Day? Theory and Empirics of Optimal Copyright Term](papers/optimal_copyright_term.pdf) (pdf).
   * Slides: [Slides from a talk at Stanford](papers/optimal_copyright_term_talk_stanford.pdf)
   * Comments: a *very* revised version of the second half of the original 'Forever Minus a Day' paper focused exclusively on copyright term.
@@ -78,17 +78,17 @@ wordpress:
 
   * Last Updated: 2008-01 (created: 2007-01).
   * Link: [Forever Minus a Day? Some Theory and Empirics of Optimal Copyright][3] (pdf).
-  * There are also [Slides from the presentation of 'Forever Minus a Day?' at SERCIAC 2007][4] (pdf). 
+  * There are also [Slides from the presentation of 'Forever Minus a Day?' at SERCIAC 2007][4] (pdf).
 
 ### Cumulative Innovation, Sampling and the Hold-up Problem
 
   * Last Updated: 2007-08-10 (created: 2006-06-19).
-  * Link: [Cumulative Innovation, Sampling and the Hold-up Problem][5] (pdf) 
+  * Link: [Cumulative Innovation, Sampling and the Hold-up Problem][5] (pdf)
 
 ### Innovation and Imitation with and without Intellectual Property Rights
 
   * Last Updated: 2007-07-17 (created: 2006-12-19).
-  * Link: [Innovation and Imitation with and without Intellectual Property Rights][6] (pdf). 
+  * Link: [Innovation and Imitation with and without Intellectual Property Rights][6] (pdf).
 
 ## Papers: Competition and Antitrust especially in Platform Markets
 
@@ -109,8 +109,8 @@ wordpress:
 ### The Control of Porting in Two-Sided Markets
 
   * Last Updated: 2008-02 (created: 2007-02).
-  * Link: [The Control of Porting (v2.0)][13] (pdf). A significantly updated and revised version of the original paper. 
-  * 2005-07 (revised 2006-09): [The Control of Porting (v1.0)][14] (pdf) 
+  * Link: [The Control of Porting (v2.0)][13] (pdf). A significantly updated and revised version of the original paper.
+  * 2005-07 (revised 2006-09): [The Control of Porting (v1.0)][14] (pdf)
 
 
 ## Papers: Happiness and Well-Being
@@ -124,7 +124,7 @@ wordpress:
 
 ### The Value of the Public Domain
 
-  * **Published**: 2006-07-14 by the Institute for Public Policy Research as part of the their series on *IP and the Public Sphere*. 
+  * **Published**: 2006-07-14 by the Institute for Public Policy Research as part of the their series on *IP and the Public Sphere*.
   * Link: [The Value of the Public Domain (pdf)][7] ([local copy][8] and an [html version][9]).
 
 ### P2P, Online File-Sharing, and the Music Industry: A Summary of the Literature
@@ -135,13 +135,13 @@ wordpress:
 ### The Importance of Patents for Innovation in the Industrial Revolution
 
   * Last Updated: 2004-04.
-  * Link: [The Importance of Patents for Innovation in the Industrial Revolution][11] (html) ([pdf version][12]) 
+  * Link: [The Importance of Patents for Innovation in the Industrial Revolution][11] (html) ([pdf version][12])
   * Comments: MPhil Essay in Economic History.
 
 ### To Be Compatible or Not To Be Compatible: Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft
 
   * Last Updated: 2004-07.
-  * Link: [To Be Compatible or Not To Be Compatible: Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft (pdf)][15] ([xml src version][16]) 
+  * Link: [To Be Compatible or Not To Be Compatible: Strategy and Compatibility Choice in Network Markets with Special Attention to Microsoft (pdf)][15] ([xml src version][16])
   * MPhil Dissertation.
 
 ##  Review, Summaries and Notes
@@ -189,4 +189,3 @@ wordpress:
 [24]: papers/boldrin_levine_quah.html
 [25]: papers/boldrin_levine_quah.mkd
 [26]: notes/
-

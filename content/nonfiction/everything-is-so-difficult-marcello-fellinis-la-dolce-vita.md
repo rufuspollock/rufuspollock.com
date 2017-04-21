@@ -8,6 +8,8 @@ wordpress:
   - page_id: 1335
 ---
 
+{{< toc >}}
+
 ## *Rufus Pollock &mdash; 1997* ##
 
 ## Introduction ##

@@ -8,6 +8,8 @@ wordpress:
   - page_id: 1559
 ---
 
+{{< toc >}}
+
 [Criticisms of the WTO](/wto/criticisms-of-the-wto/) \- Should be read first.
 
 ### Introduction And Summary

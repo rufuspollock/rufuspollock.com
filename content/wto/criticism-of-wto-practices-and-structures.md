@@ -8,6 +8,8 @@ wordpress:
   - page_id: 1563
 ---
 
+{{< toc >}}
+
 ### Is the WTO Undemocratic?
 
 This is one of the most common criticisms of the WTO:  

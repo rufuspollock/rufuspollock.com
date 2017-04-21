@@ -8,6 +8,8 @@ wordpress:
   - page_id: 61
 ---
 
+{{< toc >}}
+
 ## Random Thoughts and Random Links
 
 ### Macauley on Patent Extensions

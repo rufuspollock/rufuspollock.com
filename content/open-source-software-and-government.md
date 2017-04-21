@@ -29,7 +29,7 @@ This answer is a clear yes: open source software matters for government and civi
 
 We also discuss how software is different from other things that government traditionally buy or fund. This difference is why government cannot buy software like it buys office furniture or procures the building of bridges -- and why buying open matters so much.
 
-[toc]
+{{< toc >}}
 
 # Executive Summary
 

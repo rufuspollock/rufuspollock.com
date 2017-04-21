@@ -8,6 +8,8 @@ wordpress:
   - page_id: 1547
 ---
 
+{{< toc >}}
+
 ### History
 
 The World Trade Organization (WTO) came into being on January 1st 1995. It was the outcome of the lengthy (1986-1994) Uruguay round of GATT negotiations. The WTO was essentially an extension of [GATT](/wto/glossary/#GATT). It extended GATT in two major ways. First GATT became only one of the three major trade agreements that went into the WTO (the other two being the General Agreement on Trade in Services (GATS) and the agreements on Trade Related Aspects of Intellectual Property Rights (TRIPS)). Second the WTO was put on a much sounder institutional footing than GATT. With GATT the support services that helped maintain the agreement had come into being in an ad hoc manner as the need arose. The WTO by contrast is a fully fledged institution (GATT also was, at least formally, only an agreement between contracting parties and had no independent existence of its own while the WTO is a corporate body recognized under international law).

@@ -8,6 +8,8 @@ wordpress:
   - page_id: 262
 ---
 
+{{< toc >}}
+
   * **2008-06: There is now a [pdf version of these comments available](/economics/papers/comments_on_currarini_pin_jackson_2007.pdf)**. This may be a better way to read this as some people have reported difficulties with viewing the maths in the page (requires mathml support -- via firefox + mathml fonts or IE).
 
 This is brief note to comment on *An Economic Model of Friendship: Homophily, Minorities and Segregation* by Currarini, Jackson and Pin (2007) (hereafter CJP).

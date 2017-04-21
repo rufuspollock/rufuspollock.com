@@ -8,6 +8,8 @@ wordpress:
   - page_id: 226
 ---
 
+{{< toc >}}
+
 <h2>Introduction</h2>
 <p>This primer aims to provide a concise and simple introduction to the theory of demand. As such it does not intend to be comprehensive but to provide enough background for the reader to progress rapidly to empirical work.
 </p>

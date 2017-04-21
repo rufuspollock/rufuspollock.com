@@ -8,6 +8,8 @@ wordpress:
   - page_id: 1492
 ---
 
+{{< toc >}}
+
 ### Introduction
 
 When people talk about the WTO they often mean one of three different things:

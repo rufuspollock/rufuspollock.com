@@ -8,6 +8,8 @@ wordpress:
   - page_id: 330
 ---
 
+{{< toc >}}
+
   * 2006-03-17
 
 ## Summary Table
