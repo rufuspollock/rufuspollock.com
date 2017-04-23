@@ -61,3 +61,22 @@ If headings are not defined in this way, a table of content would look like foll
 
 <iframe src="https://drive.google.com/file/d/0B4NG_fY_aUNbemFoT2R0ZVp0alk/preview" width="640" height="480"></iframe>
 If the image is not visible preview it here - https://drive.google.com/file/d/0B4NG_fY_aUNbemFoT2R0ZVp0alk/view?usp=sharing
+
+### MathJax
+
+#### Inline MathJax
+
+When writing inline MathJax, please wrap formulas in single `$`, e.g.:
+
+```
+This is my inline math formula: $ \\Omega\_{G} = [0,1]^{N}, N=|G| $
+```
+
+#### Block MathJax
+
+For block MathJax wrap formulas in double `$$`, e.g.:
+
+```
+The formula below is not inlined:
+$$ \\Omega\_{G} = [0,1]^{N}, N=|G| $$
+```
