@@ -19,80 +19,80 @@ wordpress:
 </p>
 <ol>
  <li>
-     Set of goods indexed usually by $$i$$
+     Set of goods indexed usually by $i$
  </li>
 
  <li>
-     $$p_{i} =$$ Price of good $$i$$.
+     $p_{i} =$ Price of good $i$.
  </li>
 
  <li>
-     $$q_{i} =$$ Quantity of good $$i$$ (usually the amount demanded or actually consumed).
+     $q_{i} =$ Quantity of good $i$ (usually the amount demanded or actually consumed).
  </li>
 
  <li>
-     $$w =$$ total wealth of the agent
+     $w =$ total wealth of the agent
  </li>
 
  <li>
-     $$y$$ income of the agent (often indexed by i to indicate period)
+     $y$ income of the agent (often indexed by i to indicate period)
  </li>
 
  <li>
-     $$T$$ will indicate time, often the total amount of hours available to an agent.
+     $T$ will indicate time, often the total amount of hours available to an agent.
  </li>
 
  <li>
-     $$g_{i}(w, p)$$ is the (Marshallian) demand function for good $$i$$
+     $g_{i}(w, p)$ is the (Marshallian) demand function for good $i$
  </li>
 
  <li>
-     $$u(q)$$ is the utility function. $$u$$ on its own will usually stand for a particular level of utility
+     $u(q)$ is the utility function. $u$ on its own will usually stand for a particular level of utility
  </li>
 
  <li>
-     $$v(w,p) = max_{q} { u(q) : p \cdot q \leq w }$$ is the indirect utility function
+     $v(w,p) = max_{q} { u(q) : p \cdot q \leq w }$ is the indirect utility function
  </li>
 
  <li>
-     $$h_{i}(u,p)$$ is the Hicksian (compensated) demand function for good i. Known as compensated because they show how demand varies with utility held constant.
+     $h_{i}(u,p)$ is the Hicksian (compensated) demand function for good i. Known as compensated because they show how demand varies with utility held constant.
  </li>
 
  <li>
-     $$e(u,p)$$ is the expenditure/cost function.
+     $e(u,p)$ is the expenditure/cost function.
  </li>
 
  <li>
-     The slutsky matrix S defined by $$s_{ij} = \partial h_{i}(u,p) / \partial p_{j}$$
+     The slutsky matrix S defined by $s_{ij} = \partial h_{i}(u,p) / \partial p_{j}$
  </li>
 
  <li>
-     $$b_{i} = \frac{p_{i}q_{i}}{w}$$ is the budget share for good i
+     $b_{i} = \frac{p_{i}q_{i}}{w}$ is the budget share for good i
  </li>
 
  <li>
-     $$e_{i}$$ is the wealth elasticity of demand for good k (at current prices and wealth) defined as: $$ e_{i} = \partial \log( g_{i}(w,p)) / \partial \log w $$
+     $e_{i}$ is the wealth elasticity of demand for good k (at current prices and wealth) defined as: $ e_{i} = \partial \log( g_{i}(w,p)) / \partial \log w $
  </li>
 
  <li>
-     $$e_{ij}$$ are the cross-price elasticities of demand (if $$i = j$$ then this is the own-price elasticity). Defined as: $$ e_{ij} = \partial \log( g_{i}(w,p)) / \partial \log p_{j} \] $$
+     $e_{ij}$ are the cross-price elasticities of demand (if $i = j$ then this is the own-price elasticity). Defined as: $ e_{ij} = \partial \log( g_{i}(w,p)) / \partial \log p_{j} \] $
  </li>
 </ol>
 
 <h2>The Basic Properties of Demand Functions</h2>
 <p>We shall assume a linear budget constraint.<sup id="fnr1-469267910"><a href="#fn1-469267910">1</a></sup> That is:<sup id="fnr2-469267910"><a href="#fn2-469267910">2</a></sup>
 </p>
-<p>$$ \[ w = \sum_{k} p_{k}q_{k} \] $$
+<p>$ \[ w = \sum_{k} p_{k}q_{k} \] $
 </p>
 
 <h3>Restrictions on the Demand Function: The Big Four</h3>
 <ol>
  <li>
-     <strong>Adding Up:</strong> From the budget constraint we have: $$ w = \sum_{k} p_{k}g_{k}(w,p) $$.
+     <strong>Adding Up:</strong> From the budget constraint we have: $ w = \sum_{k} p_{k}g_{k}(w,p) $.
  </li>
 
  <li>
-     <strong>Homogeneity</strong> The demand function is homogenous of degree 0 in prices and wealth (purely nominal changes should have no effect): $$ g_{i}(\lambda w, \lambda p) = g_{i}(w,p) $$.
+     <strong>Homogeneity</strong> The demand function is homogenous of degree 0 in prices and wealth (purely nominal changes should have no effect): $ g_{i}(\lambda w, \lambda p) = g_{i}(w,p) $.
  </li>
 
  <li>
@@ -110,11 +110,11 @@ wordpress:
 </p>
 <ol>
  <li>
-     Engel Aggregation: $$ \sum_{k} p_{k} \frac{\partial g_{k}(w,p)}{\partial w} = 1 $$
+     Engel Aggregation: $ \sum_{k} p_{k} \frac{\partial g_{k}(w,p)}{\partial w} = 1 $
  </li>
 
  <li>
-     Cournot Aggregation: $$ g_{i} + \sum_{k} p_{k} \frac{\partial g_{k}(w,p)}{\partial p_{i}} = 0, \forall i = 1, .... n $$
+     Cournot Aggregation: $ g_{i} + \sum_{k} p_{k} \frac{\partial g_{k}(w,p)}{\partial p_{i}} = 0, \forall i = 1, .... n $
  </li>
 
  <li>
@@ -126,7 +126,7 @@ wordpress:
 <ol>
  <li><p>Roy's Identity: This allows us to relate the Marshallian demand functions to the indirect utility function:
 </p>
-<p> $$ \[ \frac{\partial v / \partial p_{i}} {\partial v / \partial w } = g_{i}(u,p) \] $$
+<p> $ \[ \frac{\partial v / \partial p_{i}} {\partial v / \partial w } = g_{i}(u,p) \] $
 </p>
 
  </li>
@@ -166,11 +166,11 @@ wordpress:
 <h2>Deriving Demand Functions from Utility</h2>
 
 <h3>Utility Maximization</h3>
-<p>Given a cardinal utility function $$u(q)$$ the consumer has the following utility maximization problem (UMP):
+<p>Given a cardinal utility function $u(q)$ the consumer has the following utility maximization problem (UMP):
 </p>
 <p>$$ \[ max_{q} u(q), \textrm{with } p.q \leq w, q \geq 0 \] $$
 </p>
-<p>Let $$ q^{s} $$ be values that solve this problem (assuming they exist). Then the demand function is defined by $$g(w,p) = q^{s}$$
+<p>Let $ q^{s} $ be values that solve this problem (assuming they exist). Then the demand function is defined by $g(w,p) = q^{s}$
      <br />
 </p>
 
@@ -183,23 +183,23 @@ wordpress:
 <h4>Properties of the Cost Function</h4>
 <ol>
  <li>
-     The cost function is homogenous of degree 1 in prices, i.e. $$ c(u,\lambda p) = \lambda c(u,p) $$
+     The cost function is homogenous of degree 1 in prices, i.e. $ c(u,\lambda p) = \lambda c(u,p) $
  </li>
 
  <li>
-     The cost function is increasing in $$u$$, nondecreasing in $$p$$
+     The cost function is increasing in $u$, nondecreasing in $p$
  </li>
 
  <li>
-     $$c(u,p)$$ is concave in prices
+     $c(u,p)$ is concave in prices
  </li>
 
  <li>
-     The cost function is continuous in $$p$$ and its first and second derivatives with respect to prices exist everywhere (except possibly on a set of meausure 0)
+     The cost function is continuous in $p$ and its first and second derivatives with respect to prices exist everywhere (except possibly on a set of meausure 0)
  </li>
 
  <li>
-     (Shepherd's Lemma) Partial derivatives of the cost function with respect to price yield the Hicksian demands: $$ \frac{\partial c(u,p)} {\partial p_{i} } = h_{i}(u,p) $$
+     (Shepherd's Lemma) Partial derivatives of the cost function with respect to price yield the Hicksian demands: $ \frac{ \partial c(u,p) } { \partial p_{i} } = h{i}(u,p) $
  </li>
 </ol>
 
@@ -223,5 +223,3 @@ wordpress:
  </li>
 </ol>
 </div>
-
-

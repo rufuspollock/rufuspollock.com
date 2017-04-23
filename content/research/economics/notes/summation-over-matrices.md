@@ -22,20 +22,24 @@ Next one we will N choose 2 (columns to aggregate over) times $$M^{N-2}$$
 
 Repeating we see that total number of aggregates is:
 
-$$ Total = \sum_{i=1}^{N} C_{i}^{N} M^{N-i}$$
+<div>$$ Total = \sum_{i=1}^{N} C_{i}^{N} M^{N-i}$$</div>
 
 Now let us assume that N = M, then:
 
+<div>
 $$
 Total = \sum_{i=1...N} C_{i}^{N} N^{N-i}
       = \sum_{i=1...N} \frac{N!}{i!(N-i)!}  N^{N-i}
 $$
+</div>
 
+<div>
 $$
  Total \leq \sum_{i=1...N} \frac{N^{i}}{i!}  N^{N-i}
       = \sum_{i=1...N} \frac{N^{N}}{i!}
       = N^{N} \sum_{i=1...N} \frac{1}{i!}
 $$
+</div>
 
 And finally:
 
@@ -45,5 +49,3 @@ Total \leq  N^{N} \sum_{i=0...N-1} \frac{1}{2^{i}}
 $$
 
 Seems likely that we can do worse than this in real world cases. Would be nice to get an upper bound ....
-
-
