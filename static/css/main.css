@@ -3905,6 +3905,7 @@ header.navigation ul li.nav-link {
       padding-left: 0;
       text-align: right; } }
 header.navigation li a {
+  line-height: 60px;
   font-size: 12px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -3918,6 +3919,7 @@ header.navigation ul.submenu {
     header.navigation ul.submenu li {
       line-height: 37.5px; } }
   header.navigation ul.submenu li a {
+    line-height: 40px;
     text-align: left;
     font-size: 12px; }
     @media screen and (min-width: 53.75em) {
