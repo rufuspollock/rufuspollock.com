@@ -5,7 +5,7 @@
 
   .newhero {
     $large-screen: 50em !default;
-    min-height: 88vh;
+    min-height: 92vh;
     background-position: none;
     background-size: none;
     position: relative;
@@ -73,7 +73,7 @@
       top: 90%;
       @include media($large-screen) {
         height: 12%;
-        top: 88%;
+        top: 82%;
       }
       p {
         text-align: center;

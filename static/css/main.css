@@ -4335,7 +4335,7 @@ div.toc {
     .themes-section .logo-section li .wider-logo {
       max-width: 15em; }
 .themes-section .newhero {
-  min-height: 88vh;
+  min-height: 92vh;
   background-position: none;
   background-size: none;
   position: relative; }
@@ -4402,7 +4402,7 @@ div.toc {
     @media screen and (min-width: 53.75em) {
       .themes-section .newhero .call-to-action {
         height: 12%;
-        top: 88%; } }
+        top: 82%; } }
     .themes-section .newhero .call-to-action p {
       text-align: center;
       align-items: center;
