@@ -29,11 +29,13 @@ header.navigation {
     font-weight: 400;
     letter-spacing: 1px;
     line-height: 60px;
-    width: 100%;
-    margin: 0 15%;
+    max-width: 100%;
+    margin: 0 12%;
+    padding: 0 2em;
     @include media($large-screen) {
       width: auto;
       margin: 0;
+      padding: 0 2em 0 0;
     }
   }
 
@@ -41,7 +43,7 @@ header.navigation {
     line-height: normal;
     float: none;
     width: 50%;
-    margin: 0 40%;
+    margin: 0 35%;
   }
 
   ul li.nav-link {
@@ -88,5 +90,7 @@ header.navigation {
   }
 }
 .navbar-margin {
-  margin-bottom: 62px;
+  @include media($large-screen) {
+    margin-bottom: 62px;
+  }
 }

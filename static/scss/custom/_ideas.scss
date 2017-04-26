@@ -67,23 +67,24 @@
     }
 
     .call-to-action {
-      width: 50%;
-      position: absolute;
-      left: 25%;
-      top: 90%;
+      display: none;
       @include media($large-screen) {
+        display: block;
+        width: 50%;
+        position: absolute;
+        left: 25%;
         height: 12%;
         top: 82%;
-      }
-      p {
-        text-align: center;
-        align-items: center;
-        margin: 0;
-      }
-      .arrow-down {
-        font-size: 2.6em;
-        a {
-          color: $dark-gray;
+        p {
+          text-align: center;
+          align-items: center;
+          margin: 0;
+        }
+        .arrow-down {
+          font-size: 2.6em;
+          a {
+            color: $dark-gray;
+          }
         }
       }
     }

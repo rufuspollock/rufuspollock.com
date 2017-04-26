@@ -47,22 +47,23 @@
     }
 
     .call-to-action {
-      @include position(absolute, 88% null null 25%);
-      @include size(50% 12%);
-      p {
-        color: white;
-        text-align: center;
-        align-items: center;
-        margin: 0;
-        //font-size: 0.9em;
-      }
-      .arrow-down {
-        font-size: 2.6em;
-        a {
+      display: none;
+      @include media($large-screen) {
+        display: block;
+        @include position(absolute, 88% null null 25%);
+        @include size(50% 12%);
+        p {
           color: white;
+          text-align: center;
+          align-items: center;
+          margin: 0;
+          //font-size: 0.9em;
         }
-        @include media($large-screen) {
+        .arrow-down {
           font-size: 2.6em;
+          a {
+            color: white;
+          }
         }
       }
     }

@@ -3886,17 +3886,19 @@ header.navigation a.logo {
   font-weight: 400;
   letter-spacing: 1px;
   line-height: 60px;
-  width: 100%;
-  margin: 0 15%; }
+  max-width: 100%;
+  margin: 0 12%;
+  padding: 0 2em; }
   @media screen and (min-width: 53.75em) {
     header.navigation a.logo {
       width: auto;
-      margin: 0; } }
+      margin: 0;
+      padding: 0 2em 0 0; } }
 header.navigation a.navigation-menu-button {
   line-height: normal;
   float: none;
   width: 50%;
-  margin: 0 40%; }
+  margin: 0 35%; }
 header.navigation ul li.nav-link {
   text-align: left;
   padding-left: 0.8em; }
@@ -3926,8 +3928,9 @@ header.navigation ul.submenu {
       header.navigation ul.submenu li a {
         width: 20.4em; } }
 
-.navbar-margin {
-  margin-bottom: 62px; }
+@media screen and (min-width: 53.75em) {
+  .navbar-margin {
+    margin-bottom: 62px; } }
 
 .page-content > :first-child {
   min-height: 400px; }
@@ -4029,23 +4032,24 @@ div.toc {
       font-size: 25px;
       margin-right: 6px; }
   .home-template .hero .call-to-action {
-    position: absolute;
-    top: 88%;
-    left: 25%;
-    height: 12%;
-    width: 50%; }
-    .home-template .hero .call-to-action p {
-      color: white;
-      text-align: center;
-      align-items: center;
-      margin: 0; }
-    .home-template .hero .call-to-action .arrow-down {
-      font-size: 2.6em; }
-      .home-template .hero .call-to-action .arrow-down a {
-        color: white; }
-      @media screen and (min-width: 53.75em) {
+    display: none; }
+    @media screen and (min-width: 53.75em) {
+      .home-template .hero .call-to-action {
+        display: block;
+        position: absolute;
+        top: 88%;
+        left: 25%;
+        height: 12%;
+        width: 50%; }
+        .home-template .hero .call-to-action p {
+          color: white;
+          text-align: center;
+          align-items: center;
+          margin: 0; }
         .home-template .hero .call-to-action .arrow-down {
-          font-size: 2.6em; } }
+          font-size: 2.6em; }
+          .home-template .hero .call-to-action .arrow-down a {
+            color: white; } }
 .home-template #next-section {
   min-height: 500px; }
 .home-template .video {
@@ -4395,22 +4399,23 @@ div.toc {
           width: 50%;
           margin-left: 12.79471%; } }
   .themes-section .newhero .call-to-action {
-    width: 50%;
-    position: absolute;
-    left: 25%;
-    top: 90%; }
+    display: none; }
     @media screen and (min-width: 53.75em) {
       .themes-section .newhero .call-to-action {
+        display: block;
+        width: 50%;
+        position: absolute;
+        left: 25%;
         height: 12%;
-        top: 82%; } }
-    .themes-section .newhero .call-to-action p {
-      text-align: center;
-      align-items: center;
-      margin: 0; }
-    .themes-section .newhero .call-to-action .arrow-down {
-      font-size: 2.6em; }
-      .themes-section .newhero .call-to-action .arrow-down a {
-        color: #333; }
+        top: 82%; }
+        .themes-section .newhero .call-to-action p {
+          text-align: center;
+          align-items: center;
+          margin: 0; }
+        .themes-section .newhero .call-to-action .arrow-down {
+          font-size: 2.6em; }
+          .themes-section .newhero .call-to-action .arrow-down a {
+            color: #333; } }
 .themes-section section {
   padding: 3em 0 0 0;
   max-width: 90%;
