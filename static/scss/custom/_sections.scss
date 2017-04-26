@@ -1,0 +1,28 @@
+section.other-pages {
+  @include outer-container(90%);
+  @import "refills/logos.scss";
+  @include media($large-screen) {
+    max-width: 700px;
+  }
+  padding-top: 3em;
+  .news {
+    .single-news {
+      padding: 2em 2.5em 2em 2em;
+      margin: 0 0 1em 0;
+      border: 1px solid #e4e4e4;
+    }
+  }
+  .post-single {
+    max-width: 700px;
+  }
+  form > input, form > textarea {
+    border-radius: 0;
+  }
+
+  input[type="submit"] {
+      background-color: rgba(0,0,0,0);
+      border: 1px solid $dark-gray;
+      border-radius: 0;
+      color: $dark-gray;
+  }
+}
