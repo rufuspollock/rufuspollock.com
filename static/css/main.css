@@ -3886,9 +3886,10 @@ header.navigation a.logo {
   font-weight: 400;
   letter-spacing: 1px;
   line-height: 60px;
-  max-width: 100%;
-  margin: 0 12%;
-  padding: 0 2em; }
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 0 1.5em; }
   @media screen and (min-width: 53.75em) {
     header.navigation a.logo {
       width: auto;
@@ -3897,8 +3898,9 @@ header.navigation a.logo {
 header.navigation a.navigation-menu-button {
   line-height: normal;
   float: none;
-  width: 50%;
-  margin: 0 35%; }
+  width: 100%;
+  margin: auto;
+  text-align: center; }
 header.navigation ul li.nav-link {
   text-align: left;
   padding-left: 0.8em; }
@@ -4007,7 +4009,7 @@ div.toc {
   justify-content: center;
   min-height: 38em;
   padding: 2em 5%; }
-  @media screen and (min-width: 53.75em) {
+  @media screen and (min-width: 40em) {
     .home-template .hero {
       background-position: left;
       background-size: cover;
@@ -4016,6 +4018,9 @@ div.toc {
   .home-template .hero .hero-content {
     max-width: 35em;
     color: white; }
+    @media screen and (min-width: 40em) {
+      .home-template .hero .hero-content {
+        text-align: left; } }
     .home-template .hero .hero-content h1, .home-template .hero .hero-content h3, .home-template .hero .hero-content h4 {
       margin-bottom: 20px;
       font-weight: 300; }
@@ -4063,9 +4068,9 @@ div.toc {
     .home-template .video .video-wrapper iframe {
       position: relative;
       top: 7vh;
-      left: 0;
-      height: 56.2vw;
-      width: 100vw; }
+      left: 5vw;
+      height: 50.58vw;
+      width: 90vw; }
       @media screen and (min-width: 53.75em) {
         .home-template .video .video-wrapper embed,
         .home-template .video .video-wrapper object,

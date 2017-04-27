@@ -13,7 +13,7 @@
     min-height: 38em;
     padding: 2em 5%;
 
-    @include media($large-screen) {
+    @include media($medium-screen) {
       background-position: left;
       background-size: cover;
       justify-content: flex-end;
@@ -21,6 +21,9 @@
     }
 
     .hero-content {
+      @include media($medium-screen) {
+        text-align: left;
+      }
       max-width: 35em;
       color: white;
       h1, h3, h4 {
@@ -83,8 +86,8 @@
       embed,
       object,
       iframe {
-        @include position(7vh null null 0);
-        @include size(100vw 56.2vw);
+        @include position(7vh null null 5vw);
+        @include size(90vw 50.58vw);
         @include media($large-screen) {
           @include position(13vh null null calc(50vw - 420px));
           @include size(854px 480px);
