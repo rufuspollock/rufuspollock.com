@@ -5,33 +5,34 @@ themes: Notebook
 projects: ['Official Inquiries', 'Open Literature']
 ---
 
-> How official inquiries works -- and a plan for future
->
-> Plus a review of learnings from past projects and thoughts on building "open text" projects going forward including e.g. open literature
+Two parts:
 
-## Plan
+* How official inquiries works -- and a plan for future
+* A review of learnings from past projects and thoughts on building "open text" projects going forward including e.g. open literature
 
-### First piece:
+[toc]
 
-* Document current and planned official inquiries tech architecture
+# Plan
 
-### Bigger story
+## First piece - Official Inquiries
 
-> Motivation:
-> 
-> why is the Arden Shakespeare still produced as a dead-tree or PDF experience
->
-> Why are we still living with the codex as our experience (PDFs reproduce dead-tree books)
->
-> Why is is a pain to find and share books across devices (without getting locked in to one ecosystem (kindle))
->
-> Why is it such a pain to get texts in a form that you can copy, annotate etc (i.e. structured plain text)
+Document current and planned official inquiries tech architecture
 
-> Why aren't texts "unified" - that is interlinked (one footnote links to exact right page in the referenced book)
+## Bigger story
 
-What do we want in "open text" projects, why has no one built it, and how would you build it?
+Motivation:
+ 
+1. Why is the Arden Shakespeare still produced as a dead-tree or PDF experience
+2. Why are we still living with the codex as our experience (PDFs reproduce dead-tree books)
+3. Why is is a pain to find and share books across devices (without getting locked in to one ecosystem (kindle))
+4. Why is it such a pain to get texts in a form that you can copy, annotate etc (i.e. structured plain text)
+5. Why aren't texts "unified" - that is interlinked (one footnote links to exact right page in the referenced book)
 
-What is an "open text" project?
+**Summary: What do we want in "open text" projects, why has no one built it, and how would you build it?**
+
+### FAQs
+
+**What is an "open text" project?**
 
 Text = cultural artefact, fixed texts -- i.e. published and fixed.
 
@@ -47,19 +48,25 @@ Not:
 * Blogs
 * Ephemera
 
-*Aside: analogy with building a really great interface to a catalog of any other artefacts e.g. building museum interfaces*
-
-=> about features
+**What does that imply about features?**
 
 * Texts are fixed
   * No need for CMS style features, for an ordinary text editor
 * Size - texts are large
-* Context - cultural context and making connections will be important
+* Context - cultural connext and making connections will be important
   * Want to enrich the text with (authoritative) commentary
 
-Open: texts are open -- anyone can access (also focus on this to avoid all the (c) problems that are the cause of all the DRM'ing restrictions etc)
+**Why open texts?**
 
-Plan
+The platform is actually suitable for any text -- open or closed. However, we focus on open texts (as per http://opendefinition.org/). Why?
+
+Open texts are open -- anyone can access which means we can do things (e.g. extract plain text and publish) and support features (e.g. interlinking) that are otherwise hard. We can also avoid all the (c) problems that are the cause of all the DRM'ing restrictions etc which require us to then a) spend most of our energy on rights clearance b) building features (like DRM) that users don't want.
+
+**Are there commonalities with building interfaces to other cultural artefacts?**
+
+Yes, there are analogies with building a really great interface to a catalog of any other artefacts e.g. building museum interfaces. However, the focus on text is important (though a text archive may need to support images e.g. from scanning)
+
+### Plan
 
 * [ ] Inventory Rufus / OK's existing work
   * [ ] Inventory other efforts (?)
@@ -71,13 +78,15 @@ Plan
   * [ ] (c) as a blocker (Dreams of a Unified Text)
 * [ ] Create architecture of the "perfect text systems"
 
-## Official Inquiries
 
-> *We summed it pretty well here* (this was my 5th/6th iteration :wink:) Excerpt here. Then link into other projects*
+# Official Inquiries
 
-> Microcosm to macrocosm: official inquires => open texts projects (open literature)
+*We summed it pretty well here -- (this was my 5th/6th iteration :wink:) Excerpt here. Then link into other projects*
 
-## The Vision and The Question
+Microcosm to macrocosm: official inquires => open texts projects (open literature)
+
+
+# Frictionless Texts: The Vision and The Question
 
 How could we build awesome online presentation of texts that takes full advantage of the power of hypertext and digital technology. In particular:
 
@@ -94,6 +103,8 @@ Can't we use digital technology to do better?
 
 * Licklider - http://worrydream.com/refs/Licklider%20-%20Libraries%20of%20the%20Future.pdf
 
+### Previous Work
+
 Ideas
 
 * Dreams of a Unified Text - https://blog.okfn.org/2012/01/24/dreams-of-a-unified-text/
@@ -101,8 +112,7 @@ Ideas
 * Annotator: doing annotation of online texts collaboratively. 2007-2011
 * OpenPhilosophy / OpenLiterature
 
-
-Example past projects
+Past projects
 
 * openshakespeare.org
   * openmilton.org
@@ -117,14 +127,24 @@ Example past projects
 ## Official Inquiries Tech Architecture
 
 ```mermaid
-graph LR
+graph TD
 
-  text[PDF] --processor--> b[Markdown]
-  b --> c
-  c --> d
-  d --> text
+pdf[PDF]
+raw[Raw Plain Text]
+mark[Markdown]
+meta["Metadata<br/><br/>(datapackage.json)"]
+textpkg[Text Package]
+
+pdf --extract/ocr--> raw
+raw --proof editing--> mark
+mark --> textpkg
+meta --> textpkg
+textpkg --static text generator--> web[Website]
 ```
 
+Notes:
+
+* Store everything in git repos -- one report per repo
 
 ## Sketches
 
