@@ -3,7 +3,7 @@ title: About
 description: Rufus Pollock bio and headshots
 ---
 
-<article class="type-system-rounded">
+<article>
 
   <p>
   Dr Rufus Pollock is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. He is an Ashoka Fellow, a Fellow of the RSA, a recipient of a three year $1m Shuttleworth Foundation Fellowship, the Mead Fellowship in Economics at Emmanuel College, University of Cambridge and has advised national governments, IGOs, companies and NGOs extensively on openness and technology. <b>More below</b>

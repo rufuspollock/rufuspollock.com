@@ -8,7 +8,7 @@
                   <section class="other-pages">
                     <h1>{{ .Title }}</h1>
                     {{ .Content | markdownify }}
-                    <article class="type-system-rounded">
+                    <article>
                       <section class="news">
                         {{ range first 5 (where .Site.Pages "Section" "post") }}
                         <div class="single-news">

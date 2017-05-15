@@ -10,7 +10,7 @@
                     <h1>{{ .Title }}</h1>
                     {{ .Content }}
                     {{ if eq .Params.news true }}
-                    <article class="type-system-rounded">
+                    <article>
                       <section class="news">
                         {{ range where .Site.Pages "Section" "post" }}
                         <div class="single-news">
