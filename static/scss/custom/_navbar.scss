@@ -76,6 +76,7 @@ header.navigation {
   ul.submenu {
     left: 0;
     li {
+      margin-bottom: -3px;
       @include media($horizontal-bar-mode) {
         line-height: $navigation-height / 1.6;
       }

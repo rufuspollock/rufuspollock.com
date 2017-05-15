@@ -3520,7 +3520,8 @@ html {
 
 body {
   font-family: "Lato", sans-serif;
-  text-align: left; }
+  text-align: left;
+  -webkit-font-smoothing: auto; }
   body::after {
     clear: both;
     content: "";
@@ -3531,11 +3532,12 @@ body {
   body p {
     margin: 0; }
   body hr {
-    border-bottom: 1px solid #FAFAFA;
+    border-bottom: 1px solid #ddd;
     border-left: 0;
     border-right: 0;
     border-top: 0;
-    margin: 1.5em 0; }
+    margin: 1.5em 0;
+    width: 100%; }
   body p {
     color: #333;
     line-height: 1.5; }
@@ -3560,7 +3562,7 @@ body {
     margin-bottom: 0.6em; }
     @media screen and (min-width: 40em) {
       body h1 {
-        font-size: 2.4em; } }
+        font-size: 2.2em; } }
   body h2 {
     font-family: "Lato", sans-serif;
     font-size: 1.2em;
@@ -3587,22 +3589,27 @@ body {
     margin-bottom: 0.5em;
     text-transform: uppercase; }
   body p.date {
-    color: rgba(51, 51, 51, 0.4);
+    color: #333;
     font-family: "Lato", sans-serif;
-    font-size: 0.8em;
+    font-size: 1em;
     margin-bottom: 0.5em; }
   body p {
+    margin-bottom: 1.5em; }
+  body p,
+  body ul li,
+  body ol li {
+    font-size: 18px;
     font-family: "Lato", sans-serif;
     font-weight: 300;
     letter-spacing: 1;
-    margin-bottom: 1.5em; }
-    body p span {
+    line-height: 1.625; }
+    body p span,
+    body ul li span,
+    body ol li span {
       font-family: "Lato", sans-serif;
       font-size: 0.95em;
       font-weight: 600;
       text-transform: uppercase; }
-  body hr {
-    width: 3em; }
   body a.read-more {
     display: inline-block;
     font-family: "Lato", sans-serif;
@@ -3619,6 +3626,17 @@ body {
   body p.author {
     font-family: "Lato", sans-serif;
     font-style: italic; }
+  body blockquote {
+    margin: 40px;
+    font-style: italic; }
+  body blockquote::before {
+    content: "\201C";
+    display: block;
+    font-size: 25px;
+    height: 0;
+    left: -20px;
+    position: relative;
+    top: -10px; }
 
 body h2 {
   font-size: 1.6em;
@@ -3919,16 +3937,18 @@ header.navigation li.more > a::after {
   font-size: 0.8em; }
 header.navigation ul.submenu {
   left: 0; }
-  @media screen and (min-width: 53.75em) {
-    header.navigation ul.submenu li {
-      line-height: 37.5px; } }
-  header.navigation ul.submenu li a {
-    line-height: 40px;
-    text-align: left;
-    font-size: 12px; }
+  header.navigation ul.submenu li {
+    margin-bottom: -3px; }
     @media screen and (min-width: 53.75em) {
-      header.navigation ul.submenu li a {
-        width: 20.4em; } }
+      header.navigation ul.submenu li {
+        line-height: 37.5px; } }
+    header.navigation ul.submenu li a {
+      line-height: 40px;
+      text-align: left;
+      font-size: 12px; }
+      @media screen and (min-width: 53.75em) {
+        header.navigation ul.submenu li a {
+          width: 20.4em; } }
 
 @media screen and (min-width: 53.75em) {
   .navbar-margin {

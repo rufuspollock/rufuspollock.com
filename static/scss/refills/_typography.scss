@@ -1,5 +1,5 @@
 body {
-  $base-border-radius: 3px !default;
+  $base-border-radius: 0 !default;
   $base-line-height: 1.5em !default;
   $base-spacing: 1.5em !default;
   $action-color: #477dca !default;
@@ -13,6 +13,7 @@ body {
   @include clearfix;
   font-family: $sans-serif;
   text-align: left;
+  -webkit-font-smoothing: auto;
 
   h1,
   h2,
@@ -22,11 +23,12 @@ body {
   }
 
   hr {
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid #ddd;
     border-left: 0;
     border-right: 0;
     border-top: 0;
     margin: $base-spacing 0;
+    width: 100%;
   }
 
   p {
@@ -59,7 +61,7 @@ body {
     margin-bottom: 0.6em;
 
     @include media($medium-screen) {
-      font-size: 2.4em;
+      font-size: 2.2em;
     }
   }
 
@@ -96,17 +98,23 @@ body {
   }
 
   p.date {
-    color: transparentize($base-font-color, 0.6);
+    color: $base-font-color;
     font-family: $sans-serif;
-    font-size: 0.8em;
+    font-size: 1em;
     margin-bottom: 0.5em;
   }
-
   p {
+    margin-bottom: 1.5em;
+  }
+
+  p,
+  ul li,
+  ol li {
+    font-size: 18px;
     font-family: $sans-serif;
     font-weight: 300;
     letter-spacing: 1;
-    margin-bottom: 1.5em;
+    line-height: 1.625;
 
     span {
       font-family: $sans-serif;
@@ -114,10 +122,6 @@ body {
       font-weight: 600;
       text-transform: uppercase;
     }
-  }
-
-  hr {
-    width: 3em;
   }
 
   a.read-more {
@@ -140,5 +144,20 @@ body {
   p.author {
     font-family: $sans-serif;
     font-style: italic;
+  }
+
+  blockquote {
+    margin: 40px;
+    font-style: italic;
+  }
+
+  blockquote::before {
+  	content: "\201C";
+  	display: block;
+  	font-size: 25px;
+  	height: 0;
+  	left: -20px;
+  	position: relative;
+  	top: -10px;
   }
 }
