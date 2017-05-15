@@ -9,7 +9,7 @@ description: Rufus Pollock bio and headshots
   Dr Rufus Pollock is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. He is an Ashoka Fellow, a Fellow of the RSA, a recipient of a three year $1m Shuttleworth Foundation Fellowship, the Mead Fellowship in Economics at Emmanuel College, University of Cambridge and has advised national governments, IGOs, companies and NGOs extensively on openness and technology. <b>More below</b>
   </p>
 
-  <div>
+  <div class="img-holder">
     <img src="/images/Rufus_Pollock_square.jpeg"/>
     <a href="/images/rufuspollock-high-res.jpg" >Click through for higher-res versions.</a>
   </div>
@@ -26,10 +26,10 @@ description: Rufus Pollock bio and headshots
   Open Knowledge has established itself as the leading global organization working on open data and open knowledge around the world. Today it has groups in more than 40 countries, more than a two dozen active projects and more than a dozen working groups. The organization has worked extensively on almost every area of open knowledge and performed almost every kind of activity: developing standards and licenses (e.g. OpenDefinition.org, Open Data Commons), organizing workshops and conferences (e.g. the annual Open Knowledge Festival and Conference), supplying tools and infrastructure (e.g. CKAN data management software, used by data.gov.uk and many others), and building services and websites (e.g. Where Does My Money Go?, Open Shakespeare).
   </p>
 
-
-  <img src="/images/19933597778_bc072d208f.jpg"/><br />
-  <a href="/images/rufuspollock-high-res02.jpg" >Click through for higher-res versions.</a>
-
+  <div class="img-holder">
+    <img src="/images/19933597778_bc072d208f.jpg"/><br />
+    <a href="/images/rufuspollock-high-res02.jpg" >Click through for higher-res versions.</a>
+  </div>
 
   <p>
   In parallel with his activities as Founder and CEO Open Knowledge, he has also worked as an academic economist: in 2008 he obtained a PhD in Economics from the University of Cambridge and from 2007 to 2010 he was the Mead Fellow in Economics at Emmanuel College, University of Cambridge and he remains an Associate of the Centre for Intellectual Property and Information Law at the University.
@@ -42,8 +42,9 @@ description: Rufus Pollock bio and headshots
   <p>
   Other activities include: co-founding the Open Rights Group in 2005 and serving on its board until 2008; serving as director of the UK branch of the Foundation for a Free Information Infrastructure from 2004-2006 during the crucial vote on the software patents directive, and as policy adviser to Creative Commons UK from 2003-2007.
   </p>
-  <img src="/images/6.jpg"/>
-
+  <div class="img-holder">
+    <img src="/images/6.jpg"/>
+  </div>
   <h2>Research in Economics</h2>
 
   <p>
@@ -62,8 +63,8 @@ description: Rufus Pollock bio and headshots
 
 </article>
 
+<h2>Fellow</h2>
 <ul class="logo-section">
-  <h2>Fellow</h2>
   <li><img src="/images/ashoka_image_india.jpg" class="wider-logo"/></li>
   <li><img src="/images/RSA-logo.png" class="square-logo"/></li>
   <li><img src="/images/shuttleworth.jpg" class="wider-logo"/></li>

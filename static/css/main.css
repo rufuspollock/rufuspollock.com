@@ -3528,8 +3528,7 @@ body {
     display: table; }
   body h1,
   body h2,
-  body h3,
-  body p {
+  body h3 {
     margin: 0; }
   body hr {
     border-bottom: 1px solid #ddd;
@@ -3542,8 +3541,14 @@ body {
     color: #333;
     line-height: 1.5; }
   body a {
-    color: black;
+    color: #333;
     text-decoration: none; }
+  body a:hover {
+    text-decoration: underline; }
+  body article p a, body article div a {
+    border-bottom: 1px solid #ddd; }
+  body article p a:hover, body article div a:hover {
+    border-bottom: 0; }
   body .type {
     border-bottom: 1px solid;
     display: inline-block;
@@ -3557,21 +3562,16 @@ body {
     text-transform: uppercase; }
   body h1 {
     font-family: "Lato", sans-serif;
-    font-size: 2em;
-    font-weight: 600;
-    margin-bottom: 0.6em; }
-    @media screen and (min-width: 40em) {
-      body h1 {
-        font-size: 2.2em; } }
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0 0 20px; }
   body h2 {
     font-family: "Lato", sans-serif;
-    font-size: 1.2em;
+    font-size: 28px;
     font-weight: 400;
     line-height: 1.4em;
     margin-bottom: 1.2em; }
-    @media screen and (min-width: 40em) {
-      body h2 {
-        font-size: 1.4em; } }
   body code {
     background: #f7f7f7;
     border-radius: 4.5px;
@@ -3591,14 +3591,18 @@ body {
   body p.date {
     color: #333;
     font-family: "Lato", sans-serif;
-    font-size: 1em;
-    margin-bottom: 0.5em; }
+    font-size: 12px;
+    font-weight: 400;
+    margin: -10px 0 24px 0; }
   body p {
-    margin-bottom: 1.5em; }
+    margin: 0 0 30px;
+    padding: 0; }
+  body ul, body ol {
+    margin-bottom: 30px; }
   body p,
   body ul li,
   body ol li {
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Lato", sans-serif;
     font-weight: 300;
     letter-spacing: 1;
@@ -3637,22 +3641,6 @@ body {
     left: -20px;
     position: relative;
     top: -10px; }
-
-body h2 {
-  font-size: 1.6em;
-  font-weight: 500; }
-body p, body a {
-  font-size: 18px;
-  color: #333;
-  line-height: 1.625; }
-body a {
-  color: #0FB3FF; }
-body a:visited {
-  color: #0084c2; }
-body a:hover {
-  text-decoration: underline; }
-body ul, body ol {
-  margin-bottom: 2em; }
 
 .content-wrapper {
   min-height: calc(100vh - 4.8em); }
@@ -4519,14 +4507,7 @@ div.toc {
     width: 100%; }
 
 section.other-pages {
-  max-width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 3em; }
-  section.other-pages::after {
-    clear: both;
-    content: "";
-    display: table; }
+  padding: 10% 20%; }
   section.other-pages .logo-section {
     display: flex;
     flex-wrap: wrap;
@@ -4542,15 +4523,13 @@ section.other-pages {
         max-width: 10em; }
       section.other-pages .logo-section li .wider-logo {
         max-width: 15em; }
-  @media screen and (min-width: 53.75em) {
-    section.other-pages {
-      max-width: 700px; } }
   section.other-pages .news .single-news {
     padding: 2em 2.5em 2em 2em;
     margin: 0 0 1em 0;
     border: 1px solid #e4e4e4; }
-  section.other-pages .post-single {
-    max-width: 700px; }
+  section.other-pages div.img-holder {
+    text-align: center;
+    margin-bottom: 20px; }
   section.other-pages form > input, section.other-pages form > textarea {
     border-radius: 0; }
   section.other-pages input[type="submit"] {
