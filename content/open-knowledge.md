@@ -8,8 +8,6 @@ wordpress:
   - page_id: 61
 ---
 
-{{< toc >}}
-
 ## Random Thoughts and Random Links
 
 ### Macauley on Patent Extensions
@@ -37,15 +35,15 @@ Taken from Merges and Nelson 1990: Complex Econ of Patent Scope n.141:
 A brief summary of economic reasons why open source works, i.e. why it manages to, at least partially, overcome the provision of public good problem (why doesn't everyone free ride and none of the good gets provided)
 
   * humans do not engage in many activities solely because of financial reward. Much of open source software is produced by people in their spare time because they enjoy 'hacking' and creating things. There is also the important status system that rewards good work. (Note that these points hold a fortiori for many intellectual and academic endeavours.)
-  
+
   * institutions exist that can provide funding for 'public' good projects. In particular most governments are very significant purchasers of software and can support open source in its role as a public good
-  
+
   * Complementarity between software and services. In software product and services (installation, maintenance, upgrades, customization etc) often go together. Frequently the services are more valuable, and costly, than the actual product. Thus it often makes senses to open source the product and make money on the consulting.
-  
+
   * Improved quality of open source software (see below)
-  
+
   * less lock-in for customers, fewer overheads and more flexibility (you can always fork)
-  
+
   * ability to solve the 'commons problem' with respect to a public good. In case of software (also holds for knowledge) often have the very useful property that system can be improved very incrementally (bugfixes, plugins). This means, /purely on a selfish basis/ the cost of an improvement may be less than benefit for an /individual/ user and hence they will make that improvement. But then of course the rest of the community gets that fix for free exploiting the non-rival nature of information goods.
 
 ## Biblio
@@ -71,7 +69,7 @@ A brief summary of economic reasons why open source works, i.e. why it manages t
 
   * Google for: book publishing statistics
   * http://parapub.com/statistics/
-  * Author's Guild Report (supported by OSI) (2000): http://www.authorsguild.org/miscfiles/midlist.pdf 
+  * Author's Guild Report (supported by OSI) (2000): http://www.authorsguild.org/miscfiles/midlist.pdf
     * Very good with a lot of stats (though spread throughout text) however '''no sources''' explicitly referenced
     * p. 41: stats on distribution of sales across books
       * sales break down into front-list (in stock less than a year) and back-list (the rest).
@@ -84,4 +82,3 @@ A brief summary of economic reasons why open source works, i.e. why it manages t
   * nielsen bookscan:
    * can get very basic data from the Bookseller yearbook
    * their own data they don't give out even for academic use (and apparently the whole database would cost a 'seven figure sum' for 'technical reasons' (it is so complex to run the sql queries apparently)
-
