@@ -3675,7 +3675,7 @@ header.navigation {
     padding-right: 1em;
     text-decoration: none;
     text-transform: uppercase; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation .navigation-menu-button {
         display: none; } }
     header.navigation .navigation-menu-button:focus, header.navigation .navigation-menu-button:hover {
@@ -3684,7 +3684,7 @@ header.navigation {
     float: none;
     min-height: 60px;
     z-index: 9999999; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation nav {
         float: left; } }
   header.navigation ul.navigation-menu {
@@ -3697,7 +3697,7 @@ header.navigation {
     z-index: 9999; }
     header.navigation ul.navigation-menu.show {
       display: block; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.navigation-menu {
         display: inline;
         margin: 0;
@@ -3711,7 +3711,7 @@ header.navigation {
     text-align: right;
     width: 100%;
     z-index: 9999; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul li.nav-link {
         background: transparent;
         display: inline;
@@ -3722,7 +3722,7 @@ header.navigation {
       color: rgba(0, 0, 0, 0.7);
       display: inline-block;
       text-decoration: none; }
-      @media screen and (min-width: 53.75em) {
+      @media screen and (min-width: 1032px) {
         header.navigation ul li.nav-link a {
           padding-right: 1em; } }
       header.navigation ul li.nav-link a:focus, header.navigation ul li.nav-link a:hover {
@@ -3732,7 +3732,7 @@ header.navigation {
     padding-bottom: 3px; }
   header.navigation li.more.nav-link {
     padding-right: 0; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation li.more.nav-link {
         padding-right: 1em; } }
     header.navigation li.more.nav-link > ul > li:first-child a {
@@ -3757,7 +3757,7 @@ header.navigation {
     header.navigation li.more > a {
       padding-right: 1.6em;
       position: relative; }
-      @media screen and (min-width: 53.75em) {
+      @media screen and (min-width: 1032px) {
         header.navigation li.more > a {
           margin-right: 1em; } }
       header.navigation li.more > a::after {
@@ -3767,34 +3767,34 @@ header.navigation {
         right: 0.5em; }
     header.navigation li.more:focus > .submenu, header.navigation li.more:hover > .submenu {
       display: block; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation li.more {
         padding-right: 0.8em;
         position: relative; } }
   header.navigation ul.submenu {
     display: none;
     padding-left: 0; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.submenu {
         left: -1em;
         position: absolute;
         top: 1.5em; } }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.submenu .submenu.fly-out-right {
         left: 11.8em;
         top: 0; } }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.submenu .submenu.fly-out-left {
         left: -11.8em;
         top: 0; } }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.submenu .submenu {
         left: 11.8em;
         top: 0; } }
     header.navigation ul.submenu li {
       display: block;
       padding-right: 0; }
-      @media screen and (min-width: 53.75em) {
+      @media screen and (min-width: 1032px) {
         header.navigation ul.submenu li {
           line-height: 46.15385px; }
           header.navigation ul.submenu li:first-child > a {
@@ -3809,7 +3809,7 @@ header.navigation {
         display: inline-block;
         text-align: right;
         width: 100%; }
-        @media screen and (min-width: 53.75em) {
+        @media screen and (min-width: 1032px) {
           header.navigation ul.submenu li a {
             background-color: #fff;
             padding-left: 1em;
@@ -3820,7 +3820,7 @@ header.navigation {
     clear: both;
     display: block;
     height: 60px; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation .navigation-tools {
         background: transparent;
         clear: none;
@@ -3842,7 +3842,7 @@ header.navigation {
         margin: 0;
         padding: 0.5em 0.8em;
         width: 100%; }
-        @media screen and (min-width: 53.75em) {
+        @media screen and (min-width: 1032px) {
           header.navigation .search-bar form input[type=search] {
             width: 100%; } }
       header.navigation .search-bar form button[type=submit], header.navigation .search-bar form a[type=submit].button {
@@ -3859,7 +3859,7 @@ header.navigation {
           height: 12px;
           opacity: 0.7;
           padding: 1px; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation .search-bar {
         display: inline-block;
         position: relative;
@@ -3878,7 +3878,7 @@ header.navigation .navigation-wrapper {
     display: table; }
 header.navigation nav {
   min-height: 30px; }
-@media screen and (min-width: 53.75em) {
+@media screen and (min-width: 1032px) {
   header.navigation {
     position: fixed;
     top: 0; }
@@ -3896,7 +3896,7 @@ header.navigation a.logo {
   margin: auto;
   text-align: center;
   padding: 0 1.5em; }
-  @media screen and (min-width: 53.75em) {
+  @media screen and (min-width: 1032px) {
     header.navigation a.logo {
       width: auto;
       margin: 0;
@@ -3910,7 +3910,7 @@ header.navigation a.navigation-menu-button {
 header.navigation ul li.nav-link {
   text-align: left;
   padding-left: 0.8em; }
-  @media screen and (min-width: 53.75em) {
+  @media screen and (min-width: 1032px) {
     header.navigation ul li.nav-link {
       padding-left: 0;
       text-align: right; } }
@@ -3927,18 +3927,18 @@ header.navigation ul.submenu {
   left: 0; }
   header.navigation ul.submenu li {
     margin-bottom: -3px; }
-    @media screen and (min-width: 53.75em) {
+    @media screen and (min-width: 1032px) {
       header.navigation ul.submenu li {
         line-height: 37.5px; } }
     header.navigation ul.submenu li a {
       line-height: 40px;
       text-align: left;
       font-size: 12px; }
-      @media screen and (min-width: 53.75em) {
+      @media screen and (min-width: 1032px) {
         header.navigation ul.submenu li a {
           width: 20.4em; } }
 
-@media screen and (min-width: 53.75em) {
+@media screen and (min-width: 1032px) {
   .navbar-margin {
     margin-bottom: 62px; } }
 
