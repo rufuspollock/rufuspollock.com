@@ -2,7 +2,7 @@
 // navigation
 @import "refills/navigation";
 header.navigation {
-  $navigation-height: 60px;
+  $navigation-height: 77px;
   $horizontal-bar-mode: 1032px;
   $navigation-submenu-width: 12em;
   $container: 90%;
@@ -17,7 +17,7 @@ header.navigation {
     position: fixed;
     top: 0;
     nav {
-      min-height: 60px;
+      min-height: $navigation-height;
       float: right;
     }
   }
@@ -28,7 +28,7 @@ header.navigation {
     text-decoration: none;
     font-weight: 400;
     letter-spacing: 1px;
-    line-height: 60px;
+    line-height: $navigation-height;
     width: 100%;
     margin: auto;
     text-align: center;
@@ -58,7 +58,7 @@ header.navigation {
   }
 
   li a {
-    line-height: 60px;
+    line-height: $navigation-height;
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 1px;
