@@ -3926,7 +3926,7 @@ header.navigation li.more > a::after {
 header.navigation ul.submenu {
   left: 0; }
   header.navigation ul.submenu li {
-    margin-bottom: -3px; }
+    margin-bottom: -8px; }
     @media screen and (min-width: 1032px) {
       header.navigation ul.submenu li {
         line-height: 48.125px; } }
