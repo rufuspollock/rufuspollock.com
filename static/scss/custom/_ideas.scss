@@ -181,6 +181,9 @@
       }
     }
     .event-content {
+      @include media($large-screen) {
+        padding-right: 3%;
+      }
       width: 100%;
     }
   }

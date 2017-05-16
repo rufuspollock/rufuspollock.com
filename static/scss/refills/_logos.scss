@@ -4,11 +4,13 @@
   justify-content: left;
 
   li {
-    align-self: center;
     list-style: none;
-    padding: 2em;
-    text-align: center;
-
+    padding: 1.5em 0;
+    @include media($large-screen) {
+      padding: 2em;
+      text-align: center;
+      align-self: center;
+    }
     .square-logo {
       max-height: 5em;
     }

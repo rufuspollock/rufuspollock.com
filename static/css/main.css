@@ -4113,10 +4113,13 @@ div.toc {
     flex-wrap: wrap;
     justify-content: left; }
     .home-template .fellow .logo-section li {
-      align-self: center;
       list-style: none;
-      padding: 2em;
-      text-align: center; }
+      padding: 1.5em 0; }
+      @media screen and (min-width: 53.75em) {
+        .home-template .fellow .logo-section li {
+          padding: 2em;
+          text-align: center;
+          align-self: center; } }
       .home-template .fellow .logo-section li .square-logo {
         max-height: 5em; }
       .home-template .fellow .logo-section li .wide-logo {
@@ -4341,10 +4344,13 @@ div.toc {
   flex-wrap: wrap;
   justify-content: left; }
   .themes-section .logo-section li {
-    align-self: center;
     list-style: none;
-    padding: 2em;
-    text-align: center; }
+    padding: 1.5em 0; }
+    @media screen and (min-width: 53.75em) {
+      .themes-section .logo-section li {
+        padding: 2em;
+        text-align: center;
+        align-self: center; } }
     .themes-section .logo-section li .square-logo {
       max-height: 5em; }
     .themes-section .logo-section li .wide-logo {
@@ -4503,6 +4509,9 @@ div.toc {
       width: 25em; }
   .themes-section .event .event-content {
     width: 100%; }
+    @media screen and (min-width: 53.75em) {
+      .themes-section .event .event-content {
+        padding-right: 3%; } }
 
 section.other-pages {
   padding: 10% 5%; }
@@ -4511,10 +4520,13 @@ section.other-pages {
     flex-wrap: wrap;
     justify-content: left; }
     section.other-pages .logo-section li {
-      align-self: center;
       list-style: none;
-      padding: 2em;
-      text-align: center; }
+      padding: 1.5em 0; }
+      @media screen and (min-width: 53.75em) {
+        section.other-pages .logo-section li {
+          padding: 2em;
+          text-align: center;
+          align-self: center; } }
       section.other-pages .logo-section li .square-logo {
         max-height: 5em; }
       section.other-pages .logo-section li .wide-logo {
