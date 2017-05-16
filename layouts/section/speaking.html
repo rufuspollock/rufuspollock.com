@@ -38,18 +38,26 @@
                       {{ range where .Site.Pages "Params.themes" "intersect" $theme }}
                       {{ $date := time .Params.eventdate }}
                       {{ if ge $date.Unix .Now.Unix }}
+                      {{ $.Scratch.Set "event" true }}
                       <div class="event">
                         <div class="event-content">
                           <h3>{{ .Params.venue }}</h3>
-                          <p class="date"><i class="icon ion-calendar"></i> {{ $date.Format "2 January 2006" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon ion-location"></i> {{ .Params.location }}</p>
-                          <p><a href="{{ .Params.link }}" target="_blank">more about venue</a></p>
-                          <p>{{ .Content }}</p>
+                          <p class="date">
+                            <i class="icon ion-calendar"></i> {{ $date.Format "2 January 2006" }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="icon ion-location"></i> {{ .Params.location }}
+                            <br>
+                            <a href="{{ .Params.link }}" target="_blank">more about venue</a>
+                          </p>
+                          <p>{{ .Summary }}</p>
+                          <a href="{{ .Permalink }}">Read full post <span>&rsaquo;</span></a>
                         </div>
                         <div class="event-image">
                           <img src="{{ with .Params.image }}{{ $.Site.BaseURL }}images/{{ . }}{{ else }}../images/pen.png{{ end }}">
                         </div>
                       </div>
                       {{ end }}
+                      {{ end }}
+                      {{ if ne ($.Scratch.Get "event") true }}
+                        <p>No upcoming events.<p>
                       {{ end }}
                     </section>
 

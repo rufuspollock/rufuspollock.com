@@ -1,6 +1,9 @@
 section.other-pages {
   @import "refills/logos.scss";
-  padding: 10% 20%;
+  padding: 10% 5%;
+  @include media($large-screen) {
+    padding: 10% 20%;
+  }
   .news {
     .single-news {
       padding: 2em 2.5em 2em 2em;

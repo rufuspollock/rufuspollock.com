@@ -4388,8 +4388,6 @@ div.toc {
           width: 50%;
           max-width: 30em;
           text-align: left; } }
-      .themes-section .newhero .hero-body .hero-content p {
-        font-weight: normal; }
       .themes-section .newhero .hero-body .hero-content a {
         margin: 1.35em 0.5em 0 0;
         border-radius: 0;
@@ -4507,7 +4505,7 @@ div.toc {
     width: 100%; }
 
 section.other-pages {
-  padding: 10% 20%; }
+  padding: 10% 5%; }
   section.other-pages .logo-section {
     display: flex;
     flex-wrap: wrap;
@@ -4523,6 +4521,9 @@ section.other-pages {
         max-width: 10em; }
       section.other-pages .logo-section li .wider-logo {
         max-width: 15em; }
+  @media screen and (min-width: 53.75em) {
+    section.other-pages {
+      padding: 10% 20%; } }
   section.other-pages .news .single-news {
     padding: 2em 2.5em 2em 2em;
     margin: 0 0 1em 0;
