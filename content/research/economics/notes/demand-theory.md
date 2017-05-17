@@ -75,14 +75,14 @@ wordpress:
  </li>
 
  <li>
-     $e_{ij}$ are the cross-price elasticities of demand (if $i = j$ then this is the own-price elasticity). Defined as: $ e_{ij} = \partial \log( g_{i}(w,p)) / \partial \log p_{j} \] $
+     $e_{ij}$ are the cross-price elasticities of demand (if $i = j$ then this is the own-price elasticity). Defined as: $ e_{ij} = \partial \log( g_{i}(w,p)) / \partial \log p_{j} $
  </li>
 </ol>
 
 <h2>The Basic Properties of Demand Functions</h2>
 <p>We shall assume a linear budget constraint.<sup id="fnr1-469267910"><a href="#fn1-469267910">1</a></sup> That is:<sup id="fnr2-469267910"><a href="#fn2-469267910">2</a></sup>
 </p>
-<p>$ \[ w = \sum_{k} p_{k}q_{k} \] $
+<p>$ w = \sum_{k} p_{k}q_{k} $
 </p>
 
 <h3>Restrictions on the Demand Function: The Big Four</h3>
@@ -126,17 +126,17 @@ wordpress:
 <ol>
  <li><p>Roy's Identity: This allows us to relate the Marshallian demand functions to the indirect utility function:
 </p>
-<p> $ \[ \frac{\partial v / \partial p_{i}} {\partial v / \partial w } = g_{i}(u,p) \] $
+<p> $ \frac{\partial v / \partial p_{i}} {\partial v / \partial w } = g_{i}(u,p) $
 </p>
 
  </li>
 
  <li><p>Slutsky equation:
 </p>
-<p> $$ \[
+<p> $$
     s_{ij} = \frac{\partial h_{i}} {\partial p_{j}} = \frac{\partial g_{i}} {\partial p_{j}}
            + \frac{\partial g_{i}} {\partial w} g_{j}
-    \] $$
+    $$
 </p>
 
  </li>

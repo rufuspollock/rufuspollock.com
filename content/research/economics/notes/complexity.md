@@ -85,7 +85,7 @@ The N-k model originated as the formalization of a basic evolutionary fitness id
 
 The characteristics of the object is an $N$ length bit string $b$ (i.e. $b\_{i} \\in \\{0,1\\}$). First assign a (real-valued) fitness contribution $f\_{i}$ to the ith ith bit $b\_{i}$. Each such assignment is a function *not just* of $b\_{i}$ but of its $0 \\leq k < N$ other bits called its 'neighbours'. The fitness contribution is a random function of the substring $s\_{i}$ consisting of $b\_{i}$ and its $k$ neighbours. Specifically $f\_{i}(s\_{i})$ is random draw from such distribution $p(x)$ (e.g. uniform of Gaussians). Note that this distribution though random is usually calculated once-and-for-all at the start to give a deterministic function $f\_{i}$ defined over the $2^{k+1}$ values that $s\_{i}$ can take. Total fitness is then defined as:
 
-$$ \\[ F(b) = \\frac{1}{N} \\sum\_{i}^{N} f\_{i}(s\_{i}) \\] $$
+$$ F(b) = \\frac{1}{N} \\sum\_{i}^{N} f\_{i}(s\_{i}) $$
 
 The final part of the model's specification involves defining how $s\_{i}$ relates to $b\_{i}$. The simplest approach is to choose the actual neighbours (with the sites arranged on a circle). Alternatively one could select randomly. Whatever the case one is generating a directed graph with the bit positions as node and edges to denote neighbours.
 
