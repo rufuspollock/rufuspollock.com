@@ -23,37 +23,37 @@ wordpress:
 
 ### The Size and Value of the Public Domain
 
-  * [The Size of the EU Public Domain](/economics/papers/size_of_the_public_domain_eu.pdf) (Autumn 2010)
+  * [The Size of the EU Public Domain](/papers/size_of_the_public_domain_eu.pdf) (Autumn 2010)
 
      > This paper reports results from a large recent study of the public domain in the European Union. Based on a combination of catalogue and survey data our figures for the number of items (and works) in the public domain extend across a variety of media and provide one of the first quantitative estimates of the 'size' of the public domain in any jurisdiction. We find that for books and recordings the public domain is around 10-20% of published extant output and would consist of millions and hundreds of thousands of items respectively. For films the figure is dramatically lower (almost zero). We also establish some interesting figures relevant to the orphan works debate such as the number of catalogue entries without any identified author (approximately 10%).
 
-  * [The Value of the EU Public Domain](/economics/papers/value_of_the_public_domain_eu.pdf)
+  * [The Value of the EU Public Domain](/papers/value_of_the_public_domain_eu.pdf)
 
      > This paper reports results from a large recent study of the public domain in the European Union. Based on a combination of catalogue, commercial and survey data we present detailed figures both on the prices (and price differences) of in copyright and public domain material and on the usage of that material.  Combined with the estimates for the size of the EU public domain presented in the companion paper our results allow us to provide the first quantitative estimate for the `value` of the public domain (i.e. welfare gains from its existence) in any jurisdiction. We also find clear, and statistically significant, differences between the prices of in-copyright and public-domain in the two areas which we have significant data: books and sounds recordings in the UK. Patterns of usage indicate a significant demand for public domain material but limitations of the data make it difficult to draw conclusions on the impact of entry into the public domain on demand.
- * [Summary Slides Covering Size and Value of the Public Domain](/economics/papers/size_and_value_of_the_public_domain_communia_talk_20100201.pdf) - Talk at COMMUNIA in Feb 2010
+ * [Summary Slides Covering Size and Value of the Public Domain](/papers/size_and_value_of_the_public_domain_communia_talk_20100201.pdf) - Talk at COMMUNIA in Feb 2010
   * [Announce Post](http://rufuspollock.org/2010/10/11/papers-on-the-size-and-value-of-eu-public-domain/)
   * [Posts related to this research and EU Public Domain (EUPD) Project](http://rufuspollock.org/tags/eupd/)
 
 ### The Dissemination of Scholarly Information: Old Approaches and New Possibilities
 
-[The Dissemination of Scholarly Information: Old Approaches and New Possibilities](papers/scholars_and_journals.pdf) (pdf) with Omar Al-Ubaydli
+[The Dissemination of Scholarly Information: Old Approaches and New Possibilities](/papers/scholars_and_journals.pdf) (pdf) with Omar Al-Ubaydli
 
   * July 2009
   * Current methods of disseminating scholarly information focus on the use of journals who retain exclusive rights in the material they publish. Using a simple model, this paper explores the technological reasons for this choice in the past, why it is no longer efficient and how it could be improved upon. (See [this post for a longer overview](/2009/07/20/the-dissemination-of-scholarly-information-journals-open-access-and-distributed-filtering/))
 
 ### The Economics of Public Sector Information (March 2009)
 
-[The Economics of Public Sector Information](papers/economics_of_psi.pdf) (pdf)
+[The Economics of Public Sector Information](/papers/economics_of_psi.pdf) (pdf)
 
-  * For those who want to keep things brief here's a [page summarizing the funding options for PSI](/economics/papers/psi-funding-options/)
+  * For those who want to keep things brief here's a [page summarizing the funding options for PSI](/papers/psi-funding-options/)
   * May 2008: [Slides from a presentation to European Commission](http://ec.europa.eu/information_society/policy/psi/docs/pdfs/minutes_psi_group_meetings/presentations/11th/pollock.pdf) on [Models of PSI Provision by Trading Funds paper](http://www.berr.gov.uk/files/file45136.pdf) (see below)
   * [Estimate of Gains from Opening Up Public Sector Information (Open Data) in the UK](http://rufuspollock.org/papers/psi_openness_gains.pdf)
 
 ### Forever Minus a Day? Theory and Empirics of Optimal Copyright Term
 
   * Last Updated: 2008-10 (created: 2008-01).
-  * Link: [Forever Minus a Day? Theory and Empirics of Optimal Copyright Term](papers/optimal_copyright_term.pdf) (pdf).
-  * Slides: [Slides from a talk at Stanford](papers/optimal_copyright_term_talk_stanford.pdf)
+  * Link: [Forever Minus a Day? Theory and Empirics of Optimal Copyright Term](/papers/optimal_copyright_term.pdf) (pdf).
+  * Slides: [Slides from a talk at Stanford](/papers/optimal_copyright_term_talk_stanford.pdf)
   * Comments: a *very* revised version of the second half of the original 'Forever Minus a Day' paper focused exclusively on copyright term.
 
 ### Models of Public Sector Information Provision via Trading Funds
@@ -65,13 +65,13 @@ wordpress:
 ### Optimal Copyright over Time: Technological Change and the Stock of Works
 
   * **Published**: 2007-12 in Review of Economic Research on Copyright Issues.
-  * Link: [Optimal Copyright over Time: Technological Change and the Stock of Works](papers/optimal_copyright_over_time.pdf) (pdf, local copy)
+  * Link: [Optimal Copyright over Time: Technological Change and the Stock of Works](/papers/optimal_copyright_over_time.pdf) (pdf, local copy)
   * Comments: a revised version of the first half of the original 'Forever Minus a Day' paper.
 
 ### The Economics of Knowledge: A Review of the Theoretical Literature
 
   * Last Updated: 2007-10 (created 2007-04).
-  * Link: [The Economics of Knowledge: A Review of the Theoretical Literature](papers/economics_of_knowledge_review.pdf)
+  * Link: [The Economics of Knowledge: A Review of the Theoretical Literature](/papers/economics_of_knowledge_review.pdf)
   * Abstract: A selective review of the existing theoretical literature related to the economics of knowledge with particular attention to intellectual property, especially in the form of patents.
 
 ### Forever Minus a Day? Some Theory and Empirics of Optimal Copyright
@@ -94,7 +94,7 @@ wordpress:
 
 ### Changing the Numbers: UK Directory Enquiries Deregulation and the Failure of Choice
 
-[Changing the Numbers: UK Directory Enquiries Deregulation and the Failure of Choice](/economics/papers/192_to_118.pdf) (pdf)
+[Changing the Numbers: UK Directory Enquiries Deregulation and the Failure of Choice](/papers/192_to_118.pdf) (pdf)
 
   * Last updated: January 2009 (Created: June 2008)
   * [Blog post with abstract](/2009/02/10/changing-the-numbers-uk-directory-enquiries-deregulation-and-the-failure-of-choice/)
@@ -104,7 +104,7 @@ wordpress:
   * Dec 2010: Published in Review of Network Economics as [Is Google the next Microsoft? Competition, Welfare and Regulation in Online Search ](http://www.bepress.com/rne/vol9/iss4/4/)
     * [Blog post](http://rufuspollock.org/2010/12/15/is-google-the-next-microsoft-competition-welfare-and-regulation-in-online-search-published/)
     * Created: 2008-04
-  * Local link: [Is Google the next Microsoft? Competition, Welfare and Regulation in Internet Search](papers/search_engines.pdf) (pdf)
+  * Local link: [Is Google the next Microsoft? Competition, Welfare and Regulation in Internet Search](/papers/search_engines.pdf) (pdf)
 
 ### The Control of Porting in Two-Sided Markets
 
@@ -117,7 +117,7 @@ wordpress:
 
 ### Theories of Contextual Judgement in Relation to Well-Being and Other Outcomes
 
-  * Dec 2008: [Theories of Contextual Judgement in Relation to Well-Being and Other Outcomes](/economics/papers/contextual_judgement.pdf)
+  * Dec 2008: [Theories of Contextual Judgement in Relation to Well-Being and Other Outcomes](/papers/contextual_judgement.pdf)
 
 
 ## Essays and early work
@@ -149,8 +149,8 @@ wordpress:
   * [Theories of Contextual Judgment](/economics/notes/theories-of-contextual-judgement/) - June 2008
   * [Notes on Complexity Models](/economics/notes/complexity/) - March 16 2008
   * [Experimental Games - Some Notes](/economics/notes/experimental-games/) - Feb 29 2008
-  * [Comments on "An Economic Model of Friendship: Homophily, Minorities and Segregation" by Currarini, Jackson and Pin (2007)](/economics/papers/comments_on_currarini_pin_jackson_2007.pdf) - Jan 2008
-  * [Innovation, Imitation and IP - Some Existing Literature](/economics/papers/innovation-imitation-and-ip-existing-literature/)
+  * [Comments on "An Economic Model of Friendship: Homophily, Minorities and Segregation" by Currarini, Jackson and Pin (2007)](/papers/comments_on_currarini_pin_jackson_2007.pdf) - Jan 2008
+  * [Innovation, Imitation and IP - Some Existing Literature](/papers/innovation-imitation-and-ip-existing-literature/)
   * [The 'New' Innovation Theory: Boldrin and Levine and Quah][24] ([markdown src][25]) - 2005-02 (updated 2005-10)
   * [Considering Corruption][19] - 2004-05
   * [Notes on the British Industrial Revolution (Index List)][26]
@@ -165,27 +165,27 @@ wordpress:
 
 [1]: http://www.mozilla.org/firefox/
 [2]: /copying/
-[3]: papers/optimal_copyright.pdf
-[4]: papers/optimal_copyright_talk.pdf
-[5]: papers/holdup_and_sampling.pdf
-[6]: papers/innovation_and_imitation.pdf
+[3]: /papers/optimal_copyright.pdf
+[4]: /papers/optimal_copyright_talk.pdf
+[5]: /papers/holdup_and_sampling.pdf
+[6]: /papers/innovation_and_imitation.pdf
 [7]: http://www.ippr.org/publicationsandreports/publication.asp?id=482
-[8]: papers/value_of_public_domain.ippr.pdf
-[9]: papers/value_of_the_public_domain.html
+[8]: /papers/value_of_public_domain.ippr.pdf
+[9]: /papers/value_of_the_public_domain.html
 [10]: p2p_summary.html
-[11]: papers/patents_and_ir.html
-[12]: papers/patents_and_ir.pdf
-[13]: papers/porting.pdf
-[14]: papers/porting-1.0.pdf
-[15]: papers/networks_and_microsoft.pdf
-[16]: papers/networks_and_microsoft.xml
-[17]: papers/fixed_cost_fallacy.xml
-[18]: papers/defaults_for_ip_policy.html
-[19]: papers/considering_corruption.html
-[20]: papers/conception_and_measurement_of_progress.html
-[21]: papers/political_honesty.pdf
+[11]: /papers/patents_and_ir.html
+[12]: /papers/patents_and_ir.pdf
+[13]: /papers/porting.pdf
+[14]: /papers/porting-1.0.pdf
+[15]: /papers/networks_and_microsoft.pdf
+[16]: /papers/networks_and_microsoft.xml
+[17]: /papers/fixed_cost_fallacy.xml
+[18]: /papers/defaults_for_ip_policy.html
+[19]: /papers/considering_corruption.html
+[20]: /papers/conception_and_measurement_of_progress.html
+[21]: /papers/political_honesty.pdf
 [22]: housing/policy_change_and_the_uk_housing_market.pdf
 [23]: housing/
-[24]: papers/boldrin_levine_quah.html
-[25]: papers/boldrin_levine_quah.mkd
+[24]: /papers/boldrin_levine_quah.html
+[25]: /papers/boldrin_levine_quah.mkd
 [26]: notes/
