@@ -1,5 +1,5 @@
 ---
-date: 2017-03-22T22:18:06
+date: 2017-05-09T09:18:06
 title: "Talk at re:publica"
 eventdate: 2017-05-09
 eventtime: 13:00
@@ -10,6 +10,7 @@ image: Logo_republica_Conference_Event_Black.png
 themes: ['Information Economy', 'Speaking']
 ---
 
-I will be speaking at Republica on the 9th of May in Berlin.
+
+I will be speaking at Republica on the 9th of May in Berlin, Germany.
 
 *I will be talking about the digital revolution, and its ability to lead to either information democracies or information empires. The choice is a political one, a choice between open and closed. Either making information open and freely accessible to all, or, closing it off and having it owned and controlled by the few. This choice matters everywhere from inequality to freedom. It matters whether you are concerned about a robot taking your job, or the power of Google and Facebook to shape how we think and vote.*
