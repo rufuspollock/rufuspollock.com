@@ -15,15 +15,19 @@ wordpress:
 
 I am in Helsinki this week to keynote at the [MyData 2016][mydata] conference organized by [Open Knowledge Finland][okfi] and partners.
 
-**Update: here are my slides from my keynote**
+## Update
 
-[gview file="http://rufuspollock.org/wp-content/uploads/2016/09/mydata-2016.pdf"]
+[Here are my slides](https://rufuspollock.com/wp-content/uploads/2016/09/mydata-2016.pdf)
+
+
 
 MyData is about how we should get to manage our personal data. This is data about us often of a private nature. Data like our health records, or what we bought at the store or where we've been (tracked nowadays by our mobile phones). Increasing amounts of this data like this is out there. Usually it is held by companies and governments and we have limited access and control over how it is used.
 
 ## Video of Talk
 
-[vsw id="4SRUqQO_1CQ" source="youtube" width="550" height="344" autoplay="no"]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4SRUqQO_1CQ" frameborder="0" allowfullscreen></iframe>
+
+Here is the full video of my talk at MyData 2016. 
 
 ## Interview
 
@@ -36,4 +40,3 @@ I talked with Molly Schwartz about [open data][] and [its relation to MyData and
 
 [mydata]: http://mydata2016.org/
 [okfi]: http://fi.okfn.org/
-
