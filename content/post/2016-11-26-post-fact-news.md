@@ -2,6 +2,7 @@
 date: 2016-11-26T09:18:06
 title: "Post-Fact News"
 themes: ['Information Economy']
+author: "Rufus Pollock" 
 ---
 Is there any systematic evidence that false-news is worse than before or that we are *more* post-fact in politics? E.g. 2004 US presidential election had [Swift Boat Veterans for Truth](https://t.co/tsSLBjE8dE)  (among other dubious claims)
 
