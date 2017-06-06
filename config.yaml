@@ -6,10 +6,10 @@ googleAnalytics: "UA-35035650-1"
 permalinks:
   post: /:year/:month/:day/:slug/
 
-# themes: information economy, data systems, wise society, notebook
+# themes: information economy, data systems, wise society, misc [notebook]
 # tags: anything i want!
 # projects: for list see projects database
-# posttype: updates, talks, own-work, essays
+# posttype: updates, talks, own-work, essays, notebook
 # featured: yes, no
 taxonomies:
   theme: "themes"
