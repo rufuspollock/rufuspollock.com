@@ -11,4 +11,4 @@ title: Contact
     <input type="submit" value="Send">
 </form>
 
-<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3370344.js"></script>
+{{< hubspot >}}
