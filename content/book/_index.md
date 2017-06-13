@@ -5,7 +5,7 @@ description: Open Information Nation Book
 
 ## Sign up for early access to my upcoming book
 
-<form action="https://formspree.io/rufus@rufuspollock.org"
+<form action="https://formspree.io/sales@datopian.odoo.com"
       method="POST">
     <input type="text" name="name" placeholder="Name*" />
     <input type="email" name="_replyto" placeholder="Email*" />
