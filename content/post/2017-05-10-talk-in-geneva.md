@@ -20,8 +20,8 @@ I will be hosted as the opening lecturer at Open Geneva Hackathons on the 11th o
 
 I will also do a keynote at [Open Geneva](http://opengenevahackathons.org/) Sunday 14th of May on the need for *OPEN* to make an inclusive, innovate and sustainable digital age possible.  
 
-## Update 
+## Update
 
-<iframe src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/102483/VN3-2760-2016-2017-BH-05-15.mp4&width=960&height=540&id=102483&start=0" width="960" height="540" frameborder="0" allowfullscreen=1></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODxp9QEPA3U" frameborder="0" allowfullscreen></iframe>
 
 Full video of the talk given in Geneva.
