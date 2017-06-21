@@ -67,7 +67,7 @@ Then later again:
 
 > In a survey of English schoolboys taken in 1949, it was discovered that the more intelligent the boy the more likely he was to choose an interesting career at a reasonable wage over a job that would merely pay well.[^4] Today’s schoolchildren and college students can imagine little else but the search for a lucrative job.
 
-Data in footnote is interesting. TODO: dig this out. Reminds of reference in another book (which one!) about change in interests of Harvard MBA graduates between 1973 and 1983 from public service to personal money-making. [TODO: dig that out too!]
+Data in footnote is interesting. TODO: dig this out. Reminds of reference in another book (which one!) about change in interests of Harvard MBA graduates between 1973 and 1983 from public service to personal money-making. ~~[TODO: dig that out too!]~~ See http://rufuspollock.com/2008/08/29/money-has-grown-in-importance-to-us-freshmen-since-the-60s/
 
 [^4]: T. H. Marshall, Citizenship and Social Class (London: Pluto Press, 1991), p. 48.
 
