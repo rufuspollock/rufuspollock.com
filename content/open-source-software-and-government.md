@@ -46,7 +46,7 @@ To understand why this is we start with four basic facts about software and gove
 
 2.  **Switching costs are significant.** It is costly to switch off a given piece of software once you start using it -- and these costs grow over time. It is costly because you spend time and effort in learning how to use a piece of software, integrating it with your systems, extending and customizing it, etc. Switching to different software means incurring these costs again.
 
-3.  **The future matters and is difficult to know**: software is used for a long time -- whether in its original or upgraded form. Predicting the future is thus especially important when purchasing software. But predicting the future is hard, and especially so for software. This is because software evolves rapidly  -- as do the user needs. Behavioural biases mean the level of uncertainty and level of future change are under-estimated. A a result lock-in is under-estimated.
+3.  **The future matters and is difficult to know**: software is used for a long time -- whether in its original or upgraded form. Predicting the future is thus especially important when purchasing software. But predicting the future is hard, and especially so for software. This is because software evolves rapidly  -- as do the user needs. Behavioural biases mean the level of uncertainty and level of future change are under-estimated. As a result lock-in is under-estimated.
 
 4.  **Governments are bad at negotiating, especially in this environment. Hence the lock-in problem is especially acute for Government**. Government are generally poor bargainers. This is because of the incentives faced by government as a whole and by individuals within government. Government is especially poor at making trade-offs between the near-term and the more distant future. They are even worse when the future is complex, uncertain and hard to specify contractually up front. Software procurement has all of these characteristics, making it particularly prone to error compared to other government procurement areas.
 
@@ -65,12 +65,12 @@ To understand why this is we start with four basic facts about software and gove
 <p><strong>C. Open Source Needs Support</strong><br /><strong>And Government / Civic Tech is an area where it can be provided effectively</strong></p>
 <p>Software has high fixed costs and a challenge for open source is to secure sufficient support investment to cover these fixed costs (1 - Economics)<br /> +<br />Governments are large spenders on IT and are bureaucratic: they can make rules to pre-commit up front (e.g. in procurement) and can feasibly coordinate whether at local, national or, even, international levels on buying and investment decisions related to software.</p>
 <p><strong><em>imply ...</em></strong></p>
-Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support
+<p>Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support</p>
 </div>
 
 ## How to Promote Open Software
 
-We have established in the previous section that there is a strong basis for promoting open software. This section provides specific strategic and tactical suggestions for how to do that. There are five proposals that we summarize here. Each of these is covered in more detail in the main section below. We especially emphasize the potential of the last three options as it does not require up-front participation by government and can be boot-strapped with philanthropic funding.
+We have established in the previous section that there is a strong basis for promoting open software. This section provides specific strategic and tactical suggestions for how to do that. There are five proposals that we summarize here. Each of these is covered in more detail in the main section below. We especially emphasize the potential of the last three options as they do not require up-front participation by government and can be boot-strapped with philanthropic funding.
 
 **1. Recognize and reward open source in IT procurement.**
 
@@ -181,7 +181,7 @@ Each of these will be elaborated on in detail below. First, however we look at t
 <p><strong>C. Open Source Needs Support</strong><br /><strong>And Government / Civic Tech is an area where it can be provided effectively</strong></p>
 <p>Software has high fixed costs and a challenge for open source is to secure sufficient support investment to cover these fixed costs (1 - Economics)<br /> +<br />Governments are large spenders on IT and are bureaucratic: they can make rules to pre-commit up front (e.g. in procurement) and can feasibly coordinate whether at local, national or, even, international levels on buying and investment decisions related to software.</p>
 <p><strong><em>imply ...</em></strong></p>
-Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support
+<p>Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support</p>
 </div>
 
 ### Economics of Software
