@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-<form action="https://formspree.io/rufus@rufuspollock.org"
+<form action="https://formspree.io/admin-login@datopian.com"
       method="POST">
     <p>Fields marked with an * are required</p>
     <input type="text" name="name" placeholder="Name*" />
