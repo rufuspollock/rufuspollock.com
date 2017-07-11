@@ -19,7 +19,7 @@ The blockchain hype reflects an increasingly prevalent techno-solutionism -- a t
 
 This is not to dismiss blockchain as a technology. There are clearly important use cases: financial ledgers, robust provenance sysetems and more. However, these discard the most innovative components be that elaborate smart contract systems or distributed "trustless" consensus via proof of work. Without these, blockchain is really a fairly old set of ideas -- merkle hash trees, distributed databases etc. The novelty then, if any, is is in a convergence of different methods and new levels of efficiency. This is the stuff of solid, and valuable, progress. But it isn't a revolution in governance, production or the structure of society.
 
-[toc]
+{{< toc >}}
 
 <img src="http://rufuspollock.org/wp-content/uploads/2016/07/broken-chain.jpg" alt="" />
 
@@ -38,11 +38,11 @@ Some people [pointed out in advance][larimer] that the hard part of the DAO is n
 > ...
 >
 > One of the first things we learned from BitShares is that the vast majority (90%+) of stakeholders did not participate in voting. This is due to the fact that voting requires time, energy and skills that most investors lack. How many people have the economic, technical and entrepreneurial skills to vote responsibly?
-> 
+>
 > The DAO currently requires a level of voter participation that is much higher than BitShares has ever seen for a worker proposal. ... The DAO is expecting much higher levels of participation of voters without using proxies. Unless the majority of DAO stake is held in a few active hands, this will be very hard to achieve. [Ed: note the DAO has so far not even got to voting on anything and is now perhaps permanently crippled by its hack]
-> 
+>
 > ...
-> 
+>
 > The DAO has tentatively raised $100 million dollars worth of ETH, but so far the investors have taken no real risk. Every single person who has purchased DAO tokens has the ability to reclaim their ETH so long as they never vote. The end result is a massive marketing campaign that totally misrepresents what has been invested and what hasn’t.
 
 [larimer]: https://steemit.com/crypto-news/@dan/is-the-dao-going-to-be-doa
@@ -59,9 +59,9 @@ As far as I can tell there is *nothing* about the DAO or most of the other "exci
 As Larimer writes in his excellent piece:
 
 > Fancy technology can obscure our assessment of what is really going on. The DAO solves a single problem: the corrupt trustee or administrator. It replaces voluntary compliance with a corporation’s charter under threat of lawsuit, with automated compliance with software defined rules. [Ed: and it has turned it has not even done that as we see the hack precipitating a turn to human governance] ... but it doesn’t solve most of the problems the regulations were attempting to address.
-> 
+>
 > **What The DAO doesn’t solve is all of the other problems inherent with any joint venture. These are people problems, economic problems, and political problems**. In some sense, The DAO creates many new problems caused by its ridged rules and expensive machine-enforced process for change.
-> 
+>
 > The DAO doesn’t solve the “group trap” where by losers subsidize winners. It disempowers the individual actor and forces him to submit to group decision making. It doesn’t make raising money cheaper for companies, it just adds blockchain-enforced bureaucratic and political processes.
 
 My concern ultimately is that we are, once again, off down a path of technology-obsession. We start thinking digital tech can solve just about everything. Yes, Moore's law *is* pretty amazing but that does not justify these kind of category errors: tech is good at solving engineering-style problems like building a better mousetrap and not especially good at solving social coordination problems (aka politics).
@@ -92,7 +92,7 @@ If the blockchain is to be like the Internet then the question we need to ask is
 
 To illustrate here's some commentary on a [recent piece entitled "The DAO - An MVP of a Political System"][dao-mvp]:
 
-[dao-mvp]: https://medium.com/outlier-ventures-io/daos-the-mvp-of-a-political-system-5797ddf45d2f 
+[dao-mvp]: https://medium.com/outlier-ventures-io/daos-the-mvp-of-a-political-system-5797ddf45d2f
 
 > A DAO 2.0 can provide a third way between state ownership and market ownership of production?—?community ownership. A communal model is not a new idea, cooperatives, mutuals, building societies and credit unions have been around for some time. But these organisations were limited in their scale and so were organised around job or location. The Internet, blockchain, smart contracts and DAOs mean cooperatives can have members from anywhere in the world who can communicate, lend, borrow, and vote on how to allocate shared resources.
 
@@ -103,7 +103,7 @@ And I have my concerns. The hard things about communal models is the governance 
 Let me be clear I'm a *big fan* of "co-x" models (coliving, co-producing, coops and collaboratives). In fact, I spent a lot of my time thinking about them at the moment. However, I just don't see a big way that blockchain makes a *lot* of difference to organizing or running them (it might make a *bit* of difference but it's pretty minor). To quote Larimer again from above re the DAO:
 
 > Fancy technology can obscure our assessment of what is really going on. The DAO solves a single problem: the corrupt trustee or administrator. It replaces voluntary compliance with a corporation’s charter under threat of lawsuit, with automated compliance with software defined rules ... but it doesn’t solve most of the problems the regulations were attempting to address.
-> 
+>
 > What The DAO doesn’t solve is all of the other problems inherent with any joint venture. These are people problems, economic problems, and political problems. In some sense, The DAO creates many new problems caused by its ridged rules and expensive machine-enforced process for change.
 
 If we are serious about the potential impact of blockchain on governance and organizations then I would suggest we need to spell out *in detail* a particular organizational model and how the blockchain helps. Having done that I'd recommend doing some "lab experiments" to see how these would work.
@@ -114,15 +114,15 @@ Returning to the [DAO MVP arcticle][dao-mvp], here's some more:
 
 Wow! A bold vision. The question again is *where* is the blockchain making a difference here? Using the Internet and very cheap "off-the-shelf" corporate structures we can already bring people together from all over the world and "leadn, borrow, and collaborate fluidly wirht projects and businesses." What is the friction that the blockchain is eliminating exactly?
 
-And when we start saying things like: "owners, management and employee divisions can be broken down" I start getting really suspicious! It sounds exciting but how, exactly? How will blockchain make a difference to all the traditionally hard problems of dividing rights and responsibilities? Role differentiation such as owner vs employee encapsulates a whole bunch of complex differences ranging from skills to risk preferences. How is the blockchain going to help with that? I've been in a variety of organizations over the years, I've even run one. I've spent a lot of time looking at these issues practically and theoretically and they are **hard and complex**. Of *all* the things that smart contracts might help with these kind of things are the last thing I would be looking at. 
+And when we start saying things like: "owners, management and employee divisions can be broken down" I start getting really suspicious! It sounds exciting but how, exactly? How will blockchain make a difference to all the traditionally hard problems of dividing rights and responsibilities? Role differentiation such as owner vs employee encapsulates a whole bunch of complex differences ranging from skills to risk preferences. How is the blockchain going to help with that? I've been in a variety of organizations over the years, I've even run one. I've spent a lot of time looking at these issues practically and theoretically and they are **hard and complex**. Of *all* the things that smart contracts might help with these kind of things are the last thing I would be looking at.
 
-> The First and Second Industrial Revolutions ushered in new intellectual and political paradigms centred around capitalism and socialism. It would be arrogant of us to believe that today is different and that we live in the final intellectual and political paradigm. 
+> The First and Second Industrial Revolutions ushered in new intellectual and political paradigms centred around capitalism and socialism. It would be arrogant of us to believe that today is different and that we live in the final intellectual and political paradigm.
 
 This is revealing in its assumption that technological change (the industrial revolutions) created new political paradigms. That is far from clear and in fact the direction of causation may be the other way round. I'm not arguing that we live in the "final" paradigm, but I would point out that despite thousands of years of our best thinkers working on political and social theory actual advance seems relatively minimal -- Plato's Republic is still relevant today. The organizational structures we have now have existed in one form or another for almost as long. Even things we associate with modernity such as Marxist Communism have existed as organizational structures for centuries -- for example, early Christian communities were probably organized on communistic lines.
 
-The irony here is that I *do* think that the digital technological revolution *does* make possible a new political/economic system built around [openness][open]. However: a) the possibility comes from the fundamental change to an economy built on a nonrival commodity: information b) realising that possibility needs traditional political action not more tech. 
+The irony here is that I *do* think that the digital technological revolution *does* make possible a new political/economic system built around [openness][open]. However: a) the possibility comes from the fundamental change to an economy built on a nonrival commodity: information b) realising that possibility needs traditional political action not more tech.
 
-[open]: /open/ 
+[open]: /open/
 
 > The decentralisation trends of the Internet, blockchains, the internet of things and artificial intelligence will result in new social, political and economic structures. At the moment, we lack a framework through which to see all of these trends. I think The DAO is the first experiment in testing a new organising principle.
 
@@ -220,4 +220,3 @@ Excerpts from <http://www.juliandibbell.com/articles/a-rape-in-cyberspace/>
 > Faced with the task of inventing its own self-governance from scratch, the LambdaMOO population had so far done what any other loose, amorphous agglomeration of individuals would have done: they’d let it slide. But now the task took on new urgency. Since getting the wizards to toad Mr. Bungle (or to toad the likes of him in the future) required a convincing case that the cry for his head came from the community at large, then the community itself would have to be defined; and if the community was to be convincingly defined, then some form of social organization, no matter how rudimentary, would have to be settled on. And thus, as if against its will, the question of what to do about Mr. Bungle began to shape itself into a sort of referendum on the political future of the MOO. Arguments broke out on *social and elsewhere that had only superficially to do with Bungle (since everyone seemed to agree he was a cad) and everything to do with where the participants stood on LambdaMOO’s crazy-quilty political map. Parliamentarian legalist types argued that unfortunately Bungle could not legitimately be toaded at all, since there were no explicit MOO rules against rape, or against just about anything else — and the sooner such rules were established, they added, and maybe even a full-blown judiciary system complete with elected officials and prisons to enforce those rules, the better. Others, with a royalist streak in them, seemed to feel that Bungle’s as-yet-unpunished outrage only proved this New Direction silliness had gone on long enough, and that it was high time the wizardocracy returned to the position of swift and decisive leadership their player class was born to.
 >
 > And then there were what I’ll call the technolibertarians. For them, MUD rapists were of course assholes, but the presence of assholes on the system was a technical inevitability, like noise on a phone line, and best dealt with not through repressive social disciplinary mechanisms but through the timely deployment of defensive software tools. Some asshole blasting violent, graphic language at you? Don’t whine to the authorities about it — hit the @gag command and said asshole’s statements will be blocked from your screen (and only yours). It’s simple, it’s effective, and it censors no one.
-

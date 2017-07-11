@@ -10,7 +10,7 @@ Two parts:
 * How official inquiries works -- and a plan for future
 * A review of learnings from past projects and thoughts on building "open text" projects going forward including e.g. open literature
 
-[toc]
+{{< toc >}}
 
 # Plan
 
@@ -21,7 +21,7 @@ Document current and planned official inquiries tech architecture
 ## Bigger story
 
 Motivation:
- 
+
 1. Why is the Arden Shakespeare still produced as a dead-tree or PDF experience
 2. Why are we still living with the codex as our experience (PDFs reproduce dead-tree books)
 3. Why is is a pain to find and share books across devices (without getting locked in to one ecosystem (kindle))
@@ -38,7 +38,7 @@ Text = cultural artefact, fixed texts -- i.e. published and fixed.
 
 * Books - esp books with major cultural significance "Open Literature"
 * Official Documents -- "Official Inquiries"
-* Law ... 
+* Law ...
 * News articles (if old and now of of historical value)
 * [Journals]
 
@@ -151,4 +151,3 @@ Notes:
 <img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-overview.jpg" alt="" />
 <img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-sub-2.jpg" alt="" />
 <img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-sub-1.jpg" alt="" />
-
