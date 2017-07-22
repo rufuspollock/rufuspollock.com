@@ -100,4 +100,30 @@ Instructions
     * When these start to pop put in sesame seeds (off heat) until sesame seeds start to brown
   * Pour over carrots and mix + add lemon juice and black pepper
 
+## Chocolate Cake (Nigella Lawson)
+
+Ingredients Nutrition
+
+SERVINGS
+8
+UNITS
+Metric
+225 g soft unsalted butter
+375 g dark muscovado sugar
+2 large eggs, beaten
+4.92 ml vanilla extract
+100 g best dark chocolate, melted
+200 g plain flour
+4.92 ml bicarbonate of soda
+On Sale Near You
+See what's on sale in recipes and in your Grocery List.
+
+Find stores
+Directions
+Preheat the oven to 190C/gas5. Grease and line a 23x13x7cm cm (9x5x3in) loaf tin. Cream the butter and sugar. Add the eggs and vanilla, beating in well.
+Next fold in the melted and cooled chocolate, taking care to blend well but do not overbeat.
+You want the ingredients combined: you don't want a light airy mass. Gently add the flour, to which you've added the bicarb, alternately spoon by spoon, with 250 ml of boiling water until you have a smooth and fairly liquid batter.
+Pour into the lined loaf tin and bake for 30 minutes. Turn the oven down to 170C/gas mark 3 and cook for another 15 minutes. The cake will still be a bit squidgy inside, so an inserted cake tester or skewer won't come out completely clean.
+Plaace the loaf tin on a rack and leave to get completely cold before turning it out. It improves if left for a day or so before eating. This cake will probably sink in the middle because of its denseness.
+
 
