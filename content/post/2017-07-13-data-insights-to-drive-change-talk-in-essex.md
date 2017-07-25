@@ -1,6 +1,6 @@
 ---
 date: 2017-07-13T14:20:06
-title: "Talk in Essex"
+title: "Data Insights to Drive Change Talk in Essex"
 eventdate: 2017-07-13
 eventtime: 17:00
 venue: Saracens Head Hotel

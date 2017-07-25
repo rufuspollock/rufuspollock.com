@@ -1,6 +1,6 @@
 ---
 date: 2017-05-09T09:18:06
-title: "Talk at re:publica"
+title: "The Digital Revolution Talk at re:publica"
 eventdate: 2017-05-09
 eventtime: 13:00
 venue: re:publica

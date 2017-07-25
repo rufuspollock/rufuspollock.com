@@ -1,6 +1,6 @@
 ---
 date: 2017-05-11T09:18:06
-title: "Talk in Geneva"
+title: "Building a Sustainable Digital Age Talk in Geneva"
 eventdate: 2017-05-11
 eventtime: 18:30
 venue: United Nations Library at Geneva
