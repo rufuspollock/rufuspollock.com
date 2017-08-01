@@ -3,6 +3,7 @@ date: 2017-05-11T09:18:06
 title: "Building a Sustainable Digital Age Talk in Geneva"
 eventdate: 2017-05-11
 eventtime: 18:30
+aliases: [/2017/05/10/talk-in-geneva/]
 venue: United Nations Library at Geneva
 location: Geneva, Switzerland
 link: https://opengenevahackathons.org
