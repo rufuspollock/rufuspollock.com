@@ -3,7 +3,7 @@ date: 2017-07-13T14:20:06
 title: "Data Insights to Drive Change Talk in Essex"
 eventdate: 2017-07-13
 eventtime: 17:00
-aliases: [/2017/07/13/talk-in-essex/]
+aliases: ['/2017/07/13/talk-in-essex/']
 venue: Saracens Head Hotel
 location: Chelmsford, United Kingdom
 link: https://www.eventbrite.co.uk/e/innovation-talks-big-data-versus-big-brother-tickets-35429178627
