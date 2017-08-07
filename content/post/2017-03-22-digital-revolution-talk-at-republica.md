@@ -3,7 +3,7 @@ date: 2017-05-09T09:18:06
 title: "The Digital Revolution Talk at re:publica"
 eventdate: 2017-05-09
 eventtime: 13:00
-aliases: ['/2017/03/22/talk-at-republica/']
+aliases: ['/2017/05/09/talk-at-republica/']
 venue: re:publica
 location: Berlin, Germany
 link: https://re-publica.com/
