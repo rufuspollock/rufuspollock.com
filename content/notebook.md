@@ -2,6 +2,16 @@
 title: Notebook
 ---
 
+# Big Data back in 1995 - 2017-07-25
+
+My eye was caught by this excerpt from Inc Magazine article of the rise and fall of "Thinking Machines"
+
+> With the country in a recession, businesses needed every competitive advantage they could get, which meant knowing their customers' preferences and buying habits in intimate detail. They had begun to collect all conceivable data and were feeding them into their mainframes, looking for any insight that would help them maximize profits.
+
+This was *1995* but sounds like Big Data pitches today.
+
+https://www.inc.com/magazine/19950915/2622.html
+
 # Flawed Studies of Social Contagion - 2017-07-22
 
 Famous Christakis and Fowler studies (2007, 2008) turns out to have serious methodological flaws. See:
