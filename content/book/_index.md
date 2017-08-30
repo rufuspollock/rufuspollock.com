@@ -16,7 +16,5 @@ But dystopia is probable not inevitable. If we take action we can make an open w
 
 ## Sign up for early access to my upcoming book
 
-<script type="text/javascript" src="https://www.formlets.com/static/js/iframeResizer.min.js"></script>
-<iframe id="formlets-iframe" src="https://www.formlets.com/forms/Fdjq9i7uLKJMPm2s/?iframe=true" frameborder="0" width="100%"></iframe>
-<script type="text/javascript" src="https://www.formlets.com/static/js/iframe.js"></script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2ONTXQF9ritru6-S8Jzr3ELpKBxd-VvD20MKKBuV0MFuKIg/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" scrolling="no" marginwidth="0">Loading...</iframe>
 
