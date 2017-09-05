@@ -2,7 +2,7 @@
 date: 2017-09-10T14:20:06
 title: "Open Leaders Workshop Helsinki"
 eventdate: 2017-09-10
-eventtime: 09:30
+eventtime: 10:30
 location: Helsinki, Finland
 link: http://open-leaders.com/helsinki-sep-2017/
 themes: ['Information Economy', 'Speaking']
@@ -30,4 +30,4 @@ Find out how you can take on leadership and make a difference whether in your co
 
 The next Open Leaders workshop takes place in Helsinki on Sunday 10 September 2017.
 
-This special event has a limited number of places. Apply [here](http://open-leaders.com/helsinki-sep-2017/). 
+This special event has a limited number of places. Apply [here](http://open-leaders.com/helsinki-sep-2017/).
