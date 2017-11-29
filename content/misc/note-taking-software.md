@@ -6,6 +6,7 @@ date: 2017-11-28T09:43:07
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1395
+layout: misc-special
 ---
 # Comparison of Apps for Note-Taking, Researching and Organizing
 
