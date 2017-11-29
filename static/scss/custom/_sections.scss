@@ -26,3 +26,9 @@ section.other-pages {
       color: $dark-gray;
   }
 }
+section.other-pages-misc-special {
+  @extend section.other-pages;
+  table {
+    font-size: 8px !important;
+  }
+}

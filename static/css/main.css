@@ -3642,6 +3642,55 @@ body {
     position: relative;
     top: -10px; }
 
+table {
+  border: 1px solid #949494;
+  border-collapse: separate;
+  border-radius: 3px;
+  border-spacing: 0;
+  width: 100%; }
+  table tbody {
+    background-color: #e6e6e6; }
+    table tbody tr:hover > td, table tbody tr:hover > th {
+      background-color: #d9d9d9; }
+  table thead:first-of-type tr:first-child > th:first-child {
+    border-top-left-radius: 3px; }
+  table thead:first-of-type tr:first-child > th:last-child {
+    border-top-right-radius: 3px; }
+  table tbody:last-child tr:last-child > td:first-child {
+    border-bottom-left-radius: 3px; }
+  table tbody:last-child tr:last-child > td:last-child {
+    border-bottom-right-radius: 3px; }
+  table thead th {
+    background-color: white;
+    border-bottom: 0;
+    border-left: 1px solid #949494;
+    padding: 0.75em 1em;
+    text-align: left; }
+    table thead th:first-child {
+      border-left: 0; }
+  table tbody {
+    background-color: white; }
+    table tbody td {
+      border-bottom: 0;
+      border-left: 1px solid #949494;
+      border-top: 1px solid #949494;
+      padding: 0.75em 1em; }
+      table tbody td:first-child {
+        border-left: 0; }
+      table tbody td button, table tbody td a.button {
+        display: inline-block;
+        font-size: 0.7em;
+        line-height: 1.5;
+        margin-bottom: 0.3em;
+        margin-right: 0.5em;
+        outline: none;
+        padding: 0.3em 1em;
+        width: 100%; }
+        @media screen and (min-width: 40em) {
+          table tbody td button, table tbody td a.button {
+            margin-bottom: 0;
+            width: auto; } }
+
 .content-wrapper {
   min-height: calc(100vh - 4.8em); }
 
@@ -4513,43 +4562,46 @@ div.toc {
       .themes-section .event .event-content {
         padding-right: 3%; } }
 
-section.other-pages {
+section.other-pages, section.other-pages-misc-special {
   padding: 10% 5%; }
-  section.other-pages .logo-section {
+  section.other-pages .logo-section, section.other-pages-misc-special .logo-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: left; }
-    section.other-pages .logo-section li {
+    section.other-pages .logo-section li, section.other-pages-misc-special .logo-section li {
       list-style: none;
       padding: 1.5em 0; }
       @media screen and (min-width: 53.75em) {
-        section.other-pages .logo-section li {
+        section.other-pages .logo-section li, section.other-pages-misc-special .logo-section li {
           padding: 2em;
           text-align: center;
           align-self: center; } }
-      section.other-pages .logo-section li .square-logo {
+      section.other-pages .logo-section li .square-logo, section.other-pages-misc-special .logo-section li .square-logo {
         max-height: 5em; }
-      section.other-pages .logo-section li .wide-logo {
+      section.other-pages .logo-section li .wide-logo, section.other-pages-misc-special .logo-section li .wide-logo {
         max-width: 10em; }
-      section.other-pages .logo-section li .wider-logo {
+      section.other-pages .logo-section li .wider-logo, section.other-pages-misc-special .logo-section li .wider-logo {
         max-width: 15em; }
   @media screen and (min-width: 53.75em) {
-    section.other-pages {
+    section.other-pages, section.other-pages-misc-special {
       padding: 10% 20%; } }
-  section.other-pages .news .single-news {
+  section.other-pages .news .single-news, section.other-pages-misc-special .news .single-news {
     padding: 2em 2.5em 2em 2em;
     margin: 0 0 1em 0;
     border: 1px solid #e4e4e4; }
-  section.other-pages div.img-holder {
+  section.other-pages div.img-holder, section.other-pages-misc-special div.img-holder {
     text-align: center;
     margin-bottom: 20px; }
-  section.other-pages form > input, section.other-pages form > textarea {
+  section.other-pages form > input, section.other-pages-misc-special form > input, section.other-pages form > textarea, section.other-pages-misc-special form > textarea {
     border-radius: 0; }
-  section.other-pages input[type="submit"] {
+  section.other-pages input[type="submit"], section.other-pages-misc-special input[type="submit"] {
     background-color: transparent;
     border: 1px solid #333;
     border-radius: 0;
     color: #333; }
+
+section.other-pages-misc-special table {
+  font-size: 8px !important; }
 
 form {
   width: 100%;
