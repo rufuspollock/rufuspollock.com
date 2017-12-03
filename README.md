@@ -5,9 +5,9 @@ Central git repo is on gitlab:
 http://gitlab.com/rufuspollock/rufuspollock.com
 
 
-## Site Architecture
+## Planning etc
 
-TODO
+Main hackmd: https://hackmd.io/CYZgbADAHFEKwFoCcAzKBjBAWJILLCSwQENgUkBGcCEuAUwiA===
 
 
 ## Technical Stuff
