@@ -9,7 +9,7 @@
 
                     <h1>{{ .Title }}</h1>
                     {{ .Content }}
-                    {{ if eq .Params.news true }}
+                    {{ if eq .Params.blog true }}
                     <article>
                       <section class="news">
                         {{ range where .Site.Pages "Section" "post" }}
