@@ -1,6 +1,8 @@
 ---
 title: Zuckerberg's Delusions
 date: 2017-03-05 
+themes: ['Information Economy']
+posttypes: ['notebook']
 ---
 
 Disturbed and awed (in a bad way) by the delusional hubris of Zuckerberg's recent "manifesto" post on "Building Global Community".
