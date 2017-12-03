@@ -3,8 +3,7 @@ title: Open Information Nation - the Book
 description: Open Information Nation Book
 ---
 
-<p style="text-align: center; font-size: 18px;"><a href="#signup" class="button">Sign up for updates about my book &raquo;</a></p>
-
+<p style="font-size: 18px;"><a href="#signup" class="button">Sign up for updates about my book &raquo;</a></p>
 
 Will the digital revolution give us information democracies or information empires? The answer lies in a political choice, a choice between open or closed. Either making information open and freely accessible to all, or, closing it off and having it owned and controlled by the few. This choice matters everywhere: from  concerns about a robot taking your job, to the power of Google and Facebook to shape how we think and vote; from the cost of medicines or access to scientific research. These issues now reach into the lives of every single person on this planet -- whether they know it or not.                                     
 
