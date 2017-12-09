@@ -10,7 +10,7 @@ wordpress:
 
 {{< toc >}}
 
-### Egg Nog
+# Egg Nog
 
 1 Bottle of Brandy
 15 egg yolks
@@ -26,7 +26,8 @@ nutmeg
 4. Then milk, same way
 5. Then cream, same way
 
-<h3>Waffles</h3>
+# Waffles
+
 8oz plain flour
 4 teaspoons baking powder
 2 tablespoons sugar
@@ -36,15 +37,36 @@ nutmeg
 
 Mix together milk, butter and egg yolks and then add flour, baking powder and sugar. Beat egg whites seperately until stiff and then fold in.
 
-### Lentil Soup
+# Marille with Peas
 
-  * 500g green lentils
-  * Carrots
-  * Onions
-  * Celery
-  * Garlic
+From Carluccio 100 Pasta Recipes.
 
-### Banana Cake
+Serves 4
+
+50g butter
+150g smoked bacon, rinded and cut into strips
+1 x 450g carton or bottle passata or 4 large ripe tomatoes, skinned, deseeded
+200g frozen petits pois or fresh peas
+375g marille or other pasta
+8 basil leaves
+150g mascarpone cheese or creme fraiche
+Salt and pepper
+75g freshly grated parmesan
+
+Heat butter and fry the bacon until crisp. Add the tomatoes and frozen peas and cook for 5 mins (15, covered if fresh peas).
+Meanwhile, cook the pasta for 10-12 mins until al dente. Add the basil leaves and mascarpone to the sauce and stir until just warmed through and the cheese has melted. Season to taste. 
+
+Drain the pasta and add to the sauce, mixing well with the parmesan cheese.
+
+# Lentil Soup
+
+* 500g green lentils
+* Carrots
+* Onions
+* Celery
+* Garlic
+
+# Banana Cake
 
   * 125g butter
   * 175g sugar (brown soft muscovado)
@@ -64,16 +86,15 @@ Mix together milk, butter and egg yolks and then add flour, baking powder and su
 
 Icing: 150g Cream Cheese, 150g Butter + Lemon/Orange Rind/Juice
 
-### French Toast
+# French Toast
 
   * Ratio: 1 egg + 1/6-1/3 cup milk + 1/2 tsp cinnamon (+ optional orange zest) per 2-3 slices bread
 
-### Choc Chip Cookies
+# Choc Chip Cookies
 
-  * <http://www.bbc.co.uk/food/recipes/database/chocolatechipcookies_82401.shtml>
+* <http://www.bbc.co.uk/food/recipes/database/chocolatechipcookies_82401.shtml>
 
-
-### Carrot Salad
+# Carrot Salad
 
 *Believe this came via Madhur Jaffrey*
 
@@ -100,7 +121,7 @@ Instructions
     * When these start to pop put in sesame seeds (off heat) until sesame seeds start to brown
   * Pour over carrots and mix + add lemon juice and black pepper
 
-## Chocolate Cake (Nigella Lawson)
+# Chocolate Cake (Nigella Lawson)
 
 Ingredients Nutrition
 
