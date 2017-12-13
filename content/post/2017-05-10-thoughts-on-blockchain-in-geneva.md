@@ -16,7 +16,7 @@ Following my *Building a Sustainable Digital Age Talk* at the United Nations Lib
 
 *Question:* I have a question I’m sure you’ve given some thought. What do you see as opportunities of Blockchain technology in connection with the ‘open movement’?
 
-*Rufus Pollock:* I’m going to be very straight. In one word: **zero**. At least for this side of the movement, blockchain is a delusional fad.
+*Rufus Pollock:* I’m going to be very straight. In one word: **zero**. Blockchain is a delusion fad, at least for this side of the movement.
 
 This doesn’t mean that I think that Blockchain is not an interesting technology, I’m from a mathematical background, and I understand Blockchain. I think it will have uses in some areas of fintech, and perhaps others. But these ideas that it will somehow support societal decentralization, that it might allow us to be more democratic in some way have zero credibility. I will explain why I say that in a moment.
 
@@ -24,9 +24,9 @@ In terms of this talk, this points to something important which i want to highli
 
 There is a wave of techno-solutionism sweeping our society. It’s represented in many TED Talks and discussions about digital technology. It’s like we have some social problem, maybe it’s climate change… maybe it’s not enough voting… AND we’re going to build an app for that. ’Not enough people voting?’… I’VE GOT AN APP FOR THAT. ‘People not doing enough on climate change?’… I’VE GOT AN APP FOR THAT. Right?
 
-As an example, some guys I know, who do civic tech and care about voting, and who are really activated about Trump and Brexit. And one of them was like ‘You know, look at it, look at how much we’ve innovated in 20-years and we haven’t innovated in democracy in the last 2000-years'. Now for me, the chain of logic goes the other way. For him it goes, ‘we have this tech innovation and let’s just apply it to democracy'.
+As an example, I hang out with a lot of people who do civic tech and care about voting, and who are really activated about Trump and Brexit. And one of them was like ‘You know, look at it, look at how much we’ve innovated in 20-years and we haven’t innovated in democracy in the last 2000-years'.
 
-And I’m like, no, what that implies is that democracy is a hard problem. The problems democracy have, have no easy solutions from tech.
+Now for me, the chain of logic goes the other way. For him it goes, ‘we have this tech innovation and let’s just apply it to democracy'. And I’m like, no, what that implies is that democracy is a hard problem. The problems democracy have, have no easy solutions from tech.
 
 Let me explain that by breaking it down: what are the problems of democracy? Or of collective action in general?
 
@@ -52,7 +52,9 @@ And this brings me back to the Blockchain. The people who are getting excited ab
 
 [^1]: And yes, that’s a benefit, but if you actually look at transaction fees, they have come down over the last century anyway. And I’m not sure it’s actually improved the allocation of capital as much as we would’ve liked. Hint-hint, the recession.
 
-What worries me, and it brings me back to my story today is this: My story is about political action to create new rules. Political action requires us to get together collectively and do something. It isn’t a tech story. Tech is the driver of a world of costless copying, but the way that works out, but the way that wealth gets divided, depends on us getting together politically and creating new rules of the game. There’s no tech part in it really. (The only tech part in it is ’hey, trace where money goes a bit more obviously now’).
+What worries me, and it brings me back to my story today is this: My story is about political action to create new rules. Political action requires us to get together collectively and do something. It isn’t a tech story. Tech is the driver of a world of costless copying, but the way that works out, the way that wealth gets divided, depends on us getting together politically and creating new rules of the game. There’s no tech part in it really. (The only tech part in it is ’hey, trace where money goes a bit more obviously now’).
 
-And so what worries me about the Blockchain is it's classic techno-solutionsim and **it diverts the energy of the activist, or non activist, community to techno-solutionist pipe-dreams**. It makes us lazy -- or allow us to be lazy. We’re like ‘oh, yeah, democracy is hard, so we’ll come up with an app for that’. Now I’M LAZY, we all are, and I get that. But the Blockchain represents this tendency to think we’ve got some technological solution to these social problems and it diverts us. The real answers are political and about the rules of the game, and how we build them. It’s the rules we create that shape the impact of technology. Technology is important only in that it is the driver of one fundamental change: costless copying. But we don't need to do anything about that -- it will just go on happening as Moore's law continues playing out.
+And so what worries me about the Blockchain is it's classic techno-solutionsim and **it diverts the energy of the activist, or non activist, community to techno-solutionist pipe-dreams**. It makes us lazy -- or allow us to be lazy. We’re like ‘oh, yeah, democracy is hard, so we’ll come up with an app for that’.
+
+Now I’M LAZY, we all are, and I get that. But the Blockchain represents this tendency to think we’ve got some technological solution to these social problems and it diverts us. The real answers are political and about the rules of the game, and how we build them. It’s the rules we create that shape the impact of technology. Technology is important only in that it is the driver of one fundamental change: costless copying. But we don't need to do anything about that -- it will just go on happening as Moore's law continues playing out. What we need to do is be putting in place the rules that make sure those tech-driven changes result in a better, freer, fairer world.
 
