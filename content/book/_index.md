@@ -31,15 +31,17 @@ In 2015 researchers showed that Google could change an election. All they needed
 
 Google and Facebook play an ever bigger role in what we do and discover online. No longer is Facebook just updates on your friends, it's the primary source of hard news about the world around us. Recent scandals over censoring content like the Napalm Girl or fake news in the Trump election show just how powerful and influential Facebook is.
 
-These companies are not just fabulously wealthy. They have the power to shape what we think and do. They are also monopolies built on closed, proprietary information -- their algorithms, their software and their databases. For-profit businesses, their motivations are ultimately not our welfare but their own. Their founders and rulers are our modern-day kings. But like the kings of old, they have less freedom than they may imagine -- instead of unruly barons they have their investors. And they keep them happy by selling your attention to the highest bidder.
+These companies are not just fabulously wealthy. They have the power to shape what we think and do. They are also monopolies built on closed, proprietary information -- their algorithms, their software and their databases. For-profit businesses, their motivations are ultimately not our welfare but their own. Their founders and rulers are our modern-day kings. And they make their money and preserve their power by selling your attention to the highest bidder.
 
-We should all be concerned  by this. But what can we do?
+At its most extreme, the current situation threatens our fundamental economic and social freedoms: free enterprise and free markets are disintegrating in the face of monopoly, free choice means little when there is only one, and even freedom of thought is threatened by powerful interests that have the capacity to shape how we think and act.
 
-### An open future and the return of freedom: free enterprise, free markets, free choice
+We should all be concerned by this. But what can we do?
 
-This book offers a solution -- as well as showing what will happen if we fail to use it. The solution is called openness. A new approach that will make digital information freely available to all whilst paying its creators more and more equitably. Openness would solve the problem of these immense concentrations of information power, promoting competition, providing transparency and increasing the incentives for innovation.
+### Openness and restoration of freedom and opportunity: free enterprise, free markets, free choice
 
-However, openness will not be easy to achieve. It will take collective, political action: for even if an open world is better for all of us, it will be opposed by those like Google and Facebook who gain from the current system and stand to lose out in an open future that brings increased competition and transparency. But the stakes are high: ignore openness and we will have a dystopian future of spiralling inequalities, lost liberties and foregone innovation and growth.
+This book offers a diagnosis and a cure. The cure is called openness. A new approach that would make information such as algorithms, software and songs freely available to all whilst paying their creators more and more equitably. Openness would solve the problem of these immense concentrations of information power, promoting competition, providing transparency and increasing the incentives for innovation.
+
+However, openness will not be easy to achieve. It will take collective, political action: for even if an open world is better for all of us, it will be opposed by those who gain from the current system and stand to lose out in an open future that brings increased competition and transparency. But the stakes are high: ignore openness and we will have a dystopian future of spiralling inequalities, lost liberties and foregone innovation and growth.
 
 ## Open Medicines
 
@@ -47,17 +49,11 @@ However, openness will not be easy to achieve. It will take collective, politica
 
 And it isn't just about high-tech. Information monopolies are harming every single one of us, often in areas we little associate with the digital world.
 
-Take healthcare. Last year, my relative got sick, his breathing heavy and laboured. We worried it was cancer and celebrated when the doctor ruled it out. But it was worse: a rare and untreatable lung disease that would soon starve him of enough air to breathe.
-
-And then came hope: a new drug, just approved that would help. But there was a catch: it cost $80,000 a year, so expensive that his health insurance won't cover it. Unable to pay from his own pocket, he goes without and each day he grows sicker.
-
-### Medicine prices are a matter of life and death
-
-In many countries around the world high prices for medicines are an everyday concern. In the United States, it is so common-place that it played a central role in the hit TV series Breaking Bad. There the hero, Walter White, a decent middle-class high school teacher is driven to crime to pay for his cancer treatment. Walter White may be fiction but his situation is not. Americans spent 425 billion dollars on pharmaceuticals last year -- that is $1400 for every man, woman and child. And this average number conceals the everyday reality: those who actually fall sick may have to spend tens or hundreds of thousands.
+Take healthcare. In many countries around the world high prices for medicines are an everyday concern. And even where we don't pay individually, we're paying for those high prices in our taxes. In the United States, the issue is so common-place that it played a central role in the hit TV series Breaking Bad. There the hero, Walter White, a decent middle-class high school teacher is driven to crime to pay for his cancer treatment. Walter White may be fiction but his situation is not. Americans spent over four hundred billion dollars on pharmaceuticals last year -- that is $1400 for every man, woman and child. And this average number conceals the everyday reality: those who actually fall sick may have to spend tens or hundreds of thousands.
 
 And there are many who cannot afford what they need. There are Walter Whites all over America and all over the world. If citizens of the richest country on earth can't afford medicines imagine the situation in poorer countries like India or South Africa. Countries facing epidemics of AIDs or Ebola or Malaria.
 
-Why are these drugs so expensive? It is not because of their manufacturing cost which is often a tenth or hundredth of their retail price -- a drug that costs 100,000 dollars to buy may cost only a 100 dollars to make.
+Why are these drugs so expensive? It is not their manufacturing costs which are often a tiny fraction of their retail price -- a drug that costs hundred thousand dollars to buy may cost only a hundred dollars to make.
 
 The answer is the patent on their formula. Drugs are so expensive because of the patent monopoly on the information inside them. The patent is our creation -- it does not exist in nature. Patent monopolies are created, maintained and enforced by our governments. Remove the patents and prices would fall. We know this because patents don't last forever. Once patent monopolies expires, prices drop. But whilst in force, patents can help deny access to medicines to millions and help funnel money from the poorest in society into the balance sheets and profits of some of the richest corporations on earth.
 
@@ -99,11 +95,11 @@ This is a world where innovation has finally disrupted not just the labour marke
 
 This world is so frightening to us because it is so close to what we already see. As of 2016 the world's five richest companies are all infotech-based -- and they themselves exhibit some of the most unequal ownership structures in the world with a tiny group of founders and others owning a great portion of their equity.
 
-Meanwhile, innovations in digital technology have been driving down the wages not only of blue-collar workers but also those in traditional middle-class white-collar jobs. The results can be seen a simple statistic: that six of the world's eight richest people were tech billionaires, and between them owned almost as much as the the poorest half of humanity.
+Meanwhile, innovations in digital technology have been driving down the wages not only of blue-collar workers but also those in traditional middle-class white-collar jobs. The results can be seen a simple statistic: that in 2016 six of the world's eight richest people were tech billionaires, and between them owned almost as much as the the poorest half of humanity.
 
 ### Robots are made of information
 
-This is not about robots but about information, and the way information is owned. A robot may be made of steel but its essence is the software that powers its digital brain. A smartphone may be made of metal and plastic and silicon. But what really makes it work, where the value lies, is in the designs of those silicon chips, and the data and software that run on them.
+This is not about robots but about information, and the way information is owned. A robot may be made of steel but its essence is the software that powers its digital brain. A smartphone may be made of metal, plastic and silicon but what really makes it work, where the value lies, is in the designs of those silicon chips, and the data and software that run on them.
 
 If we were to open up that information, make it available to everyone, we could democratize the robot revolution. The value generated by our infotech advances would be shared with the many rather than concentrated in the hands of the few. No longer a case of the 1% versus the 99%, this would be a world of the 100%.
 
@@ -131,17 +127,18 @@ The answer is simple: information itself. Information is different from bread or
 
 Of course, we still need to find a way to pay for the first copy. After all, it costs real money and real resources to create new software, movies or medicines -- even if we can share them freely once created. The answer is to use the collective mechanisms we already have, especially in the form of our governments. Just as we all pay taxes for things like national defence or parks, so we can use the same mechanisms to fund the creation of information.
 
-Moreover, it need not be a government committee deciding which authors get paid, or what software gets written. We can use traditional, demand-driven market mechanisms to allocate all or part of the money collected. Innovators and creators can obtain "remuneration rights" rather than the patent and copyright monopolies they get today. Remuneration rights would give their owner the right to payment from a central fund according to the value they generate -– how much their medicines improved health or how many times their song was played.
+Moreover, it need not be a government committee deciding which authors get paid, or what software gets written. We can use traditional, demand-driven market mechanisms to allocate all or part of the money collected. Innovators and creators can obtain "remuneration rights" rather than the patent and copyright monopolies they get today. Remuneration rights would give their owner the right to payment from a remuneration rights fund according to the value they generate -– for example, how much their medicine improved health or how many times their song was played.
 
-### It's about the rules not the technology
+### It's *not* about the technology, it's about the *rules*
 
 Software is eating the world according to the famous headline. Too often that is the story we focus on -- the astonishing advance of digital technology and its impact on this or that particular part of our lives.
 
 But we need to step back and see the systemic change. A focus on the tech makes us miss the real questions and the real choices: who owns it, who controls it and how is the associated power and wealth distributed and regulated.
 
-You can use a hammer to build a house or kill a man. Likewise digital technology can bring us a better world or a worse one. What determines that is not technology in itself but how we use it, and, especially, the social and economic rules we create for it.
+You can use a hammer to build a house or kill a man. Likewise digital technology can bring us a better world or a worse one. What determines that is not technology itself but how we use it, and, especially, the social and economic rules we create for it.
 
 And the most important of all those rules is the choice of open versus closed. That choice determines the economic and social structure of our information age. From openness comes freedom, equality, innovation, and even a different, better culture built on sharing, collaboration and generosity. From closed comes monopoly and exclusion, exploitation and inequality.
 
 This then is not a book about technology or for the digerati. It is a book about power and freedom and it is for anyone who cares about inequality or growth, culture or liberty in the years to come. Most of all it is a book about hope. An open world, a world in which information is openly and freely available to us all, is not only desirable and necessary -- it is possible too. 
+
 
