@@ -19,7 +19,7 @@ At present dystopia is the default. If we do not act, it is a closed world that 
 
 But dystopia is not inevitable.
 
-Together, we can make an open world. We can create new rules like remuneration rights that reward innovators and creators without locking up knowledge. We can make a world that is freer, fairer, healthier and wealthier. A world where we get to harness the magic of digital technology, its limitless copying, for good.
+Together, we can make an open world. We can create new rules that reward innovators and creators without locking up knowledge. We can make a world that is freer, fairer, healthier and wealthier. A world where we get to harness the magic of digital technology, its limitless copying, for good.
 
 To do this we need to act, to act together, and to act now.
 
