@@ -147,4 +147,21 @@ You want the ingredients combined: you don't want a light airy mass. Gently add 
 Pour into the lined loaf tin and bake for 30 minutes. Turn the oven down to 170C/gas mark 3 and cook for another 15 minutes. The cake will still be a bit squidgy inside, so an inserted cake tester or skewer won't come out completely clean.
 Plaace the loaf tin on a rack and leave to get completely cold before turning it out. It improves if left for a day or so before eating. This cake will probably sink in the middle because of its denseness.
 
+## Sausage and lentil one pot
+
+1 tbsp olive oil
+
+400g pack sausage
+1 onion, finely chopped
+1 garlic clove, crushed
+1 red pepper, sliced
+250g lentil (we used puy lentils)
+150ml vegetable stock
+125ml red wine or extra stock
+
+Heat oil in a pan, cook the sausages until browned, then remove. Tip in remaining oil, onion, garlic and pepper, then cook, about 5 mins more until softened. Add lentils and sausages to the pan with the stock and wine, if using.
+
+Bring up to the boil, then simmer for 20 mins until lentils have softened and sausages are cooked through. Serve with plenty of crusty bread.
+
+https://www.bbcgoodfood.com/recipes/2233/sausage-and-lentil-onepot
 
