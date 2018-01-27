@@ -16,9 +16,9 @@ Following my *Building a Sustainable Digital Age Talk* at the United Nations Lib
 
 *Question:* I have a question I’m sure you’ve given some thought. What do you see as opportunities of Blockchain technology in connection with the ‘open movement’?
 
-*Rufus Pollock:* I’m going to be very straight. In one word: **zero**. Blockchain is a delusion fad, at least for this side of the movement.
+*Rufus Pollock:* I’m going to be very straight. In one word: **close to zero**. At least for this side of the movement, blockchain is a delusional fad.
 
-This doesn’t mean that I think that Blockchain is not an interesting technology, I’m from a mathematical background, and I understand Blockchain. I think it will have uses in some areas of fintech, and perhaps others. But these ideas that it will somehow support societal decentralization, that it might allow us to be more democratic in some way have zero credibility. I will explain why I say that in a moment.
+This does not mean I think that Blockchain is not an interesting technology, I’m from a mathematical background and I understand Blockchain. I think it will have uses in some areas of fintech, and perhaps others. But these ideas that it will somehow support societal decentralization, that it might allow us to be more democratic in some way have zero credibility. I will explain why I say that in a moment.
 
 In terms of this talk, this points to something important which i want to highlight -- and I will get back to Blockchain in a moment.
 
