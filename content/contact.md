@@ -1,7 +1,4 @@
 ---
 title: Contact
 ---
-
-<script type="text/javascript" src="https://www.formlets.com/static/js/iframeResizer.min.js"></script>
-<iframe id="formlets-iframe" src="https://www.formlets.com/forms/Fdjq9i7uLKJMPm2s/?iframe=true" frameborder="0" width="100%"></iframe>
-<script type="text/javascript" src="https://www.formlets.com/static/js/iframe.js"></script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSca1ROZ8jJorjKjCCOHqbakTEEXLQHnqZh--iDejLADLmmcIg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
