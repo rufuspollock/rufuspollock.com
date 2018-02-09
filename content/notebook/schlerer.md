@@ -1,0 +1,29 @@
+---
+title: Schlerer
+date: 2018-02-09
+---
+
+I came across Schlerer via McGilchrist. Thoughts on values really resonated.
+
+## Values
+
+Davis and Steinbock:
+
+> Scheler's first and most influential work in phenomenology was his study of ethics, Formalism in Ethics and a Non-Formal (or Material) Ethics of Value. This work was motivated in part by a critique of the highly scientific or formalistic approaches to ethics introduced by Immanuel Kant and then later developed by the Neo-Kantians during the late nineteenth and early twentieth century. Kant's influence on Scheler's thought cannot be underestimated. With Kant, Scheler rejects both utilitarianism and eudiamonism, and holds that ethics rests upon an a priori, an obligation non-relative to future consequences or happiness. For Kant, the a priori is expressed in the form of a categorical imperative, an imperative that is universalizable. For Scheler, such a formulation of the a priori is abstract and as a consequence, fails to account for both the unique obligation one has to another person and the unique call to responsibility given in the ethical imperative (GW II, 34). The ethical imperative, Scheler insists, is given as what one ought to necessarily do, but it is also experienced as what ‘I,’ and not merely anyone, ought to do (GW II, 94).
+>
+> ...
+>
+> It is in the experience of value preferencing that Scheler further clarifies the ethical a priori. There is, according to Scheler, an objective ranking of values, a ranking of the “lower” to the “higher,” or better expressed, a ranking of the more superficial to the deeper. The ranking of value types from lowest to highest is as follows: pleasure, utility, vitality, culture, and holiness. How the different types of value stand in relation to one another is grasped intuitively in the experience of value. Evidence of this ranking is felt through experiences like duration (GW II, 108) or depth of fulfillment (GW II, 113). Claiming that there is an objective order of values, or in Pascal’s terminology, an “ordre du coeur” (order of the heart), necessarily entails that the higher values “ought” to be preferred to the lower. We ought to act in such a manner that promotes the higher or positive values. This non-formal or material a priori of value is not given prior to experience, but it is present in the experience of the particular value modalities. A religious icon is given not only as holy, but also as that which is to be preferred to the merely useful or vital. What types of value an object has is relative to the individual or culture. A cow certainly has a different value for the Hindu than for the rancher. Nonetheless, that the holy is to be preferred to the vital is not historically or culturally relative.
+
+## Crisis of Modernity
+
+Davis and Steinbock:
+
+> The crisis of modernity was, for Scheler, the result of three central factors or mindsets: (1) the rise of late capitalism, (2) the mechanization of nature, and (3) liberal individualism. Scheler's description of these three as “mindsets” (Denkformen) is purposeful. Particularly in respect to capitalism, he wants to distinguish his work from that of Weber and Sombart, specifically from their work on the “spirit” of capitalism. On the other hand, he wants to retain an understanding of capitalism, for instance, as not merely an economic system, but as an approach and a way of configuring the world.
+>
+> Capitalism, the mechanization of nature and liberal individualism are reductive mindsets. A reductive mindset is a way of viewing the world that devalues all other possible views. The mechanization of nature, for example, becomes not merely one form of knowledge of nature, but the only way in which to know it. All reductive mindsets are, for Scheler, ultimately rooted in a value reversal. The value reversal that all three of these mindsets share is the promotion of utility over the value of life. As a consequence, a living being only has value in so far as it is useful. Late capitalism is the economic expression of the value reversal. All goods, objects and beings are valuable only in so far as they are able to generate more wealth. The mechanization of nature is the reduction of a living being to a mechanism or a machine for the purposes of manipulation and control and for achieving some useful end for human beings. Liberal individualism is the reduction of all forms of community to society. As a result, all interpersonal relations are regarded as artificial and contractual, relations formed for the benefit of the individual's interests.
+>
+> Together these different but related mindsets create a worldview, the modern Weltanschauung, and succeed in transforming the world into an object of utility. The value reduction to utility poses not only a threat to the life and the welfare of living beings, but also to the cultural and spiritual values. Utility, as the dominant value, does not destroy the higher values. It cultivates, rather, a type of value blindness. People lose sight of the value of spiritual pursuits such as the arts, philosophy and religion. Spiritual values are only noticed through their usefulness. When a culture becomes blind to the higher values, it also loses sight of its uniqueness as a culture and as a people. At the level of utility, people are more alike. Cultural differences matter very little when the goals become efficiency and productivity. It is the higher, spiritual values that reveal the uniqueness of a specific culture. The end of the modern worldview, Scheler maintains, is an internationalization of all cultures, a making of all peoples and cultures one and the same (GW IV, 600).
+
+Davis, Zachary and Steinbock, Anthony, "Max Scheler", The Stanford Encyclopedia of Philosophy (Fall 2016 Edition), Edward N. Zalta (ed.), https://plato.stanford.edu/entries/scheler/
+
