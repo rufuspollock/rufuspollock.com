@@ -7,11 +7,12 @@ description: Selected Writings of Rufus Pollock
 
 ***[See also my upcoming book &raquo;](/book/)***
 
+* [Why Open Source Software Matters for Government and Civic Tech (and how to support it) - July 2016](https://rufuspollock.com/open-source-software-and-government/)
 * [The Value of the Public Domain (PDF) - November 2006](https://rufuspollock.com/papers/value_of_public_domain.ippr.pdf)
   * Post: https://rufuspollock.com/2006/11/27/the-value-of-the-public-domain/
-* [Putting Open at the Heart of the Digital Age](http://rufuspollock.com/2015/06/05/putting-open-at-the-heart-of-the-digital-age/)
+* [Putting Open at the Heart of the Digital Age - June 2015](http://rufuspollock.com/2015/06/05/putting-open-at-the-heart-of-the-digital-age/)
 * [A Data Revolution that Works for All of Us - re Open Data and International Development - September 2014](http://rufuspollock.com/2014/09/24/a-data-revolution-that-works-for-all-of-us/)
-* [The Knowledge Commons is Different - October 2009](http://rufuspollock.com/2009/10/13/the-knowledge-commons-is-different/)
+* [The Knowledge Commons is Different - October 2009](http://rufuspollock.com/2009/10/13/the-knowledge-commons-is-different/) (2009)
 * [Copyright is a Monopoly and Isn't like Normal Property - January 2011](http://rufuspollock.com/2011/01/31/copyright-is-a-monopoly-and-isnt-like-normal-property/)
 * [How Long Should Copyright Last - September 2009](http://rufuspollock.com/2009/09/22/talk-at-atrip-conference-how-long-should-copyright-last/)
 * [Web 2.0 and the Ethics of Sharing - September 2007](http://rufuspollock.com/2007/09/18/talk-at-law-20-openness-web-20-and-the-ethic-of-sharing/
