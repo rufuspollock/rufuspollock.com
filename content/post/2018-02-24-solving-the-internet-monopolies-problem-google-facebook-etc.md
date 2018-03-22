@@ -24,15 +24,24 @@ http://rufuspollock.com/book/
 
 ## An example of a mis-diagnosis: privacy ...
 
-One prevalanet misdiagnosis is that the issue with Facebook and Google and the source of (much) of their monopoly power is to do with their control of our personal data. See, for example, the Economist's cover in April 2017 showing Internet monopolies as oil rigs mining personal data -- an allusion to the common assertion that "personal data is the new oil".
+One prevalent misdiagnosis is that the issue with Facebook and Google and the source of (much) of their monopoly power is to do with their control of our personal data. See, for example, the Economist's cover in April 2017 showing Internet monopolies as oil rigs mining personal data -- an allusion to the common assertion that "personal data is the new oil".
 
-From this mis-diagnosis flows a proposed solution: limit Facebook and Google's access to our personal data and/or ensure others have access to that personaol data on equal terms ("data portability").
+From this mis-diagnosis flows a proposed solution: limit Facebook and Google's access to our personal data and/or ensure others have access to that personal data on equal terms ("data portability").[^data-portability]
+
+[^data-portability]: Data portability means almost nothing in a world where you have a dominant network. So what if I can get my data out of Facebook if no other network has a critical mass of participants. What is needed is that Facebook has a live, open read/write API that allows other platforms to connect if authorized by the user.
 
 In fact, personal data is a practical irrelevancies to the monopoly issue. Focusing on it serves only to distract us from the real solutions.
 
-Limiting Facebook's and Google's access to our personal data or making it more portable would make very little difference to their monopoly power and its deleterious effects on innovation and the key freedoms of enterprise, choice and thought.
+Limiting Facebook's and Google's access to our personal data or making it more portable would make very little difference to their monopoly power, or reduce the deleterious effects of that power on innovation and freedom -- the key freedoms of enterprise, choice and thought.
 
-Why will it make little difference? Because their monopoly just doesn't arise from their access to our personal data. Instead it comes from massive economies of scale (costless copying) plus platform effects. If you removed Google's and Facebook's ability to use personal data to target ads tomorrow it would make very little difference to their top or bottom lines because their monopoly on our attention would be little changed and their ad targeting would be little diminished -- in Google's case the fact you type in a specific search from a particular location is already enough to target effectively and similar Facebook's knowledge of your broad demographic characteristics would be enough given the lock-hold they have on our online attention).
+It make little difference because their monopoly just doesn't arise from their access to our personal data. Instead it comes from massive economies of scale (costless copying) plus platform effects. If you removed Google's and Facebook's ability to use personal data to target ads tomorrow it would make very little difference to their top or bottom lines because their monopoly on our attention would be little changed and their ad targeting would be little diminished -- in Google's case the fact you type in a specific search from a particular location is already enough to target effectively and similar Facebook's knowledge of your broad demographic characteristics would be enough given the lock-hold they have on our online attention.
+
+What is needed in Google's case is openness of the platform and in Facebook's openness combined with guaranteed interoperability ("data portability" means little if everyone is one Facebook!).
+
+Worse, focusing on privacy actually reinforces their monopoly position. It does so because privacy concerns:
+
+- Increase compliance costs which burden less wealthy competitors disproportionately. In particular, increased compliance costs make it harder for new firms to enter the market. A classic example is the "right to be forgotten" which actually makes it harder for alternative search firms to compete with Google.
+- Make it harder to get (permitted) access to user data on the platform and it is precisely (user-permitted) read/write access to a platform's data that is the best chance for competition. In fact, it now gives monopolists the perfect excuse to deny such access: Facebook can now deny other competing firms (user-permitted) access to user data citing "privacy concerns".
 
 ## An example of a misguided solution
 
@@ -50,7 +59,7 @@ Even more importantly we need to prevent these kind of monopolies in future -- w
 
 ## Fake news: confusing which symptoms are related to which disease
 
-Or even confusing which symptoms are related to which disease. For example, fake news is a symptom only tangentially related to this disease. Fake news is a problem but it is only partially related to monopolisation. The causes of fake news are much more complex than simple monopoly -- in fact, you could argue that more diversity in media actually makes echo chambers worse. Nevertheless, reducing monopoly at Facebook and Google level may bring *some* improvement - see https://rufuspollock.com/2016/11/26/fake-news-post-truth---is-it-news-and-what-can-we-do/
+We must also be careful not to confuse which symptoms are related to which disease. For example, fake news *is* a problem but it is only tangentially related to the disease of monopoly. The causes of fake news are many and various and much more complex than simple monopoly. In fact, one could argue that more diversity in media actually makes echo chambers worse. Reducing monopoly at Facebook and Google level may bring *some* improvement but it is probably secondary. For more, see https://rufuspollock.com/2016/11/26/fake-news-post-truth---is-it-news-and-what-can-we-do/
 
 [^2]: See as an example of just this kind of proposal https://meanjin.com.au/essays/the-last-days-of-reality/
 
