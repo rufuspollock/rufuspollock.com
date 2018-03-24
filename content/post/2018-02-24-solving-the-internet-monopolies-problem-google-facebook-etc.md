@@ -24,7 +24,9 @@ More details on all of this in my upcoming book:
 
 http://rufuspollock.com/book/
 
-## An example of a mis-diagnosis: their control of our personal data
+{{< toc >}}
+
+# An example of a mis-diagnosis: their control of our personal data
 
 One prevalent misdiagnosis is that the issue with Facebook and Google and the source of (much) of their monopoly power is to do with their control of our personal data. See, for example, the Economist's cover in April 2017 showing Internet monopolies as oil rigs mining personal data -- an allusion to the common assertion that "personal data is the new oil" (see more examples added in the appendix below).
 
@@ -45,7 +47,7 @@ Worse, focusing on privacy actually reinforces their monopoly position. It does 
 - Increase compliance costs which burden less wealthy competitors disproportionately. In particular, increased compliance costs make it harder for new firms to enter the market. A classic example is the "right to be forgotten" which actually makes it harder for alternative search firms to compete with Google.
 - Make it harder to get (permitted) access to user data on the platform and it is precisely (user-permitted) read/write access to a platform's data that is the best chance for competition. In fact, it now gives monopolists the perfect excuse to deny such access: Facebook can now deny other competing firms (user-permitted) access to user data citing "privacy concerns".
 
-## An example of a misguided solution
+# An example of a misguided solution: build a new open-source decentralized social network
 
 Similarly, the idea sometimes put forward that we just need another open-source decentralized social network is completely implausible (even if run by Tim Berners-Lee).[^2]
 
@@ -53,19 +55,21 @@ Platforms/networks like Facebook tend to standardize: witness phone networks, po
 
 In addition, the idea that some open-source decentralized effort is going to take on an entrenched highly resourced monopoly on its own is ludicrous (the only hope would be if there was serious state assistance and regulation -- just in the way that China got its own social networks by effectively excluding Facebook).
 
-Instead, in the case of Facebook we need to address the monopoly at root: networks like this will always tend to standardization. The solution is ensure that we get an open rather than closed (proprietary) global social network (like we got with the open internet).
+Instead, in the case of Facebook we need to address the monopoly at root: networks like this will always tend to standardization. The solution is ensure that we get an open rather than closed, proprietary global social network -- just like we got with the open Internet.
 
-Right now that would mean enforcing equal access rights to facebook API for competitors or, enforcing full open sourcing of key parts of the software and tech stack and getting guarantees on continued non-discriminatory access.
+Right now that would mean enforcing equal access rights to facebook API for competitors or, enforcing full open sourcing of key parts of the software and tech stack plus getting guarantees ongoing non-discriminatory API access.
 
-Even more importantly we need to prevent these kind of monopolies in future -- we want to stop shutting the door after the horse has bolted! This means systematic funding of open protocols and platforms. By open i mean the software, algorithms and non-personal data are open .... The way to do that is replacing patents/copyright with remuneration rights ...
+Even more importantly we need to prevent these kind of monopolies in future -- we want to stop shutting the door after the horse has bolted! This means systematic funding of open protocols and platforms. By open i mean the software, algorithms and non-personal data are [open][]. And we need to fund the innovators who create and develop these and the way to do that is replacing patents/copyright with [remuneration rights][].
 
-## Fake news: confusing which symptoms are related to which disease
+[remuneration-rights]: /book/#remuneration-rights
+
+# Fake news: confusing which symptoms are related to which disease
 
 We must also be careful not to confuse which symptoms are related to which disease. For example, fake news *is* a problem but it is only tangentially related to the disease of monopoly. The causes of fake news are many and various and much more complex than simple monopoly. In fact, one could argue that more diversity in media actually makes echo chambers worse. Reducing monopoly at Facebook and Google level may bring *some* improvement but it is probably secondary. For more, see https://rufuspollock.com/2016/11/26/fake-news-post-truth---is-it-news-and-what-can-we-do/
 
 [^2]: See as an example of just this kind of proposal https://meanjin.com.au/essays/the-last-days-of-reality/
 
-## Appendix - More Examples of Erroneous Belief that Data is the Asset
+# Appendix - More Examples of Erroneous Belief that Data is the Asset
 
 **Added: 24 March 2018**
 
