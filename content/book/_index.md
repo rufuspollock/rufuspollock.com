@@ -1,6 +1,6 @@
 ---
-title: Open Information Nation - the Book
-description: Open Information Nation Book
+title: Open Revolution - Book
+description: Open Revolution Book
 ---
 
 <p style="font-size: 18px;"><a href="#signup" class="button">Sign up for updates and early access to my book &raquo;</a></p>
