@@ -37,7 +37,7 @@
                       {{ $theme := .Params.themetoshow }}
                       {{ range where .Site.Pages "Params.themes" "intersect" $theme }}
                       {{ $date := time .Params.eventdate }}
-                      {{ if ge $date.Unix .Now.Unix }}
+                      {{ if ge $date.Unix now.Unix }}
                       {{ $.Scratch.Set "event" true }}
                       <div class="event">
                         <div class="event-content">
