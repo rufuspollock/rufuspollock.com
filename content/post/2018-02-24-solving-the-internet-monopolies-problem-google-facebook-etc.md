@@ -77,9 +77,11 @@ From Guardian piece from Cambridge Analytica "scandal" https://www.theguardian.c
 
 > “Corporations like Google, Facebook, Amazon, all of these large companies, are making tens or hundreds of billions of dollars off of monetising people’s data,” Kaiser says. “I’ve been telling companies and governments for years that data is probably your most valuable asset. Individuals should be able to monetise their own data – that’s their own human value – not to be exploited.”
 
-This is a perfect illustration of the current misunderstanding. Google and Facebook are making money from their **monopoly of your attention *not* your data**. Even if they zero data on you they would stil make lots of money and have a dominant position (just as dominant TV networks made lot of money without any data-driven ad-targeting in the old days). Amazon are slightly different: they are making their money from a monopoly marketplace at huge scale (and it's not yet clear how much money they make from that). Once gain this has nothing to do with having your data.
+This is a perfect illustration of the current misunderstanding. Google and Facebook are making money from their **monopoly of your attention *not* your data**. Even if they had zero data on you they would still make lots of money and have a dominant position -- just as dominant TV networks made lot of money without any data-driven ad-targeting in the old days. Amazon are slightly different: they are making their money from a monopoly marketplace at huge scale (and it's not yet clear how much money they make from that). Once again though this has nothing to do with having your data.
 
-Facebook / Google / Amazon's monopoly come in turn from two key aspects of the information age -- costless copying and platform effects -- combined with exclusive ownership and control based in intellectual property monopoly rights (plus control of access to the platform).
+The question then becomes: where are *those* monopolies coming from?
+
+The answer is that it comes from two key aspects of the information age -- costless copying and platform effects -- combined with exclusive ownership and control based in intellectual property monopoly rights (plus control of access to the platform).
 
 This misunderstanding matters. The initial flaw in understanding the sources of these firms power leads then to the proposal of a wrong and misguided solution: allowing people to "monetise their own data" would make no difference to these monopolies (even if was clear *how* people could monetise their own data).
 
