@@ -16,7 +16,7 @@ Agreeing we have a problem is always a crucial first step. But to go further we 
 
 On point one, the answer is that he root cause is costless copying (plus platform effects) combined with monopoly rights. Costless copying (and platform effects) would always lead to some kind of standardization -- witness the Internet. But that is not a problem -- in fact it is advantage to have a single standard. The problem arises when the standard platform is owned by one entity and becomes a monopoly as we have today with Google in search, Facebook in social networking etc.
 
-The solution flows from the diagnosis: make these platforms open and have an open-compatible, market-oriented way to pay innovators (i.e. have remuneration rights). By make a platform open I mean make its protocols, algorithms, software and know-how [open, free to all to use, build on and share][open].
+The solution flows from the diagnosis: make these platforms open and have an open-compatible, market-oriented way to pay innovators (i.e. have [remuneration rights][]). By make a platform open I mean make its protocols, algorithms, software and know-how [open, free to all to use, build on and share][open].
 
 [open]: https://opendefinition.org/
 
@@ -61,7 +61,7 @@ Right now that would mean enforcing equal access rights to facebook API for comp
 
 Even more importantly we need to prevent these kind of monopolies in future -- we want to stop shutting the door after the horse has bolted! This means systematic funding of open protocols and platforms. By open i mean the software, algorithms and non-personal data are [open][]. And we need to fund the innovators who create and develop these and the way to do that is replacing patents/copyright with [remuneration rights][].
 
-[remuneration-rights]: /book/#remuneration-rights
+[remuneration rights]: /book/#remuneration-rights
 
 # Fake news: confusing which symptoms are related to which disease
 
