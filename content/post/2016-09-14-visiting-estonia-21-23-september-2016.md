@@ -25,7 +25,6 @@ I would love to meet as many people and organizations as possible whilst I am th
 
 ## Data Driven Government - OECD e-Leaders
 
-[gview file="http://rufuspollock.org/wp-content/uploads/2016/09/data-driven-government-oecd-cio-sep-2016.pdf"]
+{{< pdf src="https://rufuspollock.com/wp-content/uploads/2016/09/data-driven-government-oecd-cio-sep-2016.pdf" >}}
 
 <a href="http://rufuspollock.org/wp-content/uploads/2016/09/2-1.jpg"><img class="wp-image-2241 alignnone" src="http://rufuspollock.org/wp-content/uploads/2016/09/2-1-300x200.jpg" alt="2" width="381" height="254" /></a> <a href="http://rufuspollock.org/wp-content/uploads/2016/09/6.jpg"><img class="wp-image-2242 alignnone" src="http://rufuspollock.org/wp-content/uploads/2016/09/6-300x200.jpg" alt="6" width="381" height="254" /></a><a href="http://rufuspollock.org/wp-content/uploads/2016/09/9.jpg"><img class="alignnone size-medium wp-image-2243" src="http://rufuspollock.org/wp-content/uploads/2016/09/9-300x200.jpg" alt="9" width="300" height="200" /></a><a href="http://rufuspollock.org/wp-content/uploads/2016/09/11.jpg"><img class="alignnone size-medium wp-image-2244" src="http://rufuspollock.org/wp-content/uploads/2016/09/11-300x200.jpg" alt="11" width="300" height="200" /></a>
-

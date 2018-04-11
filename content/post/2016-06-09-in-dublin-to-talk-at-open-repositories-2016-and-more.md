@@ -17,7 +17,7 @@ Next week I’m going to be in Dublin to keynote at [Open Repositories 2016](htt
 
 If you’re in Dublin and interested in meeting up [please get in touch.](http://rufuspollock.org/about/)
 
-[gview file="http://rufuspollock.org/wp-content/uploads/2016/06/open-world-or2016-june-2016.pdf"]
+{{< pdf src="https://rufuspollock.com/wp-content/uploads/2016/06/open-world-or2016-june-2016.pdf" >}}
 
 OK Ireland Meetup
 
@@ -26,4 +26,3 @@ OK Ireland Meetup
 OR2016 Keynote
 
 <a href="http://rufuspollock.org/wp-content/uploads/2016/06/ClFO036WYAARS1l.jpg"><img src="http://rufuspollock.org/wp-content/uploads/2016/06/ClFO036WYAARS1l-300x225.jpg" alt="ClFO036WYAARS1l" width="300" height="225" class="alignnone size-medium wp-image-2015" /></a>
-
