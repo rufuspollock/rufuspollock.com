@@ -80,3 +80,16 @@ For block MathJax wrap formulas in double `$$`, e.g.:
 The formula below is not inlined:
 $$ \\Omega\_{G} = [0,1]^{N}, N=|G| $$
 ```
+
+### Embeddable PDFs
+
+To embed a PDF file into a page, you need to use our custom shortcode when writing a content document in markdown. Just have following code snippet where you want to embed a PDF:
+
+```
+{{< pdf src="URL or path to pdf file" >}}
+```
+
+See an example of how it works:
+
+Source file: https://gitlab.com/rufuspollock/rufuspollock.com/blob/master/content/post/2016-05-20-my-evening-seminar-in-may-2016-at-the-faculty-of-law-as-a-guest-of-cipil.md
+How it is rendered: https://rufuspollock.com/2016/05/20/my-evening-seminar-in-may-2016-at-the-faculty-of-law-as-a-guest-of-cipil/
