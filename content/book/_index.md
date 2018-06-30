@@ -165,11 +165,11 @@ This then is not a book about technology or for the digerati. It is a book about
 
 # Remuneration Rights
 
-Whilst information is costly to copy once created it can be expensive to create the first instance, whether that is a piece of software, a movie, a medicine or a design.
+Digital information is cheap to copy, however it can be expensive to create the first instance, whether it's a piece of software, a movie, a medicine or a design.
 
-Today, in our Closed world we mainly use intellectual property monopoly rights such as patents and copyrights as a way of incentivising private innovation and creativity and paying back innovators and creators for their investment in making that first copy.
+Today, in our Closed world we mainly use intellectual property monopoly rights such as patents and copyrights as a way of incentivising private innovation and creativity and paying back innovators and creators for their investment in creating the first instance.
 
-In an Open world we need an alternative open-compatible mechanism for doing the same thing and replacing intellectual property monopoly rights.
+In an Open world we need an alternative open-compatible mechanism for doing the same thing that can replace intellectual property monopoly rights.
 
 The solution is to innovate legally and introduce a new kind of property-like right: the Remuneration Right.[^alternative-names]
 
@@ -179,7 +179,7 @@ In return for the remuneration right, the innovation is open and freely availabl
 
 Below are detailed case studies of the application of Remuneration Rights in specific domains. We also address key further questions such as: how to handle reuse; how to address international free-riding and the case where only one or a few countries have transitioned to remuneration rights etc.
 
-[^alternative-names]: The basic concept of remuneration rights has been around in different forms for many years. For example, it is very similar to the way collecting socities operate. 
+[^alternative-names]: The basic concept of remuneration rights has been around in different forms for many years. For example, it is very similar to the way collecting socities operate. However, there is no standard agreed term for this model so we term it "remuneration rights".
 
 ---
 
