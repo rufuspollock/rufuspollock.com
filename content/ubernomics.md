@@ -6,11 +6,11 @@ title: "Ubernomics: Marketplace Monopolies and What To Do About Them"
 
 All round the world countries have struggled with how to deal with Uber, AirBnB and similar companies. Are these new apps something to be welcomed or something to be stopped?  How we treat Uber-like companies is largely dependent on how we see and understand them.
 
-There is, in fact, nothing especially digital about the underlying economics of Uber's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces.
+There is, in fact, nothing especially digital about the underlying economics of Uber's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: platforms / marketplaces.
 
-Because of the positive feedback between buyers and sellers, free competition between marketplaces tends towards "one" -- one dominant marketplace. And, hence, to monopoly if that one marketplace is exclusively owned and controlled.
+Because of the positive feedback between buyers and sellers, the initial free competition between marketplaces tends towards "one" -- one dominant marketplace. And, hence, to monopoly if that one marketplace is exclusively owned and controlled.
 
-Monopoly is not inevitable though: we can have open marketplaces -- just as we have free and open markets. To do this requires us to open the digital infrastructure and open the order book (where it exists).
+Monopoly is not inevitable though: we can have open platforms/marketplaces -- just as we have free and open markets. To do this requires us to open the digital infrastructure and, where appropriate, to open the order book too.
 
 {{< toc >}}
 
@@ -26,7 +26,7 @@ In conversation after conversation about Uber what struck me was that policy-mak
 
 This is a mistake -- and a dangerous one.
 
-There is nothing especially digital about the underlying economics of Uber's business model. In fact, the economics of Uber, and the associated regulatory issues, are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces.
+There is nothing especially digital about the underlying economics of Uber's business model. In fact, the economics of Uber, and the associated regulatory issues, are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces / platforms.
 
 For example, Billingsgate in London was for several hundred years the home of London's fish market -- and one of the biggest such markets in the world. Or back in the 13th century, Champagne became the site of a major medieval fairs where merchants all over Europe would converge each spring to buy and sell to each other. The economics of Billingsgate fish market or the Champagne fairs are the same as Uber today.
 
