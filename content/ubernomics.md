@@ -1,16 +1,27 @@
 ---
-title: "Ubernomics: Marketplace Monopolies and What To Do About Them"
+title: "Ubernomics: Platform Monopolies & How to Fix Them"
 ---
 
 *First version: Dec 2016, updated Feb 2018*
 
-All round the world countries have struggled with how to deal with Uber, AirBnB and similar companies. Are these new apps something to be welcomed or something to be stopped?  How we treat Uber-like companies is largely dependent on how we see and understand them.
+<div class="img">
+  <img src="/images/ubernomics-uber-lyft.jpg" />
+</div>
 
-There is, in fact, nothing especially digital about the underlying economics of Uber's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: platforms / marketplaces.
+Around the world countries have struggled to work out how to deal with Uber, AirBnB and their like. Are these new apps something to be welcomed or something to be stopped? But how we treat Uber-like companies is largely dependent on how we see and understand them.
+
+There is, in fact, nothing especially digital about the underlying economics of Uber's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces / platforms.
 
 Because of the positive feedback between buyers and sellers, the initial free competition between marketplaces tends towards "one" -- one dominant marketplace. And, hence, to monopoly if that one marketplace is exclusively owned and controlled.
 
 Monopoly is not inevitable though: we can have open platforms/marketplaces -- just as we have free and open markets. To do this requires us to open the digital infrastructure and, where appropriate, to open the order book too.
+
+*Note: we'll use the term platform and marketplace interchangeably going forward. Today, "platform" is the more common term in the digital world and in economics ("two-sided platforms" etc). However, here we often prefer "marketplace" because it connects this with something both familiar and ancient.*
+
+<div class="img">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Market_Day_in_Stockport_1910s.jpg" alt="Market Day in Stockport 1910s.jpg" style="height: 500px" />
+  <p>Market Day in Stockport in 1910s. <a href="https://commons.wikimedia.org/w/index.php?curid=34595715">Link</a></p>
+</div>
 
 {{< toc >}}
 
@@ -30,6 +41,11 @@ There is nothing especially digital about the underlying economics of Uber's bus
 
 For example, Billingsgate in London was for several hundred years the home of London's fish market -- and one of the biggest such markets in the world. Or back in the 13th century, Champagne became the site of a major medieval fairs where merchants all over Europe would converge each spring to buy and sell to each other. The economics of Billingsgate fish market or the Champagne fairs are the same as Uber today.
 
+<div class="img">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Billingsgate_Fish_Market._Interior_ILN_1876.jpg" alt="Billingsgate Fish Market. Interior ILN 1876.jpg" style="height: 400px;" />
+  <p>Billingsgate Fish Market in London, 1876. <a href="https://commons.wikimedia.org/w/index.php?curid=7498159">Link</a></p>
+</div>
+
 For many, this fact is masked by the association of Uber with digital technologies like smartphones and the Internet. Whilst the advent of smartphones and the Internet have played a critical role in the rise of Uber, this is, in fact, largely irrelevant to the economic analysis of Uber and how we should handle it.
 
 At the same time, it *is* important to understand that digital technologies *are* creating ever more "marketplace" industries like Uber. Thus, it is ever more important to understand the real economics and the real lessons of this "Uberization".
@@ -44,14 +60,18 @@ More broadly, we have platforms. This includes companies like Facebook, Google, 
 
 Strictly platforms as broader than marketplaces. For example, an operating system or social network is a platform but not, strictly, a marketplace. However, many of the same ideas apply and so the distinction does not matter much here.
 
-## 2. Marketplaces have snowball economics
+## 2. Platforms tend to one because of positive feedback between buyers and sellers 
 
 Like a snowball down a mountain, marketplaces, once past a critical size, have the potential to grow rapidly thanks to positive feedback where buyers and sellers both value size because it offers:
 
 * liquidity: you will be able to trade e.g. book a taxi, rent an apartment etc
 * diversity: they have the product you want e.g. this particular fish is available, that stock has a market maker, there is a taxi in your area (not just central London)
 
-## 3. Therefore marketplaces tend to monopoly (unless made open)
+Furthermore, buyers and sellers usually don't want to have to participate in lots of different marketplaces ("multi-homing" is a pain). Combined with the positive feedback effects this creates a strong pressure for there to be just one marketplaces.[^more-than-one]
+
+[^more-than-one]: The only reason you get more than one platform is if there is sufficient variation in buyer preferences (plus congestion in the physical world -- there's only so many people who can fit in the marketplace). For example, in the physical world buyers have a preference not to travel too far so you can still have two markets in different towns fifty miles apart. In a virtual world there's no literal distance but there may be "distance" in tastes: some people like Macs enough that Mac managed to retain a (tiny) market share against Windows even when Windows was very dominant because those "Mac" people just really liked some aspect of Macs. Even in this case though the platforms will be lop-sided with usually one marketplace with the great majority of users.
+
+## 3. Marketplaces tend to monopoly (unless made open)
 
 Because of snowball economics over time you converge on just one marketplaces -- "marketplaces tend to one".
 
@@ -59,19 +79,19 @@ You don't have ten fish markets in a town, you have one. You don't have fifty st
 
 The question then is: is that marketplace "closed": exclusively owned and controlled by one entity. If so it becomes a monopoly. Or is an "open" marketplace where anyone can participate on fair and equitable terms?
 
-Note: there can be substantial competition to *become* the monopolist. There may also be some competition between regional monopolies when there is enough geographic or preference diversity: if you live in Scotland you won't go to London to buy your fish so several local fish markets can exist (with limited competition between them at the fringes).
+*Note: there can be substantial competition to *become* the monopolist. There may also be some competition between regional monopolies when there is enough geographic or preference diversity: if you live in Scotland you won't go to London to buy your fish so several local fish markets can exist (with limited competition between them at the fringes).*
 
 ## 4. These marketplaces are not "contestable"
 
 It is not easy to build a new one and compete against the old one.
 
-Why? Because buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usuatly less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
+Why? Because buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usually less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
 
-This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old marketplace. Similarly, no fishseller wants to risk moving their stall to the new marketplace until they know the buyers will all be there -- its a chcken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
+This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old marketplace. Similarly, no fish-seller wants to risk moving their stall to the new marketplace until they know the buyers will all be there -- its a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
 
 ## 5. Thus, the monopoly marketplace owner has a lot of power
 
-Thus, the owner of marketplace has a lot of power -- once the marketplace is established. At an early stage marketplace industries will often be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relativey easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated marketplace access rates).
+Thus, the owner of marketplace has a lot of power -- once the marketplace is established. At an early stage marketplace industries will often be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relatively easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated marketplace access rates).
 
 ## 6. That power is inevitably abused to the detriment of buyers and consumers
 
@@ -81,16 +101,28 @@ Note: a side benefit of charging sellers is that it makes the fees largely hidde
 
 ## 7. The solution is to open the marketplace
 
-The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discrminatory terms. This involves two parts:
+The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two parts:
 
 - Opening the software, protocols and non-personal data that power the marketplace.
-- Universal, equitable access to the order book database with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with goverance in place to ensure a transparent and equitable pricing and access policy.
+- Universal, equitable access to the order book database with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
 
 It is worth emphasizing that competition between proprietary, closed, marketplaces is not sufficient. Openness is essential.
 
-## 8. Pro-activity is essential
+## 8. Remuneration rights can pay for open
+
+It costs money to create the software, protocols and (non-personal) data that power a marketplace. Traditionally, entrepreneurs and investors fund the creation of these based on the hope of becoming a marketplace monopolist and making it rich. Without the monopoly why would they invest? One option would be farsighted funding by the state -- as with the Internet. However, this is problematic: how can the state know exactly which entrepreneurs should be backed with what ideas?
+
+Instead, we can use [remuneration rights][]. These provide a free-market-like but open-compatible way to fund innovators. In essence, remuneration rights combine a common subscription payment from citizens organized by the government combined with a market-based payment of those monies to innovators based on whose innovations get used. You can read more about these ideas in [my book The Open Revolution][openrev].
+
+Finally, actually running the platform itself costs money even if the protocols and software are free and open to use -- you still need data centers and sysadmins to keep the servers running. With the software and protocols being free, service providers can freely compete and users will have a choice of who they use -- just as we choose today between different "Internet Service Providers" who operate the Internet and provide us with access to it.
+
+[remuneration rights]: https://openrevolution.net/remuneration-rights
+[openrev]: https://openrevolution.net/
+
+## 9. Pro-activity is essential
 
 Policymakers and stakeholders need to take a pro-active approach. It is far easier to shape a marketplace towards openness early in its development than it is to handle an entrenched and powerful monopolist marketplace once in place.
+
 
 # Visual Summary of the Thesis
 
@@ -123,7 +155,12 @@ Summary: we can have monopoly platforms or open ones -- it's our choice. Open pl
 
 Stripped to their essence Uber, AirBnB and the like resemble a very old economic structure: the marketplace.[^nomenclature] Marketplaces have existed for thousands of years, practically since civilization first began. Marketplaces are where buyers and sellers come together to exchange. At a fish market you buy fish, at a stock market you buy stocks etc.
 
-[^nomenclature]: We could have used market instead of marketplace in this essay -- originally a market and a marketplace (the physical location where the market took place) were essentially idential. However, over time the concept of a market has been abstracted and we think of markets as the general process of exchange between different parties.
+<div class="img">
+  <img src="/images/ubernomics-market-thailand.jpg" style="width: 80%" />
+  <p>Rot Fai Train Night Market, Thailand (<a href="https://unsplash.com/photos/Dj5evF5JCjI">Credit</a>)</p>
+</div>
+
+[^nomenclature]: We could have used market instead of marketplace in this essay -- originally a market and a marketplace (the physical location where the market took place) were essentially identical. However, over time the concept of a market has been abstracted and we think of markets as the general process of exchange between different parties.
 
 But what distinguishes a marketplace from anywhere where we exchange? For example, suppose I walk over to the farm of my neighbour Pete and he sells me some carrots. We would not describe his farmyard as a marketplace.
 
@@ -143,7 +180,7 @@ Originally, marketplaces were physical locations where you exchanged real things
 
 The interesting thing about these markets is that since there were no physical goods -- no carrots or corn -- directly involved, markets could get bigger because you didn't have the limit imposed by the cost of transporting goods to the marketplace. Instead, the limit was just whether you could travel to the market -- or once we invented telegraphs the cost of sending instructions by telegraph.
 
-So markets gradually grew in scale. Then with the internet and mobile phones "distance" shrank again. In addition, the economies of scale in operating the marketplace -- in writing software, running servers, developing a brand -- drove some convergence even across markets: in the virtual, digital world the marketplace itself is no longer a town square or even the stock exchange floor but just some code in cyberspace. This means that even though London and New York are different markets for taxi rides there is are some economies in scope in running both markets. There are also economies of scale in that the kind of people who book a lot of taxi rides also tend to travel internationally and once they have that Uber app on their phone in New York it makes it more likely they will try it when they land in London.
+So markets gradually grew in scale. Then with the internet and mobile phones "distance" shrank again. In addition, the economies of scale in operating the marketplace -- in writing software, running servers, developing a brand -- drove some convergence even across markets: in the virtual, digital world the marketplace itself is no longer a town square or even the stock exchange floor but just some code in cyberspace. This means that even though London and New York are different markets for taxi rides there is are some economies in scope in running both markets. There are also economies of scale in that the kind of people who book a lot of taxi rides also tend to travel internationally and once they have Uber on their phone in New York it makes it more likely they will try it when they land in London.
 
 In short, digital technology with its infinite economies of scale (one piece of software can be used to run one or a million servers) and its globalization of consumption (we all have smartphones) means that digital marketplaces have an unprecedented scale and scope.
 
@@ -159,7 +196,7 @@ To illustrate the options let's go back to Pete and his farmers market. One opti
 
 Thus, over time Pete's ownership of the marketplace will turn into a monopoly with very substantial power. Most obviously pricing power in the form of the ability to set prices for farmers and/or consumers. But also more subtly and, perhaps, more significantly, the ability to shape the evolution of the marketplace, and, through that the farming in the region.
 
-For example, Pete may use his power to control who comes to the market to include or exclude certian types of farmer. He may decide that he does not like organic farmers because he they make less money or, more nefariously, that they build direct connections with consumers which will undermine his marketplace monopoly in the long run.
+For example, Pete may use his power to control who comes to the market to include or exclude certain types of farmer. He may decide that he does not like organic farmers because he they make less money or, more nefariously, that they build direct connections with consumers which will undermine his marketplace monopoly in the long run.
 
 Alternatives to monopoly are possible. Pete could decide from the outset that he wants to have an "open" marketplace. When it starts up he could promise other farmers -- and consumers -- that his marketplace won't charge and won't exercise control over who can participate. Or, more realistically and accurately, that a) charges will be transparent and only levied to cover the cost of operating the marketplace (i.e. no monopoly pricing); and b) that rules of participation will be transparent, equitable and set through some reasonable form of governance.
 
@@ -180,7 +217,7 @@ And it may not even be that Pete has any monopolistic ambitions. Suppose Pete fa
 
 In these circumstances Pete will have to invest a lot of capital to compete. If he makes his marketplace open he may struggle to recoup his investment -- when later on he needs the marketplace to set fees to pay him back will people believe how much he had to spend? And what about if Pete needs to borrow money from a bank or take investment from a venture capitalist. These third party investors are going to be even more concerned about having a reliable business model that ensures they get a good return. They will be much happier with the pricing power of a monopolist to guarantee them that return.
 
-Apart from monopoly and openness there is one other common option: the farmers can club together to own the marketplace.[^consumers-own] This clubbing together may be informal or it may take on a more formal structure shc as a cooperative. Real world cases that resemble this include taxi services and many stock exchanges. In the case of taxis, in many cities around the world taxi owners control the marketplace via their control of the taxi regulating agency (this agency may also reflect consumer interests to an extent). The taxi agency will then control who can access the market from the sellers side by regulating access to taxi permits. If the taxi-owners are dominant the usual result will be an undersupply of taxis since this drives up the returns to holders of existing taxi permits as each taxi is more profitable.
+Apart from monopoly and openness there is one other common option: the farmers can club together to own the marketplace.[^consumers-own] This clubbing together may be informal or it may take on a more formal structure as a cooperative. Real world cases that resemble this include taxi services and many stock exchanges. In the case of taxis, in many cities around the world taxi owners control the marketplace via their control of the taxi regulating agency (this agency may also reflect consumer interests to an extent). The taxi agency will then control who can access the market from the sellers side by regulating access to taxi permits. If the taxi-owners are dominant the usual result will be an under-supply of taxis since this drives up the returns to holders of existing taxi permits as each taxi is more profitable.
 
 This is just the same as if Pete limited the number of farmers at the market: this would be bad for consumers (and the farmers who didn't get to come) but good for the farmers who are invited as they get to sell more with less competition. The other example is stock-exchanges which have often ended up owned by their member share-brokers. The member brokers act as a club limiting access and requiring new entrants to "buy a seat on the exchange"[^1].
 
@@ -213,7 +250,7 @@ Further we can distinguish two parts to the order book:
 Opening a marketplace platform therefore means:
 
 - The software, protocols and non-personal data that power the platform must be made [open software and open data][open], that is, freely available for anyone to use, build on and share.
-- The database behind the order book must be made available to all parties on a non-discrimnatory basis with access fees set to cover costs of operation and development including costs of developing software and protocols (i.e. §the previous item). To provide this and sustain it over the long-run some minimal governance system should be put in place.
+- The database behind the order book must be made available to all parties on a non-discriminatory basis with access fees set to cover costs of operation and development including costs of developing software and protocols (i.e. §the previous item). To provide this and sustain it over the long-run some minimal governance system should be put in place.
 
 In analogy with Pete's farmers market the software and protocols would be the trucks and cars that farmers and consumers use to get to the marketplace along with the tables and stalls and actual courtyard space where the trading takes place. Pete's  marketplace would not be open if you could only visit Pete's marketplace in one special type of truck that is made by Pete's brother. Or, if, once there you could only use a special kind of stall that only Pete supplied. Making these things open means that anyone has the means to join the marketplace and also that anyone has the means to create a market "space": in the digital world Pete's courtyard becomes a virtual space made of software so making that software open provides the ability for anyone to create a market-space.
 
@@ -245,17 +282,17 @@ Marketplaces have always been with us and their economics is simple: positive fe
 
 This standardization turns into a monopoly if the marketplace is proprietarily owned and controlled. In the case of digital marketplaces this means that the technology and the order book is proprietary -- something ensured by the use of monopoly rights (copyrights and patents) together with simple control of access enforced via contract and monitoring. For example, services such as eBay sue people who scrape sales information from their website and apps like Uber and AirBnB simply refuse access to their API or only do so under very restrictive conditions.
 
-The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discrminatory terms. This involves two parts:
+The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two parts:
 
 - Opening the software, protocols and non-personal data that power the marketplace.
-- Universal, equitable access to the order book database with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with goverance in place to ensure a transparent and equitable pricing and access policy.
+- Universal, equitable access to the order book database with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
 
 It is worth emphasizing that competition between proprietary, closed, marketplaces is not sufficient. Openness is essential. This is for two reasons.
 
 First, as we have shown above, competition between marketplaces is impossible to sustain in the long-term because of the positive feedback / snowball economics of marketplaces. Second, for marketplaces traditional competition is actually socially inefficient because it reduces liquidity and/or increases costs:
 
-- Liquidity reduction: splitting buyers and sellers across multiple marketplaces reducing the potential for mutually beneficial transactions
-- Increasing costs: requiring buyers and sellers to participate in multiple marketplaces is inefficient and costly. For example, imagine a world where I need to install ten separate ride-booking apps on my phone and check them all.
+- Liquidity: splitting buyers and sellers across multiple marketplaces reducing the potential for mutually beneficial transactions
+- Costs: requiring buyers and sellers to participate in multiple marketplaces is inefficient and costly. For example, imagine a world where I need to install ten separate ride-booking apps on my phone and check them all.
 
 In short, marketplaces thrive on liquidity and competition between marketplaces reduces liquidity.
 
@@ -263,7 +300,7 @@ Finally, the analysis and solution we have set out applies to many of the develo
 
 # Appendix: Correcting the Misnomer of the Sharing Economy
 
-Uber, AirBnB and companies like them have sought to brand themselves as part of the "sharing economy". More recently, the less positive term "gig economy" has occasionally come into use.
+Uber, AirBnB and companies have sometimes been branded as part of the "sharing economy".
 
 The "sharing economy" as a term is fundamentally misleading. Uber and AirBnB are not facilitating sharing any more than any other marketplace is. We don't talk about the bond or stock markets as part of the sharing economy because they facilitate "sharing" of capital between investors and businesses. When eBay arrived we did not talk about a new "sharing economy" that allowed people to "share" their second-hand stuff with people who wanted to buy it. Amazon is not creating a "sharing economy" where businesses "share" goods with consumers (for money!).
 
