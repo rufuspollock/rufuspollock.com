@@ -8,3 +8,18 @@ a.button {
 .content-wrapper {
   min-height: calc(100vh - 4.8em);
 }
+
+div.img {
+  font-size: 100%;
+  text-align: center;
+  
+  p {
+    font-size: 100%;
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+}

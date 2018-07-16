@@ -3694,6 +3694,16 @@ table {
 .content-wrapper {
   min-height: calc(100vh - 4.8em); }
 
+div.img {
+  font-size: 100%;
+  text-align: center; }
+  div.img p {
+    font-size: 100%; }
+  div.img img {
+    display: block;
+    margin: auto;
+    margin-bottom: 15px; }
+
 header.navigation {
   background-color: #fff;
   border-bottom: 1px solid #e6e6e6;
