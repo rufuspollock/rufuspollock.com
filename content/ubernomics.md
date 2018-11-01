@@ -8,9 +8,9 @@ title: "Ubernomics: Platform Monopolies & How to Fix Them"
   <img src="/images/ubernomics-uber-lyft.jpg" />
 </div>
 
-Around the world countries have struggled to work out how to deal with Uber, AirBnB and their like. Are these new apps something to be welcomed or something to be stopped? But how we treat Uber-like companies is largely dependent on how we see and understand them.
+Around the world countries have wrestled with the question of how to manage companies like Uber and AirBnB. Are these new platforms something to be welcomed or something to be stopped? But how we treat Uber-like companies is largely dependent on how we see and understand them.
 
-There is, in fact, nothing especially digital about the underlying economics of Uber's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces / platforms.
+There is, in fact, nothing especially digital about the underlying economics of Uber or AirBnB's business model. In fact, Uber's economics are very similar to businesses that have been with us for hundreds or even thousands of years: marketplaces / platforms.
 
 Because of the positive feedback between buyers and sellers, the initial free competition between marketplaces tends towards "one" -- one dominant marketplace. And, hence, to monopoly if that one marketplace is exclusively owned and controlled.
 
@@ -54,7 +54,7 @@ At the same time, it *is* important to understand that digital technologies *are
 
 ## 1. Uber-like companies are marketplace or platform companies
 
-Stripped to their essence Uber, AirBnB and the like resemble a very old economic structure: the marketplace. Marketplaces are where buyers and sellers come together to exchange. On Uber this is riders and drivers. On AirBnB owners and renters etc. Marketplaces have existed for thousands of years, practically since civilization first began.
+Stripped to their essence Uber, AirBnB resemble a very old economic structure: the marketplace. Marketplaces are where buyers and sellers come together to exchange. On Uber this is riders and drivers. On AirBnB owners and renters. Marketplaces have existed for thousands of years, practically since civilization first began.
 
 More broadly, we have platforms. This includes companies like Facebook, Google, Microsoft and eBay. Facebook is a platform mediating between users -- and advertisers. Google is a platform mediating between users and content -- and advertisers. Microsoft's Windows is an operating system platform mediating between apps and users.
 
@@ -62,18 +62,18 @@ Strictly platforms as broader than marketplaces. For example, an operating syste
 
 ## 2. Platforms tend to one because of positive feedback between buyers and sellers 
 
-Like a snowball down a mountain, marketplaces, once past a critical size, have the potential to grow rapidly thanks to positive feedback where buyers and sellers both value size because it offers:
+Like a snowball down a mountain, once past a critical size marketplaces have the potential to grow rapidly thanks to positive feedback between buyers and sellers: more buyers means more sellers and vice versa. This is because both buyers and sellers value a bigger marketplace because it offers:
 
-* liquidity: you will be able to trade e.g. book a taxi, rent an apartment etc
-* diversity: they have the product you want e.g. this particular fish is available, that stock has a market maker, there is a taxi in your area (not just central London)
+* Liquidity: the bigger the marketplace the more likely it is that a buyer can find a seller and vice versa -- you can find a ride on Uber in your area in the next 5m, or you can rent an apartment in that city on that date on AirBnB.
+* Diversity: the marketplace will have a range of products thereby matching a wider set of tastes -- a fish market will have many types of fish, a stock market many types of stock, a rental market many kinds of apartments.
 
-Furthermore, buyers and sellers usually don't want to have to participate in lots of different marketplaces ("multi-homing" is a pain). Combined with the positive feedback effects this creates a strong pressure for there to be just one marketplaces.[^more-than-one]
+Furthermore, buyers and sellers don't want to have to go to many different marketplaces ("multi-homing" is a pain). Combined with the positive feedback effects of liquidity and diversity, this creates a strong pressure for there to be just one marketplace.[^more-than-one]
 
 [^more-than-one]: The only reason you get more than one platform is if there is sufficient variation in buyer preferences (plus congestion in the physical world -- there's only so many people who can fit in the marketplace). For example, in the physical world buyers have a preference not to travel too far so you can still have two markets in different towns fifty miles apart. In a virtual world there's no literal distance but there may be "distance" in tastes: some people like Macs enough that Mac managed to retain a (tiny) market share against Windows even when Windows was very dominant because those "Mac" people just really liked some aspect of Macs. Even in this case though the platforms will be lop-sided with usually one marketplace with the great majority of users.
 
 ## 3. Marketplaces tend to monopoly (unless made open)
 
-Because of snowball economics over time you converge on just one marketplaces -- "marketplaces tend to one".
+Because of these snowball economics, over time one marketplace will come to dominate -- "marketplaces tend to one".
 
 You don't have ten fish markets in a town, you have one. You don't have fifty stock exchanges, you have one.
 
@@ -83,17 +83,17 @@ The question then is: is that marketplace "closed": exclusively owned and contro
 
 ## 4. These marketplaces are not "contestable"
 
-It is not easy to build a new one and compete against the old one.
+It is hard and expensive to create a new marketplace, especially if that involves competing against an existing one.
 
-Why? Because buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usually less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
+Why? Buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usually less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
 
-This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old marketplace. Similarly, no fish-seller wants to risk moving their stall to the new marketplace until they know the buyers will all be there -- its a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
+This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old marketplace. Similarly, no fish-seller wants to risk moving their stall to the new marketplace until they know the buyers will be there. This is a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
 
 ## 5. Thus, the monopoly marketplace owner has a lot of power
 
-Thus, the owner of marketplace has a lot of power -- once the marketplace is established. At an early stage marketplace industries will often be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relatively easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated marketplace access rates).
+Thus, the owner of marketplace has a lot of power -- once the marketplace is established. Of course, at an early stage marketplace industries may be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relatively easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated marketplace access rates). However, once entrenched a marketplace monopoly is very powerful and resilient.
 
-## 6. That power is inevitably abused to the detriment of buyers and consumers
+## 6. That power is inevitably used to the detriment of buyers and consumers
 
 When an organization has a lot of power it will use it to its advantage. In the case of the marketplace, the obvious thing is for the owner to start aggressively charging the users of the marketplace for access. Depending exactly on how the marketplace works it can charge buyers, sellers or both. Often charging sellers is preferred because they are easier to identify, contract with and track (and they have a larger and better sense of the value of the marketplace per entity). Thus, it is Uber's drivers who get charged the 20-25% fee by Uber (this fee, of course, gets passed on to consumers but they don't directly see it).
 
@@ -101,10 +101,10 @@ Note: a side benefit of charging sellers is that it makes the fees largely hidde
 
 ## 7. The solution is to open the marketplace
 
-The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two parts:
+The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two steps:
 
 - Opening the software, protocols and non-personal data that power the marketplace.
-- Universal, equitable access to the order book database with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
+- Opening the "order book": Universal, equitable access to the "order book" with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
 
 It is worth emphasizing that competition between proprietary, closed, marketplaces is not sufficient. Openness is essential.
 
@@ -207,7 +207,7 @@ In overall terms the open marketplace is far better than the monopoly marketplac
 1. More people participate. Monopoly pricing reduces participation because the monopolist's fees discourage some farmers and/or some consumers from participating.
 2. More innovation: participation is open to all means ideas can flow freely maximizing the chance of improvements. For example, there's not risk that organic farmers are excluded because of Pete's fears that they'll undermine his monopoly position.
 
-In addition there is also an effect on equity because resources are more fairly distributed. In the open case farmers as a whole (including Pete) are better off. However, Pete as an individual is less well-off than he would be under monopoly. The value Pete derived from the marketplace under monopoly still exists but part of it has been redistributed to other farmers and, possibly, to consumers.
+In addition there is also an effect on equity because resources are more fairly distributed. In the open case, farmers as a whole (including Pete) are better off. However, Pete as an individual is less well-off than he would be under monopoly. The value Pete derived from the marketplace under monopoly still exists but part of it has been redistributed to other farmers and, possibly, to consumers.
 
 This explains why monopoly marketplaces are common even though open marketplaces are better for society: the owner of a monopoly marketplace can become very wealthy indeed.
 
@@ -221,16 +221,16 @@ Apart from monopoly and openness there is one other common option: the farmers c
 
 This is just the same as if Pete limited the number of farmers at the market: this would be bad for consumers (and the farmers who didn't get to come) but good for the farmers who are invited as they get to sell more with less competition. The other example is stock-exchanges which have often ended up owned by their member share-brokers. The member brokers act as a club limiting access and requiring new entrants to "buy a seat on the exchange"[^1].
 
-The sellers' club model is reasonably common especially in the long run. This is because sellers often become aware of the risks to them of having their marketplace owned by a dominant monopolist. However, the club model has many of the drawbacks of the monopolist one. Sellers as a group will raise prices for consumers above optimal levels. For example, stock brokers will overcharge for commissions, taxis will either set rates too high or limit supply to increase their occupancy resulting in increased wait time for consumers. As evidence for this consider that New York City taxi permits ("taxi medallions") reached a price of over $1m in 2014 prior to the advent of competition from new rideshare services. In addition, the sellers club rapidly becomes a self-perpetuating in-group favouring existing existing members over new ones and resisting any innovation that would disrupt their comfortable and well-remunerated situation. Unfortunately, as a small, highly motivated interest group sellers often make formidable political lobby groups and once entrenched persist for a long time.
+The sellers' club model is reasonably common especially in the long run. This is because sellers often become aware of the risks to them of having their marketplace owned by a dominant monopolist. However, the club model has many of the drawbacks of the monopolist one. Sellers as a group will raise prices for consumers above optimal levels. For example, stock brokers will overcharge for commissions, taxis will either set rates too high or limit supply to increase their occupancy resulting in increased wait time for consumers. As evidence for this consider that New York City taxi permits ("taxi medallions") reached a price of over $1m in 2014 prior to the advent of competition from new rideshare services. In addition, the sellers club rapidly becomes a self-perpetuating in-group favouring existing members over new ones and resisting any innovation that would disrupt their comfortable and well-remunerated situation. Unfortunately, as a small, highly motivated interest group sellers often make formidable political lobby groups and once entrenched persist for a long time.
 
-All of the above is well illustrated by the case of Uber (and other ride-sharing companies). Uber is making a play to become a monopolist. To do this it has had to attack the existing taxi services system which in most countries sits somewhere between an open marketplace and the sellers cartel. Uber has spent huge amounts of its money and energy not on technology which is relatively simple but on
+All of the above is well illustrated by the case of Uber (and other ride-sharing companies). Uber is making a play to become a monopolist. To do this it has had to attack the existing taxi services system which in most countries sits somewhere between an open marketplace and the sellers cartel. Uber has spent huge amounts of its money and energy not on technology which is relatively simple but on:
 
 1. Political lobbying to overcome the entrenched power of taxi cartels
-2. Efforts to get to a critical mass of liquidity and especially seller liquidity by having sufficient drivers into its marketplace. Seller liquidity is absolutely crucial for a taxi service: users care most about their ability to get a ride promptly and reliably.
+2. Efforts to get to a critical mass of liquidity and especially seller liquidity by having sufficient drivers on its marketplace. Seller liquidity is absolutely crucial for a taxi service because users care most of all about their ability to get a ride promptly and reliably.
 
 In the short-run Uber is beneficial to consumers (and probably society as a whole) because it shakes up existing taxi services (some of which have become quite cartelized). It provides consumers with a highly liquid ride marketplace that is often cheaper than the old option. And all of this has been subsidized for us with billions of dollars from venture capitalists.
 
-The issue is that Uber and its venture capitalist backers are not doing all of this out of the goodness of their hearts. They need payback and the only real way to generate the returns they need is by being the monopolist. Thus, in the medium to long-run dominance by Uber -- or anyone else -- is a real issue as they will use their monopoly power to exploit drivers and users, and, perhaps most importantly, to stunt and distort innovation in order to preserve their monopoly power.
+The problem is that Uber and its venture capitalist backers are not doing all of this out of the goodness of their hearts. They need payback and the only real way to generate the returns they need is by being the monopolist. Thus, in the medium to long-run dominance by Uber -- or anyone else -- is a real issue as they will use their monopoly power to exploit drivers and users, and, perhaps most importantly, to stunt and distort innovation in order to preserve their monopoly power.
 
 [^1]: If you who have watched the film Trading Places you will have seen this in action when the Duke brothers are bankrupted at the end and informed that their seat on the exchange will be up for auction (it is very valuable).
 
