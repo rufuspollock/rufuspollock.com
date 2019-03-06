@@ -13,7 +13,7 @@ wordpress:
   - post_id: 359
 ---
 
-The human problem of 'scarce resources and unlimited wants' is oft-posited as a primary motivation for studying economics. As this phrase makes clear, 'wants' ('preferences' to use the more usual terminology) are a central part of what we study, and the existence, and stability, of those 'wants/preferences' therefore merit serious consideration.[^1]
+The human problem of 'scarce resources and unlimited wants' is oft-posited as a primary motivation for studying economics. As this phrase makes clear, 'wants' ('preferences' to use the more usual terminology) are a central part of what we study as economists. Thus the existence, and stability, of those 'wants / preferences' therefore merit serious consideration.[^1]
 
 [^1]: It is interesting how the term 'preference' is studiously neutral, and almost anodyne in comparison with a term such as 'want', 'desire' or even 'need', each of which is a potential synonym. One might imagine, and this is simply conjecture, that the term was intentionally adopted in order to remove any overtone of judgement. After all, across most culture and over much of human history, the formation and satisfaction of 'preferences' has been a process laden with ethical, and religious, significance.
 
