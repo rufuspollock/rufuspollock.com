@@ -8,9 +8,9 @@ slug: getting-things-done
 tags: ["books", "principles"]
 ---
 
-9/10. Decades of learning distilled in one simple, complete package. Plus I like -- and get -- the Zen / Landmarkian underpinnings.
+9/10. Decades of learning distilled in one simple, complete package. I also appreciate the Zen / Landmarkian underpinnings.
 
-As always with with productivity / personal development like this: however great the ideas and processes are, the devil will be in the [detail of implementation][impl] i.e. the self-discipline and practice. For myself,  I've looked at bits of this and heard parts of it by hearsay for at least 15+ years but it has taken until now for me even to knuckle down and really read the book -- and implementation has only just started.
+There is one caveat, common to all productivity / personal development techniques, namely: the devil will be in the implementation, i.e. the self-discipline and practice to apply the techniques -- no matter however great the ideas and processes are (["ideas are cheap, implementation is costly"][impl]). For example, I've heard about this many times in the last 15+ years, and come across bits and pieces, but it has taken until now for me to knuckle down and really read the book -- and my implementation has only just started.
 
 [impl]: /principles/implementation-is-costly
 
@@ -32,13 +32,15 @@ As always with with productivity / personal development like this: however great
 4. Reflect
 5. Engage
 
-### 1. Capture
+### 1. Capture into inboxes
 
 1. Get It All Out of Your Head
 2. Minimize the Number of Capture Locations - "You should have as many in-trays as you need and as few as you can get by with."
 3. Empty the Capture Tools Regularly
 
-### 2. Clarify - do the clarify workflow
+### 2. Clarify - do the clarify workflow to empty the inboxes
+
+<img src="gtd-clarify-flow.png" />
 
 1. What Is It?
 2. Is it actionable?
@@ -47,7 +49,7 @@ As always with with productivity / personal development like this: however great
       * Reference
       * Someday / Maybe
       * Incubating / Ticker / Reminder
-    * Actionable => * Is it a project (multi-step)? 
+    * Actionable => Is it a project (multi-step)? 
       * Yes => Projects list - "A complete and current Projects list is the major operational tool for moving from tree-hugging to forest management."
       * No =>
       
@@ -55,8 +57,6 @@ As always with with productivity / personal development like this: however great
       * Do it - if < 2m
       * Delegate it 
       * Defer it => on next actions list
-
-<img src="gtd-clarify-flow.png" />
 
 ### 3. Organize
 
