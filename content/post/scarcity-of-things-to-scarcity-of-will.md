@@ -7,11 +7,11 @@ featured: no
 tags: ["aphorism"]
 ---
 
-In the last hundred years we have gone from material scarcity to psychological scarcity. From scarity of things to scarcity of will.
+In the last hundred years we have gone from material scarcity to psychological scarcity. From scarcity of things to scarcity of will.
 
 From hunger to obesity.
 
-From the theatre to netflix.
+From the theatre-going to binge-watching.
 
 From a telegram to the Facebook Feed.
 
