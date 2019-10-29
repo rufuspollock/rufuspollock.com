@@ -10,7 +10,9 @@ tags: ["books", "principles"]
 
 9/10. Decades of learning distilled in one simple, complete package. I also appreciate the Zen / Landmarkian underpinnings.
 
-There is one caveat, common to all productivity / personal development techniques, namely: the devil will be in the implementation, i.e. the self-discipline and practice to apply the techniques -- no matter however great the ideas and processes are (["ideas are cheap, implementation is costly"][impl]). For example, I've heard about this many times in the last 15+ years, and come across bits and pieces, but it has taken until now for me to knuckle down and really read the book -- and my implementation has only just started.
+There is one caveat, common to all productivity / personal development techniques, namely: the devil will be in the implementation, i.e. the self-discipline and practice to apply the techniques. No matter how great the ideas and processes are it is putting them into practice which is often the hardest part -- ["ideas are cheap, implementation is costly"][impl].
+
+For example personally, I've heard about "getting things done" many times in the last 15+ years, and come across bits and pieces, but it has taken me until now for me to knuckle down and really read the book. And that's just the start: I need to do the initial sweep (nearly there!). Then, and even more importantly, I need put in place a daily and weekly habit of for daily inbox clearing and weekly reviewing. Here goes!
 
 [impl]: /principles/implementation-is-costly
 
@@ -101,7 +103,9 @@ In the weekly review you MUST review your projects list.
 
 > the Weekly Review is the critical success factor for marrying your larger commitments to your day-to-day activities. And a complete Projects list remains the linchpin for that orientation.
 
-### 5. Engage - your calendar plus go to your next action list and prioritise via
+### 5. Engage -- next action list prioritised via context, time, energy and priority
+
+First there is your calendar: any scheduled meetings, events etc you have. Beyond that you to to your next actions list:
 
 * The four-criteria model for choosing actions in the moment. In order:
   * Context
@@ -168,10 +172,6 @@ Get started
 
 ---
 
-
-# Excerpts
-
-> Mind like water
 
 # Part 1: The Art of Getting Things Done
 
