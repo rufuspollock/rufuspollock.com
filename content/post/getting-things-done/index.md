@@ -8,7 +8,7 @@ slug: getting-things-done
 tags: ["books", "principles"]
 ---
 
-9/10. Decades of learning distilled in one simple, complete package. I also appreciate the Zen / Landmarkian underpinnings.
+9/10. Decades of learning distilled in one simple, complete package. I also appreciate the Zen / Landmark-ian aspects.
 
 There is one caveat, common to all productivity / personal development techniques, namely: the devil will be in the implementation, i.e. the self-discipline and practice to apply the techniques. No matter how great the ideas and processes are it is putting them into practice which is often the hardest part -- ["ideas are cheap, implementation is costly"][impl].
 
