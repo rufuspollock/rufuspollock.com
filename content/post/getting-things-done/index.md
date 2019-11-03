@@ -14,7 +14,7 @@ There is one caveat, common to all productivity / personal development technique
 
 For example personally, I've heard about "getting things done" many times in the last 15+ years, and come across bits and pieces, but it has taken me until now for me to knuckle down and really read the book. And that's just the start: I need to do the initial sweep (nearly there!). Then, and even more importantly, I need put in place a daily and weekly habit of for daily inbox clearing and weekly reviewing. Here goes!
 
-[impl]: /principles/implementation-is-costly
+[impl]: /ideas-are-cheap/
 
 {{< toc >}}
 
