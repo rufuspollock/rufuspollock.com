@@ -10,25 +10,33 @@ tags: ["books", "principles"]
 
 9/10. Decades of learning distilled in one simple, complete package. I also appreciate the Zen / Landmark-ian aspects.
 
-There is one caveat, common to all productivity / personal development techniques, namely: the devil will be in the implementation, i.e. the self-discipline and practice to apply the techniques. No matter how great the ideas and processes are it is putting them into practice which is often the hardest part -- ["ideas are cheap, implementation is costly"][impl].
+There is one caveat, common to all productivity / personal development techniques, namely: the devil is in the implementation, i.e. the self-discipline and practice to apply the techniques. No matter how great the ideas and processes are you need to put them into practice and that is usually the hardest part -- ["ideas are cheap, implementation is costly"][impl].
 
-For example personally, I've heard about "getting things done" many times in the last 15+ years, and come across bits and pieces, but it has taken me until now for me to knuckle down and really read the book. And that's just the start: I need to do the initial sweep (nearly there!). Then, and even more importantly, I need put in place a daily and weekly habit of for daily inbox clearing and weekly reviewing. Here goes!
+For example, and just speaking personally, I've heard about "getting things done" many times in the last 15+ years, and come across bits and pieces, but it has taken me until now for me to knuckle down and really read the book. And that's just the start: I need to do the initial sweep (nearly there!). Then, and even more importantly, I need put in place a daily and weekly habit of for daily inbox clearing and weekly reviewing. Here goes!
+
+**UPDATE: Nov 2019 I have written a [follow up post detailing how I myself implemented the Getting Things Done  system][update].**
 
 [impl]: /ideas-are-cheap/
+[update]: /2019/11/06/getting-things-done-my-setup/
+
 
 {{< toc >}}
 
+
 # Summary
 
-0. Motivation (assumed)
-1. Get in control - the workflow
-2. Planning Projects - the Natural Planning Model
-3. Booting this up - getting setup with GTD
+Boiled down to its essence, there are only two key aspects:
 
+1. Get in control -- the workflow. This 
+2. Planning Projects: the Natural Planning Model. Projects are a broad term in GTD and cover anything involving multiple steps.  b,n8t
 
-## 1. Get in control - the workflow
+In addition, we cover booting this up -- getting setup with GTD
 
-1. Capture
+There is also an essential pre-requisite: motivation. Whilst the payoff is great, getting started with GTD will take some effort so it is crucial to have a clear, strong motivation. I won't cover this here in the summary -- there is a full explanation in the book and some short excerpts from chapter one below.
+
+## 1. Get in control: the GTD workflow
+
+1. Capture 
 2. Clarify
 3. Organize
 4. Reflect
@@ -36,11 +44,11 @@ For example personally, I've heard about "getting things done" many times in the
 
 ### 1. Capture into inboxes
 
-1. Get It All Out of Your Head
+1. "Get It All Out of Your Head" into physical or virtual inbox(es)
 2. Minimize the Number of Capture Locations - "You should have as many in-trays as you need and as few as you can get by with."
-3. Empty the Capture Tools Regularly
+3. Empty the Capture Tools Regularly (daily if possible)
 
-### 2. Clarify - do the clarify workflow to empty the inboxes
+### 2. Clarify: do the clarify workflow to empty the inboxes
 
 <img src="gtd-clarify-flow.png" />
 
@@ -90,10 +98,10 @@ Here are the context categories he suggest for next actions (useful if you have 
 * Online
 * Offline
 
-### 4. Reflect
+### 4. Reflect: regular reviews
 
 * Daily review - go through the workflow for inbox
-* Weekly review <-- critical
+* Weekly review **critical**
   * Gather and process all your stuff.
   * Review your system.
   * Update your lists.
@@ -103,7 +111,7 @@ In the weekly review you MUST review your projects list.
 
 > the Weekly Review is the critical success factor for marrying your larger commitments to your day-to-day activities. And a complete Projects list remains the linchpin for that orientation.
 
-### 5. Engage -- next action list prioritised via context, time, energy and priority
+### 5. Engage: next action list prioritised via context, time, energy and priority
 
 First there is your calendar: any scheduled meetings, events etc you have. Beyond that you to to your next actions list:
 
