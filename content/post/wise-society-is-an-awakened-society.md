@@ -47,7 +47,7 @@ What principles do we think we would find in common across awakened collectives?
 - Impermanence: all things are born and die including the collective. Attachment to our immortality whether of the individual or the collective is one of our greatest sources of suffering and aggression.
 - Hope (Nirvana): an awakened collective is hopeful, pragmatically optimistic. It says yes to itself and to the world. There is a strong faith in the possibility of awakening for itself, its members and others. It also sees awakening as a mount with no top: not a place to get to but a goal to constantly aspire for.
 - Sourceful: looking deeply into the source and nature of things. Getting to the root of issues. We walk to work rather than doing open-heart surgeries. 
-- Loving and joyful: 
+- Loving and joyful: bringing open-hearted love and joy to every relationship. Revelling in life, in the isness, in the possibility, in the brand new 24 hours every day.
 - Critically open-minded: dogma is anathema. We consistently open ourselves to new experiences and opinions, especially those we don't agree with. Views are held committedly rather than with attachment. We test against experience and the expertise of others. At the same time we bring a critical mindset to assessing our own opinions and those of others. Views are not changed on a whim or because of majoritism. The devil's advocate is judiciously used.
 - Proudly humble, egalitarian hierarchy: transcends (transcludes) the superiority, inferiority and equality complexes.
 
