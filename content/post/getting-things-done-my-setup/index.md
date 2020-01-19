@@ -12,6 +12,8 @@ This post details my personal setup for implementing Getting Things Done. It fol
 
 [gtd]: /2019/05/27/getting-things-done/
 
+<img src="gtd-implementation.png" />
+
 ## Setup Infrastructure
 
 This is how I set up all the "infrastructure". The three main things you need are:
