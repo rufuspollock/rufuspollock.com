@@ -107,11 +107,11 @@ We see openness as important in both areas: both in scholarly content and the me
 
 [open]: http://opendefinition.org/
 
-## Colophon
+## Colophon
 
 This post arose out of the excellent discussion after a recent presentation at the University of Cambridge on the topic "Making an Open Information Age" (based on my upcoming book). My thanks especially to Ruper Gatti, Peter Murray-Rust and Jenny Molloy.
 
-## Comments
+## Comments
 
 Please post questions and comment in the Open Knowlege forum here:
 
