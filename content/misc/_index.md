@@ -24,6 +24,10 @@ In a world of zero (reproduction) costs matching is king. [source](http://assets
 
 Confusing novelty with originality was the great mistake of the twentieth century.
 
+London - Land of pavements and people 
+
+Secession motto: to every age its art, to art its freedom
+
 ## Great Album/Novel/Film Titles
 
 ### Unused
@@ -42,8 +46,7 @@ Chomp, Snort, Lick
 Cutting the Chord  
 Distance and Mist  
 Cerulean Blue  
-Fugitive from Grace  
-City of Glass  
+Fugitive from Grace   
 
 ### Used
 
@@ -52,6 +55,7 @@ All Tomorrow's Parties (Velvet Underground, William Gibson)
 My Correct Views on Everything (Leszek Kolakowski)  
 Ashes and Diamonds (Wajda)  
 Life and Fate (Vasily Grossman)
+City of Glass (Cassandra Clare, The Mortal Instruments series)
 
 ### (Anti-)Advertising
 

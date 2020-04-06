@@ -147,7 +147,7 @@ You want the ingredients combined: you don't want a light airy mass. Gently add 
 Pour into the lined loaf tin and bake for 30 minutes. Turn the oven down to 170C/gas mark 3 and cook for another 15 minutes. The cake will still be a bit squidgy inside, so an inserted cake tester or skewer won't come out completely clean.
 Plaace the loaf tin on a rack and leave to get completely cold before turning it out. It improves if left for a day or so before eating. This cake will probably sink in the middle because of its denseness.
 
-## Sausage and lentil one pot
+# Sausage and lentil one pot
 
 1 tbsp olive oil
 
@@ -165,3 +165,19 @@ Bring up to the boil, then simmer for 20 mins until lentils have softened and sa
 
 https://www.bbcgoodfood.com/recipes/2233/sausage-and-lentil-onepot
 
+# Hot Thai Stir Fry
+
+Ingredients:
+20 basil leaves
+Grapeseed oil
+350g chicken, cut into small pieces with skin left on
+4 spring onions, roughly chopped
+1 inch ginger, peeled and shredded
+3 garlic cloves, thinly sliced
+2 red chillies, seeded and chopped
+2 tblsp dark soy sauce
+
+Method: 
+Tear up the basil leaves and put them aside. Add enough oil to cover the bottom of the pan and wait for it to heat up. When the oil starts to pop, drop in the chicken. Leave until the bottom side is golden, then flip until just cooked through. Remove from the pan and set aside.
+Add a bit more oil to the pan. Put in the ginger, garlic and spring onions. Once soft, add the chillies. Once the chillies are also soft, add the chicken, and mix. Add the basil and soy sauce, and let cook for two minutes.
+Serve on hot plates.
