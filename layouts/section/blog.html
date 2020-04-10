@@ -7,7 +7,7 @@
 
                   <section class="other-pages">
                     <h1>{{ .Title }}</h1>
-                    {{ .Content | markdownify }}
+                    {{ .Content }}
                     <article>
                       <section class="news">
                         {{ range first 5 (where .Site.Pages "Section" "post") }}
@@ -16,7 +16,7 @@
                           <div class="news-body">
                             <div class="news-content">
                               <p class="date"><i class="icon ion-calendar"></i> {{ .Date.Format "2 January 2006" }}</p>
-                              <p>{{ .Summary | markdownify }}</p>
+                              <p>{{ .Summary }}</p>
                             </div>
                           </div>
                         </div>

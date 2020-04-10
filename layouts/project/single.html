@@ -15,7 +15,7 @@
                           <p class="date"><i class="icon ion-calendar"></i> {{ . }}</p>
                           {{ end }}
                           <p class="date"><i class="icon ion-link"></i> <a href="{{ .Params.website }}" target="_blank">{{ .Params.website }}</a></p>
-                          <p class="content">{{ .Content | markdownify }}</p>
+                          <p class="content">{{ .Content }}</p>
                         </div>
                         <div class="images-wrapper" style="background-image: url({{ $.Site.BaseURL }}images/{{ .Params.imagepath }})"></div>
                       </div>
