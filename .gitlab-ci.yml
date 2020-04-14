@@ -7,7 +7,7 @@ image: alpine:3.4
 # HUGO_SHA can obtain from https://github.com/gohugoio/hugo/releases/download/v0.35/hugo_0.35_checksums.txt
 
 variables:
-  HUGO_VERSION: '0.68'
+  HUGO_VERSION: '0.68.3'
   HUGO_SHA: '60cd57181c6c898f1ef3b3e8dcefa0f25215c04beee46738c59b865983e0bc1b'
 before_script:
   - apk update && apk add openssl git
