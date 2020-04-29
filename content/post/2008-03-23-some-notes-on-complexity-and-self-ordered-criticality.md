@@ -13,7 +13,7 @@ wordpress:
   - post_id: 310
 ---
 
-I've just posted some early stage notes on [models related to 'Complex Systems'](/economics/notes/complexity/) with a particular eye towards those dealing with self-ordered criticality.
+I've just posted some early stage notes on [models related to 'Complex Systems'](/research/economics/notes/complexity/) with a particular eye towards those dealing with self-ordered criticality.
 
 
 
