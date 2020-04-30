@@ -23,7 +23,7 @@ wordpress:
 * Lots of [CKAN][]
   * Especially work on [Recline Data Explorer][recline]. Support for sorting and better notifications.
 * Data wrangling: several datasets in the [DataHub][]
-  * [Open Exchange Rates Data](thedatahub.org/dataset/exchange-rates) plus [Consolidated API-accessible Exchange Rate Data in the Webstore](http://thedatahub.org/dataset/exchange-rates/resource/8847379e-c0f1-4f5b-8bed-129574cc823f)
+  * [Open Exchange Rates Data](http://thedatahub.org/dataset/exchange-rates) plus [Consolidated API-accessible Exchange Rate Data in the Webstore](http://thedatahub.org/dataset/exchange-rates/resource/8847379e-c0f1-4f5b-8bed-129574cc823f)
   * [ISO 4217 Currency Codes](http://thedatahub.org/dataset/iso-4217-currency-codes) - [Consolidated ISO 4217 Currency Codes in Webstore](http://thedatahub.org/dataset/iso-4217-currency-codes/resource/97a058e0-7055-49e7-a97a-faccdfb6077b)
 * With Laura Newman [School of Data Announced](http://blog.okfn.org/2012/02/08/announcing-the-school-of-data/)
 * Administration with the inimitable Laura James and Naomi Lillie
