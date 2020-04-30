@@ -13,7 +13,7 @@ wordpress:
   - post_id: 422
 ---
 
-This post continues the work begun in this [earlier post on "Estimating Information Production and the Size of the Public Domain"][infoprod]. **Update: 2009-07-17** there is now a [follow-up post](/2009/06/12/the-size-of-the-public-domain-ii).
+This post continues the work begun in this [earlier post on "Estimating Information Production and the Size of the Public Domain"][infoprod]. **Update: 2009-07-17** there is now a [follow-up post](/2009/07/16/size-of-the-public-domain-ii/).
 
 [infoprod]:http://www.rufuspollock.org/2009/06/09/estimating-information-production-and-the-size-of-the-public-domain/
 
