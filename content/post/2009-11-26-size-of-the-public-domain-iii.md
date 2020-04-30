@@ -13,11 +13,11 @@ wordpress:
   - post_id: 568
 ---
 
-Here we are going to apply the results on Public Domain "proportions" derived in our [previous post](http://www.rufuspollock.org/2009/07/16/size-of-the-public-domain-ii/) and thereby obtain best estimates of the UK public domain.
+Here we are going to apply the results on Public Domain "proportions" derived in our [previous post](https://rufuspollock.com/2009/07/16/size-of-the-public-domain-ii/) and thereby obtain best estimates of the UK public domain.
 
-The logic is simple, and similar to that in our [first post](https://rufuspollock.com/2009/06/12/the-size-of-the-public-domain/) in the series: we will take the [Public Domain proportions](http://www.rufuspollock.org/2009/07/16/size-of-the-public-domain-ii/#pd-proportions) from Table 3 of our [last post][size-ii] and combine with our (conservative) estimates for output based on library catalogues. Here are the results:
+The logic is simple, and similar to that in our [first post](https://rufuspollock.com/2009/06/12/the-size-of-the-public-domain/) in the series: we will take the [Public Domain proportions](https://rufuspollock.com/2009/07/16/size-of-the-public-domain-ii/) from Table 3 of our [last post][size-ii] and combine with our (conservative) estimates for output based on library catalogues. Here are the results:
 
-[size-ii]: http://www.rufuspollock.org/2009/07/16/size-of-the-public-domain-ii/
+[size-ii]: https://rufuspollock.com/2009/07/16/size-of-the-public-domain-ii/
 
 <table class="data">
   <thead>
