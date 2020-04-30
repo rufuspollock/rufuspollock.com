@@ -20,7 +20,7 @@ Apparently, on the 11th of December 2009, Argentina extended copyright term in r
 
 Instead of the real reasons for extension -- propping up the profits of a handful of multinational record labels and their shareholders (at the expense of everyone else) -- the usual disingenuous justifications were once again being trotted out by music industry representatives.
 
-First up was (all quotes from the [billboard article](billboard)):
+First up was (all quotes from the [billboard article](https://www.billboard.com/articles/business/1261630/argentina-extends-copyright-term)):
 
 ## The investment argument
 
