@@ -151,7 +151,7 @@ To be clear virtual worlds exist and are going strong and that $100k space stati
 *Aside: if one were being "Devil's Dictionary-ish" I'd define a BlockChain crowdsale as an equity offering to uninformed investors in wildly speculative ventures using a currency of unprecedented volatility. (Examples:[maidsafe raises][1][^maidsafe] and [issues][2], [mastercoin price chart][4], [mastercoin seeks new start as omni][3], [dubious participants and financial woes][5] etc)*
 
 [1]: https://blog.maidsafe.net/2016/05/31/maidsafecoin-announcement/
-[2]: https://forum.safenetwork.io/t/current-finance-condition-and-statement-of-maidsafe/1017/6
+[2]: https://safenetforum.org/t/current-finance-condition-and-statement-of-maidsafe/1017/6
 [3]: http://www.coindesk.com/mastercoin-new-beginning-omni/
 [4]: http://coinmarketcap.com/currencies/omni/
 [5]: http://www.bloomberg.com/news/articles/2015-12-30/the-final-days-of-the-bitcoin-foundation-
