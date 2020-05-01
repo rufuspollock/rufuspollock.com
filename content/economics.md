@@ -172,7 +172,7 @@ wordpress:
 [7]: http://www.ippr.org/publicationsandreports/publication.asp?id=482
 [8]: /papers/value_of_public_domain.ippr.pdf
 [9]: /papers/value_of_the_public_domain.html
-[10]: p2p_summary.html
+[10]: /2005/11/21/summary-of-p2p-literature/
 [11]: /papers/patents_and_ir.html
 [12]: /papers/patents_and_ir.pdf
 [13]: /papers/porting.pdf
