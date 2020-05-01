@@ -146,7 +146,7 @@ wordpress:
 
 ##  Review, Summaries and Notes
 
-  * [Theories of Contextual Judgment](/economics/notes/theories-of-contextual-judgement/) - June 2008
+  * [Theories of Contextual Judgment](/research/economics/notes/theories-of-contextual-judgement/) - June 2008
   * [Notes on Complexity Models](/economics/notes/complexity/) - March 16 2008
   * [Experimental Games - Some Notes](/economics/notes/experimental-games/) - Feb 29 2008
   * [Comments on "An Economic Model of Friendship: Homophily, Minorities and Segregation" by Currarini, Jackson and Pin (2007)](/papers/comments_on_currarini_pin_jackson_2007.pdf) - Jan 2008
