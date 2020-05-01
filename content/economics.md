@@ -45,7 +45,7 @@ wordpress:
 
 [The Economics of Public Sector Information](/papers/economics_of_psi.pdf) (pdf)
 
-  * For those who want to keep things brief here's a [page summarizing the funding options for PSI](/research/economics/psi-funding-options/)
+  * For those who want to keep things brief here's a [page summarizing the funding options for PSI](/research/economics/papers/psi-funding-options/)
   * May 2008: [Slides from a presentation to European Commission](http://ec.europa.eu/information_society/policy/psi/docs/pdfs/minutes_psi_group_meetings/presentations/11th/pollock.pdf) on [Models of PSI Provision by Trading Funds paper](http://www.berr.gov.uk/files/file45136.pdf) (see below)
   * [Estimate of Gains from Opening Up Public Sector Information (Open Data) in the UK](http://rufuspollock.org/papers/psi_openness_gains.pdf)
 
