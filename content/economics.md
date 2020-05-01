@@ -150,7 +150,7 @@ wordpress:
   * [Notes on Complexity Models](/research/economics/notes/complexity/) - March 16 2008
   * [Experimental Games - Some Notes](/research/economics/notes/experimental-games/) - Feb 29 2008
   * [Comments on "An Economic Model of Friendship: Homophily, Minorities and Segregation" by Currarini, Jackson and Pin (2007)](/papers/comments_on_currarini_pin_jackson_2007.pdf) - Jan 2008
-  * [Innovation, Imitation and IP - Some Existing Literature](/papers/innovation-imitation-and-ip-existing-literature/)
+  * [Innovation, Imitation and IP - Some Existing Literature](/research/economics/papers/innovation-imitation-and-ip-existing-literature/)
   * [The 'New' Innovation Theory: Boldrin and Levine and Quah][24] ([markdown src][25]) - 2005-02 (updated 2005-10)
   * [Considering Corruption][19] - 2004-05
   * [Notes on the British Industrial Revolution (Index List)][26]
