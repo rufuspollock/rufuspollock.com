@@ -11,7 +11,7 @@ themes: ['Information Economy', 'Speaking']
 ---
 
 
-I will be hosted by the [Public Service Reform Unit](http://essexpartnership.org/content/about) and the [University of Essex](http://www.essex.ac.uk/), at their event [*Innovation Talks - Big Data versus Big Brother*](https://www.eventbrite.co.uk/e/innovation-talks-big-data-versus-big-brother-tickets-35429178627) on the 13th of July.
+I will be hosted by the [Public Service Reform Unit](https://www.local.gov.uk/essex-partnership-public-service-reform-portfolio) and the [University of Essex](http://www.essex.ac.uk/), at their event [*Innovation Talks - Big Data versus Big Brother*](https://www.eventbrite.co.uk/e/innovation-talks-big-data-versus-big-brother-tickets-35429178627) on the 13th of July.
 
 *How do we make the best use of technology and data without losing sight of people?*
 
