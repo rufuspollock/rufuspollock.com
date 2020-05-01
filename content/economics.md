@@ -188,4 +188,4 @@ wordpress:
 [23]: housing/
 [24]: /papers/boldrin_levine_quah.html
 [25]: /papers/boldrin_levine_quah.mkd
-[26]: notes/
+[26]: /research/economics/notes/wpindex
