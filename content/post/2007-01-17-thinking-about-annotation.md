@@ -45,7 +45,7 @@ Whatever one chooses to do it does seem sensible to clearly separate data and pr
 
   <http://project.knowledgeforge.net/shakespeare/svn/annotater/trunk/>
 
-[marginalia]: http://www.geof.net/code/annotation
+[marginalia]: http://webmarginalia.net/
 [openshakespeare]: http://demo.openshakespeare.org/
 
 Of course as discussed above this isn't quite as simple as it looks as your user interface can constrain what you can and can't store (using a blog approach you can't store ranges and from what I have read getting reliable character offsets is problematic). Nevertheless it seems the best place to start.

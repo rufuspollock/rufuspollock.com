@@ -21,7 +21,7 @@ A few members of the [Open Knowledge Foundation's][okfn] nascent [open economics
  * <http://bitbucket.org/okfn/openhdi> - source code and data
 
 [okfn]: http://okfn.org/
-[openecon]: http://wiki.okfn.org/wg/economics
+[openecon]: http://openeconomics.net/
 
 The idea is to look at 'development beyond GDP' by collecting weightings on particular aspects of 'development' (health, education, gdp, inequality) from users and using that to build our own human development index.
 

@@ -146,11 +146,11 @@ wordpress:
 
 ##  Review, Summaries and Notes
 
-  * [Theories of Contextual Judgment](/economics/notes/theories-of-contextual-judgement/) - June 2008
-  * [Notes on Complexity Models](/economics/notes/complexity/) - March 16 2008
-  * [Experimental Games - Some Notes](/economics/notes/experimental-games/) - Feb 29 2008
+  * [Theories of Contextual Judgment](/research/economics/notes/theories-of-contextual-judgement/) - June 2008
+  * [Notes on Complexity Models](/research/economics/notes/complexity/) - March 16 2008
+  * [Experimental Games - Some Notes](/research/economics/notes/experimental-games/) - Feb 29 2008
   * [Comments on "An Economic Model of Friendship: Homophily, Minorities and Segregation" by Currarini, Jackson and Pin (2007)](/papers/comments_on_currarini_pin_jackson_2007.pdf) - Jan 2008
-  * [Innovation, Imitation and IP - Some Existing Literature](/papers/innovation-imitation-and-ip-existing-literature/)
+  * [Innovation, Imitation and IP - Some Existing Literature](/research/economics/papers/innovation-imitation-and-ip-existing-literature/)
   * [The 'New' Innovation Theory: Boldrin and Levine and Quah][24] ([markdown src][25]) - 2005-02 (updated 2005-10)
   * [Considering Corruption][19] - 2004-05
   * [Notes on the British Industrial Revolution (Index List)][26]
@@ -172,7 +172,7 @@ wordpress:
 [7]: http://www.ippr.org/publicationsandreports/publication.asp?id=482
 [8]: /papers/value_of_public_domain.ippr.pdf
 [9]: /papers/value_of_the_public_domain.html
-[10]: p2p_summary.html
+[10]: /2005/11/21/summary-of-p2p-literature/
 [11]: /papers/patents_and_ir.html
 [12]: /papers/patents_and_ir.pdf
 [13]: /papers/porting.pdf
@@ -188,4 +188,4 @@ wordpress:
 [23]: housing/
 [24]: /papers/boldrin_levine_quah.html
 [25]: /papers/boldrin_levine_quah.mkd
-[26]: notes/
+[26]: /research/economics/notes/wpindex
