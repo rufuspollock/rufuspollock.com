@@ -13,7 +13,7 @@ wordpress:
   - post_id: 2003
 ---
 
-Next week I’m going to be in Dublin to keynote at [Open Repositories 2016](http://or2016.net/) on Thursday, talk in [Open Knowledge Ireland’s event](https://ti.to/open-knowledge-ireland/knowledge-preservation/) on Tuesday and speak again at the [CoderDojo](http://launchd.io/speakers) summit on Saturday.
+Next week I’m going to be in Dublin to keynote at [Open Repositories 2016](http://or2016.net/) on Thursday, talk in [Open Knowledge Ireland’s event](https://ti.to/open-knowledge-ireland/knowledge-preservation/) on Tuesday and speak again at the [CoderDojo](https://coderdojo.com/) summit on Saturday.
 
 If you’re in Dublin and interested in meeting up [please get in touch.](http://rufuspollock.org/about/)
 
