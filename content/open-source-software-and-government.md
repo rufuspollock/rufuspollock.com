@@ -130,7 +130,7 @@ All that said, open source still struggles in many areas, and uptake in governme
 
 Increasingly we do not purchase a given software application but we interact with an online "service" in the "cloud". Ignoring online services and focusing only on open "software" in a narrow sense would exclude a large and growing area of information technology and especially civic tech. Thus, whenever you see open source or open source software mentioned, consider it to include online applications and services.
 
-We should therefore be clear what we mean by "open" (open source) service. An open service, as per the Open Service Definition -- [*http://opendefinition.org/ossd/*](http://opendefinition.org/ossd/-) -- is a service whose entire application code is open source and where any user's data can be extracted, and migrated, quickly, easily and at no charge to another instance of the same application (though not necessarily other, different applications).
+We should therefore be clear what we mean by "open" (open source) service. An open service, as per the Open Service Definition -- [*http://opendefinition.org/ossd/*](http://opendefinition.org/ossd) -- is a service whose entire application code is open source and where any user's data can be extracted, and migrated, quickly, easily and at no charge to another instance of the same application (though not necessarily other, different applications).
 
 
 ## Why Open Source
