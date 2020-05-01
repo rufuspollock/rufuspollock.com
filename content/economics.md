@@ -169,7 +169,7 @@ wordpress:
 [4]: /papers/optimal_copyright_talk.pdf
 [5]: /papers/holdup_and_sampling.pdf
 [6]: /papers/innovation_and_imitation.pdf
-[7]: http://www.ippr.org/publicationsandreports/publication.asp?id=482
+[7]: /papers/value_of_public_domain.ippr.pdf
 [8]: /papers/value_of_public_domain.ippr.pdf
 [9]: /papers/value_of_the_public_domain.html
 [10]: /2005/11/21/summary-of-p2p-literature/
