@@ -21,7 +21,7 @@ I'm in Estonia next week 21-23 September to talk about Openness and the Informat
 
 I would love to meet as many people and organizations as possible whilst I am there. If you would like to meet please get in touch via twitter @rufuspollock or http://rufuspollock.org/contact/.
 
-[lecture]: http://www.opendata.ee/en/2016-09-14/avatud-infoyhiskond/
+[lecture]: http://opendata.ee/blog/rufus-pollock-making-an-open-information-society/
 
 ## Data Driven Government - OECD e-Leaders
 
