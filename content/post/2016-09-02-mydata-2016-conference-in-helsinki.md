@@ -36,7 +36,7 @@ I talked with Molly Schwartz about [open data][] and [its relation to MyData and
 <iframe src="https://www.youtube.com/embed/5GPhp5ArI-A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 [interview]: https://blog.okfn.org/2016/08/17/an-interview-with-rufus-pollock-why-i-am-excited-about-mydata-2016-in-finland/
-[open data]: http://okfn.org/open/
+[open data]: https://okfn.org/opendata/
 
 [mydata]: http://mydata2016.org/
 [okfi]: http://fi.okfn.org/
