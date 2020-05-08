@@ -2,7 +2,8 @@
 title: Reinventing Organisations
 author: Frederic Laloux
 published: 2014
-reviewed: Feb 2018
+date: 2018-02-23
+slug: reinventing-organizations-by-laloux-2014
 ---
 
 8/10. Laloux has done a great service bringing together multiple case studies, and drawing out commonalities in practices, attitudes and behaviours.
