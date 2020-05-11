@@ -38,9 +38,6 @@ Buurtzorg teams have incredible latitude to come up with their own solutions. Ve
 * Teams should delegate tasks widely among themselves. They should be careful not to concentrate too many tasks with one person, or a form of traditional hierarchy might creep in through the back door.
 * Along with team meetings, teams plan regular coaching meetings where they discuss specific issues encountered with patients and learn from each other (using a specific group coaching technique).
 * Team members must appraise each other every year, based on competency models they can devise themselves.
-
-70 Reinventing Organizations
-  
   * Teams make yearly plans for initiatives they want to take in the areas of client care and quality, training, organization, and other issues.
   * The target for billable hours in mature teams is 60 to 65 percent.8
   * Teams make important decisions based on the specific decision-
