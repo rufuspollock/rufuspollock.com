@@ -1,7 +1,7 @@
 ---  
 title: Corporate Giving and Info Tech
-slug: random-thoughts
-date: 2020-04-19
+slug: corporate-giving-info-tech
+date: 2014-04-19
 ---  
 
 At st austell on overnight sleeper to truro

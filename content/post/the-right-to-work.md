@@ -1,5 +1,5 @@
 ---
-title: You have the right to work
+title: The Right To Work
 book: An Eames Anthology
 date: 2015-12-10
 ---
