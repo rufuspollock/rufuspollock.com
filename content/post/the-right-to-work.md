@@ -1,6 +1,6 @@
 ---
 title: You have the right to work
-book: An Eames Anthology: Articles, Film Scripts, Interviews, Letters, Notes, Speeches
+book: An Eames Anthology
 date: 2015-12-10
 ---
 

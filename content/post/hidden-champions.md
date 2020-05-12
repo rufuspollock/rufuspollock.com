@@ -1,5 +1,5 @@
 ---
-title: Peter Drucker: Every enterprise requires simple, clear, and unifying objectives
+title: Every enterprise requires simple, clear, and unifying objectives
 book: Hidden Champions of the Twenty-First Century
 slug: hidden-champions
 date: 2020-03-26
