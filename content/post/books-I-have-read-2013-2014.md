@@ -1,7 +1,7 @@
 ---
 title: Books I Have Read 2013 - 2014
 date: 2014-10-01
-slug: books-I-have-read-2014
+slug: books-I-have-read-2013-2014
 tags: ["books"]
 ---
 
