@@ -13,5 +13,5 @@ wordpress:
   - post_id: 280
 ---
 
-Just posted some early stage [notes on experimental games in economics](/economics/notes/experimental-games/).
+Just posted some early stage [notes on experimental games in economics](/research/economics/notes/experimental-games/).
 

@@ -13,7 +13,7 @@ wordpress:
   - post_id: 705
 ---
 
-I was looking again recently at ["Understanding the Knowledge Commons"](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11012) which I had perused previously.
+I was looking again recently at ["Understanding the Knowledge Commons"](https://zajednicko.org/mreznabibliografija/wp-content/uploads/sites/2/2018/04/hess_ostrom_2007-understanding-knowledge-as-a-common.pdf) which I had perused previously.
 
 While reading the introductory chapter by Hess and Ostrom I came across:
 

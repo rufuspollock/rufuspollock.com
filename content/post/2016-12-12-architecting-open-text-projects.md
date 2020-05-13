@@ -58,7 +58,7 @@ Not:
 
 **Why open texts?**
 
-The platform is actually suitable for any text -- open or closed. However, we focus on open texts (as per http://opendefinition.org/). Why?
+The platform is actually suitable for any text -- open or closed. However, we focus on open texts (as per [http://opendefinition.org](http://opendefinition.org)). Why?
 
 Open texts are open -- anyone can access which means we can do things (e.g. extract plain text and publish) and support features (e.g. interlinking) that are otherwise hard. We can also avoid all the (c) problems that are the cause of all the DRM'ing restrictions etc which require us to then a) spend most of our energy on rights clearance b) building features (like DRM) that users don't want.
 

@@ -4,11 +4,15 @@ title: "Fixing Facebook: How to Resolve the Facebook Monopoly and Make the Socia
 
 *First version: July 2018, updated Sep 2018. Posted publicly in this form Jan 2020. This originated as a series of Q&As arising from the publication of [The Open Revolution][or] in June 2018.*
 
-**Short Version -- Facebook can be just like the Internet**
+# Summary: Facebook could be open -- just like the Internet**
 
-Make the key protocols that underlie Facebook (identity/profiles, friending, posting, feed) open along with high quality open software to implement them. Put in place a federated architecture for the core profile database (cf DNS). Content such as photos, posts can be hosted at individual service nodes (like websites with the Internet today).
+Facebook could be open just the Internet was and is. This can be achieved by:
 
-Allow Social Service Providers (like ISPs but for this new social network layer on top of the internet) to flourish as service providers using these protocols and providing social profile hosting and connectivity to the "OpenSocial" network. Allow anyone to build on top of OpenSocial, regulate content and behaviour according to local social norms and regulations (just like the net). Ensure Facebook provides access to these Providers on nondiscriminatory terms.
+* Making the key protocols that underlie Facebook (identity/profiles, friending, posting, feed) open along with high quality implementations in software.
+* Establish federated core profile database -- analogous to DNS for domain names on the Internet.
+* Content such as photos and posts should be hosted at individual service nodes -- analogous to websites on the Internet (your facebook profile *is* many people's modern website).
+* Permit Social Service Providers to be the hosters of these services nodes, both hosting content and acting as gateways onto the social network. These are like ISPs but for this new social network layer. These  service providers use the open protocols to access and hosting of social profiles and connectivity to the "OpenSocial" network.
+* Allow anyone to innovate and build on top of OpenSocial, regulate content and behaviour according to local social norms and regulations (just like the net). Ensure that Facebook provides access to these new Social Service Providers on standard, regulated and nondiscriminatory terms.
 
 Finally, and crucially, put in place remuneration rights as a way to pay for future innovation of the protocols and software so as to ensure continued incentives for innovation, freedom of enterprise, and that the platform continues to be open.
 

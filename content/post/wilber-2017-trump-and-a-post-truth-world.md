@@ -97,7 +97,7 @@ Like this definition of a legitimation crisis. Plus, the analysis has a lot to i
 
 > Technology had long moved into being the material-system correlate (in the Lower Right) of the cultural beliefs of the green stage (in the Lower Left). The green “Information Age” believed that all knowledge is equal, and it should be totally free and totally uncensored—it was common to say that the Net interprets censorship as a system failure and routes around it. **But search engines did not prioritize knowledge in terms of truth, or goodness, or beauty, or inclusivity, or any depth, or any value system at all—not even a growth hierarchy of values or facts—just in terms of popularity and most use. Truth played no role in it.**
 
-I commented on this myself in https://rufuspollock.com/2016/11/26/fake-news-post-truth---is-it-news-and-what-can-we-do/. As I said there, the market of ideas is patently mistaken, in fact there may even be a tendenby for bad ideas to drive out good (e.g. good ideas are more complex and therefore less satisfying than bad ones).
+I commented on this myself in https://rufuspollock.com/2016/11/26/fake-news-post-truth-is-it-news-and-what-can-we-do/. As I said there, the market of ideas is patently mistaken, in fact there may even be a tendenby for bad ideas to drive out good (e.g. good ideas are more complex and therefore less satisfying than bad ones).
 
 
 # Part 2: The Territory

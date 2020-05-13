@@ -256,7 +256,7 @@ Just as ecosystems in adapting ever more perfectly to current conditions make th
 
 [^23]: Babbage also designed a "difference engine" which was intended for the computation of logarithms and other astronomical and mathematical tables. The difference engine lacked programmability and therefore was not a "computer" in our sense of the word. As with the analytical engine Babbage never succeeded in constructing the difference engine (he was notoriously difficult to work with), though machines based on his designs were constructed by others.
 
-[^24]: See <http://www.computerhistory.org/core/charlesbabbage/> (retrieved 2009-05-07) and citations therein.
+[^24]: See <https://www.computerhistory.org/babbage/charlesbabbage/> (retrieved 2009-05-07) and citations therein.
 
 [^25]: See also the quotation in (p. 180) from L.J. Comrie that "this dark age in computing machinery, that lasted 100 years, was due to the colossal failure of Charles Babbage.”
 

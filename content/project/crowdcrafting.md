@@ -1,7 +1,7 @@
 ---
 title: Crowdcrafting
 section: project
-website: http://crowdcrafting.org/
+website: https://scifabric.com/crowdcrafting/
 logoPath: Icon - Crowdcrafting.png
 imagePath: Icon - Crowdcrafting.png
 ---

@@ -118,10 +118,11 @@ wordpress:
 
 <p>The first issue discussed below, where a simple change to a table is treated as a change to every line of the file, is a clear example. In a perfect world, we’d have both a convenient structure <em>and</em> a whole set of robust tools to support it, e.g. tools that recognize swapping two columns of a CSV as a single, simple change or that work at the level of individual cells.</p>
 
-<p>Fundamentally a revision system is built around a diff format and a merge protocol. Get these right and much of the rest follows. The basic 3 options you have are:
-* Serialize to line-oriented text and use the great tools like git (what’s we’ve described above)
-* Identify atomic structure (e.g. document) and apply diff at that level (think CouchDB or standard copy-on-write for RDBMS at row level)
-* Recording transforms (e.g. Refine)</p>
+Fundamentally a revision system is built around a diff format and a merge protocol. Get these right and much of the rest follows. The basic 3 options you have are:
+
+1. Serialize to line-oriented text and use the great tools like git (what’s we’ve described above)
+2. Identify atomic structure (e.g. document) and apply diff at that level (think CouchDB or standard copy-on-write for RDBMS at row level)
+3. Recording transforms (e.g. Refine)
 
 <p>At the Open Knowledge Foundation we built a system along the lines of (2) and been involved in exploring and researching both (2) and (3) &#8211; see <a href="http://www.dataprotocols.org/en/latest/syncing.html">changes and syncing for data on on dataprotocols.org</a>. These options are definitely worth exploring &#8212; and, for example, Max Ogden, with whom I’ve had many great discussions on this topic, is currently working on an exciting project called <a href="http://github.com/maxogden/dat">Dat</a>, a collaborative data tool which will use the <a href="http://www.dataprotocols.org/en/latest/sleep.html">“sleep” protocol</a>.</p>
 
