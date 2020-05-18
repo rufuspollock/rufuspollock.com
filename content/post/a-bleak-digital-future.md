@@ -1,6 +1,6 @@
 ---  
 title: A Bleak Digital Future Dominated by Behemoths
-slug: a-bleak-digital-future
+slug: bleak-digital-future-dominated-by-behemoths
 date: 2016-04-16
 ---  
 

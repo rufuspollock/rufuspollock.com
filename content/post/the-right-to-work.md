@@ -1,5 +1,5 @@
 ---
-title: The Right To Work
+title: Right to work but no right to the fruits of it
 book: An Eames Anthology
 date: 2015-12-10
 ---
