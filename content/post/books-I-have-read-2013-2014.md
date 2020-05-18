@@ -30,7 +30,7 @@ September 2014 - Greece
 The Mystery of Capital by Hernando de Soto
 
 6/10
-Basic concept is good bit one gets very quickly. However historical and political analysis is weak and not esp convincing (perhaps it is aimed at US audiences which weakens it)
+Basic concept is good and one gets it very quickly. However, historical and political analysis are weak and not especially convincing (perhaps it is aimed at US audiences which weakens it).
 
 ----
 Oct 2014
