@@ -136,6 +136,6 @@ Sander van der Waal, Projects Director at Open Knowledge. Sander oversees projec
 
 Daniel Fowler contributes to various projects at Open Knowledge and currently serves as an Open Knowledge Labs lead helping build a community of makers and doers around open data. He has a Master’s degree in Information and Communication Technologies for Development from Royal Holloway, University of London and a Bachelor’s degree in Psychology from Princeton University. Between degrees, he worked for several years as a system administrator for an investment bank in New York City.
 
-### Location
+### Location
 
 Global, online.
