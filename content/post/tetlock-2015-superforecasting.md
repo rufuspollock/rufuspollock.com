@@ -6,13 +6,13 @@ date: 2017-12-10
 published: 2015
 ---
 
-[toc]
+{{<toc>}}
 
 Good book. A bit too journalisty for me at points but a very good academic, balanced tone from Gardner and Tetlock. As is often the case, you could probably distill the majority of it down to ten pages (plus appendix on psychology). At the same time, the authors very skillfully illustrate the ideas with stories, walk through complex ideas and retain a balanced tone.
 
 The most valuable part of the book for Art / Earth / Tech is its concrete analytical insights into open-mindedness and good judgment, especially on the psychology/being side (as opposed to, say, numeracy—though even numeracy is interpreted into its probabilistic and then  psychological aspects—see below re. “fate questionnaire”).
 
-### Key takeaways
+## Key takeaways
 
 * There *are* people who are (very) good forecasters regarding political and world events. These are the “superforecasters” of the book's title. But they aren’t the political “experts” you see on TV or in the newspapers.
   * These “superforecasters” are statistically well above average. If an ordinary predictor has 20/20 vision, then some superforecasters have 100/20 vision.
@@ -24,7 +24,7 @@ The most valuable part of the book for Art / Earth / Tech is its concrete analyt
   * Do lots of updating: people who were good updated a lot (but not too much).
   * Good psych profile: open-minded, curious, etc.
 
-### Chapter Overviews
+## Chapter Overviews
 
 1. An Optimistic Skeptic: sets out original skeptic background from reception of _Expert Political Judgment_ (2005) and explains how Tetlock always had a more nuanced view (there were some exceptional people even in the original sample). Foxes vs hedgehogs.
 2. Illusions of Knowledge: why we think we are better than we are and the flaws of System 1.
@@ -40,7 +40,7 @@ The most valuable part of the book for Art / Earth / Tech is its concrete analyt
 12. What’s Next?
 13. Epilogue
 
-### Chapter 3 - Expert Political Judgment
+## Chapter 3 - Expert Political Judgment
 
 In the mid-1980s Tetlock began a research programme to learn what sets the best forecasters apart. He recruited experts whose livelihoods involved analyzing political and economic trends and events. The experts made a total of roughly twenty-eight thousand predictions between them. The final results appeared in 2005.
 
@@ -66,7 +66,7 @@ In the mid-1980s Tetlock began a research programme to learn what sets the best 
 >
 >Now look at how foxes approach forecasting. They deploy not one analytical idea but many and seek out information not from one source but many. Then they synthesize it all into a single conclusion. In a word, they aggregate. They may be individuals working alone, but what they do is, in principle, no different from what Galton’s crowd did. They integrate perspectives and the information contained within them. The only real difference is that the process occurs within one skull.
 
-### Chapter 5 - Supersmart?
+## Chapter 5 - Supersmart?
 
 Superforecasters seek diverse ideas and challenges to their beliefs. 
 
@@ -82,7 +82,7 @@ Superforecasters seek diverse ideas and challenges to their beliefs.
 >
 >Quite predictably, superforecasters score highly on Baron’s test. But more importantly, superforecasters illustrate the concept. They walk the talk.
 
-### Chapter 6 - Superquants?
+## Chapter 6 - Superquants?
 
 Superforecasters think probabilistically, not fatalistically.
 
@@ -111,7 +111,7 @@ Superforecasters think probabilistically, not fatalistically.
 >
 >I don’t know. But this book is not about how to be happy. It’s about how to be accurate, and the superforecasters show that probabilistic thinking is essential for that. I’ll leave the existential issues to others.
 
-### Chapter 7 - Supernewsjunkies?
+## Chapter 7 - Supernewsjunkies?
 
 The beliefs which are connected to our egos and identities are the most difficult to change in light of contradictory evidence.
 
@@ -130,7 +130,7 @@ The beliefs which are connected to our egos and identities are the most difficul
 >This suggests that superforecasters may have a surprising advantage: they’re not experts or professionals, so they have little ego invested in each forecast. Except in rare circumstances—when Jean-Pierre Beugoms answers military questions, for example—they aren’t deeply committed to their judgments, which makes it easier to admit when a forecast is offtrack and adjust. This isn’t to say that superforecasters have zero ego investment. They care about their reputations among their teammates. And if “superforecaster” becomes part of their self-concept, their commitment will grow fast. But still, the self-esteem stakes are far less than those for career CIA analysts or acclaimed pundits with their reputations on the line. And that helps them avoid underreaction when new evidence calls for updating beliefs.
 
 
-### Chapter 8 - Perpetual Beta
+## Chapter 8 - Perpetual Beta
 
 >We have learned a lot about superforecasters, from their lives to their test scores to their work habits. Taking stock, we can now sketch a rough composite portrait of the modal superforecaster. 
 >
@@ -180,7 +180,7 @@ The beliefs which are connected to our egos and identities are the most difficul
 >
 >What happens when superforecasters work in groups?
 
-### Chapter 9 - Superteams
+## Chapter 9 - Superteams
 
 >At the end of the year, the results were unequivocal: on average, teams were 23% more accurate than individuals.
 
@@ -219,7 +219,7 @@ Hold the excitement.
 >
 >This is the messy world of psychological research. Solid conclusions take time and this work, particularly on superteams, is in its infancy. There are many questions we have only begun to explore
 
-### Chapter 12 - What's Next?
+## Chapter 12 - What's Next?
 
 Collaboration and depolarization of debate are the way forward.
 
@@ -231,7 +231,7 @@ Collaboration and depolarization of debate are the way forward.
 >
 >We can do better. Remember the “adversarial collaboration” between Daniel Kahneman and Gary Klein? These two psychologists won acclaim by developing apparently contradictory schools of thought, making each man a threat to the legacy of the other. But they were committed to playing by scientific ground rules, so they got together to discuss why they had such different views and how they could be reconciled. Something similar could, in principle, be done in forecasting.
 >
-### Extremizing
+## Extremizing
 
 Extremizing basically means scaling probability estimates up to 1 and down to 0, because individual forecasts bias down/up at those points but the mean need not…
 
@@ -248,7 +248,7 @@ Tetlock et al. published a [paper](https://pubsonline.informs.org/doi/abs/10.128
 >
 >When aggregating the probability estimates of many individuals to form a consensus probability estimate of an uncertain future event, it is common to combine them using a simple weighted average. Such aggregated probabilities correspond more closely to the real world if they are transformed by pushing them closer to 0 or 1. We explain the need for such transformations in terms of two distorting factors: The first factor is the compression of the probability scale at the two ends, so that random error tends to push the average probability toward 0.5. This effect does not occur for the median forecast, or, arguably, for the mean of the log odds of individual forecasts. The second factor—which affects mean, median, and mean of log odds—is the result of forecasters taking into account their individual ignorance of the total body of information available. Individual confidence in the direction of a probability judgment (high/low) thus fails to take into account the wisdom of crowds that results from combining different evidence available to different judges. We show that the same transformation function can approximately eliminate both distorting effects with different parameters for the mean and the median. And we show how, in principle, use of the median can help distinguish the two effects.
 			
-### Appendix - Ten Commandments for Aspiring Superforecasters
+## Appendix - Ten Commandments for Aspiring Superforecasters
 
 > **(1) Triage.**
 > 
@@ -328,7 +328,7 @@ Fun stuff:
 
 > The reason there’s not a big market for foxy case studies in business schools is because MBAs would probably recoil from them and business schools are pretty customer-friendly.
 
-### Slides from Edge session
+## Slides from Edge session
 
 <iframe src=https://docs.google.com/presentation/d/15sc4U74-rLBirQVp17jqOJ4d8aQSrDyVrVZoIv5yoz8/edit?usp=sharing frameborder="0" width="720" height="583" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
