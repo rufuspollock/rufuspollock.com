@@ -1,16 +1,16 @@
 ---
-title: Notes on Tetlock and Gardner's Superforecasting
+title: Notes on Tetlock and Gardner's Superforecasting - The Art of Science and Prediction
 book: Superforecasting - The Art of Science and Prediction
-slug: tetlock-gardner-2015-superforecasting
+slug: tetlock-gardner-2015-superforecasting-the-art-and-science-of-prediction
 date: 2017-12-10
 published: 2015
 ---
 
+Good book. A bit too journalisty for me at points but overall a very good balance of academic and popular. As is often the case, you could probably distill the majority of it down to ten pages (plus appendix on psychology). At the same time, the authors very skillfully walk through complex ideas, skilfully illustrate the ideas with anecdotes and stories and retain the nuance of the underlying subject matter.
+
+The most valuable part of the book for me and [Life Itself](http://lifeitself.us/) is its concrete analytical insights into open-mindedness and good judgment, especially on the psychology/being side (as opposed to, say, numeracy—though even numeracy is interpreted into its probabilistic and then  psychological aspects—see below re. “fate questionnaire”).
+
 {{<toc>}}
-
-Good book. A bit too journalisty for me at points but a very good academic, balanced tone from Gardner and Tetlock. As is often the case, you could probably distill the majority of it down to ten pages (plus appendix on psychology). At the same time, the authors very skillfully illustrate the ideas with stories, walk through complex ideas and retain a balanced tone.
-
-The most valuable part of the book for Art / Earth / Tech is its concrete analytical insights into open-mindedness and good judgment, especially on the psychology/being side (as opposed to, say, numeracy—though even numeracy is interpreted into its probabilistic and then  psychological aspects—see below re. “fate questionnaire”).
 
 ## Key takeaways
 
@@ -330,5 +330,7 @@ Fun stuff:
 
 ## Slides from Edge session
 
-<iframe src=https://docs.google.com/presentation/d/15sc4U74-rLBirQVp17jqOJ4d8aQSrDyVrVZoIv5yoz8/edit?usp=sharing frameborder="0" width="720" height="583" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+The slides below summarise the findings from the Good Judgement Project and the participants' success in IARPA's forecasting tournaments.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSohCYc03LvW1Jtb2a6IYMX8RXN_Rc-0h4RqRWCBbwneXfCOlQEPMBtrU0hwyhQaztgk1zzfNsPvH_m/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
