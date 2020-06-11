@@ -31,7 +31,7 @@ Sharp falls in real wage levels of non-college workers suggest employer demand f
 
 >Three salient patterns in US and international data suggest that labor may indeed have become less scarce. A first is that labor’s share of national income has declined in the large majority of countries since the early 1980s. Figure 14.2, reproduced from Karabarbounis and Neiman (2014, KN hereafter), documents this trend specifically for the four largest world economies: the United States, Japan, China, and Germany. In all four countries, the labor share—specifically, the share of corporate gross value-added paid to labor—declined by roughly 2 to 4 percentage points per decade during the 1975-2010 period, with the precise time window differing by country according to data availability. 
 
-<img src="Autor%20graph.png" />
+<img src="content/post/performance-and-progress/Autor graph.png" />
 
 > Figure 14.2. Trends in the Labor Share in National Income in the Four Largest World Economies Source: Karabarbounis and Neiman (2014), figure II.
 
@@ -123,7 +123,7 @@ Two distinctive features of our current economic system are the scale that can b
 
 The expansion of individual human rights principles and similar systems of education has facilitated huge growth in international organisations (both non-profit and for profit) since WWII.
 
-<img src="Meyer graph 2.png" />
+<img src="content/post/performance-and-progress/Meyer graph 2.png" />
 
 >Figure 5.5. Cumulative Number of International Nongovernmental Associations, 1850-1986 
 >
@@ -141,7 +141,7 @@ The expansion of individual human rights principles and similar systems of educa
 >
 >Famously, the world of profit-making business experiences exactly the same organizational expansion and reconstruction. Trade increases during the period, but not on a dramatic scale. But during the post-war period, and especially the neo-liberal period of recent decades, global activity increasingly occurs within international business organizations—-multinational firms. This was a very rare form of economic organization in 1950, and has become very widespread. A number of counts of these firms have been assembled, all showing the same explosive trend. We display one of them in Figure 5.6, taken from Gabel and Bruner (2003) which shows an explosion from almost nothing to numbers in the tens of thousands. 
 
-<img src="Meyer graph 3.png" />
+<img src="content/post/performance-and-progress/Meyer graph 3.png" />
 
 > *Figure 5.6* Number of Multinational Corporations, 1850-2000
 >
