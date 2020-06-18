@@ -4,6 +4,30 @@ title: Poetry
 
 {{<toc>}}  
 
+# When death comes by Mary Oliver
+
+When death comes  
+like the hungry bear in autumn;  
+when death comes and takes all the bright coins from his purse  
+
+to buy me, and snaps the purse shut . . .  
+
+I want to step through the door full of curiosity, wondering:  
+what is it going to be like, that cottage of darkness?  
+
+And therefore I look upon everything  
+as a brotherhood and a sisterhood, . . .  
+
+and I think of each life as a flower, as common  
+as a field daisy, and as singular . . .  
+
+and each body a lion of courage, and something  
+precious to the earth.  
+
+When it’s over, I want to say: all my life  
+I was a bride married to amazement.  
+I was the bridegroom, taking the world into my arms . . .  
+
 # Thunder Road (Bruce Springsteen) - Lyrics  
 
 Bruce Springsteen  
@@ -135,10 +159,6 @@ When logics dies,
 The secret of the soil grows through the eye,  
 And blood jumps in the sun;  
 Above the waste allotments the dawn halts.  
-
-# Quote by Ursula K. Le Guin  
-
-"Only in silence the word, only in darkness the light, only in dying life: bright the hawk's flight on an empty sky."  
 
 
 # To His Coy Mistress by Andrew Marvell 
