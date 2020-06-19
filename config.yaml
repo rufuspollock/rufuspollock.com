@@ -3,6 +3,12 @@ title: "Rufus Pollock Online"
 languageCode: "en-us"
 googleAnalytics: "UA-35035650-1"
 
+# in hugo >= 0.60 suddenly switched off html! https://gohugo.io/news/0.60.0-relnotes/
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 permalinks:
   post: /:year/:month/:day/:slug/
 
@@ -23,3 +29,4 @@ params:
   linkedin: https://www.linkedin.com/in/rufus-pollock-00a86348/
   facebook: https://www.facebook.com/rufus.pollock/
   youtube: https://www.youtube.com/channel/UClpV3y3lj214kRHvVDBTGgA
+
