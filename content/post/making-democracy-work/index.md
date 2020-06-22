@@ -6,7 +6,7 @@ date: 2019-05-02
 published: 1993
 ---
 
-*Making Democracy Work: Civic Traditions in Modern Italy* by Robert Putnam, Robert Leonardi and Raffaella Y. Nanetti was published in 1993. It was a landmark work that launched the field of social capital research. It was also the more hard-core academic precursor to Putnam's even better known *Bowling Alone* which focused on the decline of community (and social capital) in the US. It was a seminal work in a variety of ways: from its use of statistical methods (as well as traditional descriptive and historical materials) to its overall thesis about the importance of social capital (or what I would call cultural factors).
+*Making Democracy Work: Civic Traditions in Modern Italy* by Robert Putnam, Robert Leonardi and Raffaella Nanetti was published in 1993. It was a landmark work that launched the field of social capital research. It was also the more hard-core academic precursor to Putnam's even better known *Bowling Alone* which focused on the decline of community (and social capital) in the US. It was a seminal work in a variety of ways: from its use of statistical methods (as well as traditional descriptive and historical materials) to its overall thesis about the importance of social capital (or what I would call cultural factors).
 
 It reported the results of a nearly 20 year research program which tracked the impact of a major political reform in Italy that started in 1975. This reform shifted power from the central government to the regions in several key areas such as education and healthcare, which resulted in the regions controlling between one-quarter and one-third of of the national budget by 1977.[^1]
 
