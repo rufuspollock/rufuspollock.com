@@ -1,7 +1,7 @@
 ---
 title: Notes on Schein's DEC is Dead
 book: DEC is Dead, Long Live DEC - The Lasting Legacy of Digital Equipment Coporation
-slug: schein-2015-DEC-is-dead
+slug: schein-2003-DEC-is-dead
 date: 22-04-19
 published: 2003
 ---
