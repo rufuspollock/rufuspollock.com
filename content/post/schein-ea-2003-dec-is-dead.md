@@ -10,7 +10,7 @@ published: 2003
 
 Schein's argument is that DEC's cultural values and practices resulted in it failing to adapt to the changing market. A recurring idea in Schein's analysis is that DEC was missing the 'money gene;' the 'cultural DNA' of DEC encoded individualistic, technical and family values, which initially attracted extraordinary talent but remained non-negotiable even when they ceased to be compatible with profitability. Schein views the downfall of DEC as ultimately stemming from the difficulty of changing organizational culture, and an evolving company and changing market that left the previously effective culture of DEC toxic and inefficient.
 
-I view the book as useful for its insights into how the 'cultural DNA' of an organization has enduring impacts on organizational growth, and the resistance to changing core values that may arise even if change is necessary for the company to survive. 
+I found the book useful for its insights into how the 'cultural DNA' of an organization has enduring impacts on organizational growth, and the resistance to changing core values that may arise even if change is necessary for the company to survive. 
 
 But in focusing on the culture of innovation at DEC as the primary factor that contributed to both its rise and decline, the book neglects the basic economics that underpinned this. DEC *was* innovative, but it was arguably economic factors that allowed the company to establish a monopoly position in the market. It is also possible to view DEC's later decisions as stemming from economic concerns; specifically, a desire to hold on to the hope that they would continue to dominate the market with proprietary products, rather than an intrinsic commitment to innovation, led to them resisting change.
 
