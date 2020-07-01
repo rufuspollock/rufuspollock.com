@@ -1,6 +1,10 @@
-# Summary of the Zettelkasten Method
+---  
+title: The Zettelkasten Method 
+slug: zettelkasten-method
+date: 2020-07-01
+---  
 
-Niklas Luhmann (1927-1998) was a social scientist whose prolific writing (he wrote over 70 books) is often attributed to his note-taking system. 
+Niklas Luhmann (1927-1998) was a social scientist whose wide-ranging and prolific writing is often attributed to his note-taking system. Luhman wrote around 60 books and 400 articles, having undetaken a thirty-year project to create a comprehensive theory of society as well as writing upon numerous social phenomena, such as law, education, mass media and love.
 
 Luhmann's system, called Zettelkasten, was made up of index cards (zettel) which he kept in a slip-box. Luhmann used alphanumeric strings to connect related notes, allowing him to combine ideas into chains of thought which he could repeatedly return to and expand. 
 
@@ -71,7 +75,7 @@ There are three types of notes you'll take when you're getting started with the 
     * The index contains keywords, with the IDs of relevant notes next to each keyword.
     * Only one or two notes are listed next to each keyword.
     * The idea is not to list every relevant note, but to provide a couple of 'ways in' to each topic in the slip-box.
-    * However if a topic is sufficiently well-developed that you've created a compliation note for the topic, you may want to link to it from the index.
+    * However if a topic is sufficiently well-developed that you've created a compilation note for the topic, you may want to link to it from the index.
 
  #### Project notes (notes which will cease to be useful once a project is complete) should be kept outside the slip-boxes.
 
@@ -124,37 +128,30 @@ You may also want to update your index and/or compilation notes to reflect the c
 
 ## Strengths compared to other approaches
 
-### The Zettelkasten process makes the task of writing easier before it begins
+### The Zettelkasten method makes the task of writing easier before it begins
 
-* A piece of writing begins to emerge and its development is recorded in the slip-box before the process of creating a linear piece of writing begins.
-* Writing ideas down individually and creating multiple links supports flexibility in the structure of writing while recording lines of thought as they develop.
-* Ideas generated during one project can be used in the future.
+* Unlike using tags to link associated ideas, creating forward links and back links results in the creation of a linear line of argument.
+* At the same time, writing ideas down individually and creating multiple links supports flexibility in the structure of writing.
+* Thinking about how a note connects to other notes immediately after writing it makes it easier to keep an eye on how a current research direction fits into the bigger picture.
+* At the same time, ideas generated during one project can be used in the future even if not immediately useful.
+* Over time the Zettelkasten grows to contain multiple linear lines of reasoning that could be turned into finished pieces of writing.
 
-This all makes the writing process easier!
-
-### The process is the same for all note-taking
+### It reduces cognitive load as the process is the same for all note-taking
 
 * All notes are in a single location, regardless of topic (unless they're only intended as temporary notes).
     * This means fewer decisions and lower cognitive load.
 
-### Writing literature notes encourages integration of new knowledge
+### It encourages understanding and integration of new knowledge and recall of pre-existing knowledge
 
-Literature notes:
-
-* require taking note of the key ideas.
-* give quick feedback on understanding of the text. 
+* Literature notes give quick feedback on understanding of the text, as they require concisely summarising the key ideas.
+* Links integrate new knowledge into pre-existing knowledge.
+* Searching for new connections encourages recalling existing knowledge.
     
-### Links between notes allow for linear development of ideas while supporting novel connections
+### And of course, it encourages novel connections
 
-* Unlike using tags to link associated ideas, creating forward links and back links allows the creation of a linear line of argument.
 * Unlike categories, links reflect the multiplicity of meanings and associations a piece of knowledge can have.
-* The approach of continually looking for links that can be made between notes during the note-taking process:
-    * facilitates new, novel insights.
-    * means knowledge from different projects isn’t siloed.
-    * encourages recall
-        * through integrating new knowledge into pre-existing knowledge.
-        * through the process of recalling existing knowledge in the search for new connections.
-    * gives quick feedback on whether research is fitting into a bigger picture.
+* Making links and having one location for all notes means knowledge from different projects isn't siloed.
+* The approach of continually looking for links that can be made during the note-taking process facilitates new, novel insights.
 
 ## Bibliography
 
