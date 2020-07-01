@@ -1,12 +1,12 @@
 ---
 title: Notes on Schein's DEC is Dead
-book: DEC is Dead, Long Live DEC - The Lasting Legacy of Digital Equipment Coporation
+book: DEC is Dead, Long Live DEC - The Lasting Legacy of Digital Equipment Corporation
 slug: schein-2003-DEC-is-dead
 date: 22-04-19
 published: 2003
 ---
 
-*DEC is DEAD, Long Live DEC: The Lasting Legacy of Digital Equipment Coporation* is by Edgar Schein, with Peter DeLisi, Paul Kampas and Michael Sonduck. Schein charts the creation of DEC, or Digital Equipment Incorporated, which was created in 1957 and rose to become the second largest computer company in America before its decline during the 1990s, which ultimately ended with its acquisition by Compaq (although as clear in the title, DEC has left an enduring cultural legacy).
+*DEC is DEAD, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation* is by Edgar Schein, with Peter DeLisi, Paul Kampas and Michael Sonduck. Schein charts the creation of DEC, or Digital Equipment Corporation, which was created in 1957 and rose to become the second largest computer company in America before its decline during the 1990s, which ultimately ended with its acquisition by Compaq (although as clear in the title, DEC has left an enduring cultural legacy).
 
 Schein's argument is that DEC's cultural values and practices resulted in it failing to adapt to the changing market. A recurring idea in Schein's analysis is that DEC was missing the 'money gene;' the 'cultural DNA' of DEC encoded individualistic, technical and family values, which initially attracted extraordinary talent but remained non-negotiable even when they ceased to be compatible with profitability. Schein views the downfall of DEC as ultimately stemming from the difficulty of changing organizational culture, and an evolving company and changing market that left the previously effective culture of DEC toxic and inefficient.
 
