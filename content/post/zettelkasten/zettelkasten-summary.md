@@ -20,24 +20,8 @@ Below I've written up my research on the Zettelkasten system based on my reading
 
 ## Overview of the workflow
 
-```mermaid
-graph TD
+<img src="workflow.png" />
 
-start[Start: Reading a book]
-start2[Start: Fleeting note on an idea]
-start --> lit1[Create literature notes on key ideas]
-lit1 --> ID2[Give unique IDs]
-ID2 --> bib[Write bibliographic information on other side]
-bib --> link[Link to relevant notes in the main slip-box]
-link --> store1[Finish: Store in bibliographic slip-box]
-
-start2 --store in inbox for processing --> permanent[Create permanent note]
-permanent --> find[Find appropriate location for note in main slip-box]
-find --> ID[Give note a unique ID]
-ID --> link2[Create links between related notes in the main slip-box]
-link2 --> store2[Finish: Store in main slip-box]
-
-```
 ## Implementing
 
 My focus here is on how to implement Zettelkasten in a digital setup.
@@ -121,20 +105,7 @@ There are three types of notes you'll take when you're getting started with the 
 
 Here's a visual representation of branches and weaker links between notes:
 
-```mermaid
-graph TD
-
-start[22]
-start --> 22a[22a]
-start --> 22b[22b]
-22a --> 22a1[22a1]
-22a --> 22a2[22a2]
-22b --> 22b1[22b1]
-22a2 --> 22a2a[22a2a]
-22b -.link -.- 22a2a[22a2a]
-22a -.link -.- 133b[133b]
-
-```
+<img src="notes-and-links.png" />
 
 ### Add new notes to the slip-box
 
