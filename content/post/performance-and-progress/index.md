@@ -31,7 +31,7 @@ Sharp falls in real wage levels of non-college workers suggest employer demand f
 
 >Three salient patterns in US and international data suggest that labor may indeed have become less scarce. A first is that labor’s share of national income has declined in the large majority of countries since the early 1980s. Figure 14.2, reproduced from Karabarbounis and Neiman (2014, KN hereafter), documents this trend specifically for the four largest world economies: the United States, Japan, China, and Germany. In all four countries, the labor share—specifically, the share of corporate gross value-added paid to labor—declined by roughly 2 to 4 percentage points per decade during the 1975-2010 period, with the precise time window differing by country according to data availability. 
 
-<img src="Autor graph.png" />
+<img src="autor-graph.png" />
 
 > Figure 14.2. Trends in the Labor Share in National Income in the Four Largest World Economies Source: Karabarbounis and Neiman (2014), figure II.
 
