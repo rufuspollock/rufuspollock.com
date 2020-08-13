@@ -1,25 +1,25 @@
 ---
-title: The Data Difference — Data Driven Decision Making and Why It's Importance
-slug: the-data-difference-talk
+title: The Data Difference — Data-Driven Decision-Making and Why It's Important
+slug: the-data-difference
 posttypes: ['Talks']
 date: 2017-04-27
 ---
 
-Data Driven Decision Making and Why It's Important
+This is a version of one of my talks, 'The Data Difference,' that I gave for [Black Swan](https://www.blackswan.com/), which discusses how the successful use of data depends on human intelligence even while mitigating its flaws. Data-driven algorithms are unaffected by common biases in human reasoning and are far better than people at many tasks. However, enthusiasm for 'Big Data' can obscure the fact that the success of data-driven decision-making still relies upon the human intelligence to identify the right data for the right problem at the right time.
 
-Here's a transcript of a talk I gave on how and why data can make a real difference to the effectiveness of individuals and organizations, as well as the practical pitfalls and challenges of using more data.
+{{<toc>}}
 
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXyLDxWZzCk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Talk Slides
+## Slides
 
-https://rufuspollock.com/wp-content/uploads/2019/01/data-difference.pdf
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzTfE7PQvZYoOgHP-T1KhJND477rQFEKRWeg7hwRtpCC4_W20x_3_xMSz_eP1gZ9Z4501erNx5P-IM/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Transcript
 
-*(lightly edited for readability)*
+*(lightly edited)*
 
 ### How I became interested in data and decision-making
 
@@ -51,7 +51,7 @@ I would interview applicants for about 20 to 30 minutes and have to make a decis
  
 So I got really curious and asked around in Cambridge to see if we had any statistics. Did we have any data on the people we accepted? Or the people we pooled? Because that would be a nice sample — the people who were almost rejected, but who made it. Or even data on how people were rated? Because students were rated when they were accepted. How did that compare to how they did in their degree three years later? Did we have anything that would tell us how reliable our system was? The answer was no. There was no data at all. So I got interested in this. That interview had been close to having a very major effect on my life, and whether or not other people got into Cambridge had a major effect on their lives. So I’m fascinated by how we make these kinds of decisions.
 
-### Data-driven algorithms are surprisingly good and compensate for some of the biases in human decision-making, but we're often reluctant to accept this
+### Data-driven algorithms compensate for many of the biases in human decision-making, but we're often reluctant to accept this
  
 I’m not alone in questioning the reliability of these kinds of decisions; people have thought about this for a while. There’s something called the Oregon Research Institute where Lewis Goldberg has asked these questions about a whole range of areas. He asked: what about admissions to a psychiatric hospital? That seems like a bigger deal than getting accepted to university! Do you get put in a mental institution, or not? Do you get let out of a mental institution or not? How good are psychologists at making this diagnosis? Or, for example, when they let you out, how good are they at predicting whether you'll come back, or that you'll have another psychotic episode? 
  
@@ -107,7 +107,7 @@ It’s even worse with big people, by the way; we tend to be charmed even more b
  
 So to summarise, data driven algorithms are surprisingly good. They often perform better than human experts in areas ranging from forecasting outcomes of football games to diagnosing cancer. The reason is that humans use approximate heuristics and are not well adapted to solving these types of problems. Human beings are extraordinary in many ways, but we're just not really good at this. I mean, the simplest example I can think of is if you go to a supermarket, you don't say, ‘Oh, I reckon this is £35 of shopping’ and the cashier doesn’t say, ‘No, I think it's £27.’ No — you have a machine that adds it up. Humans are not good at adding up 200 five digit numbers in their heads. It's just not something we're well adapted for. However, we remain reluctant to accept these facts.
 
-### Deriving value from data is surprisingly hard — more data isn't always better
+### At the same time, deriving value from data is surprisingly hard and more data isn't always better
  
 I want to turn now to the importance of smart data. The basic story is we want to do more data-driven decision-making, but we also want to be smart about doing more of it. I’ll tell you about another story to illustrate this. Does anyone here read Borges? He writes really beautiful short stories. They're very short. You can read them over lunchtime. He actually got a Nobel Prize for Literature as well, so he's good. He wrote a story called *The Library of Babel*. The library in the story is made up of hexagonal rooms full of books. Every room opens north, south, east and west and the library also goes up and down. As far as anyone can tell, the library goes on forever. You can keep wandering through the rooms and you never get to the end of it. About ten years before the story opens, the librarians in the library have had an incredible breakthrough; they’ve discovered the books are not a varying length — they’re all 410 pages exactly. Every 410 page book that you could possibly write is in that library.
  
@@ -123,7 +123,7 @@ So data-driven decision-making offers an incredible opportunity, but here is whe
  
 I imagine the client base you engage with increasingly has some mixed experiences with data solutions; maybe they bought a data warehouse that's sitting there in the desert, pristine and beautiful, costing tonnes of dollars a year and producing absolutely zero business value. People will be having that experience sometimes. And that's actually an opportunity to say, ‘You're absolutely right. It takes skill and expertise to derive real business value for you from this. And we know how to do that. We've got all this experience and we know how to be smart in how we use this data.’ I sometimes talk about this in terms of the three R's; the right data for the right problem at the right time.
 
-### Insight and value can only be derived from data when directed and combined with human intelligence
+### Insight and value can only be derived from data when directed by and combined with human intelligence
  
 I want to end with a key point, which is to remind you to bear in mind that decision-makers will often face a fear that deep down, humans are going to be supplanted by machines. They may even worry that their job specifically is under threat. So I want to emphasise a crucial point, which is that it was human doctors, and decades of research, that actually identified those seven features to look at when diagnosing stomach cancer. It wasn’t an algorithm — you had to know what to go looking for and that took human intelligence. It took humans or human-built processes to collect that data. You still have to build and design processes that collect the information you want and you still have to design the algorithms. It also takes humans to act on those predictions and insights. 
  
