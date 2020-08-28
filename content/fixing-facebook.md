@@ -4,7 +4,7 @@ title: "Fixing Facebook: How to Resolve the Facebook Monopoly and Make the Socia
 
 *First version: July 2018, updated Sep 2018. Posted publicly in this form Jan 2020. This originated as a series of Q&As arising from the publication of [The Open Revolution][or] in June 2018.*
 
-# Summary: Facebook could be open -- just like the Internet**
+# Summary: Facebook could be open -- just like the Internet
 
 Facebook could be open just the Internet was and is. This can be achieved by:
 
