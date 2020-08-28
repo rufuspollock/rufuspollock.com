@@ -2,7 +2,7 @@
 title: Notes on Schein's DEC is Dead
 book: DEC is Dead, Long Live DEC - The Lasting Legacy of Digital Equipment Corporation
 slug: schein-2003-DEC-is-dead
-date: 22-04-19
+date: 2019-04-22
 published: 2003
 ---
 
@@ -326,4 +326,4 @@ Furthermore, one could argue that much of their success had little to do with th
 
 > It really was simply ignorance and incompetence on the part of DEC’s top handful of leaders and, to some degree, its generally ineffective board of directors. Given the DEC culture of openness, honesty, letting the data decide, and taking personal responsibility, this straightforward explanation should suffice. The data clearly support the need to take individual responsibility for DEC’s problems rather than believing that it was the “events and the culture that made us do it.” (When former chairman and CEO Louis Gerstner arrived at IBM, the company was in the same relative position as when Olsen resigned from Digital; leaders can be responsible for the success or failure of a company.) These leaders lacked understanding of the nature of the computer industry in nearly every critical technology and product area:
 >
-> * Moore’s Law. In 1989 Olsen demonstrated his lack of understanding that a $300 CMOS NVAX microprocessor would equal and shortly exceed the $300,000 ECL Aquarius performance. Figure E.2 from 1981 shows that ECL would have a short life when I had proposed the purchase of a part of Trilogy. My 1982 optimism was a costly mistake that required killing the project. Not building an ECL computer was a clear and easy decision when the technology failed to materialize in a timely fashion. The market rejection confirmed the decision. As Ed Schein shows in this book, Olsen loved having many options yet disliked killing projects implied by that — he was too much an engineer. (Although I refuse to believe that DEC lacked the money gene!...)
+> * Moore’s Law. In 1989 Olsen demonstrated his lack of understanding that a \\$300 CMOS NVAX microprocessor would equal and shortly exceed the \\$300,000 ECL Aquarius performance. Figure E.2 from 1981 shows that ECL would have a short life when I had proposed the purchase of a part of Trilogy. My 1982 optimism was a costly mistake that required killing the project. Not building an ECL computer was a clear and easy decision when the technology failed to materialize in a timely fashion. The market rejection confirmed the decision. As Ed Schein shows in this book, Olsen loved having many options yet disliked killing projects implied by that — he was too much an engineer. (Although I refuse to believe that DEC lacked the money gene!...)
