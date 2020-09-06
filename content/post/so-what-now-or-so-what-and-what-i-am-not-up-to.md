@@ -47,7 +47,7 @@ I am loath to do differences, but a difference, perhaps better a distinction, is
 
 ## So compared to Plum Village (PV)
 
-PV exemplifies two distinct things: retreat centres and monasticism (plus maybe engaged buddhism). On both items other than monasticism there is plenty of overlap. Let's start with monasticism though. We are distinct from monasticism. Monasticism is great. It's extraordinary. And I want a different path. And not just for me, but for others, I suspect monasticism is a relatively narrow option practically and socially. In terms of retreat centres: Art Earth Tech may run retreat centres (who knows) and aspects of Art Earth Tech living may be retreat-like but we aren't "doing" retreat centres. That is, because we aren't "outside" of the conventional world. We're in it. We aren't a retreat. We're an advance.
+PV exemplifies two distinct things: retreat centres and monasticism (plus maybe engaged Buddhism). On both items other than monasticism there is plenty of overlap. Let's start with monasticism though. We are distinct from monasticism. Monasticism is great. It's extraordinary. And I want a different path. And not just for me, but for others, I suspect monasticism is a relatively narrow option practically and socially. In terms of retreat centres: Art Earth Tech may run retreat centres (who knows) and aspects of Art Earth Tech living may be retreat-like but we aren't "doing" retreat centres. That is, because we aren't "outside" of the conventional world. We're in it. We aren't a retreat. We're an advance.
 
 Also while we practice meditation and other practices I think we are "being" them, not teaching them -- we aren't qualified to teach them in my opinion. It just isn't our essence, it isn't our expertise. Our expertise is being a demonstration (more than that: a prototype, a becoming of the future) that you be awakening *and* live and work in what seems close to "conventional" ways. In that sense it is anti-monasticism (I don't mean anti here in antagonistic but more like anti-matter, an opposite complement, something that completes the other, and which together generate a lot of energy. In fact, in this sense (or energy and complementarity), quite specifically and practically: for example, Plum Village would benefit hugely from something like Art Earth Tech -- and contributes massively to it. The monastics do not want to become a lay community, they want to exist in symbiosis with it -- and practically that means (physical) spaces distinct from the monastery. They can't have too many people living in caravans in the car park.
 
@@ -75,25 +75,25 @@ We represent a middle way in terms of living and working relative to the current
 
 Specifically, Art Earth Tech provides living and working environments, networked together and part of a coherent culture founded on the possibility of awakening. Those living and working environments are designed at a practical level to be highly proximate and engaged with the current dominant mode of operating and discourse.
 
-Putting this concretely: hubs are in the centre of cities, not in some remote location of remarkable beauty. We participate in politics both conventionally and unconventionally (rather than staying aloof). We create and start businesses -- and not just yoga studios. At the same time, these are all founded on awakening, and their very essence flows from and represents awakening (which is distinctly unconventional and different from the current dominant discourse).
+Putting this concretely: hubs are in the centre of cities, not in some remote location of remarkable beauty. We participate in politics both conventional and unconventional (rather than staying aloof). We create and start businesses -- and not just yoga studios. At the same time, these are all founded on awakening, and their very essence flows from and represents awakening (which is distinctly unconventional and different from the current dominant discourse).
 
-We are bridge of Zen awakening into the lived experience of 21st century capitalist, consumerist democracies.[cf the connection with Landmark: that was a bridge of Zen Satori into 1970s US].
+We are a bridge of Zen awakening into the lived experience of 21st century capitalist, consumerist democracies.[cf the connection with Landmark: that was a bridge of Zen Satori into 1970s US].
 
 Put simply, in 2020 you probably aren't -- and don't need to -- to become a Zen monk to discover and sustain awakening.
 
-And conversely, in 2020, the convergence of abundance and technology, epistemology and ontology, mean we are in a position to try out weaving awakening deep into the practicalities of daily life.
+And conversely, in 2020, the convergence of abundance and technology, epistemology and ontology, wisdom traditions and science mean we are in a position to try out weaving awakening deep into the practicalities of daily life.
 
-So why Art Earth Tech? The answer there is that being able to do that is still difficult. The equilibrium of this is hard. It is hard at the practical level e.g. going to work and remaining present, or finding work that pays enough and has the hours that permit presence to be maintained, or the living situation that supports community and balanced living etc.
+So why Art Earth Tech? The answer there is that being able to do that is still very difficult. The equilibrium of this is hard. It is hard at the practical level e.g. going to work and remaining present, or finding work that pays enough and has the hours that permit presence to be maintained, or the living situation that supports community and balanced living etc.
 
-It is also hard at the level of the machine / being: if you engage a lot in "conventional" discourse or work it is easy to get lost in it (or the machinery to get triggered). Whilst Buddhist monasticism has been around since the Buddha and demonstrably stable and sustainable (if not massivley growing), it is not at all clear whether one can create this new "middle way". In addition, living (deeply) engaged[^1] / interwoven with conventional society / every day life brings specific challenges.[^2][^3]
+It is also hard at the level of the machinery of being: if you engage a lot in "conventional" discourse or work it is easy to get lost in it (or the machinery to get triggered). Whilst Buddhist monasticism has been around since the Buddha and demonstrably stable and sustainable (if not massively growing), it is not at all clear whether one can create this new "middle way". In addition, living (deeply) engaged[^1] / interwoven with conventional society / every day life brings specific challenges.[^2][^3]
 
 Being a demonstration that we can surmount those challenges, that we can forge a new middle way, that we can find satori in the city. That's a goal worth living for, worth standing for, worth giving my life for. So that's what I'm doing.
 
 [^1]: I don't want to imply that e.g. Plum Village is not engaged with conventional society or that Landmark is not part of every day life. But there is a substantive difference. The difference of the lay community (who e.g. need to earn livings etc) to the monastic community. Or of being in a landmark seminar and being at home or at work.
 
-[^2]: in a later post i can go into these in more detail.
+[^2]: In a later post i can go into these in more detail.
 
-[^3]: not for self for the future: What conversation are we engaged in? What conversational domain are we in? What reality are we shifting?
+[^3]: Note for self for the future: What conversation are we engaged in? What conversational domain are we in? What reality are we shifting?
 
 ## Summary
 
