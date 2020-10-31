@@ -6,15 +6,15 @@ title: "Fixing Facebook: How to Resolve the Facebook Monopoly and Make the Socia
 
 # Summary: Facebook could be open -- just like the Internet
 
-Facebook could be open just the Internet was and is. This can be achieved by:
+Facebook could be open just like the Internet. An open Facebook (or WeChat) which we dub "OpenSocial" would be be achieved by:
 
-* Making the key protocols that underlie Facebook (identity/profiles, friending, posting, feed) open along with high quality implementations in software.
-* Establish federated core profile database -- analogous to DNS for domain names on the Internet.
-* Content such as photos and posts should be hosted at individual service nodes -- analogous to websites on the Internet (your facebook profile *is* many people's modern website).
-* Permit Social Service Providers to be the hosters of these services nodes, both hosting content and acting as gateways onto the social network. These are like ISPs but for this new social network layer. These  service providers use the open protocols to access and hosting of social profiles and connectivity to the "OpenSocial" network.
-* Allow anyone to innovate and build on top of OpenSocial, regulate content and behaviour according to local social norms and regulations (just like the net). Ensure that Facebook provides access to these new Social Service Providers on standard, regulated and nondiscriminatory terms.
+* Making the key protocols that underlie a social network like Facebook open along with high quality implementations in software (key protocols would include identity/profiles, friending, posting, feed).
+  * Establishing a federated identity/profile database that is not owned or run by any one entity. This would be analogous to DNS for domain names on the Internet.
+  * Having content such as photos and posts hosted at individual service nodes -- analogous to websites on the Internet (your facebook profile *is* many people's modern website).
+* Permitting Social Service Providers to be the hosters of these services nodes, both hosting content and acting as gateways onto the social network. These are like ISPs but for this new social network layer. These  service providers use the open protocols to provide access and hosting of social profiles and connectivity into the global "OpenSocial" network.
+* Allowing anyone to innovate and build on top of OpenSocial, regulate content and behaviour according to local social norms and regulations (just like the net). Ensure that Facebook provides access to these new Social Service Providers on standard, regulated and nondiscriminatory terms.
 
-Finally, and crucially, put in place remuneration rights as a way to pay for future innovation of the protocols and software so as to ensure continued incentives for innovation, freedom of enterprise, and that the platform continues to be open.
+Finally, and crucially, we should put in place a [remuneration rights][rr] system as a way to incentivize innovators to keep improving and developing new OpenSocial protocols and software. A remuneration rights approach provides a robust system for rewarding innovators whilst ensuring the openness that prevents monopoly and preserves the benefits of competition and free enterprise.
 
 [or]: https://openrevolution.net/
 
@@ -22,17 +22,17 @@ Finally, and crucially, put in place remuneration rights as a way to pay for fut
 
 # In your book ["The Open Revolution"][or] you argue that the Facebook monopoly is a problem? Why is that?
 
-Facebook's monopoly of dominant social networks undermines fundamental freedoms and fairness -- of choice, of speech, of association, of enterprise and innovation. It means control of those freedoms lie in the hands of an unregulated monopolist who has demonstrably abused their power and our trust. Furthermore, we have a better "open" way that would provide all the benefits of a well-functioning social network whilst restoring those essential freedoms of choice, participation and enterprise.
+Facebook's monopoly of dominant social networks undermines fundamental freedoms and fairness: freedoms of choice, of speech, of association, and of enterprise and innovation. It means control of those freedoms lie in the hands of an unregulated monopolist who has demonstrably abused their power and our trust. Furthermore, we have a better "open" way that would provide all the benefits of a well-functioning social network whilst restoring those essential freedoms of choice, participation and enterprise.
 
-Two billion people are on Facebook. Facebook has become *the* place where many "live online". With its current monopoly, Facebook get to make the rules of who gets to participate and how -- and we have no say in that process or even visibility into it. Cf the napalm girl affair, Cambridge Analytica etc.
+Today more than two billion people are on Facebook and Facebook has become *the* place where many "live online". With its current monopoly, Facebook get to make the rules of who gets to participate and how -- and we have no say in that process or even visibility into it (cf the napalm girl affair, Cambridge Analytica etc).
 
-This is deeply problematic. Facebook's monpoly of essential common communication infrastructure gives them an unacceptable degree of unsupervised, undemocratic power and control over our social and political affairs. We never allowed our phone and postal systems this degree of unregulated, unsupervised monopoly and those systems had nothing like the control over the *content* that Facebook has with, for example, the newsfeed.
+This is deeply problematic. First, there are the core economic problems of stunted innovation and growing inequality. Specifically we have the [Kronos effect][]: that is the fact that a monopoly such as Facebook will want to kill off or take over any innovation that threatens its monopoly, for example by denying competitors access to its platform or buying them off and keeping them tame e.g. Instagram and WhatsApp. That is bad for innovation and bad for competition and is especially pernicious because the impact is largely invisible -- it is hard to imagine the innovations we never saw!
 
-Second, there is the [Kronos effect][]. A monopoly like Facebook has a major detrimental impact on innovation and opportunity because Facebook have huge incentives to take over or destroy any innovation that threatens its monopoly -- and in particular to deny competitors access to its platform (for example, Instagram and WhatsApp). That is bad for innovation and bad for competition.
+Beyond that, Facebook's monpoly of essential common communication infrastructure gives them an unacceptable degree of unsupervised, undemocratic power and control over our social and political affairs. We never allowed our phone and postal systems this degree of unregulated, unsupervised monopoly and those systems had nothing like the control over the what we get to see and know that Facebook has with its platform and the newsfeed.
 
-Third, there is the simple cost of monopoly: Facebook as a for-profit enterprise will have strong incentives to overcharge us in the sense of selling too much attention to advertisers (and over-charge the advertisers too).
+Third, there is the simple cost of monopoly: Facebook as a for-profit enterprise will have strong incentives to overcharge us in the sense of selling too much of our attention to advertisers (or over-charging the advertisers who in turn over-charge us).
 
-Fourth, the basic impact on freedom choice. I just have no choice but to accept Facebook's rules on what I can say and do on their platform because they are the only game in town. There is no democratic system of appeal or oversight and that is a huge loss of freedom of choice and freedom of expression.
+Fourth and finally, there is the basic impact on freedom choice: today you or I have little choice but to accept Facebook's rules if I want to connect with others online because they are the only game in town. We are therefore forced to accept Facebook's decisions on what I can say and do on their platform  with no democratic system of appeal or oversight. That is ultimately a kind of dictatorship with a huge loss for freedom of choice and freedom of expression.
 
 [Kronos effect]: https://openrevolution.net/kronos-effect/
 
@@ -40,7 +40,7 @@ Fourth, the basic impact on freedom choice. I just have no choice but to accept 
 
 Let's start by setting out the options:
 
-1. Leave Facebook alone - allowing it to continue to grow and (ab)use its monopoly unchecked. For our purposes here,  we've already established this is unacceptable.
+1. Leave Facebook alone - allowing it to continue to grow and (ab)use its monopoly unchecked. For our purposes here, we've already established this is unacceptable.
 2. Intervene in some way ...
 
 We're obviously pursusing 2. What are the options here?
