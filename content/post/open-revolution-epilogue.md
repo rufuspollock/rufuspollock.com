@@ -1,5 +1,5 @@
 ---
-title: Children Playing with Knives - Humanity and the Digital Age
+title: Two Year Old Playing with Kalashnikovs - Humanity in the Age of AI
 slug: children-playing-with-sharp-knives-humanity-and-the-digital-age
 date: 2019-04-08
 themes: ["Information Age"]
@@ -16,17 +16,17 @@ There's elements of this. I couldn't have written [this book (the Open Revolutio
 
 [or]: https://openrevolution.net/
 
-At the same time, as someone recently said to me about our online digital world: "everything that excites me, scares me". For example, digital technology makes possible unprecedented levels of control and inequality. It does not have to and I want us to choose a different path but the fact remains the digital makes this possible.
+At the same time, as someone recently said to me about our online digital world: "everything that excites me, scares me". Digital technology both offers tremendoucs opportunites but it also makes possible unprecedented levels of control and inequality. That dystopian path is not inevitable of course, and we can choose a different path but the fact remains that the digital world makes that dystopia possible.
 
-I also have other fears about the impact of the digital on our well-being. In fact, I must confess I am something of a hopeful pessimist. I write this book not because I am confident of the positive outcomes but because I am so afraid of the negative ones and, as Hemingway said, the world is a fine place and worth fighting for. We have better angels of our nature and we should attend to them. That does not mean I am confident we will listen.[^climate]
+I also have other fears about the impact of the digital on our well-being. In fact, I must confess I am something of a hopeful pessimist. I write the Open Revolution not because I am confident of our future but because I am so afraid -- and, as Hemingway said, the world is a fine place and worth fighting for. We have better angels of our nature and we should attend to them. That does not mean I am confident we will listen.[^climate]
 
-[^climate]: And my analysis here has almost completely ignored the looming catastrophe of climate change and ecosystem degradation.
+[^climate]: And my analysis here will almost completely ignore the looming catastrophe of climate change and ecosystem degradation.
 
 My basic concern here is simple: that there is a fantastic mismatch between our "emotional-spiritual" maturity and our "techno-intellectual" maturity.
 
-On the "techno-intellectual' side we started from a zero base a few hundred thousand years ago without language and without tools. Having discovered both we began to progress. Over the last five thousand or so, and especially over the last three hundred we have hit the exponential fast forward button. We created cities, we built roads and railroads, we flew aeroplanes and space-shuttles, we discovered anti-septics and penicillin, made the phone, the computer and Internet. And the latter all within a generation.
+"Techno-intellectually" we started from a zero base a few hundred thousand years ago: without language, without tools, and as a tiny part of a vast ecosystem. Having discovered language and tools we began to advance and over the last five thousand or so, and especially over the last three hundred we have hit the exponential fast forward button. We created cities, we built roads and railroads, we flew aeroplanes and space-shuttles, we discovered anti-septics and penicillin, made the phone, the computer and Internet. And the latter all within a generation.
 
-And the digital really takes this to a different level because that world -- the world we live in now -- is the world of Moore's "law" which states that computation power per unit cost *doubles* every 18 months. That's exponential growth on steroids. It means that since 1985, which many of us can actually *remember*, computers have got a *million* times more powerful for the same cost (or, equivalently, a million times cheaper) -- a computer costing $10,000 in 1985 would cost a cent today.
+And the digital really takes this to a different level because that world -- the world we live in now -- is the world of Moore's "law" which states that computation power per unit cost *doubles* every 18 months. That's exponential growth on steroids. It means that since 1985, which some of us can actually *remember*, computers have got a *million* times more powerful for the same cost (or, equivalently, a million times cheaper) -- a computer costing $10,000 in 1985 would cost a cent today.
 
 So here we stand, developing and evolving digital technology faster, literally, than we can comprehend.
 
