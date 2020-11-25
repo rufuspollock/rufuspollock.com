@@ -4,6 +4,36 @@ title: Poetry
 
 {{<toc>}}  
 
+# Von Schwelle zu Schwelle by Paul Celan
+
+From Celan’s 1955 collection, Von Schwelle zu Schwelle (in Joachim Neugroschel’s translation)
+
+In the shape of a boar  
+your dream tramples through the woods on the edges of evening.  
+Glittering white  
+like the ice from which it erupted  
+are its razors.  
+
+It rakes up a bitter nut  
+from under the leaves  
+that its shadow tore from the trees,  
+a nut  
+black as the heart that your foot kicked along  
+when you walked here yourself.  
+
+It gores the nut  
+and fills the thicket with grunting fate,  
+then strikes off  
+down towards the coast,  
+there where the sea  
+holds its darkest of feasts  
+on the crags:  
+
+perhaps  
+a fruit like its own  
+will delight the festive eye  
+that has wept such stones.  
+
 # When death comes by Mary Oliver
 
 When death comes  
