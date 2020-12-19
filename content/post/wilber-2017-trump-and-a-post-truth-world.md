@@ -22,7 +22,7 @@ This can be most dramatically seen in tech: what gets pushed to the top of the g
 
 > Technology had long moved into being the material-system correlate (in the Lower Right) of the cultural beliefs of the green stage (in the Lower Left). The green “Information Age” believed that all knowledge is equal, and it should be totally free and totally uncensored—it was common to say that the Net interprets censorship as a system failure and routes around it. But search engines did not prioritize knowledge in terms of truth, or goodness, or beauty, or inclusivity, or any depth, or any value system at all—not even a growth hierarchy of values or facts—just in terms of popularity and most use. Truth played no role in it.
 
-Aside: the incoherence of De Gustibus non Est Disputandum can be shown up by asking: where do those preferences come from? They did not fall from the sky ex machina, or from some foundational freely given choice. They were formed somehow and somewhere -- by our parents, our schoos, our culture. Economics displays this weakness in spades: endogenous preferences are much-under-studied (and deeply problematic for the whole edifice). cf [Buddhist Economics][]
+Aside: the incoherence of De Gustibus non Est Disputandum can be shown up by asking: where do those preferences come from? They did not fall from the sky ex machina, or from some foundational freely given choice. They were formed somehow and somewhere -- by our parents, our schools, our culture. Economics displays this weakness in spades: endogenous preferences are much-under-studied (and deeply problematic for the whole edifice). cf [Buddhist Economics][]
 
 [how-much]: https://artearthtech.com/2017/02/05/summary-how-much-is-enough-skidelsky-2012/
 [Buddhist Economics]: https://rufuspollock.com/2008/11/03/buddhist-economics/
@@ -65,7 +65,7 @@ Trump's visible, direct to the gut insult to the intelligence did what Taylor an
 
 > But as the decades unfolded, green increasingly began veering into extreme, maladroit, dysfunctional, even clearly unhealthy forms. Its broad-minded pluralism slipped into a rampant and runaway relativism (collapsing into nihilism), as the notion that all truth is contextualized (or gains meaning from its cultural context) slid into the notion that there is no real universal truth at all, only shifting cultural interpretations (which eventually slid into a widespread narcissism). Central notions (which began as important “true but partial” concepts, but collapsed into extreme and deeply self-contradictory views) included the ideas that all knowledge is, in part, a social construction; all knowledge is context-bound; there are no privileged perspectives; what passes for “truth” is a cultural fashion, and is almost always advanced by one oppressive force or another
 
-### This has been bad for Green as a force for progress
+### This has been bad for Green as a force for progress
 
 > Over two decades ago, in the book Sex, Ecology, Spirituality, I summarized this postmodern disaster with the term “aperspectival madness,” because the belief that there is no truth—that no perspective has universal validity (the “aperspectival” part)—when pushed to extremes, as postmodernism was about to do, results in massive self-contradictions and ultimate incoherency (the “madness” part). And when aperspectival madness (“no truth”) infects the leading-edge of evolution, evolution’s capacity for self-direction and self-organization is bound to collapse.
 
