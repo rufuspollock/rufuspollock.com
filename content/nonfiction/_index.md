@@ -20,6 +20,4 @@ The following are some of the more substantial essays I wrote while at school.
 * <a href="/nonfiction/the-school-as-institution/">The School As An Institution</a>
 * [Everything Is So Difficult Marcello - Fellini's La Dolce Vita](/nonfiction/everything-is-so-difficult-marcello-fellinis-la-dolce-vita/)
 * [Milgram obedience experiments](/nonfiction/milgram-obedience-experiments/)
-&nbsp;
-
-&nbsp;
+* [Our Spiritual Bankruptcy](/nonfiction/spiritual-bankruptcy/)
