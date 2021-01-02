@@ -4,7 +4,9 @@ slug: spiritual-bankruptcy
 date: 1996-02-03
 ---
 
-*This essay was written when I was sixteen or seventeen (in my last year or two of school). A teacher said that I could give a talk to the whole school at our morning assembly (once a week a teacher gave a short talk during assembly and she assigned me her session). This was the talk I gave. It accurately reflects the depressive existential nihilism I felt trapped in at the time. (With hindsight and greater knowledge, I can see it is illustrative of a larger "hole" that modernity has got itself stuck in and which much of our culture is still grappling with).*
+*This essay was written when I was sixteen or seventeen (in my last year or two of school). A teacher said that I could give a talk to the whole school at our morning assembly (once a week a teacher gave a short talk during assembly and she assigned me her session). This was the talk I gave. It accurately reflects the depressive existential nihilism I felt trapped in at the time. (With hindsight and greater knowledge, I can see it is illustrative of a larger "hole" that modernity has got itself stuck in and which our culture is still grappling with. It is also clear that there are [paths out][]-- paths that my younger self was unable to see).*
+
+[paths out]: /2019/11/22/so-what-now-or-maybe-so-what-and-what-am-i-and-art-earth-tech-up-to/
 
 Many people, at the present time, feel that we and our society have become spiritually bankrupt. That psychologically we are at the end of our tether -- or soon will be. Ian MacDonald writes
 
