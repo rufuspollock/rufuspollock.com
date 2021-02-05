@@ -1,5 +1,5 @@
 ---
-title: Two Year Old Playing with Kalashnikovs - Humanity in the Age of AI
+title: Two Year Olds Playing with Kalashnikovs - Humanity in the Age of AI
 slug: children-playing-with-sharp-knives-humanity-and-the-digital-age
 date: 2019-04-08
 themes: ["Information Age"]
