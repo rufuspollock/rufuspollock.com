@@ -28,6 +28,15 @@ London - Land of pavements and people
 
 Secession motto: to every age its art, to art its freedom
 
+## Fragments
+
+2021-02-13
+
+* Spirits we wander amongst are our becoming
+* The supple eternity of the spirit
+* Words are infinite and ephemeral
+
+
 ## Great Album/Novel/Film Titles
 
 ### Unused
