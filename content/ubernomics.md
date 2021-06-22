@@ -25,7 +25,7 @@ Monopoly is not inevitable though: we can have open platforms/marketplaces -- ju
 
 {{< toc >}}
 
-# Introduction
+## Introduction
 
 All round the world countries have struggled with how to deal with Uber, AirBnB and similar companies. Are these new apps and their associated marketplaces something to be welcomed or something to be stopped? Practically, officials and regulators face tough choices about how to handle their arrival. These choices range from outright bans to enthusiastic endorsement.
 
@@ -50,67 +50,67 @@ For many, this fact is masked by the association of Uber with digital technologi
 
 At the same time, it *is* important to understand that digital technologies *are* creating ever more "marketplace" industries like Uber. Thus, it is ever more important to understand the real economics and the real lessons of this "Uberization".
 
-# Executive Summary
+## Executive Summary
 
-## 1. Uber-like companies are marketplace or platform companies
+### 1. Uber-like companies are marketplace or platform companies
 
 Stripped to their essence Uber, AirBnB resemble a very old economic structure: the marketplace. Marketplaces are where buyers and sellers come together to exchange. On Uber this is riders and drivers. On AirBnB owners and renters. Marketplaces have existed for thousands of years, practically since civilization first began.
 
 More broadly, we have platforms. This includes companies like Facebook, Google, Microsoft and eBay. Facebook is a platform mediating between users -- and advertisers. Google is a platform mediating between users and content -- and advertisers. Microsoft's Windows is an operating system platform mediating between apps and users.
 
-Strictly platforms as broader than marketplaces. For example, an operating system or social network is a platform but not, strictly, a marketplace. However, many of the same ideas apply and so the distinction does not matter much here.
+Strictly platforms as broader than marketplaces. For example, an operating system or social network is a platform but not, obviously, a marketplace. However, many of the same ideas apply and so the distinction does not matter much.
 
-## 2. Platforms tend to one because of positive feedback between buyers and sellers 
+### 2. Platforms tend to one because of positive feedback between buyers and sellers 
 
-Like a snowball down a mountain, once past a critical size marketplaces have the potential to grow rapidly thanks to positive feedback between buyers and sellers: more buyers means more sellers and vice versa. This is because both buyers and sellers value a bigger marketplace because it offers:
+Like a snowball down a mountain, once past a critical size platforms have the potential to grow rapidly thanks to positive feedback between buyers and sellers: more buyers means more sellers and vice versa. This is because both buyers and sellers value a bigger platform because it offers:
 
-* Liquidity: the bigger the marketplace the more likely it is that a buyer can find a seller and vice versa -- you can find a ride on Uber in your area in the next 5m, or you can rent an apartment in that city on that date on AirBnB.
-* Diversity: the marketplace will have a range of products thereby matching a wider set of tastes -- a fish market will have many types of fish, a stock market many types of stock, a rental market many kinds of apartments.
+* Liquidity: the bigger the platform the more likely it is that a buyer can find a seller and vice versa -- you can find a ride on Uber in your area in the next 5m, or you can rent an apartment in that city on that date on AirBnB.
+* Diversity: the platform will have a range of products thereby matching a wider set of tastes -- a fish market will have many types of fish, a stock market many types of stock, a rental market many kinds of apartments.
 
-Furthermore, buyers and sellers don't want to have to go to many different marketplaces ("multi-homing" is a pain). Combined with the positive feedback effects of liquidity and diversity, this creates a strong pressure for there to be just one marketplace.[^more-than-one]
+Furthermore, buyers and sellers don't want to have to go to many different platforms ("multi-homing" is a pain). Combined with the positive feedback effects of liquidity and diversity, this creates a strong pressure for there to be just one platform.[^more-than-one]
 
-[^more-than-one]: The only reason you get more than one platform is if there is sufficient variation in buyer preferences (plus congestion in the physical world -- there's only so many people who can fit in the marketplace). For example, in the physical world buyers have a preference not to travel too far so you can still have two markets in different towns fifty miles apart. In a virtual world there's no literal distance but there may be "distance" in tastes: some people like Macs enough that Mac managed to retain a (tiny) market share against Windows even when Windows was very dominant because those "Mac" people just really liked some aspect of Macs. Even in this case though the platforms will be lop-sided with usually one marketplace with the great majority of users.
+[^more-than-one]: The only reason you get more than one platform is if there is sufficient variation in buyer preferences (plus congestion in the physical world -- there's only so many people who can fit in the platform). For example, in the physical world buyers have a preference not to travel too far so you can still have two markets in different towns fifty miles apart. In a virtual world there's no literal distance but there may be "distance" in tastes: some people like Macs enough that Mac managed to retain a (tiny) market share against Windows even when Windows was very dominant because those "Mac" people just really liked some aspect of Macs. Even in this case though the platforms will be lop-sided with usually one platform with the great majority of users.
 
-## 3. Marketplaces tend to monopoly (unless made open)
+### 3. Platforms tend to monopoly (unless made open)
 
-Because of these snowball economics, over time one marketplace will come to dominate -- "marketplaces tend to one".
+Because of these snowball economics, over time one platform will come to dominate -- "platforms tend to one".
 
 You don't have ten fish markets in a town, you have one. You don't have fifty stock exchanges, you have one.
 
-The question then is: is that marketplace "closed": exclusively owned and controlled by one entity. If so it becomes a monopoly. Or is an "open" marketplace where anyone can participate on fair and equitable terms?
+The question then is: is that platform "closed": exclusively owned and controlled by one entity. If so it becomes a monopoly. Or is an "open" platform where anyone can participate on fair and equitable terms?
 
 *Note: there can be substantial competition to *become* the monopolist. There may also be some competition between regional monopolies when there is enough geographic or preference diversity: if you live in Scotland you won't go to London to buy your fish so several local fish markets can exist (with limited competition between them at the fringes).*
 
-## 4. These marketplaces are not "contestable"
+### 4. These platforms are *not* "contestable"
 
-It is hard and expensive to create a new marketplace, especially if that involves competing against an existing one.
+It is hard and expensive to create a new platform, especially if that involves competing against an existing one.
 
 Why? Buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usually less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
 
-This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old marketplace. Similarly, no fish-seller wants to risk moving their stall to the new marketplace until they know the buyers will be there. This is a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
+This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old platform. Similarly, no fish-seller wants to risk moving their stall to the new platform until they know the buyers will be there. This is a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
 
-## 5. Thus, the monopoly marketplace owner has a lot of power
+### 5. Thus, the monopoly platform owner has a lot of power
 
-Thus, the owner of marketplace has a lot of power -- once the marketplace is established. Of course, at an early stage marketplace industries may be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relatively easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated marketplace access rates). However, once entrenched a marketplace monopoly is very powerful and resilient.
+Thus, the owner of platform has a lot of power -- once the platform is established. Of course, at an early stage platform industries may be highly dynamic and competitive as firms fight to get critical mass and dominate the market. This can mislead policy-makers into believing the market is competitive which in turn prevents them from acting at a crucial early stage when it would be relatively easy to put in place long-term pro-competitive policies (e.g. establishing a neutral exchange, or regulated platform access rates). However, once entrenched a platform monopoly is very powerful and resilient.
 
-## 6. That power is inevitably used to the detriment of buyers and consumers
+### 6. That power is inevitably used to the detriment of buyers and consumers
 
-When an organization has a lot of power it will use it to its advantage. In the case of the marketplace, the obvious thing is for the owner to start aggressively charging the users of the marketplace for access. Depending exactly on how the marketplace works it can charge buyers, sellers or both. Often charging sellers is preferred because they are easier to identify, contract with and track (and they have a larger and better sense of the value of the marketplace per entity). Thus, it is Uber's drivers who get charged the 20-25% fee by Uber (this fee, of course, gets passed on to consumers but they don't directly see it).
+When an organization has a lot of power it will use it to its advantage. In the case of the platform, the obvious thing is for the owner to start aggressively charging the users of the platform for access. Depending exactly on how the platform works it can charge buyers, sellers or both. Often charging sellers is preferred because they are easier to identify, contract with and track (and they have a larger and better sense of the value of the platform per entity). Thus, it is Uber's drivers who get charged the 20-25% fee by Uber (this fee, of course, gets passed on to consumers but they don't directly see it).
 
-Note: a side benefit of charging sellers is that it makes the fees largely hidden to buyers which is good both for PR and politically: if buyers got upset they might start pushing politicians to regulate the marketplace. For example, most people think that Google is just wonderful because it provides them with a valuable service for "free". They don't see, of course, that they do pay -- just indirectly through the sellers (advertisers and content providers) who have to pay Google or supply Google with free content.
+Note: a side benefit of charging sellers is that it makes the fees largely hidden to buyers which is good both for PR and politically: if buyers got upset they might start pushing politicians to regulate the platform. For example, most people think that Google is just wonderful because it provides them with a valuable service for "free". They don't see, of course, that they do pay -- just indirectly through the sellers (advertisers and content providers) who have to pay Google or supply Google with free content.
 
-## 7. The solution is to open the marketplace
+### 7. The solution is to open the platform
 
-The solution to marketplace monopolies is to make the marketplace open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two steps:
+The solution to platform monopolies is to make the platform open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two steps:
 
-- Opening the software, protocols and non-personal data that power the marketplace.
+- Opening the software, protocols and non-personal data that power the platform.
 - Opening the "order book": Universal, equitable access to the "order book" with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
 
-It is worth emphasizing that competition between proprietary, closed, marketplaces is not sufficient. Openness is essential.
+It is worth emphasizing that competition between proprietary, closed, platforms is not sufficient. Openness is essential.
 
-## 8. Remuneration rights can pay for open
+### 8. Remuneration rights can pay for open
 
-It costs money to create the software, protocols and (non-personal) data that power a marketplace. Traditionally, entrepreneurs and investors fund the creation of these based on the hope of becoming a marketplace monopolist and making it rich. Without the monopoly why would they invest? One option would be farsighted funding by the state -- as with the Internet. However, this is problematic: how can the state know exactly which entrepreneurs should be backed with what ideas?
+It costs money to create the software, protocols and (non-personal) data that power a platform. Traditionally, entrepreneurs and investors fund the creation of these based on the hope of becoming a platform monopolist and making it rich. Without the monopoly why would they invest? One option would be farsighted funding by the state -- as with the Internet. However, this is problematic: how can the state know exactly which entrepreneurs should be backed with what ideas?
 
 Instead, we can use [remuneration rights][]. These provide a free-market-like but open-compatible way to fund innovators. In essence, remuneration rights combine a common subscription payment from citizens organized by the government combined with a market-based payment of those monies to innovators based on whose innovations get used. You can read more about these ideas in [my book The Open Revolution][openrev].
 
@@ -119,24 +119,24 @@ Finally, actually running the platform itself costs money even if the protocols 
 [remuneration rights]: https://openrevolution.net/remuneration-rights
 [openrev]: https://openrevolution.net/
 
-## 9. Pro-activity is essential
+### 9. Pro-activity is essential
 
-Policymakers and stakeholders need to take a pro-active approach. It is far easier to shape a marketplace towards openness early in its development than it is to handle an entrenched and powerful monopolist marketplace once in place.
+Policymakers and stakeholders need to take a pro-active approach. It is far easier to shape a platform towards openness early in its development than it is to handle an entrenched and powerful monopolist platform once in place.
 
 
-# Visual Summary of the Thesis
+## Visual Summary of the Thesis
 
-## Motivation: How to Understand Uber
+### Motivation: How to Understand Uber
 
 <img src="/images/ubernomics-1.png" alt="" style="display: block; margin: auto; width: 260px;" />
 
-## Platforms + Exclusive Rights = Monopoly
+### Platforms + Exclusive Rights = Monopoly
 
 Platform effects combined with exclusive monopoly rights (copyright and patents) and a proprietary order book leads to monopoly. This is a problem because a monopoly is bad for consumers, providers and long-term innovation.
 
 <img src="/images/ubernomics-2.png" alt="" style="display: block; margin: auto; width: 350px;" />
 
-## Open Platforms are Possible
+### Open Platforms are Possible
 
 A solution: make the platform open by:
 
@@ -145,13 +145,13 @@ A solution: make the platform open by:
 
 <img src="/images/ubernomics-3.png" alt="" style="display: block; margin: auto; width: 450px;" />
 
-## We Have a Choice 
+### We Have a Choice 
 
 Summary: we can have monopoly platforms or open ones -- it's our choice. Open platforms can be achieved by replacing monopoly rights with open-compatible remuneration rights as a method of funding platform infrastructure, and replacing a proprietary order book with an open (where an order book exists).
 
 <img src="/images/ubernomics-4.png" alt="" style="display: block; margin: auto; width: 540px;" />
 
-# Part I: Of Marketplaces
+## Part I: Of Marketplaces
 
 Stripped to their essence Uber, AirBnB and the like resemble a very old economic structure: the marketplace.[^nomenclature] Marketplaces have existed for thousands of years, practically since civilization first began. Marketplaces are where buyers and sellers come together to exchange. At a fish market you buy fish, at a stock market you buy stocks etc.
 
@@ -184,7 +184,7 @@ So markets gradually grew in scale. Then with the internet and mobile phones "di
 
 In short, digital technology with its infinite economies of scale (one piece of software can be used to run one or a million servers) and its globalization of consumption (we all have smartphones) means that digital marketplaces have an unprecedented scale and scope.
 
-# Part II: Open and Monopoly Marketplaces
+## Part II: Open and Monopoly Marketplaces
 
 So far we've established that the positive feedback economics of marketplaces mean that there tends to be one (or very few) marketplaces in a given sector and region -- whether it is a marketplace for taxis, house rentals, or second-hand furniture.
 
@@ -236,7 +236,7 @@ The problem is that Uber and its venture capitalist backers are not doing all of
 
 [^consumers-own]: it is, in theory, also possible for the buyers (consumers) to club together. But this is relatively rare because it is usually much harder for them to coordinate together compared to sellers because they are more numerous, less organized and each individually has less "skin in the game". Compare, for example taxi drivers with taxi customers (many of whom may not even live in the city where they are taking a ride).
 
-# Part III: What is to Be Done
+## Part III: What is to Be Done
 
 What is solution to the problem of these growing marketplace monopolies like Uber and AirBnB? (As well as old ones like eBay)?
 
@@ -274,7 +274,7 @@ Thus, in an OpenRides future you might still have Uber on your phone but it woul
 
 [^decentralized]: It is, in theory, possible to decentralize the order book. However, for reasons of performance and latency it is probably easiest to centralize it in a one or a few managers.
 
-# Conclusion
+## Conclusion
 
 In conclusion, marketplaces are growing both in number and size in the digital world because digital technology reduces transaction costs making it easier for buyers and sellers to connect and transact.
 
@@ -298,7 +298,7 @@ In short, marketplaces thrive on liquidity and competition between marketplaces 
 
 Finally, the analysis and solution we have set out applies to many of the developing marketplace monopolies we see today including Uber, AirBnB, Amazon, eBay etc. Moreover, policymakers and stakeholders need to take a pro-active approach. It is far easier to shape a marketplace towards openness early in its development than it is to handle an entrenched and powerful monopolist marketplace once in place.
 
-# Appendix: Correcting the Misnomer of the Sharing Economy
+## Appendix: Correcting the Misnomer of the Sharing Economy
 
 Uber, AirBnB and companies have sometimes been branded as part of the "sharing economy".
 
