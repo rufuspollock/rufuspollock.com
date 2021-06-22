@@ -62,22 +62,26 @@ Strictly platforms as broader than marketplaces. For example, an operating syste
 
 ### 2. Platforms tend to one because of positive feedback between buyers and sellers 
 
-Like a snowball down a mountain, once past a critical size platforms have the potential to grow rapidly thanks to positive feedback between buyers and sellers: more buyers means more sellers and vice versa. This is because both buyers and sellers value a bigger platform because it offers:
+Like a snowball down a mountain, platforms once past a critical threshold can grow rapidly thanks to positive feedback between buyers and sellers: more buyers means more sellers and vice versa for two reasons:
 
-* Liquidity: the bigger the platform the more likely it is that a buyer can find a seller and vice versa -- you can find a ride on Uber in your area in the next 5m, or you can rent an apartment in that city on that date on AirBnB.
-* Diversity: the platform will have a range of products thereby matching a wider set of tastes -- a fish market will have many types of fish, a stock market many types of stock, a rental market many kinds of apartments.
+* **Liquidity**: a larger platform means more liquidity. Concretely, there are more sellers make it more likely a buyer can find a seller (or has more seller competition meaning lower prices). Conversely, for sellers: they are more likely to have buyers, and many of them. In real life, lots of drivers on Uber mean you can find a ride on Uber in your area in the next 5m, or on AirBnB you can rent an apartment on the dates you want, on Facebook it means finding more friends etc.
+* **Diversity**: a bigger platform will have a range of products thereby matching a wider set of tastes -- a fish market will have many types of fish, a stock market many types of stock, a rental market many kinds of apartments.
 
 Furthermore, buyers and sellers don't want to have to go to many different platforms ("multi-homing" is a pain). Combined with the positive feedback effects of liquidity and diversity, this creates a strong pressure for there to be just one platform.[^more-than-one]
+
+**Thus, over time one platform will come to dominate -- "platforms tend to one".**
 
 [^more-than-one]: The only reason you get more than one platform is if there is sufficient variation in buyer preferences (plus congestion in the physical world -- there's only so many people who can fit in the platform). For example, in the physical world buyers have a preference not to travel too far so you can still have two markets in different towns fifty miles apart. In a virtual world there's no literal distance but there may be "distance" in tastes: some people like Macs enough that Mac managed to retain a (tiny) market share against Windows even when Windows was very dominant because those "Mac" people just really liked some aspect of Macs. Even in this case though the platforms will be lop-sided with usually one platform with the great majority of users.
 
 ### 3. Platforms tend to monopoly (unless made open)
 
-Because of these snowball economics, over time one platform will come to dominate -- "platforms tend to one".
+As just stated, because of these snowball economics, "platforms tend to one".
 
 You don't have ten fish markets in a town, you have one. You don't have fifty stock exchanges, you have one.
 
-The question then is: is that platform "closed": exclusively owned and controlled by one entity. If so it becomes a monopoly. Or is an "open" platform where anyone can participate on fair and equitable terms?
+If the platform is "closed" -- exclusively owned and controlled by one entity -- then with dominance ccomes monopoly. This is not inevitable: an "open" platform is possible where anyone can participate on fair and equitable terms. For example, the Internet and the World Wide Web are concrete and living examples of the possibility and power of open platforms. However, exclusive ownership is common so it is fair to say, absent special effort, **platforms tend to monopoly**.
+
+*Note: why is exclusive ownership common? In short, because coordination on the investment to create an open platform takes some 
 
 *Note: there can be substantial competition to *become* the monopolist. There may also be some competition between regional monopolies when there is enough geographic or preference diversity: if you live in Scotland you won't go to London to buy your fish so several local fish markets can exist (with limited competition between them at the fringes).*
 
@@ -85,9 +89,9 @@ The question then is: is that platform "closed": exclusively owned and controlle
 
 It is hard and expensive to create a new platform, especially if that involves competing against an existing one.
 
-Why? Buyers are numerous and independent coordination between them is very hard. The same is true for sellers (though to a lesser extent because sellers are usually less numerous and diverse than buyers -- fifty fishmongers at a market might supply thousands of fish-buyers).
+Why? Buyers are numerous and independent coordination between them is very hard. The same is true for sellers, though to a lesser extent because sellers are usually less numerous and diverse than buyers (fifty fishmongers at a market might supply thousands of fish-buyers).
 
-This makes coordinated action -- such as switching to a different competing market -- very hard: as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old platform. Similarly, no fish-seller wants to risk moving their stall to the new platform until they know the buyers will be there. This is a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
+This makes coordinated action very hard and coordinated action is exactly what is needed for switching to a different competing platform. Concretely, as a buyer I don't want to head over to the new fish market only to discover all the fish sellers are still at the old platform. Similarly, no fish-seller wants to risk moving their stall to the new platform until they know the buyers will be there. This is a chicken and egg problem with thousands and chickens and eggs who all need to act simultaneously!
 
 ### 5. Thus, the monopoly platform owner has a lot of power
 
@@ -104,7 +108,7 @@ Note: a side benefit of charging sellers is that it makes the fees largely hidde
 The solution to platform monopolies is to make the platform open: accessible to all buyers and sellers on equitable and non-discriminatory terms. This involves two steps:
 
 - Opening the software, protocols and non-personal data that power the platform.
-- Opening the "order book": Universal, equitable access to the "order book" with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy.
+- Opening the "order book": Universal, equitable access to the "order book" with pricing set to cover the cost of maintenance. Preferably this would involve the order book being run and managed by an independent third-party with governance in place to ensure a transparent and equitable pricing and access policy. However, it can also involve regulation of the monopolist to force them to "open" the order book on reasonable terms (e.g. API access to Facebook friends, regulating Amazon's listing charges etc).
 
 It is worth emphasizing that competition between proprietary, closed, platforms is not sufficient. Openness is essential.
 
@@ -119,7 +123,7 @@ Finally, actually running the platform itself costs money even if the protocols 
 [remuneration rights]: https://openrevolution.net/remuneration-rights
 [openrev]: https://openrevolution.net/
 
-### 9. Pro-activity is essential
+### 9. Being pro-active is essential
 
 Policymakers and stakeholders need to take a pro-active approach. It is far easier to shape a platform towards openness early in its development than it is to handle an entrenched and powerful monopolist platform once in place.
 
