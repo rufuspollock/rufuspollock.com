@@ -12,11 +12,11 @@ wordpress:
 
 All worthwhile things are hard, but not all hard things are worthwhile.
 
-Ideas are cheap, implementation is costly.  
+Ideas are cheap, implementation is costly. (More on this on the dedicated ["Ideas are Cheap" page](/ideas-are-cheap/))
 
 The best thing to do with your data will be thought of by someone else
 
-[On Data]: We want it raw, and we want it now.  
+[On Data]: We want it raw, and we want it now.
 
 We need open data because we don't just want to use a car we want to poke around in the engine, see how it works and then rebuild it.
 
@@ -27,6 +27,8 @@ Confusing novelty with originality was the great mistake of the twentieth centur
 London - Land of pavements and people 
 
 Secession motto: to every age its art, to art its freedom
+
+On actor: We cannot but imbue those who act with the characteristics of the creations they inhabit. It is our slip of the mind, our collusion in the contrivance of the world. [2018-03-01 on actors in letting-go-4]
 
 ## Fragments
 
