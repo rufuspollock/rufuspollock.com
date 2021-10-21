@@ -6,13 +6,9 @@ posttype: essays
 featured: yes
 ---
 
-*Originally posted on the Open Knowledge blog: https://blog.okfn.org/2017/12/12/requiem-for-an-internet-dream/*
-
-*Comments: via [twitter](https://twitter.com/rufuspollock) or [email me via my contact form](/contact/).*
-
 The dream of the Internet is dying. Killed by its children. We have barely noticed its demise and done even less to save it.
 
-It was a dream of openness, of unprecedented technological and social freedom to connect and innovate. Whilst expressed in technology, it was a dream that was, in essence, political and social. A dream of equality of opportunity, of equality of standing, and of liberty. A world where anyone could connect and almost everyone did.
+It was a dream of openness, of unprecedented technological and social freedom to connect and innovate. Whilst expressed in technology, it was a dream that was political and social in essence: a dream of equality and liberty. The equality of opportunity and standing and the liberty to participate and innovate. A world where anyone could connect and almost everyone did.
 
 No-one controlled or owned the Internet; no one person or group decided who got on it or who didn't. It was open to all.
 
@@ -39,4 +35,10 @@ The Internet was different. It was like language: available to all, almost as a 
 The Internet's power was not a result of technology but of a social and political choice. The choice of openness. The fact that every single major specification of how the Internet worked was open and free for anyone to use. That production grade implementations of those specifications were available as open software -- thanks to government support. That a rich Internet culture grew that acknowledged and valued that openness, along with the bottom-up, informal innovation that went with it.
 
 We must see this. Because, even if it is too late to save the dream of the net, as we take off our hats to watch it carried past in all its funereal splendour, we can use our grief to inspire us to a renewed commitment to openness, to open information and open platforms. Because that openness was truly the essence of the Internet dream.
+
+*This post was originally drafted in 2014 but was not finalized and posted here until 2017.*
+
+*Also posted on the Open Knowledge Foundation: https://blog.okfn.org/2017/12/12/requiem-for-an-internet-dream/*
+
+*Comments: via [twitter](https://twitter.com/rufuspollock) or [email me via my contact form](/contact/).*
 
