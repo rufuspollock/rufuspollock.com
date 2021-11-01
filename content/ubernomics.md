@@ -304,7 +304,7 @@ Finally, the analysis and solution we have set out applies to many of the develo
 
 ## Appendix: Correcting the Misnomer of the Sharing Economy
 
-Uber, AirBnB and companies have sometimes been branded as part of the "sharing economy".
+Uber, AirBnB and similar companies have sometimes been branded as part of the "sharing economy".
 
 The "sharing economy" as a term is fundamentally misleading. Uber and AirBnB are not facilitating sharing any more than any other marketplace is. We don't talk about the bond or stock markets as part of the sharing economy because they facilitate "sharing" of capital between investors and businesses. When eBay arrived we did not talk about a new "sharing economy" that allowed people to "share" their second-hand stuff with people who wanted to buy it. Amazon is not creating a "sharing economy" where businesses "share" goods with consumers (for money!).
 
