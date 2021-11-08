@@ -3,6 +3,12 @@ title: About
 description: Rufus Pollock bio and headshots
 ---
 
+I'm passionate about how we live together weller and more wisely. I want my son and all children to live in a world of love, abundance and wisdom. I'm an entrepreneur, activist and author -- as well a long-term zen practitioner. I've founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], [Datopian][]. My book the Open Revolution is about how we can make a radically free(r) and fair(er) information age. My next book is the dark matter that makes societies wiser (and weller). Previously I've been the Mead Fellow in Economics at Emmanuel College, University of Cambridge as well as a Shuttleworth Fellowship and an Ashoka Fellow.
+
+[Life Itself]: https://lifeitself.us/
+[Open Knowledge Foundation]: https://okfn.org/
+[Datopian]: https://datopian.com/
+
 Dr Rufus Pollock is a researcher, technologist and entrepreneur. He has been a pioneer in the global Open Data movement, advising national governments, international organisations and industry on how to succeed in the digital world. He is the founder of Open Knowledge, a leading NGO with a presence in over 35 countries, empowering people and organizations with access to information so they can create insight and drive change. Formerly, he was the Mead Fellow in Economics at Emmanuel College, University of Cambridge. He has been the recipient of a $1m Shuttleworth Fellowship and is currently an Ashoka Fellow and Fellow of the RSA. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge.
 
 **More below**
