@@ -20,7 +20,7 @@ In my original post on [Visualizing Technology Flows from Patent Data](http://ww
 At the time I had already coded up, and computed, snapshots for each year. However, considerations of space, as well as a desire to find a way to display the information in a 'nice' (animated) form, warranted a separate entry. After what, as usual, has turned out to be a rather longer delay than intended, I've finally got round to having a first stab at this using simple animated gifs:
 
 <a href="http://www.rufuspollock.org/wp-content/uploads/2009/05/flows_subcat_animated_1975-1994_base1994_fs8.gif">
-<img id="tech-flows-reload" src="http://www.rufuspollock.org/wp-content/uploads/2009/05/flows_subcat_animated_1975-1994_base1994_fs4.gif" alt="Technology flows 1975-1994" border="0" />
+<img id="tech-flows-reload" src="/wp-content/uploads/2009/05/flows_subcat_animated_1975-1994_base1994_fs4.gif" alt="Technology flows 1975-1994" border="0" />
 </a>
 
 <p class="caption">Animated Citation Flows 1975-1994 (1994 base year) (click through for full-size ~ 2MB). <a href="#" onClick="document.getElementById('tech-flows-reload').src = document.getElementById('tech-flows-reload').src; return false;">Click here to rerun the animation.</a></p>
