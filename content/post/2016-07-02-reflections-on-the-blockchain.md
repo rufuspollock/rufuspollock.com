@@ -23,7 +23,7 @@ This is not to dismiss blockchain as a technology. There are clearly important u
 
 <img src="http://rufuspollock.org/wp-content/uploads/2016/07/broken-chain.jpg" alt="" />
 
-# The DAO: Code is not Law -- and It's Dangerous to Think So
+## The DAO: Code is not Law -- and It's Dangerous to Think So
 
 A [code flaw in the Ethereum-based DAO contract system][code-flaw] has allowed a hacker to make off with around $50m. As a result, this community appears to be gradually waking up from a tech-induced mania. In that mania people thought that old and hard social and political coordination problems would suddenly dissolve away in a puff of blockchain crypto magic.[^dao-hubris]
 
@@ -73,7 +73,7 @@ Furthermore, as a result of our tech obsession we are diverted from the more imp
 [ft-sceptics]: http://ftalphaville.ft.com/2016/05/17/2162084/more-decentralised-autonomous-organisation-dao-mysticism/
 [legal-sceptic]: https://prestonbyrne.com/2016/05/17/thedao-dont-walk-away-restructure/
 
-# The Internet changed the world - surely the Blockchain will too?
+## The Internet changed the world - surely the Blockchain will too?
 
 The claim that the blockchain is the "next Internet" in terms of its importance and impact is quite common. And the claims are, if anything, even stronger in the area of governance and how we organize and cooperate (or compete) -- after all, isn't the blockchain all about "trustless" decentralized systems?
 
@@ -88,7 +88,7 @@ This was especially true for more informal and/or less well resourced groups. Fr
 
 If the blockchain is to be like the Internet then the question we need to ask is *which* costs the blockchain reduces and *where* those matter for organizing human activity. Currently, the answers out there are pretty fuzzy. It is, of course, good to be optimistic and see possibility. At the same time, blind optimism and a lack of reflection undermine the chance of real progress -- and hype diverts energy from other efforts which may be less sexy but more impactful.
 
-## An Example of Overblown Claims
+### An Example of Overblown Claims
 
 To illustrate here's some commentary on a [recent piece entitled "The DAO - An MVP of a Political System"][dao-mvp]:
 
@@ -128,7 +128,7 @@ The irony here is that I *do* think that the digital technological revolution *d
 
 How is the DAO that different (or better) from the organizational experiements we could do in virtual worlds?
 
-# Gold-rush or Internet-rush?
+## Gold-rush or Internet-rush?
 
 A  basic question about the blockchain frenzy is to what extent this is a "gold-rush" versus an "internet-rush".
 
@@ -140,7 +140,7 @@ Whilst it seems clear that at least some of the BlockChain technology is valuabl
 
 (We could also cite the tulip mania here and add to our recommended reading list for avid blockchainers Kindelberger's classic "Manias, Panics, and Crashes - A History of Financial Crises").
 
-## The Virtual World Gold-Rush: Another Analogy
+### The Virtual World Gold-Rush: Another Analogy
 
 There are also other similarities with virtual worlds: remember the incredible [$100k someone paid for a virtual space station][entropia] back in 2005 in SecondLife? Eerie similarities with incredible sums people are currently willing to pump into the bewildering variety of blockchain crowdsales each of them predicated on the assumption that one day their particular cryptocurrency / marketplace will make it.
 
@@ -158,7 +158,7 @@ To be clear virtual worlds exist and are going strong and that $100k space stati
 
 [^maidsafe]: "Those that have been involved with the SAFE Network since the days of the crowdsale will know that while the sale was very successful from a community-participation perspective, it was less so from a funding standpoint and didn’t give MaidSafe the necessary resources to fully accelerate development. The anticipated $8 million (£5.5m) and 3 years of running costs actually equated to $2 million (£1.4m) with the crash in the mastercoin price and fall in bitcoin price taken into account since that time." https://blog.maidsafe.net/2016/05/31/maidsafecoin-announcement/
 
-# Governance Matters in Bitcoin
+## Governance Matters in Bitcoin
 
 From [Mike Hearn's Why Bitcoin is Forking][forking]:
 
@@ -186,7 +186,7 @@ Ed: Oh, the deep and tragic irony of it: the revolutionary decentralized, P2P cu
 
 *Note: I am not endorsing Mike Hearn or anyone else in this controversy since I am not expert enough to make judgments. However, the quotes cited do definitely point to significant disagreements and social challenges in the community -- irrespective of who you think was "right or wrong".*
 
-# The Myth of a Costless, Ownerless Network
+## The Myth of a Costless, Ownerless Network
 
 From [Mike Hearn's departure piece][hearn-leaving]:
 
@@ -196,7 +196,7 @@ From [Mike Hearn's departure piece][hearn-leaving]:
 [dictator]: http://rufuspollock.org/nonfiction/dictator-and-the-anarchist/
 [hearn-leaving]: https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.z9gh72vlm
 
-# Lessons from History
+## Lessons from History
 
 The "DAO Fiasco" is leading many to speculate on the "governance" lessons for decentralized systems -- and the dangers of thinking that code can so easily substitute for law. (See e.g. [this][this], [this][dao-social-problems], and [this urbit post][urbit-dao]).
 
@@ -207,7 +207,7 @@ In such circumstances it would be worth taking a look at some of the old, now al
 [urbit-dao]: https://urbit.org/blog/dao/
 [dibbell]: http://www.juliandibbell.com/articles/a-rape-in-cyberspace/
 
-## Appendix: The Toading of Mr Bungle and Governance in Virtual Worlds
+### Appendix: The Toading of Mr Bungle and Governance in Virtual Worlds
 
 *Here are some relevant excerpts from Dibbell's excellent but lengthy article.*
 
