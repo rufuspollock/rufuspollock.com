@@ -3,7 +3,10 @@ title: About
 description: Rufus Pollock bio and headshots
 ---
 
-I'm passionate about finding wiser and weller ways to live together. I want my son and all children to live in a world of love, abundance and wisdom. I'm an entrepreneur, activist and author -- as well a long-term zen practitioner. I've founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. My book the [Open Revolution][] about how we can make a radically free(r) and fair(er) information age was published in 2018 and has been translated into multiple languages. My next book is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth Fellow and an Ashoka Fellow.
+
+I'm an entrepreneur, activist and author as well as a long-term zen practitioner. I'm passionate about finding wiser and weller ways to live together and I want my child (and all children) to live in a world of love, abundance and wisdom.
+
+I've founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. My book the [Open Revolution][] was published in 2018 and is about how we can make a radically freer and fairer information age and has been translated into multiple languages. My next book is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth Fellow and an Ashoka Fellow.
 
 [Life Itself]: https://lifeitself.us/
 [Open Knowledge Foundation]: https://okfn.org/
