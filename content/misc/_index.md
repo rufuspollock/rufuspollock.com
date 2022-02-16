@@ -28,7 +28,9 @@ London - Land of pavements and people
 
 Secession motto: to every age its art, to art its freedom
 
-On actor: We cannot but imbue those who act with the characteristics of the creations they inhabit. It is our slip of the mind, our collusion in the contrivance of the world. [2018-03-01 on actors in letting-go-4]
+On actors: We cannot but imbue those who act with the characteristics of the creations they inhabit. It is our slip of the mind, our collusion in the contrivance of the world. [2018-03-01 on actors in letting-go-4]
+
+A single drop of water falling into the deepest well. This is awareness. [2021-10-02]
 
 ## Fragments
 
