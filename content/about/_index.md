@@ -3,10 +3,15 @@ title: About
 description: Rufus Pollock bio and headshots
 ---
 
+Rufus is an entrepreneur, activist and author as well as a long-term zen practitioner. He is passionate about finding wiser, weller ways to live together. He wants his child (and all children) to live in a world of love, abundance and wisdom.
 
-I'm an entrepreneur, activist and author as well as a long-term zen practitioner. I'm passionate about finding wiser and weller ways to live together and I want my child (and all children) to live in a world of love, abundance and wisdom.
+He has founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. His 2018 book [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. His next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow.
 
-I've founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. My book the [Open Revolution][] was published in 2018 and is about how we can make a radically freer and fairer information age and has been translated into multiple languages. My next book is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth Fellow and an Ashoka Fellow.
+### First Person
+
+I'm an entrepreneur, activist and author as well as a long-term zen practitioner. I'm passionate about finding wiser and weller ways to live together. I want my child (and all children) to live in a world of love, abundance and wisdom.
+
+I've founded several successful for-profits and non-profits (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. My 2018 book the [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. My next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow.
 
 [Life Itself]: https://lifeitself.us/
 [Open Knowledge Foundation]: https://okfn.org/
