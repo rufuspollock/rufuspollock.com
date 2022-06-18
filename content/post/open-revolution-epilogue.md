@@ -16,7 +16,7 @@ There's elements of this. I couldn't have written [this book (the Open Revolutio
 
 [or]: https://openrevolution.net/
 
-At the same time, as someone recently said to me about our online digital world: "everything that excites me, scares me". Digital technology both offers tremendoucs opportunites but it also makes possible unprecedented levels of control and inequality. That dystopian path is not inevitable of course, and we can choose a different path but the fact remains that the digital world makes that dystopia possible.
+At the same time, as someone recently said to me about our online digital world: "everything that excites me, scares me". Digital technology both offers tremendous opportunites but it also makes possible unprecedented levels of control and inequality. That dystopian path is not inevitable of course, and we can choose a different path but the fact remains that the digital world makes that dystopia possible.
 
 I also have other fears about the impact of the digital on our well-being. In fact, I must confess I am something of a hopeful pessimist. I write the Open Revolution not because I am confident of our future but because I am so afraid -- and, as Hemingway said, the world is a fine place and worth fighting for. We have better angels of our nature and we should attend to them. That does not mean I am confident we will listen.[^climate]
 
