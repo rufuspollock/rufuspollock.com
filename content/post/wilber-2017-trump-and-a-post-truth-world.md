@@ -151,8 +151,6 @@ What to do about things ...
 
 ## 7 : Where Do We Go from Here?
 
-PRIVATE: cf - pretty useful for Petronella
-
 > With regard to the dysfunctional green leading-edge itself—the actual primary source of the problem (in addition to hundreds of secondary sources)—there are two major possible ways forward, each of which has some hope for alleviating the traffic jam at the leading-edge.
 
 Option 1 - Green self-heals (possible though non-optimal)
