@@ -7,6 +7,6 @@ featured: no
 tags: ["quotes"]
 ---
 
-"Only in silence the word, only in darkness the light, only in dying life: bright the hawk's flight on an empty sky."
+"Only in silence the word, only in darkness the light, only in dying life: bright the hawk's flight on the empty sky."
 
 -- Ursula Le Guin (the greatest fictional expositor of Zen in modern times)
