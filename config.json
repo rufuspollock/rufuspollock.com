@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "title": "Rufus Pollock",
+    "links": [
+      {
+        "href": "/about",
+        "name": "About"
+      },
+      {
+        "href": "/data-systems",
+        "name": "Consulting"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/rufuspollock/"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on X",
+        "href": "https://x.com/@rufuspollock/"
+      },
+      {
+        "label": "linkedin",
+        "name": "Follow me on LinkedIn",
+        "href": "https://www.linkedin.com/in/rufus-pollock-00a86348/"
+      },
+      {
+        "label": "youtube",
+        "name": "Follow me on YouTube",
+        "href": "https://www.youtube.com/@bylifeitself"
+      },
+      {
+        "label": "instagram",
+        "name": "Follow me on Insta",
+        "href": "https://www.instagram.com/rufuspollock"
+      }
+    ]
+  },
+  "analytics": "UA-35035650-1"
+}
+
