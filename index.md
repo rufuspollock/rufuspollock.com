@@ -1,10 +1,16 @@
-
-<h1>Rufus Pollock</h1>
-<h2>Pragmatic Utopian</h2>
-<h3>Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World</h3>
-<a className="button" href="#next-section">About</a>
-<a className="button" href="/data-systems/">Consulting</a>
-<a className="button" href="/speaking/">Speaking</a>
+---
+showHero: true
+title: Rufus Pollock
+description: Pragmatic Utopian, Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World
+cta:
+  - href: #next-section
+    label: About
+  - href: /data-systems
+    label: Consulting
+  - href: /speaking
+    label: Speaking
+image: /assets/images/Rufus_Pollock_2.jpeg
+---
 
 <section id="next-section">
   <div className="video">
