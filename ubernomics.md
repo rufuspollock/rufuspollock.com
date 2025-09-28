@@ -23,8 +23,6 @@ Monopoly is not inevitable though: we can have open platforms/marketplaces -- ju
   <p>Market Day in Stockport in 1910s. <a href="https://commons.wikimedia.org/w/index.php?curid=34595715">Link</a></p>
 </div>
 
-{{< toc >}}
-
 ## Introduction
 
 All round the world countries have struggled with how to deal with Uber, AirBnB and similar companies. Are these new apps and their associated marketplaces something to be welcomed or something to be stopped? Practically, officials and regulators face tough choices about how to handle their arrival. These choices range from outright bans to enthusiastic endorsement.
