@@ -1,8 +1,6 @@
----  
+---
 title: Poetry  
----  
-
-{{<toc>}}  
+---
 
 # Von Schwelle zu Schwelle by Paul Celan
 
