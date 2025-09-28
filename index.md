@@ -1,108 +1,88 @@
-{{ partial "head.html" . }}
+<div className="hero">
+  <div className="hero-content">
+    <h1>Rufus Pollock</h1>
+    <h2>Pragmatic Utopian</h2>
+    <h3>Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World</h3>
+    <a className="button" href="#next-section">About</a>
+    <a className="button" href="/data-systems/">Consulting</a>
+    <a className="button" href="/speaking/">Speaking</a>
+  </div>
 
-<body class="home-template">
+  <div className="call-to-action">
+    <p className="arrow-down"><a onclick="scrollDown()" href="#next-section"><i className="ion-chevron-down"></i></a></p>
+  </div>
+</div>
 
-  {{ partial "navbar.html" . }}
-
-  <div class="hero">
-    <div class="hero-content">
-      <h1>Rufus Pollock</h1>
-      <h2>Pragmatic Utopian</h2>
-      <h3>Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World</h3>
-      <a class="button" onclick="scrollDown()" href="#next-section">About</a>
-      <a class="button" href="/data-systems/">Consulting</a>
-      <a class="button" href="/speaking/">Speaking</a>
-      <p>
-      <a target="_blank" href="{{ .Site.Params.twitter }}"> <i class="icon ion-social-twitter" ></i></a>
-      <a target="_blank" href="{{ .Site.Params.linkedin }}"> <i class="icon ion-social-linkedin" ></i></a>
-      <a target="_blank" href="{{ .Site.Params.github }}"><i class="icon ion-social-github" ></i></a>
-      <a target="_blank" href="{{ .Site.Params.facebook }}"> <i class="icon ion-social-facebook" ></i></a>
-      <a target="_blank" href="{{ .Site.Params.youtube }}"> <i class="icon ion-social-youtube" ></i></a>
+<section id="next-section">
+  <div className="video">
+    <div className="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/15L7i0201ms?autoplay=0&showinfo=0&controls=1" frameborder="0" allowfullscreen></iframe>
     </div>
+    <div className="video-text">
+      <p><strong>Rufus Pollock</strong> is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. A recognized global expert on open data and open knowledge. He has worked with multiple governments, IGOs such as the World Bank and the UN, businesses and CSOs.</p>
+    </div>
+  </div>
+</section>
 
-    <div class="call-to-action">
-      <!-- <p>More</p> -->
-      <p class="arrow-down"><a onclick="scrollDown()" href="#next-section"><i class="ion-chevron-down"></i></a></p>
+<section>
+
+  <div className="side-image">
+    <div className="images-wrapper"></div>
+    <div className="side-image-content">
+      <h2>Information Economy</h2>
+      <p>If you have ever been online, watched a movie or taken a medicine you have been a user of information. Today information in the form of software, databases and innovations is becoming more important than ever before. Information is becoming main thing we make, trade and use.</p>
+      <p>This is a new world being built on “bits”. Its virtual nature makes it different from the physical world of bread and land and cars which can only have one user at a time. By contrast, information can be used by many simultaneously. The implications of this are huge. It makes a world of open information both possible and desirable — that is a world in which all public information can be openly and freely used, shared and built on.</p>
+      <a className="button" href="/information-economy/">Read more <span>&rsaquo;</span></a>
     </div>
   </div>
 
-  <section id="next-section">
-    <div class="video">
-      <div class="video-wrapper">
-        <iframe src="https://www.youtube.com/embed/15L7i0201ms?autoplay=0&showinfo=0&controls=1" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="video-text">
-        <p><strong>Rufus Pollock</strong> is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. A recognized global expert on open data and open knowledge. He has worked with multiple governments, IGOs such as the World Bank and the UN, businesses and CSOs.</p>
-      </div>
+  <div className="side-image">
+    <div className="side-image-content">
+
+      <h2>Wise Society</h2>
+      <p>From climate change to obesity it seems clear that our societies are less wise
+        than we would like — or need. Wisdom can sound other-worldly. But I believe it
+        can and should be eminently practical and that wisdom offers a valuable way to frame an
+        important and essential enquiry into how we can make our societies and institutions
+        better. Wisdom is an idea that requires us to reflect on ends as well as means
+        — where we are going as well as how to get there. For example, we focus a great deal
+        on growth, but what kind of growth do we want and why do we want it? Conversely,
+        lofty ideals are all very well, but without practical ways to turn them into reality
+        they may be of little value.
+      </p>
+      <a className="button" href="/wise-society/">Read more <span>&rsaquo;</span></a>
     </div>
-  </section>
+    <div className="images-wrapper"></div>
+  </div>
 
-  <section>
-
-    <div class="side-image">
-      <div class="images-wrapper" style="background-image: url({{ $.Site.BaseURL }}images/background-information-square.jpg)"></div>
-      <div class="side-image-content">
-        <h2>Information Economy</h2>
-        <p>If you have ever been online, watched a movie or taken a medicine you have been a user of information. Today information in the form of software, databases and innovations is becoming more important than ever before. Information is becoming main thing we make, trade and use.</p>
-        <p>This is a new world being built on “bits”. Its virtual nature makes it different from the physical world of bread and land and cars which can only have one user at a time. By contrast, information can be used by many simultaneously. The implications of this are huge. It makes a world of open information both possible and desirable — that is a world in which all public information can be openly and freely used, shared and built on.</p>
-        <a class="button" href="/information-economy/">Read more <span>&rsaquo;</span></a>
-      </div>
+  <div className="side-image">
+    <div className="images-wrapper last"></div>
+    <div className="side-image-content">
+      <h2>Data Systems</h2>
+      <p>Who would you want to diagnose your cancer scan? An expert doctor or a data-driven
+        algorithm? What about who you hire? Or your advertising spend? You might be surprised
+        by the answers, And the answers are more relevant today than ever before because data
+        is everywhere. And it comes in a bewildering variety of forms -- from big to open,
+        personal to real-time, and many more. We hear of data-driven decisions and data-driven
+        organizations, data deficits and data gaps, data strategies and data officers. But how
+        can data actually make a difference to you and your organization? Or, for that matter,
+        to our society? Where can you get real value -- and what's just snake oil? In this talk
+        we will go beyond the hype and buzzwords. We will delve into how and why data can make
+        a real difference to you and your work -- as well the practical pitfalls and challenges.
+      </p>
+      <a className="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
     </div>
+  </div>
 
-    <div class="side-image">
-      <div class="side-image-content">
-
-        <h2>Wise Society</h2>
-        <p>From climate change to obesity it seems clear that our societies are less wise
-          than we would like — or need. Wisdom can sound other-worldly. But I believe it
-          can and should be eminently practical and that wisdom offers a valuable way to frame an
-          important and essential enquiry into how we can make our societies and institutions
-          better. Wisdom is an idea that requires us to reflect on ends as well as means
-          — where we are going as well as how to get there. For example, we focus a great deal
-          on growth, but what kind of growth do we want and why do we want it? Conversely,
-          lofty ideals are all very well, but without practical ways to turn them into reality
-          they may be of little value.
-        </p>
-        <a class="button" href="/wise-society/">Read more <span>&rsaquo;</span></a>
-      </div>
-      <div class="images-wrapper" style="background-image: url({{ $.Site.BaseURL }}images/background-wise-square.jpg)"></div>
-    </div>
-
-    <div class="side-image">
-      <div class="images-wrapper last" style="background-image: url({{ $.Site.BaseURL }}images/background-data-systems-square.jpg)"></div>
-      <div class="side-image-content">
-        <h2>Data Systems</h2>
-        <p>Who would you want to diagnose your cancer scan? An expert doctor or a data-driven
-          algorithm? What about who you hire? Or your advertising spend? You might be surprised
-          by the answers, And the answers are more relevant today than ever before because data
-          is everywhere. And it comes in a bewildering variety of forms -- from big to open,
-          personal to real-time, and many more. We hear of data-driven decisions and data-driven
-          organizations, data deficits and data gaps, data strategies and data officers. But how
-          can data actually make a difference to you and your organization? Or, for that matter,
-          to our society? Where can you get real value -- and what's just snake oil? In this talk
-          we will go beyond the hype and buzzwords. We will delve into how and why data can make
-          a real difference to you and your work -- as well the practical pitfalls and challenges.
-        </p>
-        <a class="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
-      </div>
-    </div>
-
-  </section>
+</section>
 
 
-  <section class="fellow">
-    <h2>Fellow</h2>
-    <ul class="logo-section">
-      <li><img class="wide-logo" src="/images/ashoka_image_india.jpg" alt="" /></li>
-      <li><img class="square-logo" src="/images/RSA-logo.png" alt="" /></li>
-      <li><img class="wide-logo" src="/images/shuttleworth.jpg" alt="" /></li>
-      <li><img class="wide-logo" src="/images/cambridge logo.jpg" alt="" /></li>
-    </ul>
-  </section>
-
-  {{ partial "footer.html" . }}
-
-  {{ partial "script.html" . }}
-
-</body>
-</html>
+<section className="fellow">
+  <h2>Fellow</h2>
+  <ul className="logo-section">
+    <li><img className="wide-logo" src="/images/ashoka_image_india.jpg" alt="" /></li>
+    <li><img className="square-logo" src="/images/RSA-logo.png" alt="" /></li>
+    <li><img className="wide-logo" src="/images/shuttleworth.jpg" alt="" /></li>
+    <li><img className="wide-logo" src="/images/cambridge logo.jpg" alt="" /></li>
+  </ul>
+</section>
