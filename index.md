@@ -1,14 +1,12 @@
 ---
 showHero: true
 title: Rufus Pollock
-description: Pragmatic Utopian, Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World
+description: "Pragmatic Utopian, Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World"
 cta:
   - href: #next-section
     label: About
   - href: /data-systems
     label: Consulting
-  - href: /speaking
-    label: Speaking
 image: /assets/images/Rufus_Pollock_2.jpeg
 ---
 
