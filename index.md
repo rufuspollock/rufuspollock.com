@@ -59,8 +59,7 @@
         can data actually make a difference to you and your organization? Or, for that matter,
         to our society? Where can you get real value -- and what's just snake oil? In this talk
         we will go beyond the hype and buzzwords. We will delve into how and why data can make
-        a real difference to you and your work -- as well the practical pitfalls and challenges.
-      </p>
+        a real difference to you and your work -- as well the practical pitfalls and challenges.</p>
       <a className="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
     </div>
   </div>
