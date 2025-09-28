@@ -1,17 +1,10 @@
-<div className="hero">
-  <div className="hero-content">
-    <h1>Rufus Pollock</h1>
-    <h2>Pragmatic Utopian</h2>
-    <h3>Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World</h3>
-    <a className="button" href="#next-section">About</a>
-    <a className="button" href="/data-systems/">Consulting</a>
-    <a className="button" href="/speaking/">Speaking</a>
-  </div>
 
-  <div className="call-to-action">
-    <p className="arrow-down"><a onclick="scrollDown()" href="#next-section"><i className="ion-chevron-down"></i></a></p>
-  </div>
-</div>
+<h1>Rufus Pollock</h1>
+<h2>Pragmatic Utopian</h2>
+<h3>Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World</h3>
+<a className="button" href="#next-section">About</a>
+<a className="button" href="/data-systems/">Consulting</a>
+<a className="button" href="/speaking/">Speaking</a>
 
 <section id="next-section">
   <div className="video">
@@ -38,7 +31,6 @@
 
   <div className="side-image">
     <div className="side-image-content">
-
       <h2>Wise Society</h2>
       <p>From climate change to obesity it seems clear that our societies are less wise
         than we would like — or need. Wisdom can sound other-worldly. But I believe it
@@ -48,8 +40,7 @@
         — where we are going as well as how to get there. For example, we focus a great deal
         on growth, but what kind of growth do we want and why do we want it? Conversely,
         lofty ideals are all very well, but without practical ways to turn them into reality
-        they may be of little value.
-      </p>
+        they may be of little value.</p>
       <a className="button" href="/wise-society/">Read more <span>&rsaquo;</span></a>
     </div>
     <div className="images-wrapper"></div>
@@ -73,9 +64,7 @@
       <a className="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
     </div>
   </div>
-
 </section>
-
 
 <section className="fellow">
   <h2>Fellow</h2>
