@@ -145,6 +145,6 @@ Notes:
 
 ## Sketches
 
-<img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-overview.jpg" alt="" />
-<img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-sub-2.jpg" alt="" />
-<img src="/bits/2016-12-12-architecting-open-text-projects/frictionless-text-sub-1.jpg" alt="" />
+<img src="/images/2016-12-12-architecting-open-text-projects/frictionless-text-overview.jpg" alt="" />
+<img src="/images/2016-12-12-architecting-open-text-projects/frictionless-text-sub-2.jpg" alt="" />
+<img src="/images/2016-12-12-architecting-open-text-projects/frictionless-text-sub-1.jpg" alt="" />
