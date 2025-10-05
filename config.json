@@ -9,6 +9,30 @@
       {
         "href": "/data-systems",
         "name": "Consulting"
+      },
+      {
+        "href": "/writings",
+        "name": "Writings"
+      },
+      {
+        "href": "/projects",
+        "name": "Projects"
+      },
+      {
+        "href": "/book",
+        "name": "Book"
+      },
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/newsletter",
+        "name": "Newsletter"
+      },
+      {
+        "href": "/contact",
+        "name": "Contact"
       }
     ],
     "social": [
@@ -41,4 +65,3 @@
   },
   "analytics": "UA-35035650-1"
 }
-
