@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1289
 ---
-
-{{< toc >}}
-
 ***The School as An Institution: An Examination of Oundle School's Organisation, Power Structure and Politics***
 
 Weber, whose ideas inspired me in this enterprise, discussed power, and more particularly political power, in reference to 'a political association, and hence . .[to] a state.'[^1] I wish to use some of Weber's ideas to analyse an institution, namely Oundle school. 

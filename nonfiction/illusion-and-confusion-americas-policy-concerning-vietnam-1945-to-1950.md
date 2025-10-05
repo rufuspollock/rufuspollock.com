@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1458
 ---
-
-{{< toc >}}
-
 This essay deals with U.S policy towards Vietnam from the close of World War Two up until the first monetary commitment direct to the Associated States of Indochina, (i.e. Vietnam, Cambodia, and Laos), announced by Acheson on May 8 1950. I have taken this as a suitable point to break off, since at least one respected commentator considers this to be the turning point in U.S policy towards Indochina: 'By this decision [To send aid to the Associated States] ..... the United States made a profoundly important policy decision: it [rather than the French] accepted responsibility, in the final analysis, for preventing the Communists taking control in Indochina.'[^1] Thus, in many ways it would be true to say that by the early 1950s, and certainly by 1956, the essential themes of U.S policy towards Indochina, and in particular Vietnam, had been established, and although subsequent administrations escalated the involvement in Vietnam, the origins of the conflict lie within U.S policy from 1945-1954. 
 
 ## The End Of World War Two And The Beginning Of The First Indochina War: What Were Changes In U.S. Policy Towards Vietnam From The Ending Of The Second World War To The Beginning Of The First Indochina War And Why Did They Occur? ##

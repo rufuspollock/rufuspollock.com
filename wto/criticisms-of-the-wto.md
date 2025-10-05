@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1565
 ---
-
-{{< toc >}}
-
 ### Introduction
 
 This page forms the core of the website and is the central reason for its creation. In recent times there have been, at least from a very vociferous minority, many severe criticisms of the WTO. Depending on your perspective

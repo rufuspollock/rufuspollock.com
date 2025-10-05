@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1335
 ---
-
-{{< toc >}}
-
 ## *Rufus Pollock &mdash; 1997* ##
 
 ## Introduction ##

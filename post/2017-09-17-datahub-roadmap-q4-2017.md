@@ -6,9 +6,6 @@ posttype: notebook
 featured: no
 tags: ["datahub"]
 ---
-
-{{<toc>}}
-
 # Motivation: Roadmap SCQA II - Aug/Sep 2017
 
 Situation: alpha running, no publishers yet, 50 signed up users.

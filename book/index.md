@@ -31,8 +31,6 @@ To do this we need to act, to act together, and to act now.
 
 <h1 id="preview" style="padding-top: 80px;">Book Preview</h1>
 
-{{< toc >}}
-
 # Monopolising your attention
 
 In 2015 researchers showed that Google could change an election. All they needed to do was tweak their algorithm to change what you found when you searched for a politician. Previously, in 2012 a different research group had shown that subtly shifting the contents of your Facebook newsfeed could make you happier or sadder or make you more likely to vote.

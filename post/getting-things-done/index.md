@@ -18,11 +18,6 @@ For example, and just speaking personally, I've heard about "getting things done
 
 [impl]: /ideas-are-cheap/
 [update]: /2019/11/06/getting-things-done-my-setup/
-
-
-{{< toc >}}
-
-
 # Summary
 
 Boiled down to its essence, there are only two key aspects:

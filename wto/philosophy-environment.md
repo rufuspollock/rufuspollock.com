@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1561
 ---
-
-{{< toc >}}
-
 ### Introduction
 
 There are plenty of accusations that the WTO either does not prevent or actually promotes environmental damage[^1] There are three main strands of criticism.

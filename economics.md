@@ -14,9 +14,6 @@ wordpress:
   * **Organization:** (roughly) material is organized by subject matter then by time of update with the most recent first.
   * **Other material:** Other information, including announcements and more informal discussion, can be found on the main 'blog' section of the site in the [Economics category](/tags/economics).
   * **Contacting me:** details on how to contact me can be found on [the About page](/about/).
-
-{{< toc >}}
-
 ## Papers: Innovation, Knowledge Production and Openness
 
 (In approximate reverse chronological order)

@@ -115,6 +115,10 @@ Summary
 
 # Notes
 
+## 2025-09-28
+
+Pre and post refactor: https://github.com/rufuspollock/rufuspollock.com/tree/3d9ecc04d52405d16e6316a517856026846e519a
+
 ## 2025-08-25
 
 - [x] Where have I got to?

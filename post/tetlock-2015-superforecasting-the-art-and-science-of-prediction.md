@@ -9,9 +9,6 @@ published: 2015
 Good book. A bit too journalisty for me at points but overall a very good balance of academic and popular. As is often the case, you could probably distill the majority of it down to ten pages (plus appendix on psychology). At the same time, the authors very skillfully walk through complex ideas, skilfully illustrate the ideas with anecdotes and stories and retain the nuance of the underlying subject matter.
 
 The most valuable part of the book for me and [Life Itself](http://lifeitself.us/) is its concrete analytical insights into open-mindedness and good judgment, especially on the psychology/being side (as opposed to, say, numeracy—though even numeracy is interpreted into its probabilistic and then  psychological aspects—see below re. “fate questionnaire”).
-
-{{<toc>}}
-
 ## Key takeaways
 
 * There *are* people who are (very) good forecasters regarding political and world events. These are the “superforecasters” of the book's title. But they aren’t the political “experts” you see on TV or in the newspapers.

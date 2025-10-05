@@ -6,9 +6,6 @@ date: 2017-04-27
 ---
 
 This is a version of one of my talks, 'The Data Difference,' that I gave for [Black Swan](https://www.blackswan.com/), which discusses how the successful use of data depends on human intelligence even while mitigating its flaws. Data-driven algorithms are unaffected by common biases in human reasoning and are far better than people at many tasks. However, enthusiasm for 'Big Data' can obscure the fact that the success of data-driven decision-making still relies upon the human intelligence to identify the right data for the right problem at the right time.
-
-{{<toc>}}
-
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXyLDxWZzCk" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

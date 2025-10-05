@@ -13,9 +13,6 @@ Schein's argument is that DEC's cultural values and practices resulted in it fai
 I found the book useful for its insights into how the 'cultural DNA' of an organization has enduring impacts on organizational growth, and the resistance to changing core values that may arise even if change is necessary for the company to survive. 
 
 But in focusing on the culture of innovation at DEC as the primary factor that contributed to both its rise and decline, the book neglects the basic economics that underpinned this. DEC *was* innovative, but it was arguably economic factors that allowed the company to establish a monopoly position in the market. It is also possible to view DEC's later decisions as stemming from economic concerns; specifically, a desire to hold on to the hope that they would continue to dominate the market with proprietary products, rather than an intrinsic commitment to innovation, led to them resisting change.
-
-{{<toc>}}
-
 ## Chapter 2. Three Developmental Streams
 
 ### Organizations do not fully control their fate — it is constrained by culture and technology.

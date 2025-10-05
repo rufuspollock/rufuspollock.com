@@ -8,9 +8,6 @@ updated: 2017-06-08
 ---
 
 Notes on "Meehl, 1954 *Clinical versus Statistical Prediction*" [@meehl-1954] 
-
-{{< toc >}}
-
 ## Meehl 1954
 
 ### Summary

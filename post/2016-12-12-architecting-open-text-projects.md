@@ -9,9 +9,6 @@ Two parts:
 
 * How official inquiries works -- and a plan for future
 * A review of learnings from past projects and thoughts on building "open text" projects going forward including e.g. open literature
-
-{{< toc >}}
-
 # Plan
 
 ## First piece - Official Inquiries

@@ -24,9 +24,6 @@ At the very least, the book provides incontrovertible evidence for the key role 
 [^1]: *Making Democracy Work,* p.22
 
 [^2]: cf my comments that transplanting a Finnish school to e.g. the UAE won't work because it isn't the structure of the school (in itself) that makes the Finnish school good, it is the culture in which it operates.
-
-{{<toc>}}
-
 ## Key points
 
 ### The formal and informal rules of the game in a society, once established, are self-reinforcing even when socially inefficient. 

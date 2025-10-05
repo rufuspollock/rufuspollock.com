@@ -9,9 +9,6 @@ published: 2017
 Classic Wilber. Insightful, on the money, analysis -- one of the best I have read. I think the integral stages (and AQAL) perspective is very useful. As often with Wilber, I'd love a bit more footnoting -- and a bit more proof-editing.[^error] But these are quibbles as this was obviously hastily put together.
 
 [^error]: The general quality of the evidence and examples could be better and this results in errors (one has the sense these are pop cultural snippets that Wilber has picked out). For example, Wilber cites example of Jerry Seinfeld refusing to play college campuses. But a big of digging reveals this is not what he said (he said he heard that other comedians were not playing campuses). See https://www.youtube.com/watch?v=YTadkn45Y0I
-
-{{<toc>}}
-
 # My Observations
 
 ## De Gustibus non Est Disputandum is very Green

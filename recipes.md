@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 59
 ---
-
-{{< toc >}}
-
 # Egg Nog
 
 1 Bottle of Brandy

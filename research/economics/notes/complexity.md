@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 288
 ---
-
-{{< toc >}}
-
 # Models
 
 ## Bak-Sneppen Model

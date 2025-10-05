@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1728
 ---
-
-{{< toc >}}
-
 ### What It Is
 
 WTO stands for World Trade Organization. Ever since the second world war many countries have been a party to the GATT - the General Agreement on Trade and Tariffs. As time went by there would be negotiation "rounds" when the agreement would be updated. Then in a mammoth round that lasted from 1986-1994 (the so-called Uruguay round) it was decided to fundamentally overhaul the GATT and place the international trading system on a firmer institutional footing. To this end the WTO was created. Essentially **it is a club with countries as members** and it has three main roles:

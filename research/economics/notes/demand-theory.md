@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 226
 ---
-
-{{< toc >}}
-
 ## Introduction
 
 This primer aims to provide a concise and simple introduction to the theory of demand. As such it does not intend to be comprehensive but to provide enough background for the reader to progress rapidly to empirical work.

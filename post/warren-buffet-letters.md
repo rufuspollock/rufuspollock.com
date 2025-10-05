@@ -7,9 +7,6 @@ posttype: notebook
 featured: no
 tags: ["investing"]
 ---
-
-{{< toc >}}
-
 # 1980 letter
 
 ## Writing about GEICO

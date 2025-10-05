@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 278
 ---
-
-{{< toc >}}
-
 ## Ultimatum Game
 
 GÃ¼th, Werner, Rolf Schmittberger, and Bernd Schwarze (1982) "An Experimental Analysis of Ultimatum Bargaining", Journal of Economic Behavior and Organization, 3:4 (December), 367-388.

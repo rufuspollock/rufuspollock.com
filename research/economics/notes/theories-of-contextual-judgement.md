@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 321
 ---
-
-{{< toc >}}
-
 **2008-12: See also the longer and more detailed paper [Theories of Contextual Judgement in Relation to Well-Being and Other Outcomes](/economics/papers/contextual_judgement.pdf)**
 
 ## Simple Adaptive Theory

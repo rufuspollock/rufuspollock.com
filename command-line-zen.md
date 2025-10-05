@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 518
 ---
-
-{{< toc >}}
-
 # Zen of the Command Line
 
 ----

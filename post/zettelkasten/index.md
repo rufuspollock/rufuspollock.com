@@ -13,9 +13,6 @@ The idea behind the Zettelkasten method is to encourage cross-linking of informa
 As someone who does a lot of note-taking, I decided to look into the Zettelkasten method: to see if it would be useful and, if so, how I would implement it.
 
 Below I've written up my research on the Zettelkasten system based on my reading. I've also included the most useful resources I found at the end if you want to learn more.
-
-{{<toc>}}
-
 # The method
 
 ## Overview of the workflow

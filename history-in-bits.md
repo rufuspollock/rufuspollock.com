@@ -9,9 +9,6 @@ version: v0.1
 <h1 style="font-size: 130%; font-style: italic;">A History in Bits of Bits in History</h1>
 
 <p style="font-size: 100%; font-style: italic;">The following represents the starting draft of a planned book on the coming of the information age. It was produced over a period of a month and a half in January and February 2009 and then set aside. I hope to return to it. In the mean time I am posting it online in the hope it will prove of value to others.</p>
-
-{{< toc >}}
-
 # Chapter Outline
 
 1. The Information Bit

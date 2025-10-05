@@ -7,9 +7,6 @@ provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 385
 ---
-
-{{< toc >}}
-
 The following is a short, policy-oriented, examination of the funding options for public sector information (PSI) holders, with application to the main data-supplying trading funds.
 
 Those seeking a more detailed treatment of PSI issues are directed to [this book chapter on the 'Economics of Public Sector Information'](http://rufuspollock.org/economics/papers/economics_of_psi.pdf).

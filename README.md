@@ -38,8 +38,6 @@ In this section we explain how new articles should be added to the site.
 Simply add `{{< toc >}}` in a desired position within a page and a table of contents will be rendered there. E.g., the following document would have table of content in the beginning:
 
 ```
-{{< toc >}}
-
 # My h1 heading
 
 Some intro text

@@ -23,9 +23,6 @@ The solution flows from the diagnosis: make these platforms open and have an ope
 More details on all of this in my upcoming book:
 
 http://rufuspollock.com/book/
-
-{{< toc >}}
-
 # An example of a mis-diagnosis: their control of our personal data
 
 One prevalent misdiagnosis is that the issue with Facebook and Google and the source of (much) of their monopoly power is to do with their control of our personal data. See, for example, the Economist's cover in April 2017 showing Internet monopolies as oil rigs mining personal data -- an allusion to the common assertion that "personal data is the new oil" (see more examples added in the appendix below).

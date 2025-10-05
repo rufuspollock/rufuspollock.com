@@ -17,9 +17,6 @@ Facebook could be open just like the Internet. An open Facebook (or WeChat) whic
 Finally, and crucially, we should put in place a [remuneration rights][rr] system as a way to incentivize innovators to keep improving and developing new OpenSocial protocols and software. A remuneration rights approach provides a robust system for rewarding innovators whilst ensuring the openness that prevents monopoly and preserves the benefits of competition and free enterprise.
 
 [or]: https://openrevolution.net/
-
-{{<toc>}}
-
 # In your book ["The Open Revolution"][or] you argue that the Facebook monopoly is a problem? Why is that?
 
 Facebook's monopoly of dominant social networks undermines fundamental freedoms and fairness: freedoms of choice, of speech, of association, and of enterprise and innovation. It means control of those freedoms lie in the hands of an unregulated monopolist who has demonstrably abused their power and our trust. Furthermore, we have a better "open" way that would provide all the benefits of a well-functioning social network whilst restoring those essential freedoms of choice, participation and enterprise.
