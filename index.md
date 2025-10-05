@@ -2,7 +2,7 @@
 showHero: true
 title: Rufus Pollock
 description: "Pragmatic Utopian, Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World"
-image: /assets/images/Rufus_Pollock_2.jpeg
+image: /images/Rufus_Pollock_2.jpeg
 ---
 
 <section id="next-section">

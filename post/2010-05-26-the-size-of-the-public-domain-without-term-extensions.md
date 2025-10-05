@@ -44,8 +44,7 @@ For comparison, in 1795 78% of all extant works were in the public domain. A fig
 
 To put this in visual terms, what the public domain is missing out as a result of copyright extension is the yellow region in the following figure: those are the set of works that would be public domain under 14+14 but aren't under current copyright!
 
-<img class="displayed large" src="/economics/papers/media/eupd/culbooks_counts_annual_1600-2001_showpd_showpd28.png" alt="PD Stats" />
+<img class="displayed large" src="/papers/media/eupd/culbooks_counts_annual_1600-2001_showpd_showpd28.png" alt="PD Stats" />
   <p class="caption">The Public Domain of books today (red), under 14+14 (yellow), and published output (black)</p> 
 
 **Update:** I've posted the main [summary statistics file including per-year counts](http://www.rufuspollock.org/wp-content/uploads/2010/05/culbooks_stats.js). I've also started a [CKAN data package: eupd-data](http://ckan.net/package/eupd-data) for this EUPD-related data.
-
