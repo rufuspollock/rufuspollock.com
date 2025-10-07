@@ -17,7 +17,7 @@ Below I've written up my research on the Zettelkasten system based on my reading
 
 ## Overview of the workflow
 
-<img src="workflow.png" />
+<img src="../images/zettelkasten/workflow.png" />
 
 ## Implementing
 
@@ -101,7 +101,7 @@ There are three types of notes you'll take when you're getting started with the 
 
 Here's a visual representation of branches and weaker links between notes:
 
-<img src="notes-and-links.png" />
+<img src="../images/zettelkasten/notes-and-links.png" />
 
 ### Add new notes to the slip-box
 

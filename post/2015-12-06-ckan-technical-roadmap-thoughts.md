@@ -16,5 +16,5 @@ Thoughts on the future technical evolution of CKAN including:
 * The core (meta)-data bus provides an essential separation between Data Presentation and Preparation
 * Could improve CKAN as (meta)-data bus by adopting Data Packages and Table Schema (Tabular Data Packages)
 
-{{< pdf src="ckan-technical-roadmap-thoughts-dec-2015.pdf" >}}
+{{< pdf src="../images/2015-12-06-ckan-technical-roadmap-thoughts/ckan-technical-roadmap-thoughts-dec-2015.pdf" >}}
 

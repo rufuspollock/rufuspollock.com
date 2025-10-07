@@ -45,7 +45,7 @@ There is also an essential pre-requisite: motivation. Whilst the payoff is great
 
 ### 2. Clarify: do the clarify workflow to empty the inboxes
 
-<img src="gtd-clarify-flow.png" />
+<img src="../images/getting-things-done/gtd-clarify-flow.png" />
 
 1. What Is It?
 2. Is it actionable?
@@ -229,7 +229,7 @@ These go together and reinforce each other
 
 ### 2. Clarify
 
-[!GTD Clarify Flow](allen-2001-getting-things-done/gtd-clarify-flow.png)
+[!GTD Clarify Flow](../images/getting-things-done/gtd-clarify-flow.png)
 
 **Most important part**
 

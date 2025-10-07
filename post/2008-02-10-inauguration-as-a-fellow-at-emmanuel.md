@@ -8,4 +8,4 @@ Today is the day of my official inauguration as a Fellow at Emmanuel College, Ca
 
 Here I am dressed up in a suit for the occasion.
 
-<img src="rufus_pollock_portrait_suit_fellow.jpg" />
+<img src="../images/2008-02-10-inauguration-as-a-fellow-at-emmanuel/rufus_pollock_portrait_suit_fellow.jpg" />

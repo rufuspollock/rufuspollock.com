@@ -87,7 +87,7 @@ http://www.nature.com/news/how-to-raise-a-genius-lessons-from-a-45-year-study-of
 
 [^2]: Wai, J. Intelligence 45, 74–80 (2014).
 																											 			 	
-> ![alt_text](./long-term-study-gifted-students.png)
+> ![alt_text](../images/sources-of-performance-innate-practice-or-ten-thousand-hours-ericsson/long-term-study-gifted-students.png)
 >		
 > Source: K. Ferriman Robertson _et al_. _Curr. Dir. Psychol. Sci._ **19**, 346–351 (2010).
 

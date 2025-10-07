@@ -73,7 +73,7 @@ Data from 1950s - 1980s Italy shows the following four factors were highly corre
 
 Figure 4.4 charts the levels of civic community in Italy's twenty regions according to these factors.
 
-<img src="Figure 4.4.jpg" />
+<img src="../images/making-democracy-work/Figure 4.4.jpg" />
 
 ### There was a strong correlation between civic participation and institutional performance.
 
@@ -82,7 +82,7 @@ Figure 4.4 charts the levels of civic community in Italy's twenty regions accord
 > The strength of this relationship appears with stark clarity in Figure 4.5 [below]. Not only does "civic-ness" distinguish the high performance regions in the upper right-hand quadrant from the laggards in the lower left-hand quadrant, but even the more subtle differences in performance within each quadrant are closely tied to our measure of community life. In this respect, the predictive power of the civic community is greater than the power of economic development, as summarized in Figure 4.2. The more civic a region, the more effective its
 government.
 
-<img src="Figure 4.5.jpg" />
+<img src="../images/making-democracy-work/Figure 4.5.jpg" />
 
 ### Religiosity and clericalism were inversely correlated with civic participation in Italy in the 1970s and 80s. 
 
@@ -98,7 +98,7 @@ government.
 
 > ...citizens in civic regions are happier with life in general than are their counterparts in less civic regions. In a series of nationwide surveys between 1975 and 1989, roughly twenty-five thousand people were asked whether they were "very satisfied, fairly satisfied, not very satisfied, or not at all satisfied with the life you lead." Figure 4.14 shows that citizens of civic regions are much more satisfied with life. Happiness is living in a civic community.
 
-<img src="Figure 4.14.jpg" />
+<img src="../images/making-democracy-work/Figure 4.14.jpg" />
 
 ### The Northern regions were characterized by horizontally organized public life and high levels of civic engagement; the Southern regions by hierarchically organized public life and far less engagement. 
 
@@ -147,7 +147,7 @@ prey to signorial rule.
 civic ladder in the 1970s. At the other end of the scale, the heartland of republicanism in 1300 corresponds uncannily to the most civic regions of
 today, followed closely by the areas still further north in which medieval republican traditions, though real, had proved somewhat weaker.
 
-<img src="Figure 5.1.png" />
+<img src="../images/making-democracy-work/Figure 5.1.png" />
 
 ### Cultural mobilization in 1830s and 40s France led to political mobilization. Similar trends likely appeared during the risorgimento in Italy. 
 
@@ -228,7 +228,7 @@ And we have a perfect example of the primacy of "being", in this case collective
 
 (p.150)
 
-<img src="Figure 5.3.jpg" />
+<img src="../images/making-democracy-work/Figure 5.3.jpg" />
 
 ### The success of regional governments in 1980s Italy could have been predicted from civic traditions a century earlier.
 
@@ -236,7 +236,7 @@ And we have a perfect example of the primacy of "being", in this case collective
 
 > Figure 5.4 presents the correlation between institutional performance in the 1980s and civic traditions in 1860-1920. The pattern is stark: One could have predicted the success or failure of regional government in Italy in the 1980s with extraordinary accuracy from patterns of civic engagement nearly a century earlier.
 
-<img src="Figure 5.4.jpg" />
+<img src="../images/making-democracy-work/Figure 5.4.jpg" />
 
 ### The correlation between civics and economics primarily reflects the impact of civics on economics, not the reverse.
 
@@ -244,7 +244,7 @@ And we have a perfect example of the primacy of "being", in this case collective
 
 > Figure 5.6 synthesizes our findings. Arrow b (the effect of economics on civics) is nonexistent, while arrow c (the effect of civics on economics) is strong—stronger even than arrow d. Moreover, arrow a (civic continuity) is very strong, while arrow d (socioeconomic continuity) is generally weak. A region's chances of achieving socioeconomic development during this century have depended less on its initial socioeconomic endowments than on its civic endowments. Insofar as we can judge from this simple analysis, the contemporary correlation between civics and economics reflects primarily the impact of civics on economics, not the reverse.
 
-<img src="Figure 5.6.jpg" />
+<img src="../images/making-democracy-work/Figure 5.6.jpg" />
 
 ### Almost precisely the same regions were characterized by civic involvement in the late 20th century and in the 12th century.
 

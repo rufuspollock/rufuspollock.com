@@ -8,7 +8,7 @@ slug: gilets-jaunes-movement
 James McAuley's article ["Low Visibility"](https://www.nybooks.com/articles/2019/03/21/low-visibility-france-gilet-jaunes/), published on the 21st March, is nominally a review of *Twilight of the Elites: Prosperity, the Periphery, and the Future of France* by Christophe Guilluy, translated from the French by Malcolm DeBevoise. However, the article is primarily the author's own analysis of the gilets jaunes movement, exploring its inception and motivations as well as the nihilism and apoliticism that distinguishes it from other protest movements in France's history.
 ## A nihilistic distrust of systems as a whole has characterized many recent protests
 
-<img src="fuck-le-systeme-gilet-jaunes-dec-2018.png" />
+<img src="../images/gilet-jaunes/fuck-le-systeme-gilet-jaunes-dec-2018.png" />
 
 *Fuck Le Systeme graffiti on back the of a gilet jaune at a protest in Place de la Republique, in Decemember 2018.*
 
