@@ -1,75 +1,95 @@
 ---
 showHero: true
 title: Rufus Pollock
-description: "Pragmatic Utopian, Systems Researcher, Cultural Activist and Social Entrepreneur working for a Radically Wiser World"
-image: /images/Rufus_Pollock_2.jpeg
+description: Integrating inquiry, design, and implementation to build the foundations of wiser societies.
 ---
 
-<section id="next-section">
-  <div className="video">
-    <div className="video-wrapper">
-      <iframe src="https://www.youtube.com/embed/15L7i0201ms?autoplay=0&showinfo=0&controls=1" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div className="video-text">
-      <p><strong>Rufus Pollock</strong> is an entrepreneur, researcher and technologist working to create an open information age. Founder and President of Open Knowledge, a leading international non-profit that empowers people and organizations with access to information and the tools and skills to make sense of it. A recognized global expert on open data and open knowledge. He has worked with multiple governments, IGOs such as the World Bank and the UN, businesses and CSOs.</p>
-    </div>
-  </div>
-</section>
 
-<section>
+# Rufus Pollock
 
-  <div className="side-image">
-    <div className="images-wrapper"></div>
-    <div className="side-image-content">
-      <h2>Information Economy</h2>
-      <p>If you have ever been online, watched a movie or taken a medicine you have been a user of information. Today information in the form of software, databases and innovations is becoming more important than ever before. Information is becoming main thing we make, trade and use.</p>
-      <p>This is a new world being built on “bits”. Its virtual nature makes it different from the physical world of bread and land and cars which can only have one user at a time. By contrast, information can be used by many simultaneously. The implications of this are huge. It makes a world of open information both possible and desirable — that is a world in which all public information can be openly and freely used, shared and built on.</p>
-      <a className="button" href="/information-economy/">Read more <span>&rsaquo;</span></a>
-    </div>
-  </div>
+![[images/Rufus_Pollock_square.jpeg]]
 
-  <div className="side-image">
-    <div className="side-image-content">
-      <h2>Wise Society</h2>
-      <p>From climate change to obesity it seems clear that our societies are less wise
-        than we would like — or need. Wisdom can sound other-worldly. But I believe it
-        can and should be eminently practical and that wisdom offers a valuable way to frame an
-        important and essential enquiry into how we can make our societies and institutions
-        better. Wisdom is an idea that requires us to reflect on ends as well as means
-        — where we are going as well as how to get there. For example, we focus a great deal
-        on growth, but what kind of growth do we want and why do we want it? Conversely,
-        lofty ideals are all very well, but without practical ways to turn them into reality
-        they may be of little value.</p>
-      <a className="button" href="/wise-society/">Read more <span>&rsaquo;</span></a>
-    </div>
-    <div className="images-wrapper"></div>
-  </div>
+## Cultivating Clarity in Complexity
 
-  <div className="side-image">
-    <div className="images-wrapper last"></div>
-    <div className="side-image-content">
-      <h2>Data Systems</h2>
-      <p>Who would you want to diagnose your cancer scan? An expert doctor or a data-driven
-        algorithm? What about who you hire? Or your advertising spend? You might be surprised
-        by the answers, And the answers are more relevant today than ever before because data
-        is everywhere. And it comes in a bewildering variety of forms -- from big to open,
-        personal to real-time, and many more. We hear of data-driven decisions and data-driven
-        organizations, data deficits and data gaps, data strategies and data officers. But how
-        can data actually make a difference to you and your organization? Or, for that matter,
-        to our society? Where can you get real value -- and what's just snake oil? In this talk
-        we will go beyond the hype and buzzwords. We will delve into how and why data can make
-        a real difference to you and your work -- as well the practical pitfalls and challenges.</p>
-      <a className="button" href="/data-systems/">Read more <span>&rsaquo;</span></a>
-    </div>
-  </div>
-</section>
+Our world stands at a civilisational threshold. The same intelligence that built systems of unprecedented reach now strains under their weight. Beneath the economic, ecological, and technological crises lies a quieter fracture — a crisis of *sense*: how we perceive, value, and make meaning together.
 
-<section className="fellow">
-  <h2>Fellow</h2>
-  <ul className="logo-section">
-    <li><img className="wide-logo" src="/images/ashoka_image_india.jpg" alt="" /></li>
-    <li><img className="square-logo" src="/images/RSA-logo.png" alt="" /></li>
-    <li><img className="wide-logo" src="/images/shuttleworth.jpg" alt="" /></li>
-    <li><img className="wide-logo" src="/images/cambridge logo.jpg" alt="" /></li>
-  </ul>
-</section>
+My work traces this fault line between **inner and outer transformation**. From open knowledge infrastructures to cultural and spiritual renewal, I explore how shifts in consciousness and culture can realign the systems that shape our lives.
+
+This site is both **portal and garden** — a place to share ideas, experiments, and reflections on how we might move toward a wiser world.
+Some pages are seeds, others experiments in bloom. All are invitations to inquiry.
+
+---
+
+## Seeing Clearly, Building Wisely
+
+At heart, I am a *sensemaker* — a researcher, thinker, and builder exploring how insight can become form.
+
+My work weaves together reflection and practice: learning to see systems more clearly, and helping to create the conditions for wiser ways of living and working.
+
+> *Clarity in service of transformation.*
+
+---
+
+## Areas of Work
+
+My work spans several fields — from philosophy and cultural inquiry to digital infrastructure and social innovation — yet all are united by a common thread.
+
+Each reflects a sensemaking sensibility: a commitment to understanding how the world works and translating that understanding into thoughtful, effective action toward a wiser and more compassionate society.
+
+### 1. Sensemaking Tools & Infrastructure
+
+Creating the systems and technologies that support collective understanding — from data platforms to digital gardens.
+This work builds the foundations for wiser coordination, transparent knowledge flows, and participatory sensemaking in the information age.
+
+### 2. Paradigmatic Change & the Second Renaissance
+
+Exploring how worldviews evolve and how societies can consciously transition toward wiser, more compassionate ways of being.
+This includes inquiry into cultural evolution, collective awakening, and the conditions for a renewed renaissance of wisdom and meaning.
+
+### 3. Information Policy & Knowledge Societies
+
+Designing the principles, institutions, and policies for an open, equitable, and intelligent information commons.
+This builds on decades of work in open knowledge, data governance, and digital public goods.
+
+### 4. Systemic Design & Social Innovation
+
+Prototyping the architectures — organisational, institutional, and economic — that embody new paradigms in practice.
+This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
+
+---
+
+## **Featured Projects**
+
+### **Life Itself**
+
+A network of hubs, research, and residencies dedicated to inner-led systems change.
+
+### **Second Renaissance**
+
+A cultural initiative and publication series exploring a new civilisational paradigm.
+
+### **Digital Garden**
+
+An open workspace of notes and essays tracing ongoing inquiries across sensemaking, culture, and design.
+
+### **FlowerShow / Open Infrastructure**
+
+Markdown-based publishing tools continuing the lineage of open knowledge and digital commons.
+
+---
+
+## **About**
+
+Rufus Pollock is a researcher, writer, and builder exploring the meeting point of **culture, consciousness, and systems change**.
+Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Second Renaissance** investigates how inner transformation and collective intelligence can renew our civilisation’s foundations.
+
+Educated at the **University of Cambridge**, Rufus has advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
+
+---
+
+## **Contact**
+
+For collaboration, speaking, or correspondence:
+**hello [at] rufuspollock [dot] com**
+
+Or explore the **Digital Garden** to follow current lines of thought and research.
