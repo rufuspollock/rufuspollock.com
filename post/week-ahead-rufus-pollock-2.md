@@ -23,7 +23,7 @@ wordpress:
 * Lots of improvements to ckanjs including [file upload working](https://github.com/okfn/ckanjs/issues/29)
   * Improvements to ckanext-storage for integration with ckanjs (warranting a [new release (v0.5)][])
   * Minor code improvements and [major doc][] improvements to [OFS][] (Also move to new home on github)
-* Good planning meeting with Mark MacGillivray and Jason Kitcat re [OpenBiblio work][] and especially [BibServer][]. See <http://notebook.okfn.org/2011/08/11/biblio-apps-ecosystem-around-bibserver/>
+* Good planning meeting with Mark MacGillivray and Jason Kitcat re [OpenBiblio work][] and especially [BibServer][]. See http://notebook.okfn.org/2011/08/11/biblio-apps-ecosystem-around-bibserver/
 * Various meetings on CKAN, OpenSpending etc
 * Chaos Computer Camp
 
@@ -31,7 +31,7 @@ wordpress:
 
 * In Berlin and meetings with various OKFNers including Jonathan and Friedrich and Daniel
 * Aim to finish some of the [ckanjs][] and [DataDeck][] work and do a release (possibly)
-* Various CKAN stuff including new release of <http://thedatahub.org/>
+* Various CKAN stuff including new release of http://thedatahub.org/
 * BibServer planning and coding with Mark
 
 [OFS]: https://github.com/okfn/ofs

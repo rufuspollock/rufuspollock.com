@@ -15,9 +15,9 @@ wordpress:
 
 Why do people pay such a premium for Apple Mac's (aka the Apple Tax). I calculate it as roughly a $300 premium on a $600 machine.
 
-<http://blogs.computerworld.com/ballmer_on_the_500_apple_tax_the_man_was_right>
+http://blogs.computerworld.com/ballmer_on_the_500_apple_tax_the_man_was_right
 
-<http://blogs.computerworld.com/how_much_does_the_apple_tax_really_cost>
+http://blogs.computerworld.com/how_much_does_the_apple_tax_really_cost
 
 
 

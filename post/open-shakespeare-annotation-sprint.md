@@ -33,10 +33,10 @@ Using the [annotator tool][annotator] we now have a way to work collaboratively 
   * May do a second day on Sunday (depending on coffee and enthusiasm)!
  * **Where: online and in-person**
   * E.g. in-person meetup at University of Cambridge English Faculty
- * **Planning etherpad: <http://literature.okfnpad.org/annotation-sprint>**
+ * **Planning etherpad: http://literature.okfnpad.org/annotation-sprint**
   * Please add your name here if you plan to participate so we can coordinate
   * [Facebook event](http://www.facebook.com/event.php?eid=198048416877940)
- * Event page: <http://openshakespeare.org/2011/02/01/announcing-annotation-sprint>
+ * Event page: http://openshakespeare.org/2011/02/01/announcing-annotation-sprint
  * Requirements: a standards-compliant web browser (Firefox or Chrome recommended -- not IE)
  * [Vote for text to annotate (doodle)][vote]
 

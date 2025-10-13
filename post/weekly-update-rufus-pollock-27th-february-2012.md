@@ -30,7 +30,7 @@ wordpress:
 * Transparency Board meeting
 * Catching up with the email backlog :-)
 * CKAN strategy meeting + Webstore v2 finished
-* <http://DataProtocols.org/> plus its mailing list
+* http://DataProtocols.org/ plus its mailing list
 * [Recline Data Explorer][Recline] - v0.3 released (I hope!)
 
 [CKAN]: http://ckan.org/

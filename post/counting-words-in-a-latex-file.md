@@ -34,7 +34,7 @@ More sophisticated but in my experience results in grossly overestimated wordcou
 
 ### TexCount.pl
 
-Get it from: <http://folk.uio.no/einarro/Comp/texwordcount.html>
+Get it from: http://folk.uio.no/einarro/Comp/texwordcount.html
 
 This seemed to be pretty good.
 

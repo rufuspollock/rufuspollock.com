@@ -17,7 +17,7 @@ Documenting my experience pushing mercurial repos to git (and github specificall
 
 ### Install hg-git
 
-Follow <https://bitbucket.org/durin42/hg-git/src/tip/README.md>
+Follow https://bitbucket.org/durin42/hg-git/src/tip/README.md
 
 Install dulwich >= 0.6. On ubuntu:
 
@@ -44,5 +44,5 @@ Assuming you've got a git repo somewhere, e.g. for me (rgrp) on github:
     Permission denied (publickey).
     abort: the remote end hung up unexpectedly
 
-You may also want to check your ssh setup with github really is working (see <http://help.github.com/troubleshooting-ssh/>).
+You may also want to check your ssh setup with github really is working (see http://help.github.com/troubleshooting-ssh/).
 

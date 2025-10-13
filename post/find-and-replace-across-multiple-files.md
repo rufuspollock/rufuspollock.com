@@ -26,7 +26,7 @@ Archiving for my own benefit the results of yet another 5 minute look for how to
     Notes: -p: loop, -i edit files in place (backup with extension if supplied), -w enable warnings
 
 3. Install rpl
-    * <http://freshmeat.net/projects/rpl/>
+    * http://freshmeat.net/projects/rpl/
     * port install rpl (mac osx)
     * apt-get install rpl (debian/ubuntu)
 

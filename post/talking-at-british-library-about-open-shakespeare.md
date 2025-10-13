@@ -21,7 +21,7 @@ This Thursday I and James Harriman-Smith will be heading over to the British Lib
 
 ### Outline
 
-This talk will introduce <http://www.openshakespeare.org/> -- an innovative new approach to Shakespeare's works, and, eventually, any literary text. The website is, as far as we know, unique in providing both *public domain texts* and *open tools* for the analysis of Shakespeare.
+This talk will introduce http://www.openshakespeare.org/ -- an innovative new approach to Shakespeare's works, and, eventually, any literary text. The website is, as far as we know, unique in providing both *public domain texts* and *open tools* for the analysis of Shakespeare.
 
 One such tool, the annotator, will be a special focus of the presentation, since it offers the potential for producing the first ever critical edition of Shakespeare compiled by thousands and with no restrictions on how it is used.
 

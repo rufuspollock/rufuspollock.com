@@ -23,7 +23,7 @@ Details of the meeting are as follows:
 
   * **When**: 10-11th November 2009
   * **Where**: Emmanuel College, Cambridge
-  * **Wiki**: <http://wiki.okfn.org/PublicDomainCalculators/Meeting>
+  * **Wiki**: http://wiki.okfn.org/PublicDomainCalculators/Meeting
   * **Participate**: Free but space is limited. If you are interested in coming, email the organizers at: info@okfn.org
 
 [1]: http://wiki.okfn.org/PublicDomainCalculators

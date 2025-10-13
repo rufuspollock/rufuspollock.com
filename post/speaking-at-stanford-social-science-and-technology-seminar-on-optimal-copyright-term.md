@@ -19,5 +19,5 @@ This new paper is a heavily revised version of the copyright-term specific porti
 
 **Update post-talk (2008-05-16):** the slides are now online at:
 
-<http://rufuspollock.org/economics/papers/optimal_copyright_term_talk_stanford.pdf>
+http://rufuspollock.org/economics/papers/optimal_copyright_term_talk_stanford.pdf
 

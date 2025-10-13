@@ -30,5 +30,5 @@ Kew)
 >
 > The Placement Fellowship Scheme encourages social science researchers to spend time within a partner organisation to undertake policy relevant research and to develop the research skills of partner employees. The Fellowship will be jointly funded by the ESRC and OPSI while the Fellow remains employed by his or her institution.
 >
-> See the document below for further details on the Placement Fellowship: <http://www.nationalarchives.gov.uk/documents/esrc-placement-fellowship-june-09.pdf>
+> See the document below for further details on the Placement Fellowship: http://www.nationalarchives.gov.uk/documents/esrc-placement-fellowship-june-09.pdf
 

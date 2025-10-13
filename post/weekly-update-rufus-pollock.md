@@ -23,9 +23,9 @@ wordpress:
 * Lots of work on [CKAN][] to massively improve UX -- new release coming this week we hope
  * Lots of other CKAN planning
 * [sysadmin work][] - continuing migration
-  * <http://thedatahub.org/> moved
-  * Upgraded <http://getthedata.org/> to latest OSQA and fixed bug with fastcgi (so now running as fastcgi)
-  * <http://opendatacommons.org/> -- upgraded theme and fixed up human readable pages which had broken
+  * http://thedatahub.org/ moved
+  * Upgraded http://getthedata.org/ to latest OSQA and fixed bug with fastcgi (so now running as fastcgi)
+  * http://opendatacommons.org/ -- upgraded theme and fixed up human readable pages which had broken
   * wiki gardening
 
 ### This Week

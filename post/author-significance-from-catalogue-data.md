@@ -103,5 +103,5 @@ The other thing we could look at is the overall distribution of titles per autho
 
 ### Colophon
 
-Code to generate table and graphs in the open [Public Domain Works repository](http://knowledgeforge.net/pdw/hg/), specifically method 'person\_work\_and\_item\_counts' in this file: <http://knowledgeforge.net/pdw/hg/file/tip/contrib/stats.py>
+Code to generate table and graphs in the open [Public Domain Works repository](http://knowledgeforge.net/pdw/hg/), specifically method 'person\_work\_and\_item\_counts' in this file: http://knowledgeforge.net/pdw/hg/file/tip/contrib/stats.py
 

@@ -18,8 +18,8 @@ I recently took delivery of a Novatech X40r system (Novatech are one of the few 
 [1]: http://ubuntuforums.org/showpost.php?p=4003194&postcount=584
 [2]: http://bugs.freedesktop.org/show_bug.cgi?id=12229
 
-[1] <http://ubuntuforums.org/showpost.php?p=4003194&postcount=584>  
-[2] <http://bugs.freedesktop.org/show_bug.cgi?id=12229>
+[1] http://ubuntuforums.org/showpost.php?p=4003194&postcount=584  
+[2] http://bugs.freedesktop.org/show_bug.cgi?id=12229
 
 ### Instructions
 

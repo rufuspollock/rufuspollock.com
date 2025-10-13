@@ -19,7 +19,7 @@ Whenever I've had a few spare minutes over the last couple of months I've been h
 
 The module is Open Source software (MIT-licensed) and you can either:
 
-1. Download it directly from: <http://www.rufuspollock.org/code/svnrepo/svnrepo.py>
+1. Download it directly from: http://www.rufuspollock.org/code/svnrepo/svnrepo.py
 
 2. Or get it the python package index. If you are using setuptools just do:
 
@@ -29,7 +29,7 @@ The module is Open Source software (MIT-licensed) and you can either:
 
 There are unit tests at:
 
-<http://www.rufuspollock.org/code/svnrepo/svnrepo_test.py>
+http://www.rufuspollock.org/code/svnrepo/svnrepo_test.py
 
 And they are pretty good at demonstrating how to use the API but just for the sake of demonstration. Assume that you have an existing subversion repository at REPOSPATH.
 

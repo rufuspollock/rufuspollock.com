@@ -13,7 +13,7 @@ wordpress:
   - post_id: 1983
 ---
 
-From <http://www.who.int/trade/glossary/story073/en/>:
+From http://www.who.int/trade/glossary/story073/en/:
 
 > The global pharmaceuticals market is worth US$300 billion a year, a figure expected to rise to US$400 billion within three years. The 10 largest drugs companies control over one-third of this market, several with sales of more than US$10 billion a year and profit margins of about 30%. Six are based in the United States and four in Europe. It is predicted that North and South America, Europe and Japan will continue to account for a full 85% of the global pharmaceuticals market well into the 21st century. Companies currently spend one-third of all sales revenue on marketing their products - roughly twice what they spend on research and development. 
 >

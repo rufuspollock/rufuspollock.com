@@ -46,10 +46,10 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reports on what I'
     * New [CKAN wiki][ckan-wiki] and [CKAN site][ckan]
     * [CKAN tutorial at Dev8d][dev8d-workshop]
     * DataGM (Data Greater Manchester) launched using CKAN
-    * <http://data.hri.fi> using CKAN with Alpha and Beta released
+    * http://data.hri.fi using CKAN with Alpha and Beta released
     * More [community instances][ckan-instances]
-    * <http://OpenDataSearch.org/> ([blog announce][opendatasearch-blog])
-    * <http://PublicData.eu/>
+    * http://OpenDataSearch.org/ ([blog announce][opendatasearch-blog])
+    * http://PublicData.eu/
   * [Where Does My Money Go?][wdmmg] / [Open Spending][os]
     * [Becoming Open Spending][becoming-os]
     * New [Open Spending wiki][os-wiki]
@@ -57,7 +57,7 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reports on what I'
     * [Community development][os-meetups]
   * Open Economics Working Group
     * [YourTopia - Development beyond GDP][yourtopia] - [Blog Post][yourtopia-blog] - Entry in World Bank Apps competition
-    * <http://energy.publicdata.eu/> - [Putting Europe's Energy Targets in Context][energy-blog]
+    * http://energy.publicdata.eu/ - [Putting Europe's Energy Targets in Context][energy-blog]
     * [User Guide for CKAN][econ-ckan]
   * Planning [OKCon][okcon]
     * [OKCon Announce][okcon-blog]

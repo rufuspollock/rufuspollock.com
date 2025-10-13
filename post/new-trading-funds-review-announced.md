@@ -13,7 +13,7 @@ wordpress:
   - post_id: 436
 ---
 
-When our report on [PSI provision at trading funds](http://rufuspollock.org/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/) was published alongside the budget in March, the Government promised further investigation. They have now commissioned [another review](http://www.hm-treasury.gov.uk/press_6508b.htm) this time done by the Shareholder Executive/HMT ([full ToR on Shareholder Executive website](<http://www.shareholderexecutive.gov.uk/publications/pdf/tradingfunds250608terms.pdf>):
+When our report on [PSI provision at trading funds](http://rufuspollock.org/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/) was published alongside the budget in March, the Government promised further investigation. They have now commissioned [another review](http://www.hm-treasury.gov.uk/press_6508b.htm) this time done by the Shareholder Executive/HMT ([full ToR on Shareholder Executive website](http://www.shareholderexecutive.gov.uk/publications/pdf/tradingfunds250608terms.pdf):
 
 >  The review, announced as part of Budget 2008, will be conducted by the Shareholder Executive and will consider the benefits to the wider UK economy from any potential changes to the trading funds' business model.
 >  

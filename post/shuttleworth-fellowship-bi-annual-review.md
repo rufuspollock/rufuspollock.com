@@ -18,12 +18,12 @@ As part of my Shuttleworth Fellowship I'm preparing bi-annual reviews of what I 
 ## CKAN and the theDataHub
 
   * Finalized separation of software and site: [CKAN][] = data hub software, [theDataHub.org][datahub] = community data hub site
-  * Worked heavily to develop CKAN as a product e.g. much improved website <http://ckan.org/>, nascent partner programme and more
+  * Worked heavily to develop CKAN as a product e.g. much improved website http://ckan.org/, nascent partner programme and more
   * Major milestone with [CKAN v1.5 release][ckan-v1.5] just 2 weeks ago. Result of 6 months of development with major new features.
   * [theDataHub][datahub] has also been much improved with move to new servers, a new theme (default in CKAN v1.5) and deployment of ever more extensions
   * Some personal items:
     * [DataExplorer][]
-    * UX work - <http://wiki.ckan.org/UX>
+    * UX work - http://wiki.ckan.org/UX
     * [data package manager (dpm)][dpm] and work on [Data Packages spec][data-packages]
 
 [ckan-v1.5]: http://blog.okfn.org/2011/11/14/major-new-ckan-release-v1-5/
@@ -39,7 +39,7 @@ As part of my Shuttleworth Fellowship I'm preparing bi-annual reviews of what I 
 ## Open Bibliography and the Public Domain
 
   * The [Public Domain Review][pdr] goes from strength to strength
-  * [BibServer][] has had a ground-up rewrite and can be seen online at <http://bibsoup.net/>
+  * [BibServer][] has had a ground-up rewrite and can be seen online at http://bibsoup.net/
   * Additional support from JISC for a second phase of [JISC Open Bibliography project](http://openbiblio.net/p/jiscopenbib2/)
 
 ## Open Knowledge Foundation and the Community
@@ -56,7 +56,7 @@ As part of my Shuttleworth Fellowship I'm preparing bi-annual reviews of what I 
     * Lots of ongoing activities in existing local groups and chapters such as those in Germany and Italy have
     * In addition, interest from a variety of areas in the establishment of new chapters and local groups, for example in [Brazil][chapter-brazil] and [Belgium][chapter-belgium]
   * Start of work on [OKFN labs][labs]
-    * Alpha website at <http://labs.okfn.org/>
+    * Alpha website at http://labs.okfn.org/
     * [Dashboard sprint][dashboard]
 
 [omidyar-grant]: http://blog.okfn.org/2011/09/19/omidyar-network-support-okf-to-go-global/

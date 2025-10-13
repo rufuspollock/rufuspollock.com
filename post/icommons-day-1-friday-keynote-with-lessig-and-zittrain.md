@@ -60,7 +60,7 @@ The argument seems to go like this:
   11. People say nasty things about that are inaccurate (e.g. that CC is anti-copyright)
     * [ed]: i totally agree this is bad but Lessig must surely know how unfair the media (and politics is). But the point is taken: efforts are not purposeless but do gradually rebalance things.
   12. Problem is political economy of IP
-    * [ed]: concentrated interests etc etc see <http://www.rufuspollock.org/economics/papers/defaults_for_ip_policy.html>
+    * [ed]: concentrated interests etc etc see http://www.rufuspollock.org/economics/papers/defaults_for_ip_policy.html
   13. Have spent 10y working on all of this and now plan to step aside
   14. This is your movement, take it, demand the respect, earn that respect
 

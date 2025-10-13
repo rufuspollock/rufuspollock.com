@@ -28,7 +28,7 @@ write a simple piece of middleware ourselves.
 
 Here a simple piece of middleware that adds authentication based on the remote
 address of the client (this tutorial and its code is available in raw form at
-<http://www.rufuspollock.org/code/wsgi/>):
+http://www.rufuspollock.org/code/wsgi/):
 
 <pre><code>
 from wsgiref.simple_server import make_server, demo_app

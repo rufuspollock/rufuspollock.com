@@ -22,5 +22,5 @@ Source:
   * rfc793: specification for TCP
   * date: 1981
   * editor: Jon Postel
-  * url: <http://www.ibiblio.org/pub/docs/rfc/rfc793.txt>
+  * url: http://www.ibiblio.org/pub/docs/rfc/rfc793.txt
 

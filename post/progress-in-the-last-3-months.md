@@ -17,7 +17,7 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reports on what I'
 
 ### Talks and Events
 
-  * [Open Government Data Camp 18-19 Nov 2010][ogdcamp] - Organized by myself and colleagues at the Open Knowledge Foundation. Over 300 participants from over 30 countries. More at <http://opengovernmentdata.org/camp2010/>
+  * [Open Government Data Camp 18-19 Nov 2010][ogdcamp] - Organized by myself and colleagues at the Open Knowledge Foundation. Over 300 participants from over 30 countries. More at http://opengovernmentdata.org/camp2010/
     * My [introductory talk at OGD Camp][ogdcamp-talk]
     * UK Government made a [major announcement][gov-announce] of renewed commitment to open data at a press conference co-hosted by OKF which coincided with the camp ([UK PM video][uk-pm-video])
   * Talks at [Picnic 2010 (Amsterdam)][picnic2010], [dataconomy (London)][dataconomy], [Gov2.0 (Berlin)][gov2.0], [ONA 2010 (Washington)][ona-2010] including detour to MIT (Media Lab and Sloan) and Harvard (Berkman and Bibliographic data folks).
@@ -25,7 +25,7 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reports on what I'
 
 ### Open Data Projects
 
-  * [Milestone release of 3 million open bibliographic records][biblio-release] from the British Library with this material on the web at <http://bibliographica.org/> - native RDF bibliographic web application
+  * [Milestone release of 3 million open bibliographic records][biblio-release] from the British Library with this material on the web at http://bibliographica.org/ - native RDF bibliographic web application
     * The release was part of the [JISC-funded OpenBib project][jiscopenbib] -- on which OKF is a partner and in which I am personally participating
   * [Where Does My Money Go?][wdmmg] - [data store][wdmmg-datastore]
     * [v2.0 release][wdmmg-phase2] ([screencast][wdmmg-screencast]) - culmination of 6 months of work, project was a finalist for the BIMAs
@@ -34,7 +34,7 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reports on what I'
   * [CKAN (software)][ckan], [datapkg][] and [Comprehensive Knowledge Archive Network (CKAN.net)][ckan.net]
     * [Major release of CKAN (v1.2)][ckan-v1.2]
     * [Major datapkg release (v0.7)][datapkg-release] (my coding)
-    * <http://ckan.net/> reaches 1550 packages
+    * http://ckan.net/ reaches 1550 packages
   * [Open Data Manual][open-data-manual] - [Open Data Manual sprint in Berlin (Oct 2010)][open-data-manual-sprint]
   * [Annotation Toolkit][annotator]
   * [Open Shakespeare][open-shakespeare] meetups

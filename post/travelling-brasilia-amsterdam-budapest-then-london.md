@@ -22,7 +22,7 @@ I'm travelling quite a bit over these next few weeks:
 
 If you're at any of these events (or are just located in any of these places) and are interested in open knowledge (data/content/etc) type stuff please [get in touch][]!
 
-Updates from the events: <http://notebook.okfn.org/2011/05/19/reports-from-consegi-and-workshops-in-amsterdam-and-budapest/>
+Updates from the events: http://notebook.okfn.org/2011/05/19/reports-from-consegi-and-workshops-in-amsterdam-and-budapest/
 
 [consegi]: http://www.consegi.gov.br/
 [open data]: http://opendefinition.org/

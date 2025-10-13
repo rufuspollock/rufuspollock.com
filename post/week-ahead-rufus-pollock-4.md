@@ -23,8 +23,8 @@ wordpress:
 * Lots of work on [BibServer][] - see [BibServer repo][]
 * Meetings e.g. #teamcamp, Science Online
 * [sysadmin work][] - continuing migration
-  * Huge improvements to <http://okfn.org/> and other wordpress-based sites thanks to migration work with Nils
-  * Plan to move <http://thedatahub.org/> this week
+  * Huge improvements to http://okfn.org/ and other wordpress-based sites thanks to migration work with Nils
+  * Plan to move http://thedatahub.org/ this week
 
 ### This Week
 

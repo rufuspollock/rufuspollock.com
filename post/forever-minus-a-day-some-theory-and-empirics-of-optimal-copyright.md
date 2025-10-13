@@ -24,11 +24,11 @@ How long should copyright be? Should we increase or decrease the strength of cop
 
 For those who want to know more, the full abstract is below and the latest version of the paper can be downloaded from:
 
-<http://www.rufuspollock.org/economics/papers/optimal_copyright.pdf>
+http://www.rufuspollock.org/economics/papers/optimal_copyright.pdf
 
 Update: (2007-07-13) there are a set of summary slides available here:
 
-<http://www.rufuspollock.org/economics/papers/optimal_copyright_talk.pdf>
+http://www.rufuspollock.org/economics/papers/optimal_copyright_talk.pdf
 
 Update: (2007-07-16) for those interested in republishing, redacting, or otherwise reusing the paper I should state clearly that it (and this blog) are licensed under a [Creative Commons Attribution (by) license v3.0](http://creativecommons.org/licenses/by/3.0/)
 

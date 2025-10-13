@@ -62,6 +62,6 @@ The following is a (non-exhaustive) list of the kinds of questions one might exp
 
 **Update: 2011-01-31: have now broken out data worked into dedicated repos on bitbucket.**
 
- * NBER Patents: <https://bitbucket.org/rgrp/datapkg-patent-nber>
- * IMDb: <https://bitbucket.org/rgrp/datapkg-imdb>
+ * NBER Patents: https://bitbucket.org/rgrp/datapkg-patent-nber
+ * IMDb: https://bitbucket.org/rgrp/datapkg-imdb
 

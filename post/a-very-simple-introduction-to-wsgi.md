@@ -17,7 +17,7 @@ I've been seeing a **lot** of talk about WSGI (Web Server Gateway Interface) and
 
 ## First Stop ##
 
-A quick google takes me to: <http://www.wsgi.org/wsgi>. I'm looking to just write the proverbial 'hello world' app at this stage. Most of the references are bit too high level (or complex) for me (though [this one][1] is an exception). So here I'm going to detail my experiences of familiarizing myself with wsgi by writing the classic 'hello world' app (if you looking to do something more sophisticated with wsgi check out a toolkit such as [paste][3] or [pylons][2] the framework built on top of paste).
+A quick google takes me to: http://www.wsgi.org/wsgi. I'm looking to just write the proverbial 'hello world' app at this stage. Most of the references are bit too high level (or complex) for me (though [this one][1] is an exception). So here I'm going to detail my experiences of familiarizing myself with wsgi by writing the classic 'hello world' app (if you looking to do something more sophisticated with wsgi check out a toolkit such as [paste][3] or [pylons][2] the framework built on top of paste).
 
 ## Hello World ##
 
@@ -48,7 +48,7 @@ Start the server:
 
       $ python simpletest.py
 
-Then visit <http://localhost:8000/>
+Then visit http://localhost:8000/
 
 Bingo! We've got our first working wsgi app (demo_app should output 'Hello world!' followed by a list of variable values).
 
@@ -71,7 +71,7 @@ We haven't yet written anything ourselves -- we're just using the demo_app bundl
       # Respond to requests until process is killed
       httpd.serve_forever()
       
-Run this and visit <http://localhost:8000/> and you should see a blank page containing 'My Own Hello World!'.
+Run this and visit http://localhost:8000/ and you should see a blank page containing 'My Own Hello World!'.
 
 ### 5. Using a Class ###
 
@@ -113,7 +113,7 @@ Use flup which provides a fastcgi and scgi interface to wsgi:
 
 ### 2. Install a simple standalone fastcgi implementation: ###
 
-1. Download <http://www.saddi.com/software/py-lib/py-lib/fcgi.py>
+1. Download http://www.saddi.com/software/py-lib/py-lib/fcgi.py
 2. Install this somewhere you can import it as import fcgi
 
 ### 3. Attach your wsgi application to this fcgi server ###

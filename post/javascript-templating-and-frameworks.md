@@ -21,23 +21,23 @@ Ongoing and incomplete review of javascript templating systems and frameworks.
 ## Unobtrusive (HTML + JSON) ##
 
   * weld
-    * <https://github.com/hij1nx/weld>
+    * https://github.com/hij1nx/weld
     * tags: unobtrusive beta
   * minimal.js
-    * <https://github.com/ruidlopes/minimal.js>
+    * https://github.com/ruidlopes/minimal.js
     * tags: unobtrusive
 
 ## 'Standard' Templating Browser ##
 
   * jquery.tmpl / jqtpl
-    * <https://github.com/jquery/jquery-tmpl> / <https://github.com/kof/node-jqtpl>
+    * https://github.com/jquery/jquery-tmpl / https://github.com/kof/node-jqtpl
     * tags: nodejs jquery browser beta
   * tempo
-    * <http://twigkit.github.com/tempo/>
+    * http://twigkit.github.com/tempo/
 
 ## Listings ##
 
-* <https://github.com/ry/node/wiki/modules#templating>
+* https://github.com/ry/node/wiki/modules#templating
   * Many of these work with browser
 
 # Testing #
@@ -64,16 +64,16 @@ Ongoing and incomplete review of javascript templating systems and frameworks.
 # Messaging and Job Queues #
 
   * rabbit.js
-  * resque in js - <https://github.com/technoweenie/coffee-resque>
+  * resque in js - https://github.com/technoweenie/coffee-resque
 
 # HTML5 #
 
   * modernizr
   * html5boilerplate
-    * <http://html5boilerplate.com/>
+    * http://html5boilerplate.com/
 
 # ORMs #
 
-  * For mongo: <http://mongoosejs.com/>
+  * For mongo: http://mongoosejs.com/
   * Backbone sort of includes one (though relationships are poorly handled at the moment)
 

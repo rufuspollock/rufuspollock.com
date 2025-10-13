@@ -18,8 +18,8 @@ Explorer](http://rufuspollock.org/wdmmg/explorer.html) for [Where Does My Money 
 
 [Protovis]: http://vis.stanford.edu/protovis/
 
-  * Explorer: <http://rufuspollock.org/wdmmg/explorer.html>
-  * Source: <http://bitbucket.org/okfn/wdmmg-js/src/tip/src/explorer.html>
+  * Explorer: http://rufuspollock.org/wdmmg/explorer.html
+  * Source: http://bitbucket.org/okfn/wdmmg-js/src/tip/src/explorer.html
 
 Warning: won't work in IE (atm due to lack of svg support) and works
 best (i.e. fastest) in Chrome!

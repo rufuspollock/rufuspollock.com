@@ -19,7 +19,7 @@ wordpress:
 
 ## Find and Replace Across Multiple Files
 
-<http://rufuspollock.org/2006/09/22/find-and-replace-across-multiple-files/>
+http://rufuspollock.org/2006/09/22/find-and-replace-across-multiple-files/
 
 ## Find and Remove Broken Symbolic Links
 

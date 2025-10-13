@@ -21,7 +21,7 @@ wordpress:
 
 * [Dev8D][] - talk on [CKAN][] and its use in academia and research (plus Data Repositories panel)
 * [Citizen Cyberscience Summit][ccs] on Friday and Saturday
-  * Huge amount done on [PyBossa][] including finishing (the major) authorization and authentication work, updated tutorial, a new home on the web at <http://pybossa.com/>, a new home on GitHub at <http://github.com/PyBossa> and a new ['Guess My Age' app](http://pybossa.com/app/gma/presenter) that Daniel built as part of the Hackday on Saturday
+  * Huge amount done on [PyBossa][] including finishing (the major) authorization and authentication work, updated tutorial, a new home on the web at http://pybossa.com/, a new home on GitHub at http://github.com/PyBossa and a new ['Guess My Age' app](http://pybossa.com/app/gma/presenter) that Daniel built as part of the Hackday on Saturday
 * [Recline Data Explorer][Recline] improvements
 * [Open Data Handbook][odh] finalized for launch this week
 

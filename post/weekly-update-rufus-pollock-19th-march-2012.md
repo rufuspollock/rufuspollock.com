@@ -24,13 +24,13 @@ wordpress:
 * Prix Ars Electronica Submission with Laura Newman
 * Catching up with the email backlog after a week away
 * Various CKAN and Open Knowledge Foundation related stuff
-  * <http://DataProtocols.org/> has new theme and new sections
+  * http://DataProtocols.org/ has new theme and new sections
 * [Video of my talk at LIFT Conference now up](http://liftconference.com/news/lift12-video-rufus-pollock-open-data-how-we-got-here-and-where-were-going)
 
 ### This Week
 
 * Miscellaneous project related items!
-* <http://DataProtocols.org/> 
+* http://DataProtocols.org/ 
 * [Recline Data Explorer][recline] - v0.3 released
 * [Talking at ORGCon](http://www.openrightsgroup.org/orgcon-2012) on Saturday
 

@@ -15,5 +15,5 @@ wordpress:
 
 A refactoring of the first theoretical part of my [optimal copyright paper](http://www.rufuspollock.org/2007/07/09/forever-minus-a-day-some-theory-and-empirics-of-optimal-copyright/) has now been published in the December issue of the Review of Economic Research on Copyright Issues (RERCI) under the title: *Optimal Copyright over Time: Technological Change and the Stock of Works*. A preprint can be found at:
 
-<http://www.rufuspollock.org/economics/papers/optimal_copyright_over_time.pdf>
+http://www.rufuspollock.org/economics/papers/optimal_copyright_over_time.pdf
 

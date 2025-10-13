@@ -23,7 +23,7 @@ wordpress:
 
 Today we're announcing a simple new app (also submitted to [World Bank Apps competition][competition]) that allows anyone to say what kind of world, what 'YourTopia', they would like to live in:
 
-<http://yourtopia.net/>
+http://yourtopia.net/
 
 As well as having a very simple function: to tell you what country is closest to your ideal, the app also has a very serious purpose: to help us develop a real empirical basis for the measures of development that are used to guide policy-making.
 
@@ -57,7 +57,7 @@ If you're interested in helping please send either join the [open-economics][] m
 
 ### Colophon
 
- * Code: <https://bitbucket.org/okfn/openhdi>
+ * Code: https://bitbucket.org/okfn/openhdi
  * Data: From world bank data store - [details][data-details]
  * Mailing list: [open-economics][]
 

@@ -25,9 +25,9 @@ Let's concentrate on the first issue for the time being as it is the most immedi
 
 ### The Simple Case: Mod a Blog
 
-If one is happy to have fairly large atoms (pages, or even sections of some piece of text) then implementing an annotation system can be reduced to grabbing your favourite CMS or blogging software and feeding the text in in appropriate chunks. This is often satisfactory and is a simple, low tech solution that will pretty much work out of the box. A classic example of this approach is <http://www.pepysdiary.com/> which works so well because the subject matter (Samuel Pepy's diary) has a very obvious atomisation (namely the daily diary entries) suited perfectly suited to blog software (in this case movable type).
+If one is happy to have fairly large atoms (pages, or even sections of some piece of text) then implementing an annotation system can be reduced to grabbing your favourite CMS or blogging software and feeding the text in in appropriate chunks. This is often satisfactory and is a simple, low tech solution that will pretty much work out of the box. A classic example of this approach is http://www.pepysdiary.com/ which works so well because the subject matter (Samuel Pepy's diary) has a very obvious atomisation (namely the daily diary entries) suited perfectly suited to blog software (in this case movable type).
 
-You can even start doing a bit of modding, for example to present recent annotations (<http://www.pepysdiary.com/recent/>) or to present the text plus annotations all in one piece. (Given that [commentonpower][] seems to fall neatly into this category with most commentable atoms of the right size for 'blog' entries I wonder why they didn't just implement it as a plugin for wordpress -- perhaps it was such a simple app that it easier to 'roll their own').
+You can even start doing a bit of modding, for example to present recent annotations (http://www.pepysdiary.com/recent/) or to present the text plus annotations all in one piece. (Given that [commentonpower][] seems to fall neatly into this category with most commentable atoms of the right size for 'blog' entries I wonder why they didn't just implement it as a plugin for wordpress -- perhaps it was such a simple app that it easier to 'roll their own').
 
 [commentonpower]: http://www.commentonpower.org/
 
@@ -43,7 +43,7 @@ Once you want to have atoms below a size comfortable for individual html pages/b
 
 Whatever one chooses to do it does seem sensible to clearly separate data and presentation. This is particularly important when there is so much uncertainty over the user interface. In particular, it would be good to clearly specify the annotation format and implement a programmatic interface to it independent of the standard (human) user interface. That way is easy to switch interfaces (or have multiple ones). Given that annotations are essentially just a comment it would seem sensible to try and reuse an existing format such as Atom (or RSS) for the machine interface to the comment store. [marginalia] already had such a format based on atom. I've recently reimplemented a stripped down version of this format for the annotation store backend in python in preparation for adding annotation support to openshakespeare web interface, see:
 
-  <http://project.knowledgeforge.net/shakespeare/svn/annotater/trunk/>
+  http://project.knowledgeforge.net/shakespeare/svn/annotater/trunk/
 
 [marginalia]: http://webmarginalia.net/
 [openshakespeare]: http://demo.openshakespeare.org/

@@ -19,17 +19,17 @@ This February I have the privilege to visit Taiwan. I will be there from the 4-1
 
 ## Wed 8th Feb 7pm: Open Knowledge Taiwan public event                                   
 
-A panel event organized by Open Knowledge Taiwan. More information and register: <http://www.accupass.com/go/rocketlab08>
+A panel event organized by Open Knowledge Taiwan. More information and register: http://www.accupass.com/go/rocketlab08
 
 ## Friday 10th Feb: 6:30pm Girls in Tech
 
-Taipei's Girls in Tech are kindly hosting an event where I will speak about the open information age. More information and register here: <https://www.facebook.com/events/1922799951264824/>
+Taipei's Girls in Tech are kindly hosting an event where I will speak about the open information age. More information and register here: https://www.facebook.com/events/1922799951264824/
 
 ## Sat 11th Feb: Open Leaders Program Taipei
 
 I will lead an Open Leaders Program whilst in Taipei on Saturday the 11th Feb.
 
-More information and apply to participate: <http://open-leaders.com/>
+More information and apply to participate: http://open-leaders.com/
 
 ## Update
 

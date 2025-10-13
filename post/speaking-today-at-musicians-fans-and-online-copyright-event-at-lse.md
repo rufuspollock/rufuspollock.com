@@ -32,5 +32,5 @@ Location: Old Theatre, London School of Economics, Houghton Street, London, WC2A
 
 This Wednesday afternoon we have a great selection of speakers for our free OII/LSE event on music and copyright. Come along to find out what the government, music industry, publishers and independent experts are thinking about ideas like 3-strikes-and-you're-disconnected; scanning ISP traffic for copyright works; and notice and takedown regimes.
 
-Full programme at: <http://www.oii.ox.ac.uk/events/details.cfm?id=186>
+Full programme at: http://www.oii.ox.ac.uk/events/details.cfm?id=186
 

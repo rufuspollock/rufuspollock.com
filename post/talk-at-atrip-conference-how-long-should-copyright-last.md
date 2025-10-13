@@ -75,5 +75,5 @@ Our task then is to answer the implicit question: **how long should copyright la
 
 There follows an overview and explication of the analysis and conclusions on optimal copyright term found in:
 
-<http://rufuspollock.org/economics/papers/optimal_copyright_term.pdf>
+http://rufuspollock.org/economics/papers/optimal_copyright_term.pdf
 

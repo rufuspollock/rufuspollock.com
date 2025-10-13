@@ -15,5 +15,5 @@ wordpress:
 
 I've now posted my slides from the [Musicans, Fans and Online Copyright event](http://www.rufuspollock.org/2008/03/19/speaking-today-at-musicians-fans-and-online-copyright-event-at-lse/) which took place last Wednesday at LSE. They can be found on this site:
 
-<http://rufuspollock.org/economics/papers/musicians_fans_and_online_copyright_20080319/>
+http://rufuspollock.org/economics/papers/musicians_fans_and_online_copyright_20080319/
 

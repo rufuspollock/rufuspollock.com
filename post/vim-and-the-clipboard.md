@@ -35,5 +35,5 @@ For more information on vim and the xclipboard do:
 
 :help x11-selection
 
-or see <http://vim.sourceforge.net/tips/tip.php?tip_id=71> (2008-01-02: or <http://vim.wikia.com/wiki/In_line_copy_and_paste_to_system_clipboard>).
+or see http://vim.sourceforge.net/tips/tip.php?tip_id=71 (2008-01-02: or http://vim.wikia.com/wiki/In_line_copy_and_paste_to_system_clipboard).
 

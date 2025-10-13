@@ -17,5 +17,5 @@ The [Open Knowledge Foundation](http://www.okfn.org/) (which I'm involved in) is
 
 The event takes place this Saturday (1st of November) at the London Knowledge Lab near Holborn in London. Full details in this [OKFN blog post](http://blog.okfn.org/2008/10/29/workshop-on-finding-and-re-using-public-information-saturday-1st-november/) and you can sign up the wiki page:
 
-<http://okfn.org/wiki/PublicInformation>
+http://okfn.org/wiki/PublicInformation
 

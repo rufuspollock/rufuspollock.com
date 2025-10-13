@@ -13,7 +13,7 @@ wordpress:
   - post_id: 144
 ---
 
-**UPDATE (2008-06): a new version is available (v1.2): <http://www.rufuspollock.org/2008/06/23/markdown2latex-mkdn2latex-12/>**
+**UPDATE (2008-06): a new version is available (v1.2): http://www.rufuspollock.org/2008/06/23/markdown2latex-mkdn2latex-12/**
 
 Over the last year I've written quite a few papers using [markdown](http://www.daringfireball.net/markdown) plus asciimathml. While this is great for web publication (and editing) and gives me lots of styling freedom via css it doesn't produce output that's as nice as that produced by latex especially in paginated form (also latex mathematics support is also currently better than that of obtained from asciimathml or latexmathml).
 
@@ -21,7 +21,7 @@ Unable to find any python code that would do what I want I played around for a c
 
 ### Download
 
-Get it from: <http://project.knowledgeforge.net/okftext/svn/trunk/python/mkdn2latex.py>
+Get it from: http://project.knowledgeforge.net/okftext/svn/trunk/python/mkdn2latex.py
 
 (You can also it check it out using subversion from the same url if you want)
 

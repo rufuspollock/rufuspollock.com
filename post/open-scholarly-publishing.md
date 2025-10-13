@@ -41,7 +41,7 @@ One would probably support multiple (e.g. 3-5) platforms to provide for competit
 
 All platforms must be open both in terms of being [open services][def] (powered by open software etc) and in allowing free and open access to their content.
 
-*Current example: <http://arxiv.org>.*
+*Current example: http://arxiv.org.*
 
 ### Filtering and Selection
 
@@ -115,7 +115,7 @@ This post arose out of the excellent discussion after a recent presentation at t
 
 Please post questions and comment in the Open Knowlege forum here:
 
-<https://discuss.okfn.org/t/open-scholarly-publishing/2867>
+https://discuss.okfn.org/t/open-scholarly-publishing/2867
 
 The above necessarily omits many details and questions and comments are very welcome.
 

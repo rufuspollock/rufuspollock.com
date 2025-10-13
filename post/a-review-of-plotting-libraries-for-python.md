@@ -22,7 +22,7 @@ Last updated: 2008-03-06
   * (+) Fast, powerful, mature, well-documented
   * (-) Not python based
 
-C-based rather than python-based but fast and powerful. There is a (fairly crude) set of python bindings available here: <http://www.srcc.lsu.edu/~davids/ploticus_module.html>. Alternatively one can just call the ploticus command from a python script.
+C-based rather than python-based but fast and powerful. There is a (fairly crude) set of python bindings available here: http://www.srcc.lsu.edu/~davids/ploticus_module.html. Alternatively one can just call the ploticus command from a python script.
 
 ### Matplotlib
 
@@ -32,21 +32,21 @@ C-based rather than python-based but fast and powerful. There is a (fairly crude
 
 ### PyChart
 
-<http://home.gna.org/pychart/>
+http://home.gna.org/pychart/
   
   * (+) Pure python, quite simple to use, good documentation
   * (-) Not quite as nice looking or as powerful as e.g. ploticus
 
 ### Biggles
 
-<http://biggles.sourceforge.net/>
+http://biggles.sourceforge.net/
 
   * last updated: 2004-03-08
   * looks fine but does not seem to be actively developed any longer
 
 #### Example
 
-See: <http://home.gna.org/pychart/examples/index.html>. This is the bar/line example from there:
+See: http://home.gna.org/pychart/examples/index.html. This is the bar/line example from there:
 
 <img src="http://home.gna.org/pychart/examples/barline-small.png" alt="bar/line chart" />
 

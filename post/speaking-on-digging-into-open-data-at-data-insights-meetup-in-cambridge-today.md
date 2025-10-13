@@ -24,15 +24,15 @@ I'll be talking at [Data Insights Meetup](http://www.meetup.com/Data-Insights-Ca
 
 ### Links
 
-* <http://ckan.org/> - CKAN, open-source data hub software
-* <http://thedatahub.org/> - the DataHub
-* <http://thedatahub.org/dataset/standard-and-poors-500-shiller> - S&P
+* http://ckan.org/ - CKAN, open-source data hub software
+* http://thedatahub.org/ - the DataHub
+* http://thedatahub.org/dataset/standard-and-poors-500-shiller - S&P
 dataset I demo-d
-<http://thedatahub.org/dataset/standard-and-poors-500-shiller/resource/f2a375b2-b4d4-4100-88ad-952a4c6c8d74>
+http://thedatahub.org/dataset/standard-and-poors-500-shiller/resource/f2a375b2-b4d4-4100-88ad-952a4c6c8d74
 - raw data
-* <http://okfnlabs.org/recline/> - Recline Data Explorer
-* <http://www.dataprotocols.org/>
-* <http://openspending.org/>
+* http://okfnlabs.org/recline/ - Recline Data Explorer
+* http://www.dataprotocols.org/
+* http://openspending.org/
 
 ### Abstract
 
@@ -45,8 +45,8 @@ in this area.
 
 The Open Knowledge Foundation has been a pioneer in the field of open
 data since its inception in 2004. It works in a wide array of areas
-from sonnets to statistics, genes to geodata. Its open-source [CKAN](http://ckan.org/) software powers <http://data.gov.uk/>,
-<http://thedatahub.org/> and dozens of other open data hubs around the
-world. For more information about the Foundation see <http://okfn.org/>
-and <http://okfn.org/projects>.
+from sonnets to statistics, genes to geodata. Its open-source [CKAN](http://ckan.org/) software powers http://data.gov.uk/,
+http://thedatahub.org/ and dozens of other open data hubs around the
+world. For more information about the Foundation see http://okfn.org/
+and http://okfn.org/projects.
 

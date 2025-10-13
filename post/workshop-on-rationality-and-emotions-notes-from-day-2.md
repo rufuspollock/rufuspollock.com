@@ -21,7 +21,7 @@ Herewith are further (partial, impressionistic) notes from the second day of the
 
 Walther has published these results as a 2003 paper in Journal of Economic Behaviour and Organization.
 
-<http://www.robinson.cam.ac.uk/academic/robinson_rationality_walther.pdf>
+http://www.robinson.cam.ac.uk/academic/robinson_rationality_walther.pdf
 
 #### Overview
 

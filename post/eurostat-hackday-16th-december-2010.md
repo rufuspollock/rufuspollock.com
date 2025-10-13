@@ -19,7 +19,7 @@ As announced on the [Open Knowledge Foundation's blog][announce] at the start of
 
 We're currently organising a 'hackday' on the Eurostat data, which will take place on Wednesday 16th December 2010:
 
-  * <http://eurostat.okfn.org/>
+  * http://eurostat.okfn.org/
 
 If you'd like to get involved, please get in touch on the [euopendata mailing list](http://lists.okfn.org/mailman/listinfo/euopendata), or drop us a line on **eurostat** at **okfn** dot **org**.
 
@@ -66,7 +66,7 @@ From the website:
 
 > You can add notes, ideas or list yourself at the following pad:
 
->  * <http://opengovernmentdata.okfnpad.org/eurostat-hackday>
+>  * http://opengovernmentdata.okfnpad.org/eurostat-hackday
 
 > ## Is there a tag/hashtag?
 

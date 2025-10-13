@@ -15,8 +15,8 @@ wordpress:
 
 A major new release ([v0.7][datapkg-0.7]) of [datapkg][] is out!
 
-  * Release: <http://pypi.python.org/pypi/datapkg>
-  * Docs: <http://packages.python.org/datapkg/>
+  * Release: http://pypi.python.org/pypi/datapkg
+  * Docs: http://packages.python.org/datapkg/
 
 There's a quick getting started section below (also see [the docs][doc]).
 

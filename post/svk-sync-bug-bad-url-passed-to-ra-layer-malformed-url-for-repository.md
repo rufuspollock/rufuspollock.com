@@ -45,12 +45,12 @@ The issue progressed from an unconfirmed one whose aetiology was unclear [1], to
 It is also especially noteworthy that much of this tracking down was only possible because the software involved was open enabling users to poke around to see what was wrong. For example, tying the bug to spaces in the underlying repository url resulted from the original reporter of the issue hand-modifying a svn source file so as to make the error message more verbose [1.1] -- something which is clearly only possible if the code is open.
 
 
-  * [1]:<http://lists.bestpractical.com/pipermail/svk-devel/2007-January/000570.html>
-  * [1.1]:<http://lists.bestpractical.com/pipermail/svk-devel/2007-January/000571.html>
-  * [2]: <http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000755.html>
-  * [2.1]: <http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000757.html>
-  * [2.2]: <http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000766.html>
-  * [3]: <http://lists.bestpractical.com/pipermail/svk-devel/2007-June/000944.html>
-  * [4]: <http://lists.bestpractical.com/pipermail/svk-devel/2007-October/001065.html>
+  * [1]:http://lists.bestpractical.com/pipermail/svk-devel/2007-January/000570.html
+  * [1.1]:http://lists.bestpractical.com/pipermail/svk-devel/2007-January/000571.html
+  * [2]: http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000755.html
+  * [2.1]: http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000757.html
+  * [2.2]: http://lists.bestpractical.com/pipermail/svk-devel/2007-March/000766.html
+  * [3]: http://lists.bestpractical.com/pipermail/svk-devel/2007-June/000944.html
+  * [4]: http://lists.bestpractical.com/pipermail/svk-devel/2007-October/001065.html
 
 

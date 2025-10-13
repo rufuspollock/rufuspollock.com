@@ -15,8 +15,8 @@ wordpress:
 
 A new release ([v0.8][datapkg-0.8]) of [datapkg][], the tool for distributing, discovering and installing data is out!
 
-  * Release: <http://pypi.python.org/pypi/datapkg>
-  * Docs: <http://packages.python.org/datapkg/>
+  * Release: http://pypi.python.org/pypi/datapkg
+  * Docs: http://packages.python.org/datapkg/
 
 There's a quick getting started section below (also see [the docs][doc]).
 

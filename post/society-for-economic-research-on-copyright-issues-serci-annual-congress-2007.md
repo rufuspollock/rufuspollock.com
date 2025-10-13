@@ -15,11 +15,11 @@ wordpress:
 
 Last week I was at the 2007 Society for Economic Research on Copyright Issues (SERCI) Annual Congress (also acronymed under the label SERCIAC). The event was a nice size with a good mix of people, well organized (a big thank-you here to Christian Handke) and with many interesting presentations (some of which I was able to take notes on -- see below). I also had the chance to present my paper on optimal copyright and get some useful feedback. I've already mentioned this in a [previous post](http://www.rufuspollock.org/archives/198) but for those interested you can find the slides from my talk here:
 
-<http://www.rufuspollock.org/economics/papers/optimal_copyright_talk.pdf>
+http://www.rufuspollock.org/economics/papers/optimal_copyright_talk.pdf
 
 and the full paper here:
 
-<http://www.rufuspollock.org/economics/papers/optimal_copyright.pdf>
+http://www.rufuspollock.org/economics/papers/optimal_copyright.pdf
 
 ## Rough Notes on Some of the Presentations
 

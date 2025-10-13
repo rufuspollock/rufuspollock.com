@@ -19,6 +19,6 @@ Back last October I was a participant in a "Networks" reading group that worked 
 
 Having finally got round to writing/marking up my rough notes into computer friendly format (markdown + latexmathml) I've now posted them online at:
 
-<http://www.rufuspollock.org/economics/papers/comments-on-currarini-jackson-pin-2007>
+http://www.rufuspollock.org/economics/papers/comments-on-currarini-jackson-pin-2007
 
 

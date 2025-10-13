@@ -25,7 +25,7 @@ wordpress:
 * [Humanities working group meetup][humanities-meetup]
 * Limited coding and contribution to [CKAN][], specifically on:
   * [data package manager][dpm]
-  * [Recline Data Explorer][recline] (with Max Ogden) - cf this ticket <http://trac.ckan.org/ticket/1357>
+  * [Recline Data Explorer][recline] (with Max Ogden) - cf this ticket http://trac.ckan.org/ticket/1357
 * Work on [v0.11 release][os-0.11] of [OpenSpending][]. In particular updating and improving [openspendingjs][] so that we have a proper bubbletree explorer. Check out, for example [this bubbletree of UK gov expenditure in 2010][ose-ukgov] - which also includes a breakdown (see the donut ring) by region
 * OKFN [Dashboard hackday](http://wiki.okfn.org/Community_Dashboard_Hackday_Nov_2011)
 * [Africa at Home hackday][africa@home] where I worked on [PyBossa - an opensource crowdsourcing engine][PyBossa]. PyBossa is a port the BOSSA crowdsourcing engine to python (a bit like an opensource mechanical turk but without money!) and with an initial focus on helping scientists and other researchers crowd-source human problem-solving skills!

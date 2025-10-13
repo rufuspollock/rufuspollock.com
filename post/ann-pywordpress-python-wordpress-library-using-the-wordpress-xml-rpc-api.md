@@ -15,8 +15,8 @@ wordpress:
 
 Announcing [PyWordpress][], a Python library for Wordpress that provides a pythonic interface to Wordpress using the Wordpress XML-RPC API:
 
-* Code on github: <https://github.com/rgrp/pywordpress>
-* Python Package Index: <http://pypi.python.org/pypi/pywordpress/>
+* Code on github: https://github.com/rgrp/pywordpress
+* Python Package Index: http://pypi.python.org/pypi/pywordpress/
 
 Along with a wrapper for the main functions it also provides various helper methods, for example to create many pages at once. This is somewhat of a belated announce as the first version of this was written almost a year ago!
 

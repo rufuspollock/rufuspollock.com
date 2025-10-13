@@ -15,8 +15,8 @@ wordpress:
 
 I've just put out a beta of a major new version of [datapkg](http://okfn.org/projects/datapkg) (see changelog below):
 
-  * Release: <http://pypi.python.org/pypi/datapkg>
-  * Docs: <http://packages.python.org/datapkg/>
+  * Release: http://pypi.python.org/pypi/datapkg
+  * Docs: http://packages.python.org/datapkg/
 
 There's a quick getting started section below (also see docs).
 

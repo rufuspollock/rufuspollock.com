@@ -34,7 +34,7 @@ The application it will use (writer, calc, math ...) will depend solely on the e
 
 Then this will load in calc even though the -writer option was given. For more details (on this very old bug) see:
 
-<http://www.openoffice.org/servlets/ReadMsg?list=allbugs&msgNo=94354>
+http://www.openoffice.org/servlets/ReadMsg?list=allbugs&msgNo=94354
 
 Fortunately this isn't too much of a problem since the extension mapping is pretty reasonable.
 

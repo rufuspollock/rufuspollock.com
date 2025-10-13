@@ -15,7 +15,7 @@ wordpress:
 
 Title: Why the music industry may gain from free downloading: The role of sampling
 
-DOI: <http://dx.doi.org/10.1016/j.ijindorg.2005.10.006>
+DOI: http://dx.doi.org/10.1016/j.ijindorg.2005.10.006
 
 Authors: Martin Peitz and Patrick Waelbroeck
 

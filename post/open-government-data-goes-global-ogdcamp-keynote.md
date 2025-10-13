@@ -66,7 +66,7 @@ As I wrote back in 2007:  **[Give Us The Raw Data and Give It To Us Now][rawdata
 
 [rawdatanow-post]: http://blog.okfn.org/2007/11/07/give-us-the-data-raw-and-give-it-to-us-now/
 
-Over the next couple of days we're going to be gathering interesting examples of why this matters at <http://rawdatanow.com/>. So if you have any cunning ideas for how to explain what raw data is to non-technical folks in government, or if you have any good anecdotes (the uglier the better), then please let us know!
+Over the next couple of days we're going to be gathering interesting examples of why this matters at http://rawdatanow.com/. So if you have any cunning ideas for how to explain what raw data is to non-technical folks in government, or if you have any good anecdotes (the uglier the better), then please let us know!
 
 These two things in themselves are not very hard. It really boils down to being *very* explicit about letting people reuse stuff (spell it out!), and dumping whatever database files you have on a server somewhere and linking to it somewhere where people will find it.
 

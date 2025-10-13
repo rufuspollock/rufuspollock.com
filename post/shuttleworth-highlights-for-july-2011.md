@@ -31,10 +31,10 @@ As part of my Shuttleworth Fellowship I'm preparing monthly updates on what I've
   * New [CKAN Vision post][ckan-vision] (developed at OKCon and written by James Gardner)
   * Lots of work on [ckanjs - the CKAN javascript library][ckanjs]and the [DataDeck][]
   * Work on the [Data Packages][]
-  * Overhauled <http://ckan.org/>
+  * Overhauled http://ckan.org/
 
 * [Open Data Manual][] - major update
-  * Consolidated project info and resources (to <http://github.com/okfn/opendatamanual> and <http://wiki.okfn.org/Open_Data_Manual>)
+  * Consolidated project info and resources (to http://github.com/okfn/opendatamanual and http://wiki.okfn.org/Open_Data_Manual)
   * New theme plus improved content
   * New complementary project: [Data Patterns][] - [blog announce][dp-announce]
 
@@ -48,8 +48,8 @@ As part of my Shuttleworth Fellowship I'm preparing monthly updates on what I've
 
 * [HyperNotes][] (Weaving History reloaded)
   * Spare time project
-  * Code: <http://github.com/okfn/hypernotes>
-  * Try-out site: <http://hypernotes.dev.okfn.org/static/app/index.html>
+  * Code: http://github.com/okfn/hypernotes
+  * Try-out site: http://hypernotes.dev.okfn.org/static/app/index.html
 
 [CKAN]: http://ckan.org/
 [Data Hub]: http://thedatahub.org/

@@ -21,8 +21,8 @@ wordpress:
 ### Activity
 
 * Planning and coding work on OKFN [Community Dashboard][] with [napo][]
-* Lots of work on [Open Data Manual][odm] with [Tim McNamara][], in particular to have [support for translation][i18n-issue] -- check out the new transifex project: <https://www.transifex.net/projects/p/opendatamanual/>
-* Further work on [ckanjs][] and the [DataDeck][]. Check out the current state of the demo here: <http://okfn.github.com/ckanjs/app>
+* Lots of work on [Open Data Manual][odm] with [Tim McNamara][], in particular to have [support for translation][i18n-issue] -- check out the new transifex project: https://www.transifex.net/projects/p/opendatamanual/
+* Further work on [ckanjs][] and the [DataDeck][]. Check out the current state of the demo here: http://okfn.github.com/ckanjs/app
 * Responded to various queries re the annotator
 * [Register and login support][issue-11] for [Hypernotes][] ([Hypernotes Demo][])
 * Various meetings and calls esp re CKAN and Sysadmin stuff

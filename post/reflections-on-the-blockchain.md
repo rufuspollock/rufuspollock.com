@@ -210,7 +210,7 @@ In such circumstances it would be worth taking a look at some of the old, now al
 
 What is the lesson? Put simply: virtual worlds tend to encounter just the kind of hard governance problems of "real-life" and have just as hard a time resolving them. The "magic" of digital technology, the limitless space of virtual realms, sadly is of little help in solving classic collective action / principal agent problems that bedevil the invention of better forms of governance and collective action. (See also [The Dictator and the Anarchist][dictator]).
 
-Excerpts from <http://www.juliandibbell.com/articles/a-rape-in-cyberspace/>
+Excerpts from http://www.juliandibbell.com/articles/a-rape-in-cyberspace/
 
 > ... [The benevolent Dictators get tired] But the wizards of LambdaMOO, after years of adjudicating all manner of interplayer disputes with little to show for it but their own weariness and the smoldering resentment of the general populace, had decided they’d had enough of the social sphere. And so, four months before the Bungle incident, the archwizard Haakon (known in RL as Pavel Curtis, Xerox researcher and LambdaMOO’s principal architect) formalized this decision in a document called “LambdaMOO Takes a New Direction,” which he placed in the living room for all to see. In it, Haakon announced that the wizards from that day forth were pure technicians. From then on, they would make no decisions affecting the social life of the MOO, but only implement whatever decisions the community as a whole directed them to. From then on, it was decreed, LambdaMOO would just have to grow up and solve its problems on its own.
 >

@@ -13,10 +13,10 @@ wordpress:
   - post_id: 452
 ---
 
-<http://blogs.computerworld.com/how_much_does_the_apple_tax_really_cost>
+http://blogs.computerworld.com/how_much_does_the_apple_tax_really_cost
 
 Similar Dell Inspiron is $300 cheaper 
 
-<http://blogs.computerworld.com/ballmer_on_the_500_apple_tax_the_man_was_right>
+http://blogs.computerworld.com/ballmer_on_the_500_apple_tax_the_man_was_right
 
 

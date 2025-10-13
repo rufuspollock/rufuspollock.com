@@ -15,7 +15,7 @@ wordpress:
 
 One the major things I've been working on since last summer (other than [the work on Trading Funds](http://www.rufuspollock.org/2008/03/12/models-of-public-sector-information-provision-via-trading-funds-report-published-today/)) is a paper on search engines such as those provided by firms like Google, Yahoo! etc. The first complete version of this is now ready for public consumption. Entitled *Is Google the next Microsoft? Competition, Welfare and Regulation in Internet Search* I've posted it online at:
 
-<http://rufuspollock.org/economics/papers/search_engines.pdf>
+http://rufuspollock.org/economics/papers/search_engines.pdf
 
 ### Abstract
 

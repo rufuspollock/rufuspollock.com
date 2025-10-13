@@ -32,7 +32,7 @@ with significant uptake in government, research and elsewhere.
 Bibliographic records are a key part of our shared cultural heritage.
 They too should therefore be open, that is made available to the
 public for access and re-use under an [open license][open] which permits use
-and reuse without restriction (<http://opendefinition.org/>). Doing this
+and reuse without restriction (http://opendefinition.org/). Doing this
 promises a variety of benefits.
 
 [open]: http://opendefinition.org/

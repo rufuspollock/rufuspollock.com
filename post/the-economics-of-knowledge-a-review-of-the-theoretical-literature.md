@@ -15,7 +15,7 @@ wordpress:
 
 Last year I collated and distilled the notes and summaries accumulated over the PhD into a proper paper which could act as the literature review in my dissertation. While I submitted the PhD last August I've only just got around to posting this up and it can now be found at:
 
-<http://www.rufuspollock.org/economics/papers/economics_of_knowledge_review.pdf>
+http://www.rufuspollock.org/economics/papers/economics_of_knowledge_review.pdf
 
 From the abstract:
 
@@ -23,5 +23,5 @@ From the abstract:
 
 Note for those seeking the references they can all be found in the economics bibliography found at:
 
-<http://www.rufuspollock.org/economics/biblio/>
+http://www.rufuspollock.org/economics/biblio/
 

@@ -15,7 +15,7 @@ wordpress:
 
 My new piece on "Tyndale, Gutenberg and an Open Information Age" is published today in Aeon Magazine:
 
-<https://aeon.co/ideas/only-governments-can-safeguard-the-freedoms-of-the-internet>
+https://aeon.co/ideas/only-governments-can-safeguard-the-freedoms-of-the-internet
 
 Five hundred years ago William Tyndale opened up the Bible by translating it into English, using Gutenberg's printing press to share his work. Today, instead of Gutenberg's press we have the Internet. If we are to take advantage of the incredible potential of the Internet we need to follow Tyndale's example and make information open: not the Bible this time but all public information from music to medicines, software to statistics.
 

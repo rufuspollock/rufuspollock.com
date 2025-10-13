@@ -22,11 +22,11 @@ Once this job is done, the data is there in a nice clean state for others to use
 
 As usual, it was US government material that was most easily available (in a decent format) and I decided to start off with historical information on wheat to be found in the [Wheat Yearbook](http://www.ers.usda.gov/Data/Wheat/WheatYearbook.aspx), in particular the contents of:
 
-<http://www.ers.usda.gov/data/wheat/yearbook/WheatYearbookTables-Recent.xls>
+http://www.ers.usda.gov/data/wheat/yearbook/WheatYearbookTables-Recent.xls
 
 While the data was available (and [open](http://opendefinition.org/) -- since US Govt provided) it was in a format that was not immediately computer usable (lots of blank lines etc). Thus, the first step was to parse this into standard csv file format (see [script here](http://knowledgeforge.net/econ/svn/trunk/data/wheat-us/data.py)) and then upload this to Open Economics. The result:
 
-<http://www.openeconomics.net/store/517d7c4e-3cb7-4e8f-aaa1-745dd665ad1f>
+http://www.openeconomics.net/store/517d7c4e-3cb7-4e8f-aaa1-745dd665ad1f
 
 Not only do we now have nice clean data but, thanks to [plotkit](http://www.liquidx.net/plotkit/), [Open Economics][oecon] has javascript graphing so without any more effort we can automatically have graphs of the resulting material. Not only does this allow us to answer our original question (see Fig 4) but **these graphs also tell a fascinating historical story:**
 

@@ -15,8 +15,8 @@ wordpress:
 
 Announcing [pywordpress][], a python interface to Wordpress using the Wordpress XML-RPC API.
 
- * Download: <http://pypi.python.org/pypi/pywordpress/>
- * Source code: <https://bitbucket.org/rgrp/pywordpress/>
+ * Download: http://pypi.python.org/pypi/pywordpress/
+ * Source code: https://bitbucket.org/rgrp/pywordpress/
 
 [pywordpress]: https://bitbucket.org/rgrp/pywordpress
 

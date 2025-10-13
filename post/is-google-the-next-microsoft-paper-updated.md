@@ -15,11 +15,11 @@ wordpress:
 
 I've just put out an updated version of my paper on Search Engines entitled: "Is Google the next Microsoft? Competition, Welfare and Regulation in Internet Searchâ€, the [original version of which went up in June](http://www.rufuspollock.org/2008/06/02/new-paper-is-google-the-next-microsoft-competition-welfare-and-regulation-in-internet-search/). The revised version is available either from SSRN:
 
-<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1265521>
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1265521
 
 or from here:
 
-<http://rufuspollock.org/economics/papers/search_engines.pdf>
+http://rufuspollock.org/economics/papers/search_engines.pdf
 
 ### Abstract
 

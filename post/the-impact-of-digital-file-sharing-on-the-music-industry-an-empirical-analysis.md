@@ -13,7 +13,7 @@ wordpress:
   - post_id: 125
 ---
 
-Just came across another paper evaluating the effect of filesharing published earlier this year. Authored by Norbert J. Michel (now of Nicholls State University) and is entitled *The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis* (Berkley Press' Topics in Economic Analysis & Policy: Vol. 6: No. 1, Article 18) is available at: <http://www.bepress.com/bejeap/topics/vol6/iss1/art18> under a 'quasi-open-acess' policy (which so far has at least had the effect of preventing me accessing it).
+Just came across another paper evaluating the effect of filesharing published earlier this year. Authored by Norbert J. Michel (now of Nicholls State University) and is entitled *The Impact of Digital File Sharing on the Music Industry: An Empirical Analysis* (Berkley Press' Topics in Economic Analysis & Policy: Vol. 6: No. 1, Article 18) is available at: http://www.bepress.com/bejeap/topics/vol6/iss1/art18 under a 'quasi-open-acess' policy (which so far has at least had the effect of preventing me accessing it).
 
 ABSTRACT:
  
@@ -23,7 +23,7 @@ May have some commonality with the same author's earlier *Digital File Sharing a
 
 ## Summary
 
-Exact same approach as Hong's previous work (see summary in <http://www.thefactz.org/economics/p2p_summary.html>) but less detailed:
+Exact same approach as Hong's previous work (see summary in http://www.thefactz.org/economics/p2p_summary.html) but less detailed:
 
   * Hong uses data 1996-2001 (p.31) while Norbert uses data from 1995-2003 (p.4).
   * Identification strategy:  Compare CD purchases (available at micro-level from the CEX) between 'computer owner' and non-'computer owners' (CEX variable again) and **attribute differences to file-sharing**.

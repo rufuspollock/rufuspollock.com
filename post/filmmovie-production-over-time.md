@@ -13,7 +13,7 @@ wordpress:
   - post_id: 351
 ---
 
-As part of my research work on knowledge production, particularly how it relates to the intellectual property regime I've recently been looking at film/movie production over time. Thanks to the [semi-openness](http://www.ckan.net/package/read/imdb) of <http://www.imdb.com/> we have a fairly comprehensive database of statistics available. Combining this with the excellent [IMDbPY](http://imdbpy.sourceforge.net/) scripts and my own home-brewed code and I was able to start extracting some basic information on movie production over time.
+As part of my research work on knowledge production, particularly how it relates to the intellectual property regime I've recently been looking at film/movie production over time. Thanks to the [semi-openness](http://www.ckan.net/package/read/imdb) of http://www.imdb.com/ we have a fairly comprehensive database of statistics available. Combining this with the excellent [IMDbPY](http://imdbpy.sourceforge.net/) scripts and my own home-brewed code and I was able to start extracting some basic information on movie production over time.
 
 Points to note about the dataset:
 

@@ -19,6 +19,6 @@ It can be difficult in such to circumstances to sustain interest over long narra
 
 Comments on previous volumes:
 
-  * <http://www.rufuspollock.org/2006/10/30/john-maynard-keynes-hopes-betrayed-1883-1920-by-robert-skidelsky/>
-  * <http://www.rufuspollock.org/2006/12/05/john-maynard-keynes-the-economist-as-saviour-1920-1937-by-robert-skidelsky/>
+  * http://www.rufuspollock.org/2006/10/30/john-maynard-keynes-hopes-betrayed-1883-1920-by-robert-skidelsky/
+  * http://www.rufuspollock.org/2006/12/05/john-maynard-keynes-the-economist-as-saviour-1920-1937-by-robert-skidelsky/
 

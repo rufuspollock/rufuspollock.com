@@ -19,7 +19,7 @@ This **Wednesday (27th of January) at 1pm** I'm giving one of Cambridge Universi
 
 ### Blurb
 
-Over the past few years, open licensing (<http://www.opendefinition.org/>) has facilitated the explosive growth of a 'knowledge commons'. To give a few prominent examples: Open Access journals, Open Educational Resources and Open Data in scientific research have all been enabled by licenses which permit material to be freely re-used and re-distributed. This outpouring of support for openness has led to an incredible rise in community-led development and innovative uses.
+Over the past few years, open licensing (http://www.opendefinition.org/) has facilitated the explosive growth of a 'knowledge commons'. To give a few prominent examples: Open Access journals, Open Educational Resources and Open Data in scientific research have all been enabled by licenses which permit material to be freely re-used and re-distributed. This outpouring of support for openness has led to an incredible rise in community-led development and innovative uses.
 
 Bibliographic records are a key part of our shared cultural heritage and essential to anyone working with cultural materials (books, music, films etc). Opening up those records for access and re-use offer a variety of benefits.
 

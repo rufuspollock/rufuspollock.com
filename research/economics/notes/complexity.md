@@ -58,7 +58,7 @@ Theorem 3.1 of \\cite{gillett\_2007}:
 
 ## Percolation Process
 
-See Ronald Meester's lecture notes at: <http://www.cs.vu.nl/~rmeester/preprints/notes.ps>
+See Ronald Meester's lecture notes at: http://www.cs.vu.nl/~rmeester/preprints/notes.ps
 
 Salient results. Let $ d $ be dimension of the lattice and $ p $ the probability of an edge being open (so this is edge percolation). Let $ r $ be probability that the connected component containing the origin is infinite in extent.
 
@@ -67,7 +67,7 @@ Salient results. Let $ d $ be dimension of the lattice and $ p $ the probability
 
 ## Contact Process
 
-Modified from: <http://en.wikipedia.org/wiki/Contact\_process\_(mathematics)>
+Modified from: http://en.wikipedia.org/wiki/Contact\_process\_(mathematics)
 
 The contact process is a model of an interacting particle system. It is a continuous time Markov process with state space ${0,1}^{S}$, where S is a finite or countable graph, usually $Z^{d}$ (i.e. the d-dimensional grid). The process is usually interpreted as a model for the spread of an infection: if the state of the process at a given time is $\\delta$, then a site x in S is "infected" if $\\delta(x) = 1$ and healthy if $\\delta(x) = 0$. Infected sites become healthy at a constant rate, while healthy sites become infected at a rate proportional to the number infected neighbors. One can generalize the state space to $\\{0,\\ldots, \\kappa\\}^S$, in which it is called the multitype contact process. It represents a model when more than one type of infection is competing for space.
 

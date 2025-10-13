@@ -19,7 +19,7 @@ Together with a colleague (Omar Al-Ubaydli) I've been working to explore the rea
 
 **With the volume of information production ever growing -- and attention ever more scarce -- filtering is becoming crucial. Digital technology offers us some radically new possibilities. In particular, distribution and filtering can be separated, in turn, allowing filtering to be decentralized and distributed -- a model which promises dramatic increases in transparency, innovation and efficiency.**
 
-Below is an overview of our analysis with the full version of the current paper here: <http://rufuspollock.org/economics/papers/scholars_and_journals.pdf>
+Below is an overview of our analysis with the full version of the current paper here: http://rufuspollock.org/economics/papers/scholars_and_journals.pdf
 
 ### Overview
 

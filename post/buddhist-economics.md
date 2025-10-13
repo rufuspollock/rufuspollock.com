@@ -25,7 +25,7 @@ If so this has important implications. In particular, it strongly suggests that 
 
 [^2]: In economics jargon: preference are endogenous (i.e. determined within the system) rather than exogenous (fixed externally -- e.g. by 'nature'). The study of endogenous preferences is certainly not new. See for example the review of Bowles (1998) or the early incorporation of changeable preferences into the 'traditional' framework by Becker and Stigler (1977).
  
-[^3]: These translations of the Dhammacakkappavattana Sutta are taken from <http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.piya.html>
+[^3]: These translations of the Dhammacakkappavattana Sutta are taken from http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.piya.html
 
   1. (Dukka -- The Nature of Suffering) "Birth is suffering, aging is suffering, sickness is suffering, death is suffering, association with the unpleasant is suffering, dissociation from the pleasant is suffering, not to receive what one desires is suffering - in brief the five aggregates subject to grasping are suffering."
   2. (Samudaya -- The Origin of Suffering) "It is this craving (thirst) which produces re-becoming (rebirth) accompanied by passionate greed, and finding fresh delight now here, and now there, namely craving for sense pleasure, craving for existence and craving for non-existence (self-annihilation)."

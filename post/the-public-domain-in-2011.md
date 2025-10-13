@@ -13,11 +13,11 @@ wordpress:
   - post_id: 810
 ---
 
-According to <http://publicdomainworks.net/> (which I helped build) there were 661 people whose works entered the public domain in 2011:
+According to http://publicdomainworks.net/ (which I helped build) there were 661 people whose works entered the public domain in 2011:
 
-<http://publicdomainworks.net/stats/year/2011>
+http://publicdomainworks.net/stats/year/2011
 
-Of course, I should immediately state that this is a fairly crude calculation based on a simple life+70 model and therefore not applicable to e.g. the US with its 1923 cut-off (for those interested in the details of computing public domain status there's you can find lots more here: <http://wiki.okfn.org/PublicDomainCalculators>). 
+Of course, I should immediately state that this is a fairly crude calculation based on a simple life+70 model and therefore not applicable to e.g. the US with its 1923 cut-off (for those interested in the details of computing public domain status there's you can find lots more here: http://wiki.okfn.org/PublicDomainCalculators). 
 
 The figure is also a significant underestimate -- to do these calculations you need lots of information about authors, their death dates and their works. This kind of bibliographic metadata has, until fairly recently, been very hard to come in an [open data][open-data] form and so we have been limited to doing calculations with only a relatively small subset of the actual all works (though, it should be said, we do have many of the most 'important' authors).
 
@@ -33,7 +33,7 @@ Thankfully this is now changing thanks to people like the [British Library openi
 
 Lastly, I have an exciting announcement. Thanks to the [work][pdr-plans] of my [Open Knowledge Foundation][okf] colleague [Jonathan Gray][jgray], we're pleased to announce the [Launch of the Public Domain Review to celebrate Public Domain Day 2011][pdr-launch]:
 
-<http://publicdomainreview.okfn.org/>
+http://publicdomainreview.okfn.org/
 
 [jgray]: http://jonathangray.org/
 [pdr-plans]: http://jonathangray.org/2010/10/17/introducing-the-public-domain-review/
@@ -46,7 +46,7 @@ As Jonathan explains in the blog post:
 >
 > To celebrate, the Open Knowledge Foundation is launching the [Public Domain Review](http://publicdomainreview.okfn.org/), a web-based review of works which have entered the public domain:
 >
->  * <http://publicdomainreview.okfn.org/>
+>  * http://publicdomainreview.okfn.org/
 >
 > Each week an invited contributor will present an interesting or curious work with a brief accompanying text giving context, commentary and criticism. The first piece takes a look at works by Nathanael West, whose works enter the public domain today in many jurisdictions.
 >

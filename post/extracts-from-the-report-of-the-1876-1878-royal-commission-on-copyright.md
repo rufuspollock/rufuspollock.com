@@ -13,7 +13,7 @@ wordpress:
   - post_id: 128
 ---
 
-1876-1878 Commision on Copyright. Metadata: <http://www.bopcris.ac.uk/bop1833/ref2103.html>
+1876-1878 Commision on Copyright. Metadata: http://www.bopcris.ac.uk/bop1833/ref2103.html
 
 My copy came from Cambridge University Library.
 

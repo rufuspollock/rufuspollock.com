@@ -21,5 +21,5 @@ In addition for ease of installation it has also been turned into a proper pytho
 
 Alternatively you can still get it straight from the repository at:
 
-<http://knowledgeforge.net/okftext/svn/trunk/python/markdown2latex/>
+http://knowledgeforge.net/okftext/svn/trunk/python/markdown2latex/
 

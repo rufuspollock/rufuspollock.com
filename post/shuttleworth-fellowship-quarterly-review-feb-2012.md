@@ -21,7 +21,7 @@ As part of my Shuttleworth Fellowship I'm preparing quarterly reviews of what I 
 * Our [CKAN Data Management System][CKAN] selected in 2 major new data portal initatives
 * Continuing advance of projects across the board with several projects reaching key milestones (v1.0 or beta release, adoption by third parties)
 * Rapid expansion of chapters and local groups -- e.g. [London Meetup now has more than 100 participants](http://www.meetup.com/OpenKnowledgeFoundation/London-GB/), new chapters in Belgium and Switzerland are nearly finalized
-* Completion of major upgrade of core web-presence with new branding and theme used on <http://okfn.org/> and across our network of sites (now numbering more than 40)
+* Completion of major upgrade of core web-presence with new branding and theme used on http://okfn.org/ and across our network of sites (now numbering more than 40)
 * [Announcement of School of Data](http://blog.okfn.org/2012/02/08/announcing-the-school-of-data/) which drew huge attention from the community. This is will be a joint Open Knowledge Foundation / P2PU project.
 * Major strengthening of organizational capacity with new staff
 
@@ -69,7 +69,7 @@ Major new project support including:
   * An increasing number of supporters making a monthly donation
 
 * Initiated a substantive collaboration on the [PyBossa crowdsourcing platform][PyBossa] with Shuttleworth Fellow Emeritus Francois Grey and his Citizen Cyberscience Centre
-  * New dedicated website: <http://pybossa.com/>
+  * New dedicated website: http://pybossa.com/
 
 * [Annotator][] and [AnnotateIt][] v1.0 Completed and Released
   * Annotator is now seeing uptake from several third-party projects and developers
@@ -87,16 +87,16 @@ Rapid Chapter and local group development:
 
   * Lots of new [Open Knowledge Foundation meetup groups](http://www.meetup.com/OpenKnowledgeFoundation/)
   * Belgium and Swiss groups nearly at Chapter status
-  * New Local Groups in several other countries - see <http://okfn.org/chapters/> for overview
+  * New Local Groups in several other countries - see http://okfn.org/chapters/ for overview
   * New meetup system with meetups in more than a dozen countries. Last London Open Data Meetup attended by more than 100 people
 
 ## Additional items
 
 * Hired key new staff including developers, community coordinators and a new management team
 * Begun a series of hackathons and hackdays under the auspices of the [Open Knowledge Foundation Working Group on Economics][wg-econ]
-* [Open Data Handbook v1.0 Released][odh-announce] - <http://opendatahandbook.org/>
+* [Open Data Handbook v1.0 Released][odh-announce] - http://opendatahandbook.org/
 * In collaboration with P2PU and Philipp Schmidt [announced the School of Data](http://blog.okfn.org/2012/02/08/announcing-the-school-of-data/) -- huge interest from the community with the announce post having the most shares so far of any on the Open Knowledge Foundation blog
-* Finalized Open Knowledge Foundation Labs proposal and launched basic website: <http://okfnlabs.org/>
+* Finalized Open Knowledge Foundation Labs proposal and launched basic website: http://okfnlabs.org/
 * Invited to become a Fellow of the Royal Society of Arts
 * Invited to be an Adviser to Canadian Government on Open Data
 

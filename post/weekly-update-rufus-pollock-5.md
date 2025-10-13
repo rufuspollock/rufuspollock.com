@@ -32,7 +32,7 @@ This covers the last 2 weeks as I did not manage an update last week.
 * Saturday: Open Data Day and RHOK. Specifically took part in the [DataHub][] and [OpenSpending][] related [Seize the Data Day segment](http://blog.okfn.org/2011/11/28/seize-the-data-for-open-data-day/)
   * Seize the data day: updated [Data Patterns][] with a piece on using the [DataHub and Webstore](http://datapatterns.org/datahub.html). Wrangling on [Exchange Rate data](http://thedatahub.org/dataset/exchanges-rates) and sqlite data pattern
   * In the RHOK part I started work on using the [PyBossa microtask framework][PyBossa] to [integrate microtasking into existing crowdsource workflows](http://www.rhok.org/problems/integrating-microtasking-existing-crowdsource-workflows) with specific focus on a geocoding microtasker.
-    * Code and README here <https://github.com/rgrp/pybossa-geodemo>
+    * Code and README here https://github.com/rgrp/pybossa-geodemo
 * [Open Government Data Bulletin][bulletin] planning
 * Start planning the [Open Data Census][census]
 

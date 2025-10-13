@@ -25,7 +25,7 @@ Not being able to read the main study I'm not able to offer any evaluation of it
 
 **Update: I've been pointed to the English version (thanks Tobias!):**
 
-<http://www.ivir.nl/publicaties/vaneijk/Ups_And_Downs_authorised_translation.pdf>
+http://www.ivir.nl/publicaties/vaneijk/Ups_And_Downs_authorised_translation.pdf
 
 More comments to come.
 

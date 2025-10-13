@@ -13,5 +13,5 @@ wordpress:
   - post_id: 147
 ---
 
-<http://papers.ssrn.com/abstract=936049>
+http://papers.ssrn.com/abstract=936049
 

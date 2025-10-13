@@ -89,7 +89,7 @@ Icing: 150g Cream Cheese, 150g Butter + Lemon/Orange Rind/Juice
 
 # Choc Chip Cookies
 
-* <http://www.bbc.co.uk/food/recipes/database/chocolatechipcookies_82401.shtml>
+* http://www.bbc.co.uk/food/recipes/database/chocolatechipcookies_82401.shtml
 
 # Carrot Salad
 

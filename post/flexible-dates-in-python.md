@@ -83,10 +83,10 @@ e.g. parsing 1860 can easily give us 1860-01-01 ...).
 ### References and Existing Libraries
 
   * Excellent dateutil (which we use)
-  * <http://wiki.python.org/moin/WorkingWithTime>
-  * ISO 8601: <http://www.iso.org/iso/date_and_time_format>
-     * <http://code.google.com/p/pyiso8601/source/browse/trunk/iso8601/iso8601.py>
-  * <http://www.feedparser.org/docs/date-parsing.html>
-  * <http://seehuhn.de/pages/pdate>
+  * http://wiki.python.org/moin/WorkingWithTime
+  * ISO 8601: http://www.iso.org/iso/date_and_time_format
+     * http://code.google.com/p/pyiso8601/source/browse/trunk/iso8601/iso8601.py
+  * http://www.feedparser.org/docs/date-parsing.html
+  * http://seehuhn.de/pages/pdate
 
 

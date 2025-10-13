@@ -15,7 +15,7 @@ wordpress:
 
 Last Tuesday I was at the [RES Annual Conference](http://www.resconference.org.uk/) to present my paper ["Is Google the Next Microsoft? Competition, Welfare and Regulation in Internet Search"](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1265521). I've [uploaded my slides from the talk here](/economics/papers/search_engines_talk_res_20090421.pdf) and below is a recently prepared overview. The full paper can be online on the SSRN site at:
 
-<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1265521>
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1265521
 
 ### Overview
 

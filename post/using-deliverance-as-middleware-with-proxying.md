@@ -19,15 +19,15 @@ You can use deliverance plus proxying out-of-the-box using the deliverance-proxy
 
 After much wrestling, most notably with odd issues with gzipped (deflated) content I got it working and you can find a demo implementation (see [demo.py](http://rufuspollock.org/code/deliverance/demo.py) and [README.txt](http://rufuspollock.org/code/deliverance/README.txt)) here:
 
-<http://rufuspollock.org/code/deliverance/>
+http://rufuspollock.org/code/deliverance/
 
 I should also mention the following sources which were all of help in my quest: 
 
-  * <http://codespeak.net/svn/z3/deliverance/sandbox/ianb/ploneconf2008/index.txt>
-  * <http://www.gawel.org/weblog/en/2008/12/skinning-with-pyquery-and-deliverance>
-  * <http://macadames.wordpress.com/2009/05/23/some-deliverance-tips/>
-  * <http://www.coactivate.org/projects/deliverance/lists/deliverance-discussion/archive/2009/05/1241444934295/forum_view>
-  * <http://www.sixfeetup.com/blog/2009/4/27/deploying-plone-and-zine-together-with-deliverance-using-repoze>
+  * http://codespeak.net/svn/z3/deliverance/sandbox/ianb/ploneconf2008/index.txt
+  * http://www.gawel.org/weblog/en/2008/12/skinning-with-pyquery-and-deliverance
+  * http://macadames.wordpress.com/2009/05/23/some-deliverance-tips/
+  * http://www.coactivate.org/projects/deliverance/lists/deliverance-discussion/archive/2009/05/1241444934295/forum_view
+  * http://www.sixfeetup.com/blog/2009/4/27/deploying-plone-and-zine-together-with-deliverance-using-repoze
 
 [Deliverance]: http://pypi.python.org/pypi/Deliverance/
 
