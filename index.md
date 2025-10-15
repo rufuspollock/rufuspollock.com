@@ -15,45 +15,39 @@ Our world stands at a civilisational threshold. The same intelligence that built
 My work traces this fault line between **inner and outer transformation**. From open knowledge infrastructures to cultural and spiritual renewal, I explore how shifts in consciousness and culture can realign the systems that shape our lives.
 
 This site is both **portal and garden** — a place to share ideas, experiments, and reflections on how we might move toward a wiser world.
-Some pages are seeds, others experiments in bloom. All are invitations to inquiry.
+Some pages are seeds of ideas, others are in process of realization.
 
 ---
 
 ## Seeing Clearly, Building Wisely
 
-At heart, I am a *sensemaker* — a researcher, thinker, and builder exploring how insight can become form.
+At heart, I am a *sensemaker* and *pragmatic utopian* — making sense of myself and the world in the service of a radically wiser world.
 
-My work weaves together reflection and practice: learning to see systems more clearly, and helping to create the conditions for wiser ways of living and working.
+I try to weave together inquiry and insight with practical implementation.
 
-> *Clarity in service of transformation.*
+> *Sensemaking in service of a wiser world.*
 
 ---
 
 ## Areas of Work
 
-My work spans several fields — from philosophy and cultural inquiry to digital infrastructure and social innovation — yet all are united by a common thread.
-
-Each reflects a sensemaking sensibility: a commitment to understanding how the world works and translating that understanding into thoughtful, effective action toward a wiser and more compassionate society.
+My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there is a common thread: a commitment to a fundamental understanding of how the world works and translating that understanding into pragmatic, effective action *at the roots* for a wiser, weller society.
 
 ### 1. Sensemaking Tools & Infrastructure
 
-Creating the systems and technologies that support collective understanding — from data platforms to digital gardens.
-This work builds the foundations for wiser coordination, transparent knowledge flows, and participatory sensemaking in the information age.
+Creating the systems and technologies that support collective understanding — from data platforms to digital gardens. This work builds the foundations for wiser coordination, transparent knowledge flows, and participatory sensemaking in the information age.
 
 ### 2. Paradigmatic Change & the Second Renaissance
 
-Exploring how worldviews evolve and how societies can consciously transition toward wiser, more compassionate ways of being.
-This includes inquiry into cultural evolution, collective awakening, and the conditions for a renewed renaissance of wisdom and meaning.
+Exploring how worldviews evolve and how societies can consciously transition toward wiser, more compassionate ways of being. This includes inquiry into cultural evolution, inner development, systems change, and the conditions for a [second renaissance](https://secondrenaissance.net/) grounded in wisdom.
 
 ### 3. Information Policy & Knowledge Societies
 
-Designing the principles, institutions, and policies for an open, equitable, and intelligent information commons.
-This builds on decades of work in open knowledge, data governance, and digital public goods.
+Designing the principles, institutions, and policies for an open, equitable, and intelligent information commons. This builds on decades of work in open knowledge, data governance, and digital public goods.
 
 ### 4. Systemic Design & Social Innovation
 
-Prototyping the architectures — organisational, institutional, and economic — that embody new paradigms in practice.
-This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
+Prototyping the architectures — organisational, institutional, and economic — that embody new paradigms in practice. This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
 
 ---
 
