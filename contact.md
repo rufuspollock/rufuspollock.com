@@ -2,14 +2,10 @@
 title: Contact
 ---
 
-I’m very easy to get in touch with, I check and answer my own email 📨 and I do it regularly 📥
+I’m easy to get in touch with via email 📨. My email is checked and read regularly. My word is to answer all inquiries in my inbox 📥 promptly, and at most within a week in normal circumstances.
 
 <a href="mailto:hello@rufuspollock.com">hello@rufuspollock.com</a>
 
-I do have a spam filter and it sometimes makes errors so if you don't hear from me promptly feel free to follow up (the second one usually gets through if the first didn't!).
+There is a spam filter and it can make errors. If you don't get a response promptly feel free to follow up (the second one usually gets through even if the first one did not ).
 
-I also have various other points of presence on the interwebs. However, these may be checked irregularly so *email is generally far the best way to contact me* 😀
-
-* Rufus Pollock on Twitter: https://twitter.com/rufuspollock
-* Rufus Pollock on Facebook: https://www.facebook.com/RufusPollockOfficial/
-
+I also have various other points of presence online (see social media links). However, these may be checked irregularly so *email is generally far the best way to contact me* 😀
