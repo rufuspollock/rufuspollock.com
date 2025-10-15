@@ -1,8 +1,8 @@
----  
+---
 title: Info Tech Creates Consumer Anxiety Due to Network Effects
 slug: info-tech-creates-consumer-anxiety-due-to-network-effects
 date: 2014-04-19
----  
+---
 
 Joy of a beautiful morning, Cornish countryside in glorious early-day sunshine.
 

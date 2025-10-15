@@ -1,10 +1,10 @@
----  
+---
 title: Excerpts from How To Take Smart Notes 
 book: How To Take Smart Notes
 slug: ahrens-how-to-take-smart-notes
 date: 2020-04-01
 published: 2017
----  
+---
 
 I looked at [Sönke Ahrens](https://takesmartnotes.com/)' How To Take Smart Notes because I was interested in the Zettelkasten methodology the book explains (more on Zettelkasten in an upcoming post). The book is a mixture of a summary of Zettelkasten plus misc opinions on the importance of note-taking and tips on motivation / writing (I found the latter less useful!). Overall this is a reasonable introduction, though if you just want an intro to Zettelkasten there are probably shorter ones out there.
 

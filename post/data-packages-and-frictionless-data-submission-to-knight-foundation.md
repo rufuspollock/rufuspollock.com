@@ -1,8 +1,8 @@
----  
+---
 title: Data Packages and Frictionless Data - Submission to Knight Foundation Call on 'Making Data Work For Individuals and Communities'
 slug: data-packages-and-frictionless-data-submission-to-knight-foundation
 date: 2015-09-27
----  
+---
 
 Datopian's submission to the Knight Foundation open call for ideas on how to make data work for individuals and communities. The submission describes Datopian's work on Data Packages and Frictionless Data.
 

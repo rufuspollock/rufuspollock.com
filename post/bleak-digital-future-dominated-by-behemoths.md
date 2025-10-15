@@ -1,8 +1,8 @@
----  
+---
 title: A Bleak Digital Future Dominated by Behemoths
 slug: bleak-digital-future-dominated-by-behemoths
 date: 2016-04-16
----  
+---
 
 Looking at shop doorway adorned with yelp, tripadvisor etc. 
 

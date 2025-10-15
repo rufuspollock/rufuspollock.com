@@ -1,8 +1,8 @@
----  
+---
 title: The Zettelkasten Method 
 slug: zettelkasten-method
 date: 2020-07-01
----  
+---
 
 Niklas Luhmann (1927-1998) was a social scientist whose wide-ranging and prolific writing is often attributed to his note-taking system named "Zettelkasten." Luhmann wrote around 60 books and 400 articles upon numerous social phenomena, such as law, education, mass media and love, in the process of creating a comprehensive theory of society.
 
