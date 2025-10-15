@@ -1,9 +1,8 @@
 ---
 showHero: true
 title: Rufus Pollock
-description: Integrating inquiry, design, and implementation to build the foundations of wiser societies.
+description: Integrating sensemaking, vision and entrepreneurship to sow the seeds of wiser societies.
 ---
-
 
 # Rufus Pollock
 
