@@ -283,7 +283,7 @@ These go together and reinforce each other
 ### 4. Reflect
 
 * Daily review
-* Weekly review <-- critical
+* Weekly review 👈 critical
 
 > The Weekly Review is the time to:
 > 
