@@ -21,7 +21,7 @@ Today we're publishing a new research paper looking at whether free/open source 
 
 We also discuss how software is different from other things that government traditionally buy or fund. This difference is why government cannot buy software like it buys office furniture or procures the building of bridges -- and why buying open matters so much. 
 
-The paper is authored by our President and Founder Dr Rufus Pollock.
+The paper is authored by Dr Rufus Pollock, founder and president of Open Knowledge Foundation.
 
 [Read the Full Version of the Paper Online »](/open-source-software-and-government/)
 
@@ -134,30 +134,27 @@ _Note: numbers in brackets e.g. (1) refer to one of the four observations of the
       <em>imply ...</em>
     </strong>
   </p>
-  Government is especially well situated to support open source
-  <br />
-  AND
-  <br />
-  Government <em>has</em> the tools to provide systematic support
-  <br />
-  AND
-  <br />
-  Government <em>should</em> provide systematic support
+  <p>
+    Government is especially well situated to support open source<br />AND<br />
+    Government <em>has</em> the tools to provide systematic support<br />
+    AND<br />
+    Government <em>should</em> provide systematic support
+  </p>
 </div>
 
 ## How to Promote Open Software
 
 We have established in the previous section that there is a strong basis for promoting open software. This section provides specific strategic and tactical suggestions for how to do that. There are five proposals that we summarize here. Each of these is covered in more detail in the main section below. We especially emphasize the potential of the last three options as it does not require up-front participation by government and can be boot-strapped with philanthropic funding.
  
-**1\. Recognize and reward open source in IT procurement.**
+### 1. Recognize and reward open source in IT procurement.
  
 Give open source explicit recognition and beneficial treatment in procurement. Specifically, introduce into government tenders: EITHER an explicit requirement for an open source solution OR a significant points value for open source in the scoring for solutions (more than 30% of the points on offer).
 
-**2\. Make government IT procurement more agile and lightweight.**
+### 2. Make government IT procurement more agile and lightweight
 
 Current methodologies follow a "spec and deliver" model in which government attempts to define a full spec up front and then seeks solutions that deliver against this. The spec and deliver model greatly diminishes the value of open source - which allows for rapid iteration in the open, and more rapid switching of provider - and implicitly builds lock-in to the selected provider whose solution is a black-box to the buyer. In addition, whilst theoretically shifting risk to the supplier of the software, given the difficulty of specifying software up front it really just inflates upfront costs (since the supplier has to price in risk) and sets the scene for complex and cumbersome later negotiations about under-specified elements.
 
-**3\. Develop a marketing and business development support organization for open source in key markets (e.g. US and Europe).**
+### 3. Develop a marketing and business development support organization for open source in key markets (e.g. US and Europe).
 
 The organization would be small, at least initially, and focused on three closely related activity areas (in rough order of importance):
 
@@ -167,7 +164,8 @@ The organization would be small, at least initially, and focused on three closel
 
 3.  Promoting commercialization of open source by providing advice, training and support for open source startups and developers in commercializing and marketing their technology. Open source developers and startups are often strong on technology and weak on marketing and selling their solutions and this support would help address these deficiencies.
 
-**4\. Open Offsets: establish target levels of open source financing combined with a "offsets" style scheme to discharge these obligations.**
+### 4. Open Offsets: establish target levels of open source financing combined with a "offsets" style scheme to discharge these obligations.
+
 An "Open Offsets" program would combine three components:
 
 1.  Establish target commitments for funding open source for participants in the program who could include government, philanthropists and private sector. Targets would be a specific measurable figure like 20% of all IT spending or $5m.
@@ -176,6 +174,6 @@ An "Open Offsets" program would combine three components:
 
 3.  Administrators of the open offset fund distribute the funds to relevant open source projects and communities in a transparent manner, likely using some combination of expert advice, community voting and value generated (this latter based on an estimate of the usage and value of created by given pieces of open software).
 
-**5\. "Choose Open": a grass-roots oriented campaign to promote open software in government and government run activities such as education.**
+### 5. "Choose Open": a grass-roots oriented campaign to promote open software in government and government run activities such as education
  
 "Choose Open" would be modelled on recent initiatives in online political organizing such as "Move On" in the 2004 US Presidential election as well as online initiatives like Avaaz. It would combine central provision of message, materials and policy with localized community participation to drive change.

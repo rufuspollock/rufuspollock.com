@@ -8,16 +8,12 @@ wordpress:
   - page_id: 2069
 ---
 
-<p style="text-align: center;">Rufus Pollock
-<br />
+<p align="center">Rufus Pollock><br />
 <small>Open Knowledge and University of Cambridge</small>
-<br />
-<br />
+<br /><br />
 July 2016
-<br />
-<br />
-<strong><a href="http://rufuspollock.org/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf"><i class="ion-document-text"></i> PDF version of "Why Open Source Matters for Government" paper</a></strong>
-</p>
+<br /><br />
+<strong><a href="http://rufuspollock.com/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf"><i class="ion-document-text"></i> PDF version of "Why Open Source Matters for Government" paper</a></strong></p>
 
 Does free/open source software *matter* for government and civic tech? Matter in the sense that it should have a deep and strategic role in government IT and policy rather than just being a "nice to have" or something "we use when we can"?
 
