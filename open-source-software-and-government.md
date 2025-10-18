@@ -34,6 +34,7 @@ This answer is a clear yes: open source software matters for government and civi
 - What specific actions can be taken to provide this support for open software by government (and funders)
 
 We also discuss how software is different from other things that government traditionally buy or fund. This difference is why government cannot buy software like it buys office furniture or procures the building of bridges -- and why buying open matters so much.
+
 # Executive Summary
 
 ## Why Open Software
@@ -42,33 +43,133 @@ Open software is important. Important because it reduces lock-in to a particular
 
 To understand why this is we start with four basic facts about software and government.
 
-1. **The economics of software production**:
+### 1. The economics of software production
 
-    **A. Cost structure**: making the first copy of a piece of software is expensive but further copies are free. The cost structure creates a dilemma. To get the most value from a piece of software we want as many people as possible to have access to it -- to use it, to improve it, to customize it. This suggests distributing software openly at the zero cost of copying. But this may leave us with no revenues with which to pay to create the first copy in the first place. Proprietary software chooses to restrict access and raise prices. This helps pay for the first copy but restricts use and improvement. Open software chooses to keep software free to use and build on. This helps longer-term flexibility, competition and choice. But it causes problems paying for the first copy.  
-    **B. Incrementalism**: new code builds on old. This sharpens the previous dilemma: what software you invest in to day shapes your options tomorrow. It also leads to technology and vendor lock-in when the software is proprietary.
+**A. Cost structure**: making the first copy of a piece of software is expensive but further copies are free. The cost structure creates a dilemma. To get the most value from a piece of software we want as many people as possible to have access to it -- to use it, to improve it, to customize it. This suggests distributing software openly at the zero cost of copying. But this may leave us with no revenues with which to pay to create the first copy in the first place. Proprietary software chooses to restrict access and raise prices. This helps pay for the first copy but restricts use and improvement. Open software chooses to keep software free to use and build on. This helps longer-term flexibility, competition and choice. But it causes problems paying for the first copy.  
 
-2.  **Switching costs are significant.** It is costly to switch off a given piece of software once you start using it -- and these costs grow over time. It is costly because you spend time and effort in learning how to use a piece of software, integrating it with your systems, extending and customizing it, etc. Switching to different software means incurring these costs again.
+**B. Incrementalism**: new code builds on old. This sharpens the previous dilemma: what software you invest in to day shapes your options tomorrow. It also leads to technology and vendor lock-in when the software is proprietary.
 
-3.  **The future matters and is difficult to know**: software is used for a long time -- whether in its original or upgraded form. Predicting the future is thus especially important when purchasing software. But predicting the future is hard, and especially so for software. This is because software evolves rapidly  -- as do the user needs. Behavioural biases mean the level of uncertainty and level of future change are under-estimated. As a result lock-in is under-estimated.
+### 2. Switching costs are significant
 
-4.  **Governments are bad at negotiating, especially in this environment. Hence the lock-in problem is especially acute for Government**. Government are generally poor bargainers. This is because of the incentives faced by government as a whole and by individuals within government. Government is especially poor at making trade-offs between the near-term and the more distant future. They are even worse when the future is complex, uncertain and hard to specify contractually up front. Software procurement has all of these characteristics, making it particularly prone to error compared to other government procurement areas.
+It is costly to switch off a given piece of software once you start using it -- and these costs grow over time. It is costly because you spend time and effort in learning how to use a piece of software, integrating it with your systems, extending and customizing it, etc. Switching to different software means incurring these costs again.
+
+### 3. The future matters and is difficult to know
+
+Software is used for a long time -- whether in its original or upgraded form. Predicting the future is thus especially important when purchasing software. But predicting the future is hard, and especially so for software. This is because software evolves rapidly  -- as do the user needs. Behavioural biases mean the level of uncertainty and level of future change are under-estimated. As a result lock-in is under-estimated.
+
+### 4. Governments are bad at negotiating, especially in this environment. Hence the lock-in problem is especially acute for Government
+
+Government are generally poor bargainers. This is because of the incentives faced by government as a whole and by individuals within government. Government is especially poor at making trade-offs between the near-term and the more distant future. They are even worse when the future is complex, uncertain and hard to specify contractually up front. Software procurement has all of these characteristics, making it particularly prone to error compared to other government procurement areas.
 
 ### The Logic of Support
 
 *Note: numbers in brackets e.g. (1) refer to one of the four observations of the previous section.*
 
-<div style="text-align: center; margin-bottom: 50px;">
-<p><strong>A. Lock-in to Proprietary Software is a Problem</strong></p>
-<p>Incremental Nature of Software (1) + Switching Costs (2)<br /><strong><em>imply ...</em></strong><br />Lock-in happens for a software technology, and, if it is proprietary, to a vendor</p>
-<p>Zero Marginal Cost of Software (1) + Uncertainty about the Future in user needs and technologies (3) + Governments are Poor Bargainers (4)<br /><strong><em>imply ...</em></strong><br />Lock-in to proprietary software is a problem<br /><em>Lock-in has high costs and is under-estimated - especially so for government</em></p>
-<p><strong>B. Open Source is a Solution</strong></p>
-<p>Lock-in is a problem<br /><strong><em>imply ...</em></strong><br />Strategies that reduce lock-in are valuable</p>
-<p>Economics of Software (1)<br /><strong><em>imply ...</em></strong><br />Open-source is a strategy for government (and others) to reduce future lock-in<br /><em>Why? Because it requires the software provider to make an up-front commitment to making the essential technology available both to users and other technologists at zero cost, both now <strong>and</strong> in the future</em></p>
-<p>Together these two points<br /><strong><em>imply ...</em></strong><br />Open source is a solution<br /><em>And a specific commitment to open source in government / civic tech is important and valuable</em></p>
-<p><strong>C. Open Source Needs Support</strong><br /><strong>And Government / Civic Tech is an area where it can be provided effectively</strong></p>
-<p>Software has high fixed costs and a challenge for open source is to secure sufficient support investment to cover these fixed costs (1 - Economics)<br /> +<br />Governments are large spenders on IT and are bureaucratic: they can make rules to pre-commit up front (e.g. in procurement) and can feasibly coordinate whether at local, national or, even, international levels on buying and investment decisions related to software.</p>
-<p><strong><em>imply ...</em></strong></p>
-<p>Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support</p>
+<div style={{ textAlign: "center" }}>
+  <p>
+    <strong>A. Lock-in to Proprietary Software is a Problem</strong>
+  </p>
+  <p>
+    Incremental Nature of Software (1) + Switching Costs (2)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Lock-in happens for a software technology, and, if it is proprietary, to a
+    vendor
+  </p>
+  <p>
+    Zero Marginal Cost of Software (1) + Uncertainty about the Future in user
+    needs and technologies (3) + Governments are Poor Bargainers (4)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Lock-in to proprietary software is a problem
+    <br />
+    <em>
+      Lock-in has high costs and is under-estimated - especially so for
+      government
+    </em>
+  </p>
+  <p>
+    <strong>B. Open Source is a Solution</strong>
+  </p>
+  <p>
+    Lock-in is a problem
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Strategies that reduce lock-in are valuable
+  </p>
+  <p>
+    Economics of Software (1)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Open-source is a strategy for government (and others) to reduce future
+    lock-in
+    <br />
+    <em>
+      Why? Because it requires the software provider to make an up-front
+      commitment to making the essential technology available both to users and
+      other technologists at zero cost, both now <strong>and</strong> in the
+      future
+    </em>
+  </p>
+  <p>
+    Together these two points
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Open source is a solution
+    <br />
+    <em>
+      And a specific commitment to open source in government / civic tech is
+      important and valuable
+    </em>
+  </p>
+  <p>
+    <strong>C. Open Source Needs Support</strong>
+    <br />
+    <strong>
+      And Government / Civic Tech is an area where it can be provided
+      effectively
+    </strong>
+  </p>
+  <p>
+    Software has high fixed costs and a challenge for open source is to secure
+    sufficient support investment to cover these fixed costs (1 - Economics)
+    <br /> +<br />
+    Governments are large spenders on IT and are bureaucratic: they can make
+    rules to pre-commit up front (e.g. in procurement) and can feasibly
+    coordinate whether at local, national or, even, international levels on
+    buying and investment decisions related to software.
+  </p>
+  <p>
+    <strong>
+      <em>imply ...</em>
+    </strong>
+  </p>
+  <p>
+    Government is especially well situated to support open source
+    <br />
+    AND
+    <br />
+    Government <em>has</em> the tools to provide systematic support
+    <br />
+    AND
+    <br />
+    Government <em>should</em> provide systematic support
+  </p>
 </div>
 
 ## How to Promote Open Software
