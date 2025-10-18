@@ -2,8 +2,7 @@
 title: Open Revolution - Book
 description: Open Revolution Book
 ---
-
-<p style="font-size: 18px;"><a href="#signup" class="button">Sign up for updates and early access to my book &raquo;</a></p>
+**UPDATE May 2018: the book is out. Find it at https://openrevolution.net/**
 
 Will the digital revolution give us information democracies or information empires? The answer lies not in technology but in a political choice: a choice between making information open, freely accessible to all, or, making it closed, exclusively owned and controlled.
 
@@ -23,15 +22,8 @@ Together, we can make an open world. We can create new rules that reward innovat
 
 To do this we need to act, to act together, and to act now.
 
-<a class="button" href="#preview">Read more below &raquo;</a>
-
-<a name="signup" id="signup"></a>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2ONTXQF9ritru6-S8Jzr3ELpKBxd-VvD20MKKBuV0MFuKIg/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" scrolling="no" marginwidth="0">Loading...</iframe>
-
-<h1 id="preview" style="padding-top: 80px;">Book Preview</h1>
-
-# Monopolising your attention
+# Book Preview
+## Monopolising your attention
 
 In 2015 researchers showed that Google could change an election. All they needed to do was tweak their algorithm to change what you found when you searched for a politician. Previously, in 2012 a different research group had shown that subtly shifting the contents of your Facebook newsfeed could make you happier or sadder or make you more likely to vote.
 
@@ -43,13 +35,13 @@ At its most extreme, the current situation threatens our fundamental economic an
 
 We should all be concerned by this. But what can we do?
 
-## Openness and restoration of freedom and opportunity: free enterprise, free markets, free choice
+### Openness and restoration of freedom and opportunity: free enterprise, free markets, free choice
 
 This book offers a diagnosis and a cure. The cure is called openness. A new approach that would make information such as algorithms, software and songs freely available to all whilst paying their creators more and more equitably. Openness would solve the problem of these immense concentrations of information power, promoting competition, providing transparency and increasing the incentives for innovation.
 
 However, openness will not be easy to achieve. It will take collective, political action: for even if an open world is better for all of us, it will be opposed by those who gain from the current system and stand to lose out in an open future that brings increased competition and transparency. But the stakes are high: ignore openness and we will have a dystopian future of spiralling inequalities, lost liberties and foregone innovation and growth.
 
-# Open Medicines
+## Open Medicines
 
 *If you care about affordable healthcare you should care about openness.*
 
@@ -65,21 +57,21 @@ The answer is the patent on their formula. Drugs are so expensive because of the
 
 If we were to eliminate patents and open up medicines we could help the lives of billions. With open medicines, any company could use these drug recipes to manufacture medicines and make them available to anyone at the cheap cost of manufacture. If you think this far-fetched consider that countries around the world have implemented this exact approach for decades, very successfully. India did not have patents on pharmaceuticals until 2005 and Italy did not have them until 1979.
 
-## We have patents for a reason
+### We have patents for a reason
 
 At the same time, we have patents for a reason: to support the research and development of new medicines. Discovering new drugs is expensive. Without monopoly protection the argument goes, competition would drive down prices such that an inventor would get little or no return on their substantial investment. Without the anticipation of a return they might never invest and rather than high-price drugs we'd simply have no drugs at all.
 
-## But we have better open-compatible options for funding innovation
+### But we have better open-compatible options for funding innovation
 
 This logic is not wrong, so much as misplaced. As we shall show, there are open-compatible ways to fund medicine that are more effective than patents at rewarding innovators and stimulating innovation. Put simply: we can have our cake and eat it too. We can make medicines available to everyone at the cost of manufacture *and* fund medical innovation at level we do today.
 
 If you are wondering how, consider this: most of the major breakthroughs in medicine from Pasteur's germ theory to Fleming's 's discovery of Penicillin were done in government-funded labs. This work was paid for by us all, collectively through our taxes, and then made openly available. Fleming did not hide or patent his discovery of Penicillin but instead published it for everyone to see and helped save millions of lives. More recently, HIV/AIDs was not only identified in government funded research labs but many of the cures were too. For example, it was government funded researchers who discovered the breakthrough HIV drug AZT and then proved it worked in clinical trials. And we don't have to rely on the state to pick winners: we can combine collective funding with market-based distribution using remuneration rights and prizes.
 
-## This means more for everyone
+### This means more for everyone
 
 In this open world my relative need not die slowly because he cannot afford his treatment -- and Walter White need never turn to crime. Not only that, but an open world would see more money more efficiently distributed to researchers and innovators. That means more medicines, created faster, better and cheaper. Whilst this might mean no Breaking Bad, back in the real world Walter -- and my relative -- will be happier and healthier, and the same is true for the society around them.
 
-# Robots and the Future of Work
+## Robots and the Future of Work
 
 *If you care about a robot taking your job you should care about openness.*
 
@@ -87,45 +79,45 @@ Sixty years ago the digital computer was invented. Since then it has doubled in 
 
 As they have improved, digital technologies have taken on  more and more of the tasks that humans used to do: from manufacturing cars to scheduling appointments. And if we believe some of the grander promises for "AI", the next few decades might see computers taking over much more from drafting legal contracts to driving cars.
 
-## Robots should be wonderful - no more boring jobs!
+### Robots should be wonderful - no more boring jobs!
 
 On the simple face of it this should be wonderful: machines can take over mundane and tedious tasks sparing us their burden -- just as electrification saved our great grandparents hours of back-breaking labour carrying water, tilling fields and chopping wood. Similarly, these digital machines can save us hours of unexciting mental labour -- filing taxes, booking appointments, driving in rush hour.
 
 We can start to imagine a future without work -- or at least a future where it is always stimulating, something we *choose* to do. Instead of sweating away in the office, you can spend your time on a beach sipping martinis brought to you by a robot waiter. Or, less hedonistically, a future where every one of us has the time -- and resources -- to do what really matters to us: building our own house, reading War and Peace or just spending time with friends and loved ones.
 
-## But who owns the robots?
+### But who owns the robots?
 
 This seems marvellous. So why are we so worried? The answer is simple: this future would be marvellous *if* it were evenly distributed. But right now that isn't what the future looks like. Instead, it looks like a world of immense inequality where the one percent own all the robots making them fabulously wealthy whilst the rest of us, the ninety-nine percent, are left with only our labour now made worthless by those very robots.
 
 This is a world where innovation has finally disrupted not just the labour market but made it obsolete. The winners are the shareholders in the few dominant high-tech AI/robot businesses. Everyone else is a pauper -- subsisting on handouts from the state.
 
-## Robots are owned by the few
+### Robots are owned by the few
 
 This world is so frightening to us because it is so close to what we already see. As of 2016 the world's five richest companies are all infotech-based -- and they themselves exhibit some of the most unequal ownership structures in the world with a tiny group of founders and others owning a great portion of their equity.
 
 Meanwhile, innovations in digital technology have been driving down the wages not only of blue-collar workers but also those in traditional middle-class white-collar jobs. The results can be seen a simple statistic: that in 2016 six of the world's eight richest people were tech billionaires, and between them owned almost as much as the the poorest half of humanity.
 
-## Robots are made of information -- not steel
+### Robots are made of information -- not steel
 
 This is not about robots but about information, and the way information is owned. A robot may be made of steel but its essence is the software that powers its digital brain. A smartphone may be made of metal, plastic and silicon but what really makes it work, where the value lies, is in the designs of those silicon chips, and the data and software that run on them.
 
-## Opening up information would democratise the robot revolution
+### Opening up information would democratise the robot revolution
 
 If we were to open up that information, make it available to everyone, we could democratize the robot revolution. The value generated by our infotech advances would be shared with the many rather than concentrated in the hands of the few. No longer a case of the 1% versus the 99%, this would be a world of the 100%.
 
 Like pharmaceuticals we'd need to understand how we could have openness whilst still paying for innovation. If software is open to everyone, who would pay to create it in the first place? But like pharmaceuticals we have an excellent answer. Tried and true open-compatible funding models exist -- we just aren't using them as we could or should be.
 
-# An Open World
+## An Open World
 
-## The fundamental choice between open and closed
+### The fundamental choice between open and closed
 
 As we enter a digital, information age we face a fundamental choice: open or closed. Choose open and we make an open world where all non-personal information, all software, research, medical formulae, statistics, are free and open to everyone. It is a world where we are richer, freer and healthier. Choose closed and we get a closed world, impoverished financially and culturally, it is a dystopia of spiralling inequalities, exploitation and exclusion.
 
-## Open means abundance for everyone
+### Open means abundance for everyone
 
 The opportunity -- and danger -- are huge. Choosing open is perhaps the single greatest policy opportunity -- and choice -- of the twenty-first century. The path we take will impact the lives of every person on this planet. Choosing open is a chance to transform our economies and societies, to create a future beyond the tired "isms" of capitalism and socialism, to build a better, more equal, and freer world.
 
-## Is this too good to be true? (Something for nothing?)
+### Is this too good to be true? (Something for nothing?)
 
 But maybe this sounds too good to be true. Isn't an open information economy like money growing on trees -- something for nothing? Or the equivalent of getting to have our cake and eat it too -- free, unlimited access to information *and* more innovation and creativity at the same time.
 
@@ -133,17 +125,17 @@ Claims like these make us suspicious. The world we know is not like that. More f
 
 So how can this be any different?
 
-## Information is different because it is costlessly copyable
+### Information is different because it is costlessly copyable
 
 The answer is simple: information itself. Information is different from bread or cars and all the other physical things we have been used to for thousands of years. It is different, and special, for one reason: costless copying. In the physical world, one loaf of bread does not mean food for all, one car does not mean cars for everyone. But in the world of information, that is exactly what happens. As if miraculously, digital information, whether it is a photograph or a drug formula, can be copied as often as we want and at practically no cost.
 
-## We need to pay for the first copy -- and we can open-compatibly
+### We need to pay for the first copy -- and we can open-compatibly
 
 Of course, we still need to find a way to pay for the first copy. After all, it costs real money and real resources to create new software, movies or medicines -- even if we can share them freely once created. The answer is to use the collective mechanisms we already have, especially in the form of our governments. Just as we all pay taxes for things like national defence or parks, so we can use the same mechanisms to fund the creation of information.
 
 Moreover, it need not be a government committee deciding which authors get paid, or what software gets written. We can use traditional, demand-driven market mechanisms to allocate all or part of the money collected. Innovators and creators can obtain "remuneration rights" rather than the patent and copyright monopolies they get today. Remuneration rights would give their owner the right to payment from a remuneration rights fund according to the value they generate -– for example, how much their medicine improved health or how many times their song was played.
 
-## It's about the *rules* not the technology
+### It's about the *rules* not the technology
 
 Software is eating the world according to the famous headline. Too often that is the story we focus on -- the astonishing advance of digital technology and its impact on this or that particular part of our lives.
 
@@ -151,7 +143,7 @@ But we need to step back and see the systemic change. A focus on the tech makes 
 
 You can use a hammer to build a house or kill a man. Likewise digital technology can bring us a better world or a worse one. What determines that is not technology itself but how we use it, and, especially, the social and economic rules we create for it.
 
-## Choose open not closed
+### Choose open not closed
 
 And the most important of all those rules is the choice of open versus closed. That choice determines the economic and social structure of our information age. From openness comes freedom, equality, innovation, and even a different, better culture built on sharing, collaboration and generosity. From closed comes monopoly and exclusion, exploitation and inequality.
 
@@ -159,9 +151,7 @@ This then is not a book about technology or for the digerati. It is a book about
 
 ---
 
-<a id="remuneration-rights" name="remuneration-rights"></a>
-
-# Remuneration Rights
+## Remuneration Rights
 
 Digital information is cheap to copy, however it can be expensive to create the first instance, whether it's a piece of software, a movie, a medicine or a design.
 
@@ -181,7 +171,7 @@ Below are detailed case studies of the application of Remuneration Rights in spe
 
 ---
 
-# Blueprint for an Open World
+## Blueprint for an Open World
 
 In setting out a blueprint for an open world there are two main questions to consider. First, how do we decide how much we want to spend on information creation; and second, who pays for it and by what mechanism? 
 
@@ -208,7 +198,7 @@ There can be no final answer to these "how much" questions, but it is possible t
 [^hedonic-pricing]: Hedonic pricing uses prices we can see to estimate prices -- and potentially values -- for things where there is no observable price. For example, what is the value of having a beautiful view? There is no "market" with prices for beautiful views. However, we do observe the prices people pay for houses. Suppose that, in addition to those prices, we also have information on which houses have beautiful views and which do not -- along with other factors like size, location etc. Then we can use that information to tease out the implied value of a beautiful view. For example, suppose two otherwise identical neighbouring houses differ only in their view with house A having a great view and house B having none. If house A sells for $10,000 more than house B then we could say that $10,000 must be the price for the view. Closer to home, we can look at the value of life. People rarely buy life directly, even in medicine. But we can look at what people will pay to avoid a small increase in the risk of mortality -- for example, what do we have to pay people extra to take on dangerous jobs like window cleaning skyscrapers? These kind of techniques would allow us the value of an additional year of life using the implied price embedded in other transactions.
 
 
-## Who Pays?
+### Who Pays?
 
 The second of our overarching questions is who should pay to develop the new drugs, new software, new films and so on that our economy and society depend upon and want -- and by what mechanisms?  
 
@@ -227,7 +217,7 @@ But relying upon the state to collect the funds does not mean that we must depen
 Within each area of activity, there is competition for resources, and health is one of the largest, so let us consider health research as a paradigm case. 
 
 
-## Medical and Pharmaceutical Research and Development
+### Medical and Pharmaceutical Research and Development
 
 Medical research includes both basic research on human biology and psychology, and efforts to create medicines and treatments that target a particular disease. The example of drug-development, taken here as an instance, applies to all medical innovation.
 
@@ -268,8 +258,7 @@ A suggested initial allocation might be: academic funding 40%, prizes 10%, and r
 
 For the future, a general process for managing and regulating these basic allocations would be needed, and this could be done by establishing an independent organization of experts. This would then also be responsible for setting research prize priorities, for assessing health outcomes (using measures such as Qualys), and managing the disbursement of funds. No doubt other bodies would contribute their expertise, and some of the decision-making would be delegated and distributed. For example, decisions about which research projects should be funded under the academic model would be delegated -- as they are now -- to panels of scholars in each field. Many countries already have bodies performing such functions. In the UK, the National Institute for Clinical Excellence (NICE) makes decisions about which treatments the NHS will offer, based on a combination of their cost and impact on health (measured in Qualys), while in the United States, the National Institute of Health (NIH) manages much of the academic funding.
 
-
-### Who does the research and development?
+#### Who does the research and development?
 
 The shape of future research and development would probably be much as it is today: a mixture of non-profit bodies on one side and for-profit companies on the other -- the latter including both startups as well as larger, more mature companies. Traditional academic and other programs would, of course, continue, and would be funded much as they are today, either by direct government investment or by out-sourcing of research by private enterprise. Non-profits might also engage in research with its sights on the prizes for specific breakthroughs, and could apply for remuneration rights in any new discoveries.
 
@@ -279,8 +268,7 @@ A few differences should be evident, though. First, there ought to be more compe
 
 [^boldrin-pharma]: See Boldrin and Levine, *Against Intellectual Property*.
 
-
-### International Co-operation 
+#### International Co-operation 
 
 A mixed funding programme, then, with a substantial role for the state, could sustain research and development within a country and solve the free-rider problem. But what about free-riding between countries?  What is to stop Canada free-riding on the medical research in the United States, for instance?
 
@@ -293,7 +281,7 @@ The solution to the problem of international free-riding in an open world is ver
 [^details-mic]: This is almost exactly the approach proposed by in the Medical Innovation Convention proposed by Jamie Love and others and discussed earlier.
 
 
-### Reuse of Information and Allocation of Funds
+#### Reuse of Information and Allocation of Funds
 
 Research is a cumulative process and the ideas and innovations that yield new medical treatments usually build on and incorporate previous work. It is important to think about how this is handled in the open model because otherwise the incentives could become heavily distorted, with resources going to the wrong people for the wrong things.
 
@@ -315,7 +303,7 @@ So much for remuneration rights. What about reuse of information or techniques t
 [^up-front-and-rr]: In cases where an organization is receiving up-front funding for only part of its costs, it might apply for a remuneration right as well, but this would be accordingly scaled down. 
 
 
-### Other Funding Sources
+#### Other Funding Sources
 
 The funding arrangements discussed so far all rely on state co-ordination, but in medical research especially there are other sources of funds, such as very substantial private philanthropy. Unesco estimated that private, non-profit financing of research and development in the US in 2012 amounted to just under $15bn. This includes both the "mega-philanthrophy" of super-rich individuals and the aggregate contributions of many small donors, such as the various charities that focus upon particular diseases such as cancer.
 
@@ -328,7 +316,7 @@ This kind of innovation is much more common than we may at first suppose. Resear
 The open model of resourcing, with much of it led by government, is entirely compatible with the continuance of these other means of encouraging innovation. In fact, it can enhance them. For example, the existence of remuneration rights would provide new avenues for private philanthropic support -- philanthropists could pledge their money directly into the remuneration rights pool, for instance -- and would also support traditional "open-compatible" innovation by offering the opportunity to complement traditional revenue streams with new ones such as prizes or remuneration rights.
 
 
-### The focus on resourcing via government
+#### The focus on resourcing via government
 
 An open world would be partly funded from private sources. Some of these would anticipate no direct return, including large philanthropic bodies with existing funds, and  pro-bono  contributions individual motivated either by specific interests, personal need (such as user-driven open innovation) or a concern for the general welfare. Wikipedia is an example of all three. Other non-government bodies would contribute to an open world in expectation of a private financial return, usually from selling some kind of complementary goods. Classic examples are open-source software, consulting and bespoke commissions.
 
@@ -349,7 +337,7 @@ Similar methods could be adopted for remuneration rights and prizes. Government 
 [^government-commitment]: For a more detailed treatment of the question of commitment looking at the more challenging case of straight-up funding of data within government see [@pollock:models:2008].
 
 
-### Transition to the Open World
+#### Transition to the Open World
 
 Finally: how do we get from here to there? 
 
@@ -373,9 +361,7 @@ The key to political feasibility here is keeping existing interests such as big 
 
 Lastly, international obligations. The US and many other countries are signatories to treaties such as the World Trade Organization’s TRIPs agreement (on trade-related aspects of intellectual property rights), which require provision and recognition of monopoly rights. How is this obstacle to be negotiated?  First, experience shows that countries, especially large ones such as the US, can often change or work around their international obligations with surprising rapidity if it is in their interest to do so. Next, domestic companies can continue to obtain patents and other monopoly rights in countries that continue to recognize them. In return, the US would permit foreign firms to obtain remuneration rights on the same basis as domestic companies. But what if it proved impossible to abolish monopoly rights fully? In this case, remuneration rights could existing in parallel to monopoly rights, with innovators having to choose one or the other. Remuneration rights could be made highly attractive relative to monopoly rights in a variety of ways. First, one would create a large remuneration rights fund which would mean the rewards under remuneration rights are high. But this is not the only approach. Government spending on patented drugs could be sharply limited. For example, Medicaid and Medicare Part D drug reimbursements could be limited to remuneration-right drugs only. There could also be direct taxes on income from patents -- sharply limiting their attractiveness whilst maintaining compatibility with international agreements like TRIPs. Whilst this opt-in approach is less attractive than a full transition, it might be useful in cases where abolition of monopoly rights is not feasible in the short term, for political or legal reasons.
 
-
-
-## Music
+### Music
 
 Music may seem quite a different proposition from medicines, but in the case of music  as information (usually digital) -- in the form of compositions, recordings and music videos -- the overall model is very similar. (Live performances are not "information" in the sense used here, although now they are often a major part of the business, perhaps accounting for a greater share of the artists’ income than recording sales.)
 
@@ -393,8 +379,7 @@ A more novel option would be to tax online advertising. Many major online busine
 
 There are two further benefits to this kind of tax. First, the major players in online advertising such as Google and Facebook appear to enjoy near monopolies, so such a tax would have less of distortionary impact and act more like a tax on monopoly profits. Second, any potential reduction in advertising brought about by taxation would probably be welcome. Advertising tends to invade our mental space and to prey on our behavioural weaknesses. And its competitive nature tends towards oversupply: rather than improving our choices, advertising merely alters them; for example persuading you to buy a BMW rather than a Mercedes does not increase the value of the BMW to you, or improve the quality of your choice.
 
-
-### Allocating Funds
+#### Allocating Funds
 
 However the funds were raised, the mechanisms for allocating them would be similar to those for medical goods. Given the greater importance of individual taste in artistic judgments, they would be weighted differently. For instance, here is a suggested allocation:
 
@@ -407,7 +392,7 @@ However the funds were raised, the mechanisms for allocating them would be simil
 * User-choice (the "kickstarter" or "X-Factor" model) -- say 8% -- would allow some active consumer-choice in the allocation of funding to particular artists, projects or even general policies (supporting blues artists, for instance). Artists would propose projects, such as an  album or new song, with a budget. Citizens would each be allocated "voting dollars" with which they could support such projects (with unused dollars being allocated proportionally). This gives the public some control over up-front funding, and has similarities to crowdfunding schemes such as Kickstarter or audience-voting on shows such as *X-Factor*.
 
 
-### Reuse
+#### Reuse
 
 As in medicine, reuse is frequent and important in music. Performers play works composed by others, and composers themselves borrow and elaborate the work of previous artists -- and this borrowing is increasingly direct, with the growth of sampling in genres like hip-hop. Such musical reuse fits naturally within the open framework, just as medical reuse does. Here too, anyone would be free to build on the work of others, but would then be liable to pay a proportion of their own remuneration rights payments (or other revenues) to those whose work they build on. These proportions might be standardized for simple cases such as recording a song by someone else. For more complex cases, the two parties could negotiate, with ultimate recourse to the courts if no mutually acceptable solution were found.
 
@@ -419,8 +404,7 @@ One last point. Current copyright is not just about artists being paid. In addit
 
 [^moral-rights-integrity]: There is also integrity which provides, in theory, for some control over the use of work -- not to use the work in a way that is detrimental to the "integrity" and artistic purpose of the work. As integrity can be used to block others, including other artists, in using and reusing a work we are reluctant to retain integrity in its full form. (For example, we have seen copyright and integrity arguments used to prevent a performance of Samuel Beckett's Waiting for Godot in which the lead roles are taken by women). Instead of the right to forbid a use, we would suggest that artists have the ability to ensure that those who reuse their work explicitly mark it as being different so that there is no confusion between their original and the derived work created by someone else.
 
-
-### The Transition
+#### The Transition
 
 Just as with medicine, how to transition to an world of open music is an important question. The main principles are the same: in short, focus upon change within a single country, and upon change that has a good base of support among existing rightsholders. Up-front funding, by the National Endowment for the Humanities, for instance, or the Arts Council in Britain, would continue unchanged. Monopoly rights such as copyright would be phased out and replaced with remuneration rights. Full conversion that is retrospective, would be preferable, with existing monopoly rights converted to remuneration rights from the start. The reason is that copyright term are so long that waiting for them to expire would mean a mixed system persisting for decades. In addition, the amounts involved in "buying out" existing monopoly rights are relatively low.
 
@@ -431,7 +415,7 @@ These existing institutions and mechanisms could be readily adapted to the imple
 Finally, there is the question of how a country can make the transition from copyright when it has existing international obligations. For example, almost all countries are signatories of the Berne Convention, which guarantees the existence and term of copyright for a wide range of works. As with medicines, this could be circumvented by creating a framework that gave rightsholders strong incentives to exchange their copyrights for remuneration rights voluntarily. Copyright and remuneration rights might, for instance, be made mutually exclusive, so that creators had to choose one or the other; remuneration rights could then be made much the more attractive by funding them generously, along with measures such as a high consumption tax on copyrighted music (which would generate revenue as well as reducing sales of copyrighted material).
 
 
-## Information Infrastructure
+### Information Infrastructure
 
 So far our focus has been on information. But what about information infrastructure, such as fibre-optic networks and server farms which are essential to host, transport and produce information. This question is pressing because in the online world many companies are hybrids, not only providing information or infrastructure but building online services powered by a combination of the two. Google and Facebook are both hybrids in this sense. 
 
@@ -449,5 +433,3 @@ Take Google. Imagine that its core algorithms and software were open. Google wou
 The infrastructure that powers this digital world is still stuff made of steel and copper and silicon. Infrastructure and information can be separated, and the openness of information needn’t affect the infrastructure -- just as the roads being open to anyone does not mean that anyone can use your car. Furthermore, though the two are distinct, openness of information supports and encourages competition and efficiency in infrastructure. For evidence of this we need look no further than the internet itself. Thanks to its open protocols and software, much of the internet’s infrastructure facilities -- such as web hosting and internet service provision -- are commodity businesses, which are highly competitive and very efficient.
 
 [^cloud-future]: The move to the cloud is driven largely by continuing improvements in network reliability, bandwidth and latency -- which provide a good user experience when connecting over the network -- and the economies of scale in hosting and deployment. Whether these trends will continue is an open question, and  it is especially unclear whether the current increase in the coupling of software and service will continue.
-
-

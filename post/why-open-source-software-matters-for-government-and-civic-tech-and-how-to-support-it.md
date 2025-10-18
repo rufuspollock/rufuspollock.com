@@ -23,15 +23,13 @@ We also discuss how software is different from other things that government trad
 
 The paper is authored by our President and Founder Dr Rufus Pollock.
 
-<div style="text-align: center; font-size: 20px; font-weight: bold; margin-top: 25px;"><a href="http://rufuspollock.org/open-source-software-and-government/">Read the Full Version of the Paper Online &raquo;</a><br />&nbsp;<br />
-<a href="http://rufuspollock.org/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf">Download PDF Version of the paper &raquo;</a><br />&nbsp;<br />
-<small><a href="https://discuss.okfn.org/t/why-open-source-software-matters-for-government-and-civic-tech-and-how-to-support-it/3268">Discussion and Comments &raquo;</a></small>
-</div>
+[Read the Full Version of the Paper Online »](/open-source-software-and-government/)
 
+[Download PDF Version of the paper »](/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf)
 
 ## Why Open Software
 
-We begin with four facts about software and government which form a basis for the conclusions and recommendations that follow.
+We begin with four facts about software, government and their relationship. These form a basis for the conclusions and recommendations that follow.
 
 1.  **The economics of software: the first copy is expensive whilst additional copies cost nothing (high fixed / zero marginal costs); software is incremental: new code builds on old.** The cost structure creates a dilemma between finding ways to pay for the first copy and distributing the software at its low cost of copying -- distributing at this zero cost is important to ensure access for all potential users and reusers. Proprietary software resolves this dilemma by raising prices: this helps pay for the first copy but restrict access and reuse. Open source favours efficient pricing and access but has the problem of raising funds to make quality software in the first place. The incremental nature of software sharpens this dilemma and leads to technology and vendor lock-in when the software is proprietary.
 2.  **Switching costs are significant: it is (increasingly) costly to switch off a given piece of software once you start using it**. This is because you make "asset (software) specific investments": in learning how to use the software, integrating the software with your systems, extending and customizing the software, etc. These all mean there are often substantial costs associated with switching to an alternative later.
@@ -42,22 +40,110 @@ We begin with four facts about software and government which form a basis for th
 
 _Note: numbers in brackets e.g. (1) refer to one of the four observations of the previous section._
 
-<div style="text-align: center;">
-<p><strong>A. Lock-in to Proprietary Software is a Problem</strong></p>
-<p>Incremental Nature of Software (1) + Switching Costs (2)<br /><strong><em>imply ...</em></strong><br />Lock-in happens for a software technology, and, if it is proprietary, to a vendor</p>
-<p>Zero Marginal Cost of Software (1) + Uncertainty about the Future in user needs and technologies (3) + Governments are Poor Bargainers (4)<br /><strong><em>imply ...</em></strong><br />Lock-in to proprietary software is a problem<br /><em>Lock-in has high costs and is under-estimated - especially so for government</em></p>
-<p><strong>B. Open Source is a Solution</strong></p>
-<p>Lock-in is a problem<br /><strong><em>imply ...</em></strong><br />Strategies that reduce lock-in are valuable</p>
-<p>Economics of Software (1)<br /><strong><em>imply ...</em></strong><br />Open-source is a strategy for government (and others) to reduce future lock-in<br /><em>Why? Because it requires the software provider to make an up-front commitment to making the essential technology available both to users and other technologists at zero cost, both now <strong>and</strong> in the future</em></p>
-<p>Together these two points<br /><strong><em>imply ...</em></strong><br />Open source is a solution<br /><em>And a specific commitment to open source in government / civic tech is important and valuable</em></p>
-<p><strong>C. Open Source Needs Support</strong><br /><strong>And Government / Civic Tech is an area where it can be provided effectively</strong></p>
-<p>Software has high fixed costs and a challenge for open source is to secure sufficient support investment to cover these fixed costs (1 - Economics)<br /> +<br />Governments are large spenders on IT and are bureaucratic: they can make rules to pre-commit up front (e.g. in procurement) and can feasibly coordinate whether at local, national or, even, international levels on buying and investment decisions related to software.</p>
-<p><strong><em>imply ...</em></strong></p>
-Government is especially well situated to support open source<br />AND<br />Government <em>has</em> the tools to provide systematic support<br />AND<br />Government <em>should</em> provide systematic support
+<div style={{ textAlign: "center" }}>
+  <p>
+    <strong>A. Lock-in to Proprietary Software is a Problem</strong>
+  </p>
+  <p>
+    Incremental Nature of Software (1) + Switching Costs (2)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Lock-in happens for a software technology, and, if it is proprietary, to a
+    vendor
+  </p>
+  <p>
+    Zero Marginal Cost of Software (1) + Uncertainty about the Future in user
+    needs and technologies (3) + Governments are Poor Bargainers (4)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Lock-in to proprietary software is a problem
+    <br />
+    <em>
+      Lock-in has high costs and is under-estimated - especially so for
+      government
+    </em>
+  </p>
+  <p>
+    <strong>B. Open Source is a Solution</strong>
+  </p>
+  <p>
+    Lock-in is a problem
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Strategies that reduce lock-in are valuable
+  </p>
+  <p>
+    Economics of Software (1)
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Open-source is a strategy for government (and others) to reduce future
+    lock-in
+    <br />
+    <em>
+      Why? Because it requires the software provider to make an up-front
+      commitment to making the essential technology available both to users and
+      other technologists at zero cost, both now <strong>and</strong> in the
+      future
+    </em>
+  </p>
+  <p>
+    Together these two points
+    <br />
+    <strong>
+      <em>imply ...</em>
+    </strong>
+    <br />
+    Open source is a solution
+    <br />
+    <em>
+      And a specific commitment to open source in government / civic tech is
+      important and valuable
+    </em>
+  </p>
+  <p>
+    <strong>C. Open Source Needs Support</strong>
+    <br />
+    <strong>
+      And Government / Civic Tech is an area where it can be provided
+      effectively
+    </strong>
+  </p>
+  <p>
+    Software has high fixed costs and a challenge for open source is to secure
+    sufficient support investment to cover these fixed costs (1 - Economics)
+    <br /> +<br />
+    Governments are large spenders on IT and are bureaucratic: they can make
+    rules to pre-commit up front (e.g. in procurement) and can feasibly
+    coordinate whether at local, national or, even, international levels on
+    buying and investment decisions related to software.
+  </p>
+  <p>
+    <strong>
+      <em>imply ...</em>
+    </strong>
+  </p>
+  Government is especially well situated to support open source
+  <br />
+  AND
+  <br />
+  Government <em>has</em> the tools to provide systematic support
+  <br />
+  AND
+  <br />
+  Government <em>should</em> provide systematic support
 </div>
-
-
-
 
 ## How to Promote Open Software
 
@@ -93,11 +179,3 @@ An "Open Offsets" program would combine three components:
 **5\. "Choose Open": a grass-roots oriented campaign to promote open software in government and government run activities such as education.**
  
 "Choose Open" would be modelled on recent initiatives in online political organizing such as "Move On" in the 2004 US Presidential election as well as online initiatives like Avaaz. It would combine central provision of message, materials and policy with localized community participation to drive change.
-
-<div style="text-align: center; font-size: 20px; font-weight: bold; margin-top: 25px;"><a href="http://rufuspollock.org/open-source-software-and-government/">Read the Full Version of the Paper Online &raquo;</a><br />&nbsp;<br />
-<a href="http://rufuspollock.org/wp-content/uploads/2016/07/open-source-software-government-and-civic-tech.pdf">Download PDF Version of the paper &raquo;</a><br />&nbsp;<br />
-<small><a href="https://discuss.okfn.org/t/why-open-source-software-matters-for-government-and-civic-tech-and-how-to-support-it/3268">Discussion and Comments &raquo;</a></small>
-</div>
-
-
-
