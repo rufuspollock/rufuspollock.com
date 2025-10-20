@@ -1,0 +1,5 @@
+> The Swiss Confederation started in 1291 with the cantons of Uri, Schwyz, and Unterwalden taking oaths and signing the Bundesbrief (Federal Charter) at Rütli, a meadow above Lake Lucerne (see Map 13). The charter was an attempt toward centralization of authority and was particularly concerned with public order and lawlessness. The first substantive clause read:
+>
+>> Thus, all people of the valley community of Uri, the entirety of the Schwyz valley and the community of people from the lower Unterwalden valley recognize the malice of the times and for their own protection and preservation they have promised to assist each other by every means possible with every counsel and favor, with persons or goods within their valleys and without against any and all who inflict on them or any among them acts of violence or injustice against persons or goods.
+
+From the [[works/The Narrow Corridor|The Narrow Corridor]]
