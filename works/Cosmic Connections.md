@@ -5,6 +5,8 @@ status: 🚧
 ---
 *Cosmic Connections, Poetry in the Age of Disenchantment* is a 2024 book by the philosopher Charles Taylor. Taylor is a major [[metamodern]], [[second renaissance]] thinker and this new work is part of his ongoing contribution in this area.
 
+![](https://www.hup.harvard.edu/img/feeds/jackets/9780674296084.png?fm=jpg&q=80&fit=max&w=400)
+
 # Reflections
 
 ## Relationship to Second Renaissance and Metamodernism
