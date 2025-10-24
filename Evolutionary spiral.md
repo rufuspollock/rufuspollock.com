@@ -1,0 +1,1 @@
+Evolutionary spiral of e.g. consciousness / worldview / [[cultural paradigms]] etc.

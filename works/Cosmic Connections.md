@@ -1,12 +1,17 @@
-
+---
+title: Cosmic Connections, Poetry in the Age of Disenchantment by Charles Taylor (2024)
+created: 2025-10-19
+status: 🚧
+---
+*Cosmic Connections, Poetry in the Age of Disenchantment* is a 2024 book by the philosopher Charles Taylor. Taylor is a major [[metamodern]], [[second renaissance]] thinker and this new work is part of his ongoing contribution in this area.
 
 # Reflections
 
 ## Relationship to Second Renaissance and Metamodernism
 
-Taylor's account of Romanticism presents it as a precursor to metamodern and Second Renaissance thinking. The Romantics, inspired by Goethe and Spinoza’s pantheism, rejected the mechanistic and dualistic view of nature, seeing it instead as a living, evolving whole intertwined with human consciousness.
+Taylor's account of Romanticism presents it as a precursor to metamodern and second renaissance thinking. The Romantics, inspired by Goethe and Spinoza’s pantheism, rejected the mechanistic and dualistic view of nature, seeing it instead as a living, evolving whole intertwined with human consciousness.
 
-Art and poetry served as sacred means of communion with this dynamic cosmos and the transcendent. This vision prefigures metamodern themes—especially the tension between aspiration and irony—and offers an alternative, spiritually rich genealogy of modernity that continues to shape contemporary thought.
+Art and poetry served as (sacred) means of communion with this dynamic cosmos and the transcendent. This vision prefigures many metamodern themes, including the role of irony in mediating the tension between aspiration reality.
 
 ### Raw
 
@@ -32,7 +37,7 @@ Taylor is confronting the modern reduction of value to mere subjectivity. In the
 
 Modernity treats physical facts as the only objective realities, while relegating aesthetics and ethics to personal taste. The Romantics, by contrast, saw art as revealing something truly real. Taylor’s challenge is to reconstruct this view within a disenchanted age — to show that meaning and value possess their own kind of reality, distinct from yet more vital than material objects, since they give life its sense and direction.
 
-### Outflow
+### Raw
 
 At the beginning of this section, Taylor is grappling with the problem of how, from the standpoint of the post-Cartesian separation of mind and matter, the supposed “insights” of Romantic poetry are judged to be merely “in the eye of the beholder” — in other words, subjective. This connects to the second way of dismissing the Romantic claim to order, which Taylor enumerates earlier: seeing it as a simple emotional reaction without epistemic content. Many of our contemporaries take this stance — Romantic poetry, they say, tells us about the psychology of the poet but nothing about the world the poet responds to. It reveals something about the creator’s or reader’s mind, but nothing ontological about what actually exists.
 
@@ -54,7 +59,7 @@ Later experiences of transcendence -- in nature, psychedelics, and meditation --
 
 Philosophers like Taylor and Alexander seek to rebuild this bridge: articulating a worldview that integrates the rational and the mystical. The goal is not a return to dogma but an evolution toward the trans-rational — a synthesis where meaning and value are recognized as real dimensions of existence, grounding life beyond the nihilism of modernity.
 
-### Transcript
+### Raw
 
 The question was about how we might begin to see beauty and the good — often elided to some extent — as real in some way. In the society we’re brought up in, especially if one comes from an engineering or science background, that view is considered intuitively mistaken, confused, perhaps even dangerous. So, to drop into a space where these things are experienced as real — how easy is that to do? And what is one’s own experience of that way of seeing?
 
@@ -78,23 +83,27 @@ The aim, though, is not to return to premodern faith or revealed truth, but to i
 
 ### This is not some abstract philosophical debate, but something of direct import to our lives and societies, something urgent
 
-Taylor’s project isn’t mere abstract philosophy but an attempt to reshape how we live. Recognizing beauty and the good as real has moral and ecological consequences: when we deny their reality, we lose direction and desecrate the world.
+Taylor’s project here isn't some abstract philosophy. What he is seeking to show if taken on board would fundamentally alter how we live.
 
-Taylor’s goal is twofold: first, to change worldviews — slowly enrolling people into a new understanding through what we could call memetic cultivation; and second, to help us develop the capacities to perceive and act in alignment with the good and the beautiful.
+Recognizing beauty and the good as real has deep moral and ecological consequences. Just as when we deny their reality we lose direction and desecrate the world (as we are doing today).
 
-True wisdom, in this view, means sensing the good and acting toward it. Cultivating that requires both inner practice and collective effort — forming a society that learns, together, how to become wiser.
+Taylor's purpose is twofold. First, to change worldviews by enrolling us in a new transrational understanding. Second, through that, to help us develop the capacities to perceive and act in alignment with the good and the beautiful.
+
+This is a major aspect of [[wisdom]]: sensing the good and acting toward it. Cultivating that requires both inner practice and collective engagement -- forming a society that learns, together, how to become wiser.
 
 ### Transcript
 
-Ultimately, what you’re going to want to do is have this understanding inform action in our lives and societies. This isn’t just a philosophical debate in the bad sense — a “how many angels on a pinhead” kind of discussion. As Alexander says, this kind of thinking actually destroys our environment — the beauty of our world.
+Ultimately, what you’re going to want to do is have this understanding inform action in our lives and societies. This isn’t just a philosophical debate in the bad sense, a "how many angels on a pinhead" kind of discussion. The kind of thinking which ignores the meaningful as he terms it actually destroys our environment and the beauty of our world.
 
-If you don’t believe something is real — if you don’t believe there is an up in the mountain — then you simply don’t care where you’re going, and you’ll probably end up going downwards. So it really matters to create a grammar and a context for how we can talk about these things. It’s not a world of classic objectivity, where we can go out and perform precise experiments, but rather one where we cultivate certain capacities — capacities of perception, intuition, and discernment.
+If you don’t believe the good-beautiful (the meaningful) is real — if you don’t believe there is an up in the mountain — then you simply don’t care where you’re going, and you’ll probably end up going downwards.
+
+So it really matters to create a grammar and a context for how we can talk about these things. It’s not a world of classic objectivity, where we can go out and perform precise experiments, but rather one where we cultivate certain capacities — capacities of perception, intuition, and discernment.
 
 And of course, if we don’t even think these capacities exist, we won’t try to cultivate them. But if we do want a world in which we can sense what is good, and become more attuned to it — while recognizing how prone we are to self-deception — then we need skill, discipline, and community. It takes work, and it takes doing it together.
 
-Such a society would be one actually becoming wiser, because to be wise is to sense the good and act toward it. That’s why Taylor (and others like him) go to such effort — not just to describe these ideas abstractly, but to enable transformation.
+Such a society would be one actually becoming wiser, because to be wise is to sense the good and act toward it. That’s why Taylor (and others like him) go to such effort — not just to describe these ideas abstractly, but to enable use to sense them, to feel them.
 
-Part of what he’s doing is trying to shift worldviews — and that can only happen one person at a time. You don’t exactly “argue” people into a new paradigm; you enroll them gradually. In the same way that, historically, people once worked hard to convince others that God didn’t exist, and that organizing society around religion was mistaken, Taylor is now trying to reverse a deep error of modernity and postmodernity.
+Part of what he’s doing is trying to shift worldviews — and that can only happen one person at a time. You don’t exactly “argue” people into a new paradigm; you enroll them subtly. In the same way that, historically, people once worked hard to convince others that we should adopt reason and science and discard traditional religion, and that organizing society around religion was mistaken, Taylor is now trying to reverse a deep error of modernity and postmodernity which discarded the good and the beautiful.
 
 In this sense, he’s engaged in a kind of memetic cultivation — spreading ideas that might restore meaning and value to our worldview. It’s not “memetic warfare,” which feels too adversarial, but rather tending an ecosystem of ideas.
 
@@ -104,7 +113,64 @@ And alongside this, like Alexander, he’s not just arguing intellectually — h
 
 ## Chapter 1
 
+### This book is about (German) Romantic generation of 1790s
 
+> In my earlier book [Language Animal], I tried to work out the relevance today of the theory of language which was developed among the German Romantics in the 1790s.1 In this book, I want to explore the understanding of poetics which was implicit in (indeed, central to) this theory of language, and then see some of the consequences which flowed from this in the poetry of the last two centuries.
+>
+> In this book, I shall be speaking a lot about “the Romantic era.” So first of all, a word about what I mean by this term. I am at first mainly concentrating on German writers of the 1790s, because I think that this generation brought about a veritable revolution in our understanding of language, art, and our relation to Nature. ... a fuller account would not confine itself to literature and poetry, but also look at music, painting, and other arts. (And I will not be able to resist certain digressions and side glances as the argument unfolds.) 
+
+
+### Key features of Romantic generation worldview
+
+This multi-paragraph summary at the start of the first chapter summarizes the worldview of the Romantic generation which is the central thesis of the whole book.
+
+🔥🔥
+
+🔮 Importance for its relevance and resonance with [[Second Renaissance]], [[metamodern]] worldview.
+
+> The thinkers of the Romantic generation were a very diverse lot, and had a lot of quarrels and disagreements, but there were common themes and notions. I will try to set out their philosophical outlook, but this will be my reconstruction, which I hope captures its general shape and spirit. I will do this, with perhaps unbearable terseness, in seven interlocking theses.
+
+### First, they believed in a nature related pantheism, derive from Spinoza but, unlike Spinoza, their pantheism was non-mechanistic and organic and they rejected mind body dualism
+ 
+> The first is (1) that, inspired by Goethe, they embraced a Spinoza-derived pantheism. Literal readers of Spinoza might be horrified because this vision completely separated the seventeenth-century thinker from his Cartesian roots. Nature was not to be understood mechanistically. It was more like a living organism. In other words, the Romantics were rebelling against a dead, mechanical view of Nature. And they were also rebelling against mind-body dualism, and against a purely instrumental approach to nature. They rejected the one-sided emphasis on (a) the modes of discipline controlling impulses, particularly erotic; especially (b) disciplines aimed exclusively at efficacious control over the environment. They also wanted to dissipate (c) guilt over disturbing, especially erotic, impulses which upset (a) and (b). They longed for a unification of self, unity with our emotions, with nature in us, and with nature as a whole. In this regard, one of their primary sources of inspiration was Goethe (who was nevertheless uncomfortable with their more rebellious stances).
+
+### Our soul communicates with nature
+
+> Then (2) our soul communicates with this whole, with Nature. Nature resonates in us, and we intensify this through expression, art. 
+### Nature is unfolding, evolving
+
+Unlike mechanistic and fixed nature of modernity.
+ 
+> But (3) our whole idea of Nature has undergone a modern shift. It isn’t just a static set, or ordered cosmos, of beautiful forms; rather it is striving, developing; Nature is producing higher and higher forms. Spinoza’s natura naturans [nature doing as nature does] is seen as in motion, unfolding, seeking its adequate form.
+
+### (4) Hence, we, as part of nature, are also unfolding, striving, like nature, to attain a constantly evolving potential
+
+> Moreover (4), this is what we also are doing. We are striving to discover our true form through creative expression, moving stage by stage. This type of development might be called “expressive-historical”: at each stage we try to realize, that is, give expression to our potential; and this realization makes manifest how we fall short, and what further changes are necessary. Indeed, it is this new anthropology of serial self-discovery which lies behind the new view of nature as development (and perhaps vice versa).
+
+### (5) Thus there is an interlinked developmental evolution of cosmos and consciousness (humans)
+
+One can see here, at least on this interpretation, how much the romantics are a source of both postmodern nature-based ideology, and, in this last part, of the developmental co-evolutionary thinking of metamodern, integral, second renaissance thought.
+
+> (5) The two lines of expressive-historical development, of the cosmos and humans, respectively, are interlinked. Nature or cosmos can’t reach its final form without our realizing ours. That is because the successive stages of the cosmos need continually advancing consciousness, of which humans are the locus. This shows that our “normal,” common sense of our predicament, the notion that the human subject stands apart from, and over against, the world of nature, is only part of the truth. On a deeper level, we discover that Nature is not static, but comes to its fullest realization along with, and through, our own self-realization as rational and free beings. This opens a new path to discovery; not just that of external observation, which issues in science, but also that of internal exploration (see Novalis). There is an important path to truth through the articulation of personal experience, of our emotions, which we explore through art, or poetry in the widest sense. In this search, imagination plays a crucial role.
+>
+> This shows that our “normal,” common sense of our predicament, the notion that the human subject stands apart from, and over against, the world of nature, is only part of the truth. On a deeper level, we discover that Nature is not static, but comes to its fullest realization along with, and through, our own self-realization as rational and free beings. This opens a new path to discovery; not just that of external observation, which issues in science, but also that of internal exploration (see Novalis). There is an important path to truth through the articulation of personal experience, of our emotions, which we explore through art, or poetry in the widest sense. In this search, imagination plays a crucial role.2
+
+
+NB: For common sense, he should write modern.
+
+### (6) Freedom is self-realization, as rational and free beings in the broad sense
+
+Thus, we arrive at a new ideal, six, that freedom is self realisation – as rational and free beings in the broad sense. This is a much greater conception than that of (negative) liberty.
+
+> This notion of expression connects up to a new ideal of (6) freedom, as full self-realization; this goes beyond the notion of negative freedom, freedom from, which is one of the prominent modern understandings of the concept. It also includes, while going beyond, the new understanding of freedom as autonomy, which was both an ethical and political ideal. Kant is the great articulator of this ideal, followed by Fichte. But within the new anthropology of humans as self-developing, autonomy has to include full self-realization.
+
+### (7) We arrive at the idea, and ideal, of the reconciling of freedom and unity with nature, within and without via ongoing evolutionary spiral path
+
+This even occurs through a spiral like path in which we first separate from nature and then reconcile with it reaching a new greater unity.
+
+Commentary: wow! We even have the [[Evolutionary spiral|spiral]]! Think of how close they’re thinking is, at least in crude outline, with that of [[integral]] and [[spiral dynamics]].
+
+> Points (3) and (4), together with (5) and (6), suggest (7) the ideal of the perfect reconciling of freedom and unity with nature, within and without. The progress to this is then envisaged through a narrative of history, the so-called exzentrische Bahn [spiral path], whereby we leave an initial state of harmonious unity between humans and nature, pass through a period of their opposition, as we develop our reason and increase our autonomy, to return to a higher unity. (This goal was often tersely defined as combining Fichte and Spinoza.) Hölderlin makes this point in his Hyperion Fragment, as does Schiller in his Letters on the Aesthetic Education of Man.3” [square brackets in original]
 
 ### Schiller
 
