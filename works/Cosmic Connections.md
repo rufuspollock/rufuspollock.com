@@ -97,7 +97,7 @@ This is a major aspect of [[wisdom]]: sensing the good and acting toward it. Cul
 
 Ultimately, what you’re going to want to do is have this understanding inform action in our lives and societies. This isn’t just a philosophical debate in the bad sense, a "how many angels on a pinhead" kind of discussion. The kind of thinking which ignores the meaningful as he terms it actually destroys our environment and the beauty of our world.
 
-If you don’t believe the good-beautiful (the meaningful) is real — if you don’t believe there is an up in the mountain — then you simply don’t care where you’re going, and you’ll probably end up going downwards.
+If you don’t believe the good-beautiful is real (the meaningful using Taylor's terminology), if you don’t believe there is an up in the mountain — then you simply don’t care where you’re going, and you’ll probably end up going downwards.
 
 So it really matters to create a grammar and a context for how we can talk about these things. It’s not a world of classic objectivity, where we can go out and perform precise experiments, but rather one where we cultivate certain capacities — capacities of perception, intuition, and discernment.
 
