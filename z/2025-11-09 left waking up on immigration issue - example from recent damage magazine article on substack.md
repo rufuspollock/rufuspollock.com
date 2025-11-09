@@ -1,0 +1,13 @@
+https://substack.com/home/post/p-177122432
+
+Key point this is written by someone on the progress "left" in the US: **Dustin Guastella**, Director of Operations for Teamsters Local 623 in Philadelphia and a Board Member of the Center for Working-Class Politics.
+
+Excerpts
+
+> At the end of Milan’s M1 metro line you’ll find Sesto San Giovanni, a sizable blue-collar city. It was once called “Italy’s Stalingrad,” not only for its Brutalist concrete block apartment buildings and hulking steelworks, but also because Sesto San Giovanni was consistently one of the most left-wing towns in Italy. Older residents are still proud of the role the city played in the [Resistance](https://ordinearchitetti.mi.it/it/cultura/itinerari-di-architettura/38-sesto-san-giovanni-e-piero-bottoni/opere/564-monumento-alla-resistenza). From 1922 until liberation in 1945, Sesto’s denizens organized strikes, barricades, and protests against the Fascist government. Many workers gave their lives for the cause. For these actions the city was later awarded a gold medal for military valor by the Italian Republic. After the war, for decades, this working-class town consistently voted for the powerful Italian Communist Party and its successors, while Milan, its much richer big city neighbor, typically voted for the Right.
+>
+> [That’s all over](https://www.theguardian.com/world/2022/sep/22/italy-election-communist-far-right-sesto-san-giovanni). In 2017 Sesto elected a right-wing mayor for the first time in 71 years. And in [2022](https://www.theguardian.com/world/ng-interactive/2022/sep/25/italian-election-2022-live-official-results), Sesto voted for Giorgia Meloni’s right-populist alliance by double-digit margins. Over the same period, Milan, rich as ever, has drifted to the left.
+
+Conclusion
+
+> To put it simply, if we want to win back working-class voters, we should take seriously what they are voting for. They are demanding democratic control over the labor market and a restoration of social order. They are demanding a reduction of the all-consuming market’s scale from the global to the national level. To pursue those aims is not a cynical election maneuver. Nor does it run against our moral duty. Instead, it is in line with our broader goals of restoring the power of ordinary citizens over their nation-states, of strengthening the position of labor at home and abroad, and of reasserting the promise of internationalism over the failure of globalism. There lies the path between moral and political suicide.
