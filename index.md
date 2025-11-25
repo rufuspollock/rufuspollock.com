@@ -29,11 +29,13 @@ These two streams inter-are: making sense informs action and practical implement
 
 ## Areas of Work
 
-My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there is a common thread: a commitment to a fundamental understanding of how the world works and translating that understanding into pragmatic, effective action *at the roots* for a wiser, weller society.
+My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there is a common thread: a commitment to a rigorous understanding of how the world works at a fundamental level and translating that understanding into pragmatic, systemic action.
 
 ### 1. Tools & Infrastructure for Sensemaking
 
-Creating the systems and technologies that support collective understanding — from data platforms to digital gardens. This work builds the foundations for wiser coordination, transparent knowledge flows, and participatory sensemaking in the information age.
+Creating the systems and technologies that support collective understanding, from data platforms to digital gardens. This work builds the foundations for wiser coordination, transparent flows of knowledge, and participatory sensemaking in the information age.
+
+Examples: https://ckan.net/
 
 ### 2. Paradigmatic Change & a Second Renaissance
 
@@ -45,7 +47,9 @@ Designing the principles, institutions, and policies for information commons and
 
 ### 4. Systemic Design & Social Innovation
 
-Prototyping the architectures — organisational, institutional, and economic — that embody new paradigms in practice. This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
+Prototyping the architectures, organisational, institutional, and economic, that embody new paradigms in practice. This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
+
+Examples: https://lifeitself.org/hubs, https://openrevolution.net/
 
 ---
 
@@ -55,26 +59,35 @@ Prototyping the architectures — organisational, institutional, and economic �
 
 A network of hubs, research, and residencies dedicated to inner-led systems change.
 
+🌍 https://lifeitself.org
+
 ### **Second Renaissance**
 
 A cultural initiative and publication series exploring a new civilisational paradigm.
 
+🌍 https://secondrenaissance.net
 ### **Digital Garden**
 
 An open workspace of notes and essays tracing ongoing inquiries across sensemaking, culture, and design.
 
+🌍 [[garden|Digital Garden]]
+
 ### **FlowerShow / Open Infrastructure**
 
 Markdown-based publishing tools continuing the lineage of open knowledge and digital commons.
+
+🌍 https://flowershow.app/
 
 ---
 
 ## **About**
 
 Rufus Pollock is a researcher, writer, and builder exploring the meeting point of **culture, consciousness, and systems change**.
-Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Second Renaissance** pioneers inner-led social change to renew our civilisation’s foundations.
+Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Second Renaissance** focuses on inner-led social change to renew our civilisation’s foundations.
 
-Educated at the **University of Cambridge**, Rufus has advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
+He studied mathematics then economics at the **University of Cambridge**, obtaining a PhD and then a research fellowership. Following that Rufus founded an international NGO and advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
+
+More information [[about|on the about page]].
 
 ---
 
@@ -82,4 +95,4 @@ Educated at the **University of Cambridge**, Rufus has advised governments and i
 
 For collaboration, speaking, or correspondence: **hello [at] rufuspollock [dot] com** (or see the [[contact|contact page]]).
 
-Or explore the **Digital Garden** to find out more on current lines of thought, research and projects.
+Or explore my **[[garden|Digital Garden]]** to find out more on my lines of thought, research and projects.

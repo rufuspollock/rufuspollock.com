@@ -226,3 +226,26 @@ Shortly, after we have this section after the table
 > But also in the upper left are moral judgments, like: all humans have a right to life. There we don’t allow for variation. To say Beethoven’s last quartets are great music is not to say that people who are deeply moved by something else are misguided. The shape of meaning in music can be complex and varied. Something similar is true of meaningful lives: Médecins sans frontières is not the only such career.
 > 
 > But also in the upper left are moral judgments, like: all humans have a right to life. There we don’t allow for variation of positions: we rightly reject the idea that only superior people deserve to live. Lots of people, even those who would banish great art and meaningful lives from the upper left quadrant, want to plead for the groundedness of ethics.5 But often one can question the arguments they offer to back this up: for instance, utilitarian and Kantian theories.
+
+# NTS
+
+- "Concreteness" of poetry like concreteness of architecture. We are touched by *something* beyond ourselves, that is "real".
+  - e.g. wordsworth in Tintern Abbey
+  
+    > "... Whose dwelling is the light of setting suns, / And the round ocean and the living air, / And the blue sky, and in the mind of man: / A motion and a spirit, that impels / All thinking things, all objects of all thought, / And rolls through all things"
+  
+  cf the section from Taylor
+  
+  > When we read the lines from “Tintern Abbey” about “a sense sublime / Of something far more deeply interfused, / Whose dwelling is the light of setting suns, / And the round ocean and the living air, / And the blue sky, and in the mind of man: / A motion and a spirit, that impels / All thinking things, all objects of all thought, / And rolls through all things,” we are not just noting that we humans exist in a larger context, even one which nourishes and sustains us. These lines bring on (what is felt as) an experience of this “motion” and this “spirit” which passes through our world and into us. This goes beyond, for instance, an experience of awe in the presence of a magnificent landscape, because what Wordsworth calls forth is our life now lived in a wider frame, whose constituent inner movements are felt as at one with ours.
+  > 
+    >  ...
+    >  
+    >  “Because this connection is partly defined in terms of our experience, we can say that the poetry which reveals it (as a potentiality which already existed) also brings it about or realizes it.
+
+Further notes
+
+- Preparatory: fact this stuff does make sense to me now (when its)
+- Acid of reason. Like acid that you use to distill ore. But also can be too destructive.
+    - Kant as example. Ever less to stand on.
+        - Epistemological difficulties especially of the mind-matter separation
+- How can we reconstruct the true, good, beautiful. how do we reconnect to the transcendent.
