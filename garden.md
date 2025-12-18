@@ -1,9 +1,16 @@
-# Digital Garden
+# My Digital Garden
 
-This is your entry point into my digital garden.
+Hey 👋. Welcome to my digital garden.
 
-## What is a digital garden?
+A digital garden is bit like a personal wiki but with a nicer name. More sprawling and evolutionary. From ideas or thoughts that are just sprouting 🌱 to might essays 🌳
 
-Like a personal wiki but with a nicer name. More sprawling and evolutionary.
+This entry point to the garden is under construction 🚧 as i create some "maps of content". For now, here is a list of all [[post/zettelkasten-method|zettels]] and you can also check out my daily-ish [[logs|log entries]].
 
-🌱 to 🌳
+## Zettels
+
+<List 
+  dir="/z" 
+  slots={{
+    headline: "title"
+  }}
+/>
