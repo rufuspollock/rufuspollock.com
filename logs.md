@@ -1,5 +1,5 @@
 <List 
-  dir="/log" 
+  dir="/logs" 
   slots={{
     headline: "title"
   }}
