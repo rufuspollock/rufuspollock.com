@@ -1,18 +1,23 @@
 ---
 created: 2025-12-31
 ---
-This research concerns AI-assisted *writing* tools that are **structurally analogous to modern AI coding environments** (e.g. Codex CLI, Claude Code, Gemini CLI, Cursor, Windsurf): tools that work *in situ* on an existing corpus, integrate with the author’s editor or filesystem, and support iterative, skill-based workflows.
+I have been looking for AI tools that do for writing what AI-native coding tools now do for code.
 
-The focus is explicitly **not** on coding, but on the creation and editing of **prose**: essays, long-form nonfiction, books, novels, screenplays, research synthesis, and related textual forms.
+The focus is on the creation and editing of **prose**: essays, long-form nonfiction, books, novels, screenplays, research synthesis, and related textual forms.
 
-In short: tools that do for writing what AI-native coding tools now do for code.
+Specifically, I am interested in AI-assisted *writing* tools that function like **modern AI coding environments** e.g. Codex CLI, Claude Code, Gemini CLI, Cursor etc. For example:
+
+- Tools that work *in situ* on an existing corpus
+- Integrate with the author’s editor or filesystem
+- Support planning and multiple steps
+- Support skill-based workflows (by skills i mean prompt snippets or guidance for particular steps e.g. for code you have brainstorming, testing, committing)
 
 ### Objective
 
 Identify and characterise existing systems that enable AI-assisted writing workflows which:
 
 1. Operate directly on a user’s **existing content base** (local Markdown/text files, folders, repos, or live documents).
-2. Support **in-place editing** via the user’s editor (CLI, IDE, or document editor), rather than a standalone chat interface.
+2. Support **in-place editing** via the user’s editor (CLI, IDE, or document editor) rather than just being in a standalone chat interface.
 3. Allow **configurable behaviours / “skills” / workflows** (prompt templates, roles, multi-step processes), analogous to coding agents.
 4. Maintain task or conversational continuity across edits, similar to agentic coding flows.
 5. Can either be **repurposed from code-centric tools** or are **purpose-built for prose**, without requiring speculative design.
