@@ -9,6 +9,7 @@ An emoji guide for your knowledge work.
 🕳️ = blackhole / distraction
 ➰ = aside (or distraction)
 🗞️ / 👣 = papertrail
+🐦 = posted online somewhere e.g. as post, tweet etc
 
 ### Tasks
 
