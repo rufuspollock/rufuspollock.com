@@ -50,6 +50,12 @@ e.g.
 🧩 (jigsaw) = shaping
 🖍️ = shaping
 
+## Inbox (in consideration)
+
+🧐 = needs further investigation e.g. if something in a book or my own work where needs checking or exploring further.
+❗ = in a book, something that is dubious. in task planning a problem or issue
+🚩 = a red flag or significant issue (that will need to be raised with others).
+
 ## See also 
 
 https://gitmoji.dev
