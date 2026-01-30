@@ -1,5 +1,6 @@
 {
   "theme": "lessflowery",
+  "showEditLink": true,
   "nav": {
     "title": "Rufus Pollock",
     "links": [
