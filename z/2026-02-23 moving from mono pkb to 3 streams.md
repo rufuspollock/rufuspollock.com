@@ -1,0 +1,10 @@
+# Moving away from my mono knowledgebase to three streams (again)
+
+I am noticing kind of an evolution of my knowledge base pattern. I had everything in one kind of private knowledge base, which included both my journal, project planning, and my ideas, knowledge, zettles, and thoughts day-to-day. I think I'm noticing an evolution now, which is that:
+
+- **Journal only**: I just want to have a dedicated journal where I have more private reflections. It's just more free. It doesn't really have a lot to do with my planning. I originally integrated those because I thought, "Oh, in my journaling I'll be thinking about projects I'm doing," but really that should be separate.
+    - I'm also noticing that, for journalling i often use my phone and apple notes or journal. It's more convenient often compared to Obsidian. I can record things; I can do videos and so end up there.
+- **Planning**: There's my planning, which I've also noticed because of my desire to now use A.I. and so I want a more specific repo, which has all my projects, has my backlog, has my tasks, and so on. Again, I don't really want that with all my notes.
+- **Knowledgebase / Zettelkasten**: general notes, reflections etc. Then, for general reflexion notes, really that should just go in here in my website repo. Frankly, even if things are unformed, I'd like to get them out, and then they can be polished up over time.
+
+I think that's a kind of an evolution I'm seeing for myself into these kind of three streams. Maybe even some of the planning could end up here in my website repo. I don't know! That would really be pushing it! I just want to have my list of projects and actions, but suddenly having a list of tasks and so on would mean polluting this repo too much. That stuff still makes sense in its own place, even though I then do want to have my day-to-day log showing up here.
