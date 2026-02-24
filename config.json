@@ -9,6 +9,10 @@
         "name": "About"
       },
       {
+        "href": "/now",
+        "name": "Now"
+      },
+      {
         "href": "https://tao.rufuspollock.com/",
         "name": "Tao"
       },
