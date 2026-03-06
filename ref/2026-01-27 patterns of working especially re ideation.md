@@ -11,4 +11,4 @@ Things always begin as sparks, as nuggets.
 - Get its own repo if anything close to a project
     - Don't worry so much about spawning repos. [[Be abundant]]
 
-Can apply this right now to [[z/2026-01-27 On holons, DAGs and issue graphs. Or a new way to look at tasks.]]
+Can apply this right now to [[ref/2026-01-27 On holons, DAGs and issue graphs. Or a new way to look at tasks.]]
