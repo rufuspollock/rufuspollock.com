@@ -7,14 +7,15 @@ Purpose bullshit describes the growing tendency for businesses to claim they are
 
 And it devalues real purpose. Elon Musk is not saving the world. Nike (or Coke) is not setting you free. You aren't an eco-warrior because you take a reusable cup at Starbucks.
 
-> [!note]
-> [Original version as forum post](https://github.com/orgs/life-itself/discussions/26) on Nov 20, 2019, 23:24
+## Hypocrisy is the tribute vice pays to virtue
 
-## UPDATE 2023-12-28 - Hypocrisy is the tribute vice pays to virtue
+Added: 2023-12-28
 
-I originally start this thread to highlight what i saw as an increasing trend of "purpose-washing" or "purpose bullsh**": the situation where businesses talk about how purpose-driven and social impact focused they are whilst doing classic profit-driven capitalist stuff.
+I originally started this post to highlight what i saw as an increasing trend of "purpose-washing" or "purpose bullsh**": the situation where businesses talk about how purpose-driven and social impact focused they are whilst doing classic profit-driven capitalist stuff.
 
-Originally I thought this was simply indicative of classic advertising disingenuity: wrapping an unattractive "money-focus" in the flag of purpose and social commitment. A subtler version of advertising's tendency to dishonesty in pursuit of a more attractive presentation -- I still remember from my childhood the oil company Esso having as its main [brand image a tiger roaming in the wilderness](https://www.youtube.com/watch?v=Bmm-waULrhA) [running through the wilderness](https://www.youtube.com/watch?v=qz4SZ3D_Vc4).
+Originally I thought this was simply indicative of classic advertising disingenuity: wrapping an unattractive "money-focus" in the flag of purpose and social commitment. A subtler version of advertising's tendency to dishonesty in pursuit of a more attractive presentation -- I still remember from my childhood the oil company Esso having as its main brand image [a tiger running in the sea ](https://www.youtube.com/watch?v=Bmm-waULrhA) or [roaming through the wilderness](https://www.youtube.com/watch?v=qz4SZ3D_Vc4).
+
+https://www.youtube.com/watch?v=qz4SZ3D_Vc4
 
 ### Hypocrisy is the tribute vice pays to virtue
 
@@ -216,3 +217,6 @@ This is illustrative of the Purpose Bullshit tendency in modern capitalism e.g. 
 Earlier screenshots:
 
 ![Pasted image 20230928114158](/images/posts/purpose-bullshit-20230928114158.png)
+
+> [!note]
+> [Original version as forum post](https://github.com/orgs/life-itself/discussions/26) on Nov 20, 2019, 23:24
