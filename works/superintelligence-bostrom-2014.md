@@ -1,5 +1,5 @@
 ---
-title: Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
+title: "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom"
 year: 2014
 publisher: OUP Oxford
 date: 2018-12-23
