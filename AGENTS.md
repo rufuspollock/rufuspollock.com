@@ -1,1 +1,1 @@
-This repo contains Rufus Pollock's personal website including its blog and digital garden / knowledgebase.
+Read README.md for repo structure and conventions.
