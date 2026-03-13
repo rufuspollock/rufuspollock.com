@@ -95,8 +95,8 @@ Ed: note in this one small passage he gives up on social coordination as well in
 
 # Asides
 
-Certain stark matter of fatness, a flatness of tone, that can come across as a big scary (even if he is not in any way endorsing the suggestion)
+Certain stark matter of factness, a flatness of tone, that can come across as a bit scary (even if he is not in any way endorsing the suggestion).
 
-Goal coordination. Human collectives are replete with inefficiencies arising from the fact that it is nearly impossible to achieve complete uniformity of purpose among the members of a large group—at least until it becomes feasible to induce docility on a large scale by means of drugs or genetic selection. A “copy clan” (a group of identical or almost identical programs sharing a common goal) would avoid such coordination problems.
+> Goal coordination. Human collectives are replete with inefficiencies arising from the fact that it is nearly impossible to achieve complete uniformity of purpose among the members of a large group—at least until it becomes feasible to induce docility on a large scale by means of drugs or genetic selection. A “copy clan” (a group of identical or almost identical programs sharing a common goal) would avoid such coordination problems.
 
 
