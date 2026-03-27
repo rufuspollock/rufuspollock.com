@@ -2,6 +2,7 @@
 title: Blog  
 type: blog
 layout: blog
+syntaxMode: mdx
 alias:
   - /news/
 ---

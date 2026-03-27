@@ -1,4 +1,7 @@
-# My Digital Garden
+---
+title: My Digital Garden
+syntaxMode: mdx
+---
 
 Hey 👋. Welcome to my digital garden.
 
@@ -9,7 +12,7 @@ This entry point to the garden is under construction 🚧 as i create some "maps
 ## Zettels
 
 <List 
-  dir="/z" 
+  dir="/ref" 
   slots={{
     headline: "title"
   }}
