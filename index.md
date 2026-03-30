@@ -20,7 +20,7 @@ This site itself is a **portal and a garden**. It links out to the other initiat
 
 ## Wisdom in service of transformation
 
-I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)* — deep inquiry to illuminate paths forward *and* engaged in practical action to make real the more beautiful world our hearts know is possible.
+I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*: engaging in deep inquiry to explore paths forward *and* in practical action to make real the more beautiful world our hearts know is possible.
 
 These two streams interweave: making sense informs action and practical implementation gives meaning to sensemaking. Inquiry and reflection come first. And I want them to inform -- and be woven with -- engagement with the world -- and engagement with a context of action at the roots, action for paradigmatic change. It will be no surprise that I have been deeply inspired by Thich Nhat Hanh and the vision of Engaged Buddhism.
 
@@ -34,21 +34,34 @@ My work spans several fields from research and policy-making to digital infrastr
 
 Creating the systems and technologies that support collective understanding, from data platforms to digital gardens. This work builds the foundations for wiser coordination, transparent flows of knowledge, and participatory sensemaking in the information age.
 
-Examples: https://ckan.net/
+Examples:
+
+- https://ckan.net/
+- https://flowershow.app/
+- https://datahub.io/
 
 ### 2. Paradigmatic Change & a Second Renaissance
 
 Exploring how worldviews evolve and how societies can consciously transition toward wiser, more compassionate ways of being. This includes inquiry into cultural evolution, inner development, systems change, and the conditions for a [second renaissance](https://secondrenaissance.net/) grounded in wisdom.
 
+- https://secondrenaissance.net/
+- https://lifeitself.org/
+
 ### 3. Information Policy & Knowledge Societies
 
 Designing the principles, institutions, and policies for information commons and open knowledge societies. This builds on decades of work in open knowledge, data governance, and digital public goods.
+
+- https://okfn.org/
+- https://openrevolution.net/
 
 ### 4. Systemic Design & Social Innovation
 
 Prototyping the architectures, organisational, institutional, and economic, that embody new paradigms in practice. This involves creating and supporting real-world experiments in regenerative living, governance, and collaboration.
 
-Examples: https://lifeitself.org/hubs, https://openrevolution.net/
+Examples:
+
+- https://lifeitself.org/hubs
+- https://openrevolution.net/
 
 ---
 
