@@ -1,35 +1,34 @@
 ---
 showHero: true
-title: Rufus Pollock
-description: Sensemaking and pragmatism to build foundations of wiser societies.
+title: Rufus Pollock - Pragmatic Utopian
+description: Deep inquiry and practical action for a radically wiser world
 ---
 
 # Rufus Pollock
 
 ![[images/Rufus_Pollock_square.jpeg]]
 
-## Cultivating Clarity in Complexity
+## Clarity in Complexity
 
-Our world stands at a civilisational threshold. The same intelligence that built systems of unprecedented reach now strains under their weight. Beneath the economic, ecological, and technological crises lies a quieter fracture — a crisis of *sense*: how we perceive, value, and make meaning together.
+Our world stands at a civilisational threshold. We have built systems of unprecedented power and complexity yet lack the wisdom and tools to handle them. Beneath the economic, ecological, and technological crises lies a deeper fracture — a crisis of *sensemaking*: how we perceive, value, and make meaning together.
 
-My work traces this line between **inner and outer transformation**. From open knowledge infrastructures to cultural and spiritual renewal, I explore how shifts in consciousness, culture and systems can radically realign our civilization.
+My work focuses on the integration of **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I seek to support shifts in consciousness, culture and systems that can radically renew our societies.
 
-This site itself is both **portal and garden** — a place to share ideas, experiments, and reflections on how we might move toward a wiser world.
-Some pages are germs of ideas, others are fully-fledged projects.
+This site itself is a **portal and a garden**. It links out to the other initiatives and collaborations I am and have been invovled in. And it is a place to share ideas, experiments, and reflections on how we can move toward a [second renaissance](https://secondrenaissance.net).
 
 ---
 
-## Wisdom in the service of transformation
+## Wisdom in service of transformation
 
-At heart, I am a *sensemaker* and *pragmatic utopian* — making sense of the world and committed to practical action in service of a radically wiser world.
+I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)* — deep inquiry to illuminate paths forward *and* engaged in practical action to make real the more beautiful world our hearts know is possible.
 
-These two streams inter-are: making sense informs action and practical implementation gives meaning to sensemaking. Inquiry and reflection come first. And I want them to inform -- and be woven with -- engagement with the world -- and engagement with a context of action at the roots, action for paradigmatic change. It will be no surprise that I have been deeply inspired by Thich Nhat Hanh and the vision of Engaged Buddhism.
+These two streams interweave: making sense informs action and practical implementation gives meaning to sensemaking. Inquiry and reflection come first. And I want them to inform -- and be woven with -- engagement with the world -- and engagement with a context of action at the roots, action for paradigmatic change. It will be no surprise that I have been deeply inspired by Thich Nhat Hanh and the vision of Engaged Buddhism.
 
 ---
 
 ## Areas of Work
 
-My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there is a common thread: a commitment to a rigorous understanding of how the world works at a fundamental level and translating that understanding into pragmatic, systemic action.
+My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there *is* a common thread: a commitment to a rigorous understanding of how the world works at a fundamental level and translating that understanding into pragmatic, systemic action.
 
 ### 1. Tools & Infrastructure for Sensemaking
 
@@ -57,18 +56,19 @@ Examples: https://lifeitself.org/hubs, https://openrevolution.net/
 
 ### **Life Itself**
 
-A network of hubs, research, and residencies dedicated to inner-led systems change.
+A network of hubs, research, residencies and movement building dedicated to inner-led systems change.
 
 🌍 https://lifeitself.org
 
 ### **Second Renaissance**
 
-A cultural initiative and publication series exploring a new civilisational paradigm.
+A movement for a new civilisational paradigm.
 
 🌍 https://secondrenaissance.net
+
 ### **Digital Garden**
 
-An open workspace of notes and essays tracing ongoing inquiries across sensemaking, culture, and design.
+My open workspace of notes and essays tracing ongoing inquiries across sensemaking, culture, and design.
 
 🌍 [[garden|Digital Garden]]
 
@@ -82,7 +82,8 @@ Markdown-based publishing tools continuing the lineage of open knowledge and dig
 
 ## **About**
 
-Rufus Pollock is a researcher, writer, and builder exploring the meeting point of **culture, consciousness, and systems change**.
+Rufus Pollock is a researcher, writer and entrepreneur exploring the meeting point of **culture, consciousness, and systems change**.
+
 Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Second Renaissance** focuses on inner-led social change to renew our civilisation’s foundations.
 
 He studied mathematics then economics at the **University of Cambridge**, obtaining a PhD and then a research fellowership. Following that Rufus founded an international NGO and advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
