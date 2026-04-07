@@ -1,7 +1,9 @@
 {
   "theme": "lessflowery",
   "showEditLink": true,
+  "favicon": "/images/tao/climbing-mountain-liuzhou-man.jpg",
   "nav": {
+    "logo": "/images/tao/climbing-mountain-liuzhou-man.jpg",
     "title": "Rufus Pollock",
     "links": [
       {
@@ -13,7 +15,7 @@
         "name": "Now"
       },
       {
-        "href": "https://tao.rufuspollock.com/",
+        "href": "/tao",
         "name": "Tao"
       },
       {
