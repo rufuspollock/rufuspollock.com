@@ -6,7 +6,7 @@ themes: ['AI', 'Information Economy']
 posttypes: ['essay']
 ---
 
-Stop talking about "AI-powered apps." The framing is already wrong. It's like saying "PC-powered software" in 1995 — you've misunderstood where the centre of gravity is. The personal computer wasn't a feature inside applications. It was the platform everything else sat on.
+It's time to stop talking about "AI-powered apps." That framing is wrong at a fundamental level. It's like saying "PC-powered software" in 1995 — it's a misunderstanding of the centre of gravity. The personal computer wasn't a feature inside applications. It was the platform everything else sat on.
 
 The same inversion is happening now with frontier AI. Many of the first wave of AI startups built specialised tools: AI writing apps, AI PDF readers, AI flashcard generators etc. Each one wrapping a frontier model inside a custom UI. You upload your content and you operate inside their environment. The AI is there but mediated, constrained (and often degraded). I think this is a dead end. These products are the equivalent of the dedicated word processor in 1985: useful today, obsolete tomorrow.
 
@@ -18,6 +18,8 @@ The winning architecture is the opposite. You don't put AI inside your app. Put 
 When personal computers were appearing in the 1980s, my father — a lawyer — went out and bought a dedicated Canon word processor. Not an IBM PC. Not an Apple II. A machine that did exactly one thing: word processing.
 
 ![[starwriter.jpg]]
+
+*Fig 1: The Canon Starwriter circa early 90s*
 
 And it was perfect for what he wanted. You turned it on and you had a world built entirely for writing. No configuration. No bugs. Small enough to carry around when laptops weren't even a thing.
 
@@ -37,7 +39,7 @@ I see the same pattern playing out right now with AI. It crystallised for me whi
 
 ![[humata.ai-pdf-ai-powered.jpg]]
 
-*Sorry to pick on you Humata, I'm sure you're really great ...*
+*Fig 2: Sorry to pick on you Humata, I'm sure you're really great ...*
 
 Same thing with AI writing tools. I looked at several of them a few months ago — dedicated apps where you enter their text editor and the AI assists you. Again: you're inside their world. Your documents, your context, your way of working -- and their use of whatever AI model they've chosen.
 
@@ -85,14 +87,15 @@ This is already being built. [Agent skills](https://agentskills.io/specification
 
 To make this concrete: here's [frontend-slides](https://github.com/zarazhangrui/frontend-slides), a skill that lets any AI agent create polished HTML presentations from scratch or convert PowerPoint files. You don't open a slide-building app. You tell your AI "make me a presentation" and the skill gives it everything it needs.
 
-![frontend-slides skill on GitHub](https://screenshotit.app/https://github.com/zarazhangrui/frontend-slides)
-
 That's the pattern. Not an app you enter, but a capability you give to your AI.
 
+![frontend-slides skill on GitHub](https://screenshotit.app/https://github.com/zarazhangrui/frontend-slides)
+
+*Fig 3: an "app" today to make slides. This is one of the leadings skill to create slides. There is no UI because you do everything via prompting. What matters if token economy, quality of output. The "programming language" is plain english.*
 
 ## The Bitter Lesson, Applied
 
-There's a concept in machine learning called the "bitter lesson" — Rich Sutton's observation that methods which scale with more compute always win over methods that try to bake in human knowledge. The clever hand-engineered approach works for a while, then gets steamrolled by the dumb-but-scalable one.
+There's a concept in machine learning called the ["bitter lesson" — Rich Sutton's observation that methods which scale with more compute always win over methods that try to bake in human knowledge](https://bitterlesson.org/). The clever hand-engineered approach works for a while, then gets steamrolled by the dumb-but-scalable one.
 
 Something similar applies here. The clever, hand-crafted AI application — with its bespoke UI, its custom pipelines, its carefully designed workflow — works for a while. But the frontier model keeps getting better. And every time it gets better, [the scaffolding around it matters less](https://ampcode.com/news/the-coding-agent-is-dead).
 
