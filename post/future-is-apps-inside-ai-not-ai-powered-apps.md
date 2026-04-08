@@ -19,7 +19,7 @@ When personal computers were appearing in the 1980s, my father — a lawyer — 
 
 ![[starwriter.jpg]]
 
-*Fig 1: The Canon Starwriter circa early 90s*
+*Fig 1: The Canon StarWriter circa early 90s*
 
 And it was perfect for what he wanted. You turned it on and you had a world built entirely for writing. No configuration. No bugs. Small enough to carry around when laptops weren't even a thing.
 
@@ -112,4 +112,4 @@ If your product requires users to upload data into your silo, operate inside you
 
 The alternative is to build *around* the AI. Build skills, not apps. Build connectors that bring the AI closer to users' own files and tools. Build commmand line tools. Build interfaces that are thin and composable, not monolithic. Think of yourself as making software for the new operating system, not building a replacement for it.
 
-**The winners won't be those who build the prettiest AI-**powered* writing tool. They'll be the ones who understood that AI *is* the tool — and built everything else to plug into it.**
+**The winners won't be those who build the prettiest AI-*powered* writing tool. They'll be the ones who understood that AI *is* the tool — and built everything else to plug into it.**
