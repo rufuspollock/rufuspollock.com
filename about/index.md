@@ -52,7 +52,9 @@ Founder and President of Open Knowledge.
 
 ## Fellow
 
-<img src="/images/ashoka_image_india.jpg" alt="Ashoka" style={{width: '200px', display: 'block', marginBottom: '0.5rem'}} />
-<img src="/images/RSA-logo.png" alt="RSA" style={{width: '200px', display: 'block', marginBottom: '0.5rem'}} />
-<img src="/images/shuttleworth.jpg" alt="Shuttleworth" style={{width: '200px', display: 'block', marginBottom: '0.5rem'}} />
-<img src="/images/cambridge logo.jpg" alt="Cambridge" style={{width: '200px', display: 'block', marginBottom: '0.5rem'}} />
+<div class="flex flex-wrap items-center gap-x-12 gap-y-8 my-10">
+  <img src="/images/ashoka_image_india.jpg" alt="Ashoka" class="h-16 w-auto object-contain grayscale hover:grayscale-0 transition-all duration-300" />
+  <img src="/images/RSA-logo.png" alt="RSA" class="h-16 w-auto object-contain grayscale hover:grayscale-0 transition-all duration-300" />
+  <img src="/images/shuttleworth.jpg" alt="Shuttleworth" class="h-16 w-auto object-contain grayscale hover:grayscale-0 transition-all duration-300" />
+  <img src="/images/cambridge logo.jpg" alt="Cambridge" class="h-16 w-auto object-contain grayscale hover:grayscale-0 transition-all duration-300" />
+</div>
