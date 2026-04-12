@@ -7,7 +7,7 @@ themes: ['Data Systems']
 
 *Our mission is to make it radically easier to make data used and useful – our immediate goal is make it as simple as possible to get the data you want into the tool of your choice.* [Open Knowledge International](https://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bxl63kvOixM" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=Bxl63kvOixM]]
 
 ### Transcript
 

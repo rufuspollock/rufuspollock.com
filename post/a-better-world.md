@@ -8,7 +8,7 @@ themes: ['Information Economy', 'Wise Society']
 
 *I want to take a moment of your time right now to talk about ‘how do we build a better world’. How do we build a better world? It is a question people have talked about for thousands of years and I want to make a suggestion, that to really make a utopia, a great world, the best world we could, we need to have two kinds of transformation.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dvavtTiIDjQ" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=dvavtTiIDjQ]]
 
 ### Transcript
 

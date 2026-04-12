@@ -17,5 +17,4 @@ Coverage in the Berner Zeitung (German): https://www.bernerzeitung.ch/region/ber
 
 Coverage in https://www.zwp-online.info/zwpnews/dental-news/branchenmeldungen/spirit-bern-bot-grosse-themen
 
-{{< youtube r2OnHntaq64 >}}
-
+![[https://www.youtube.com/watch?v=r2OnHntaq64]]

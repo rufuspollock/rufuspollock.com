@@ -10,7 +10,7 @@ themes: ['Information Economy', 'Speaking']
 
 Following my *Building a Sustainable Digital Age Talk* at the United Nations Library in Geneva, during Q&A, I was asked a question about Blockchain, below is a video (and transcript) of my response.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xu7KklhqUZs" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=xu7KklhqUZs]]
 
 ## Transcript
 
@@ -57,4 +57,3 @@ What worries me, and it brings me back to my story today is this: My story is ab
 And so what worries me about the Blockchain is it's classic techno-solutionsim and **it diverts the energy of the activist, or non activist, community to techno-solutionist pipe-dreams**. It makes us lazy -- or allow us to be lazy. We’re like ‘oh, yeah, democracy is hard, so we’ll come up with an app for that’.
 
 Now I’M LAZY, we all are, and I get that. But the Blockchain represents this tendency to think we’ve got some technological solution to these social problems and it diverts us. The real answers are political and about the rules of the game, and how we build them. It’s the rules we create that shape the impact of technology. Technology is important only in that it is the driver of one fundamental change: costless copying. But we don't need to do anything about that -- it will just go on happening as Moore's law continues playing out. What we need to do is be putting in place the rules that make sure those tech-driven changes result in a better, freer, fairer world.
-

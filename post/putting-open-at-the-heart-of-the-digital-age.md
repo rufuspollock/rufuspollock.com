@@ -13,7 +13,7 @@ wordpress:
   - post_id: 1423
 ---
 
-<iframe width="498" height="280" src="https://www.youtube.com/embed/4nsVs87QGhQ" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=4nsVs87QGhQ]]
 
 <hr />
 
@@ -174,5 +174,4 @@ wordpress:
 <p>Let’s choose openness, let’s choose freedom, let’s choose the infinite possibilities of this digital age by putting openness at its heart.</p>
 
 <p>Thank you.</p>
-
 

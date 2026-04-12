@@ -46,9 +46,9 @@ Talk: A Sustainable Digital Age
 ## Update
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fj-DkDcdWxc" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=Fj-DkDcdWxc]]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fj-DkDcdWxc" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=Fj-DkDcdWxc]]
 
 
 Part One and Part Two of my talk on Power of Open and an Open Digital Economy.

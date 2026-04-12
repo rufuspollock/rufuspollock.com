@@ -31,9 +31,7 @@ Is health more important than education, or GDP, is the amount of R&D more impor
 
 You can see the app in action in the following video, or head over directly [YourTopia][yourtopia] and answer the 2-minute quiz.
 
-<div class="youtube_embed" style="margin-bottom: 20px"> 
- <object width="370" height="297"><param name="movie" value="http://www.youtube.com/v/Nv-00MAxa0g?fs=1&amp;hl=en_US"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/Nv-00MAxa0g?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="370" height="297"></embed></object> 
-</div> 
+![[https://www.youtube.com/watch?v=Nv-00MAxa0g]]
 
 ### More Information
 
@@ -64,4 +62,3 @@ If you're interested in helping please send either join the [open-economics][] m
 [improve]: https://bitbucket.org/okfn/openhdi/issues
 [open-economics]: http://lists.okfn.org/mailman/listinfo/open-economics
 [data-details]: http://yourtopia.net/about
-

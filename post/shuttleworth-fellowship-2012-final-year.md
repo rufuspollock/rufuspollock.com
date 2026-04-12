@@ -12,7 +12,7 @@ featured: False
 
 My application this year is under the title "Using the Open Data Ecosystem" (aka "Generating Value from the Open Data Ecosystem: Using and Applying Open Data").
 
-{{< youtube 6eaKunXpyzE >}}
+![[https://www.youtube.com/watch?v=6eaKunXpyzE]]
 
 ## Describe the world as it is.
 

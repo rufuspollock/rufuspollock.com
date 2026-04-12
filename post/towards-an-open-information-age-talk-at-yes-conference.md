@@ -19,6 +19,6 @@ I will be hosted by the [YES Conference 2017](http://yes2017.riigikontroll.ee/pr
 
 ## Update
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8y6kS7FpvI" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=q8y6kS7FpvI]]
 
 Full video of the talk given in Tallinn.

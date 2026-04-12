@@ -21,6 +21,6 @@ I will be speaking at Republica on the 9th of May in Berlin, Germany.
 
 ## Update
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cd4VGOW8Xdg" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=Cd4VGOW8Xdg]]
 
 Full video of talk given in Berlin at re:publica.

@@ -13,7 +13,7 @@ wordpress:
   - post_id: 1991
 ---
 
-[embed]https://youtu.be/PtIyubd4xjg[/embed]
+![[https://www.youtube.com/watch?v=PtIyubd4xjg]]
 
 *Talk at the Open Tech Summit in Berlin on 5th of May 2016 [Backup of video on Archive.org](https://archive.org/details/MakingAnOpenInformationAgeOpenTechSummit2016)*
 
@@ -24,4 +24,3 @@ This is a new world being built on "bits". Its virtual nature makes it different
 This is a world where no-one is denied access to life-saving medicines because of cost, where everyone has access to our cultural heritage, where artists, innovators and creators are paid more and more fairly. But getting there will not be easy. Dystopia is the default: if we do nothing we will get a world of exclusion and control where information is made to play by the same rules as our old physical one using "intellectual property" monopoly rights like copyright and patents. In this talk we will explore the road ahead and explain why we can and must create an open future.
 
 The talk is for anyone interested in the coming information age and its implications for the politics, law and economics of this next century.
-

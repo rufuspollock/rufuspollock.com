@@ -32,7 +32,7 @@ I've really enjoyed my time as a Fellow over the last year and I'm delighted to 
 
 ## Scaling the Open Data Ecosystem
 
-{{< youtube 4EGBVk8G4J0 >}}
+![[https://www.youtube.com/watch?v=4EGBVk8G4J0]]
 
 ### Describe the world as it is.
 

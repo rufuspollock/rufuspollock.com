@@ -38,3 +38,5 @@ Various standalone pages: `about/`, `now.md`, `contact.md`, `index.md`, `writing
 - New reference/capture notes go in `ref/` with dated filename format.
 - New book/film notes go in `works/`.
 - Wiki-style links use `[[double brackets]]`.
+- For new YouTube embeds, use `![[https://www.youtube.com/watch?v=VIDEO_ID]]`.
+- Older posts may still contain legacy embed formats such as raw `<iframe>` or `{{< youtube ... >}}`; do not copy those forward for new content unless explicitly requested.

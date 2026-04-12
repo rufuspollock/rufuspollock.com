@@ -23,6 +23,6 @@ I will also do a keynote at [Open Geneva](http://opengenevahackathons.org/) Sund
 
 ## Update
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ODxp9QEPA3U" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=ODxp9QEPA3U]]
 
 Full video of the talk given in Geneva.

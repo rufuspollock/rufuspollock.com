@@ -19,7 +19,7 @@ wordpress:
 
 <h3 id="m-overview-video">2m overview video:</h3>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/zM1USNaEcVQ" frameborder="0" allowfullscreen="1" style="margin-bottom: 30px;">&nbsp;</iframe>
+![[https://www.youtube.com/watch?v=zM1USNaEcVQ]]
 
 <h3 id="what-does-this-app-do">What does this app do?</h3>
 
@@ -33,6 +33,5 @@ wordpress:
 
 <p>It’s part of an ongoing plan to create a “Data Orchestra” of lightweight data services that can play nicely together with each
 other and connect to things like the DataHub (or GitHub …): <a href="http://notebook.okfn.org/2012/06/22/datahub-small-pieces-loosely-joined/">http://notebook.okfn.org/2012/06/22/datahub-small-pieces-loosely-joined/</a></p>
-
 
 

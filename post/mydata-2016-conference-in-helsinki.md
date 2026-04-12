@@ -25,7 +25,7 @@ MyData is about how we should get to manage our personal data. This is data abou
 
 ## Video of Talk
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4SRUqQO_1CQ" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=4SRUqQO_1CQ]]
 
 Here is the full video of my talk at MyData 2016. 
 
@@ -33,7 +33,7 @@ Here is the full video of my talk at MyData 2016.
 
 I talked with Molly Schwartz about [open data][] and [its relation to MyData and why they are both so important in this recent interview][interview].
 
-<iframe src="https://www.youtube.com/embed/5GPhp5ArI-A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+![[https://www.youtube.com/watch?v=5GPhp5ArI-A]]
 
 [interview]: https://blog.okfn.org/2016/08/17/an-interview-with-rufus-pollock-why-i-am-excited-about-mydata-2016-in-finland/
 [open data]: https://okfn.org/opendata/

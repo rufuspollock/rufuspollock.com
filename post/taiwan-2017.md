@@ -33,7 +33,7 @@ More information and apply to participate: http://open-leaders.com/
 
 ## Update
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EWAyIPJyvrM" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=EWAyIPJyvrM]]
 
 Full video of talk given at panel event organized by Open Knowledge Taiwan in Taipei.
 
@@ -41,6 +41,6 @@ Full video of talk given at panel event organized by Open Knowledge Taiwan in Ta
 
 Photo from Girls in Tech event in Taipei.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mX6aQ_eNQpQ" frameborder="0" allowfullscreen></iframe>
+![[https://www.youtube.com/watch?v=mX6aQ_eNQpQ]]
 
 Video from Open Leaders Program I lead in Taipei. 

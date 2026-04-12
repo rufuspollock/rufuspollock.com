@@ -15,5 +15,4 @@ wordpress:
 
 A funny, clever and simple video intro into what can go wrong when you actually want to reuse someone else's data in research:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/N2zK3sAtr-4" frameborder="0" allowfullscreen></iframe>
-
+![[https://www.youtube.com/watch?v=N2zK3sAtr-4]]
