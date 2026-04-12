@@ -3,15 +3,15 @@ title: About
 description: Rufus Pollock bio and headshots
 ---
 
-Rufus is an entrepreneur, activist and author as well as a long-term zen practitioner. He is passionate about finding wiser, weller ways to live together. He wants his child (and all children) to live in a world of love, abundance and wisdom.
+Rufus is an entrepreneur, activist and author as well as a long-term zen practitioner. He is passionate about finding wiser, weller ways to live together.
 
-He has founded several successful for-profit and nonprofit initiatives (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. His 2018 book [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. His next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow. A recognized global expert on the information society, he has worked with G7 governments, IGOs like the UN, Fortune 500 companies as well as many civil society organizations. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge.
+He has founded a variety of initiatives including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][] which have had global impact. His 2018 book [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. His next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously he has been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow. A recognized global expert on the information society, he has worked with G7 governments, IGOs like the UN, Fortune 500 companies as well as many civil society organizations. He holds a PhD in Economics and a double first in Mathematics from the University of Cambridge.
 
 ### First Person
 
-I'm an entrepreneur, activist and author as well as a long-term zen practitioner. I'm passionate about finding wiser and weller ways to live together. I want my child (and all children) to live in a world of love, abundance and wisdom.
+I'm a social entrepreneur, activist and author as well as a long-term zen practitioner. I'm passionate about finding wiser and weller ways to live together.
 
-I've founded several successful for-profit and nonprofits iniitiatives (and some unsuccessful ones) including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][]. My 2018 book [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. My next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow.
+I've founded a variety of of iniitiatives including [Life Itself][], [Open Knowledge Foundation][], and [Datopian][] which have had global impact. My 2018 book [Open Revolution][] is about making a radically freer and fairer information age and has been translated into multiple languages. My next book "Wiser Societies" is about the cultural dark matter that enables societies be wiser (and weller). Previously I've been the Mead Fellow in Economics at the University of Cambridge as well as a Shuttleworth and Ashoka Fellow.
 
 [Life Itself]: https://lifeitself.us/
 [Open Knowledge Foundation]: https://okfn.org/
