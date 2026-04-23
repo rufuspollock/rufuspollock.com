@@ -1,5 +1,5 @@
 ---
-title: Purpose Bullshit aka Purpose is Everywhere (in theory)
+title: Corporate Purpose Bullshit
 date: 2021-08-10
 image: /images/posts/purpose-bullshit-20230928114146.png
 ---
