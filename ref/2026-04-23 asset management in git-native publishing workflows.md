@@ -4,6 +4,21 @@
 
 ---
 
+A Git-native publishing workflow — Markdown, local editors, assets co-located in the repo — works well at small scale. The problem is that as image volume grows, Git repos become slow and painful to work with: 500 uncompressed images can push a repo past 1 GB, making clones slow and local editing sluggish. The obvious fix — moving assets to an external service like Cloudinary — breaks the paste-and-go editing UX that makes the workflow pleasant in the first place.
+
+The answer is simpler than it looks. For content images, compress aggressively on ingest (targeting <200 KB per image) and keep them in Git. This eliminates the size problem for most projects while preserving the co-located editing flow. For shared brand assets reused across sites, a lightweight shared store (Cloudflare R2 bucket) is sufficient — no full DAM needed at current scale. For video, always use external hosting.
+
+A dedicated Digital Asset Management system is not the right answer yet. Integrated media libraries (as WordPress demonstrates) degrade quickly without active curation, and the governance overhead isn't worth it. The better pattern — seen in Ghost and Substack — is assets-per-content-item: upload what you need for a post, it lives there, no shared pool to manage.
+
+| Asset type | Approach |
+|---|---|
+| Content images (posts, pages) | Git co-located, compress to <200 KB on ingest |
+| Originals / high-res versions | Keep at source (phone, Drive); don't commit to Git |
+| Shared brand / promotional assets | Shared R2 bucket with naming conventions |
+| Video | External (R2, Drive, or YouTube embed) — never in Git |
+
+---
+
 ## Situation
 
 - We publish websites and knowledge bases using a Git-native workflow: Git + Markdown + local editors (Obsidian, VS Code, etc.)
