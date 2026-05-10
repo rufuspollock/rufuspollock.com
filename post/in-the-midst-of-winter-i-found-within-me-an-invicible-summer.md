@@ -1,7 +1,6 @@
 ---
 title: >-
-  In the midst of winter, I finally learned that there was in me an invincible summer
-slug: in-the-midst-of-winter-i-finally-learned-that-there-was-in-me-an-invincible-summer
+  In the midst of winter, I found, within me, an invincible summer
 date: 2026-05-10T00:00:00
 themes: []
 tags: ['Camus', 'Philosophy', 'Literature']
@@ -14,7 +13,7 @@ featured: False
 >
 > — Albert Camus, *Retour à Tipasa*
 
-> In the midst of winter, I finally learned that within me there lay an invincible summer.
+> In the midst of winter, I found there was, within me, an invincible summer.
 >
 > — Albert Camus, *Return to Tipasa*
 
