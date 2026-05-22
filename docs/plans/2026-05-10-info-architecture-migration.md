@@ -152,12 +152,20 @@ Tags compose freely: a file can be `[post, stub]` while being revised, or `[book
 
 ## Steps
 
+### Filename convention for moved files
+
+Natural language, Wikipedia-style. When moving a file:
+- Rename to natural title if currently kebab: `superintelligence-bostrom-2014.md` → `Superintelligence.md`
+- No type suffix: `Anna Karenina.md` not `Anna Karenina Book.md`
+- No date/author suffix: goes in frontmatter
+- Existing kebab files at root: leave as-is (not worth migrating)
+
 ### 1. Quick wins (low risk, do now)
 
 - [ ] Delete empty folder: `content/`
 - [ ] Move `ref/` files to root
-- [ ] Move `clippings/` to root, add `type: bookmark` to frontmatter
-- [ ] Move `works/` to root
+- [ ] Move `clippings/` to root, add `tags: [bookmark]` to frontmatter
+- [ ] Move `works/` to root (rename to natural titles)
 - [ ] Move `misc/` content files to root (drop index.md)
 
 ### 2. Metadata + blog mechanism redesign
