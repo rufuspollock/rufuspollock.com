@@ -73,62 +73,233 @@
   },
   "analytics": "UA-35035650-1",
   "redirects": [
-    { "from": "/nonfiction/dictator-and-the-anarchist", "to": "/dictator-and-the-anarchist" },
-    { "from": "/nonfiction/everything-is-so-difficult-marcello-fellinis-la-dolce-vita", "to": "/everything-is-so-difficult-marcello-fellinis-la-dolce-vita" },
-    { "from": "/nonfiction/how-strange-was-the-death-liberal-england", "to": "/how-strange-was-the-death-liberal-england" },
-    { "from": "/nonfiction/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950", "to": "/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950" },
-    { "from": "/nonfiction/italy-the-failure-of-the-liberal-state-1876-1914", "to": "/italy-the-failure-of-the-liberal-state-1876-1914" },
-    { "from": "/nonfiction/milgram-obedience-experiments", "to": "/milgram-obedience-experiments" },
-    { "from": "/nonfiction/spiritual-bankruptcy", "to": "/spiritual-bankruptcy" },
-    { "from": "/nonfiction/the-school-as-institution", "to": "/the-school-as-institution" },
-    { "from": "/works/Cosmic+Connections", "to": "/Cosmic+Connections" },
-    { "from": "/works/Mindhunter TV Series", "to": "/Mindhunter TV Series" },
-    { "from": "/works/Numbskull in the Theatre of Inquiry", "to": "/Numbskull in the Theatre of Inquiry" },
-    { "from": "/works/superintelligence-bostrom-2014", "to": "/Superintelligence" },
-    { "from": "/works/The Narrow Corridor", "to": "/The Narrow Corridor" },
-    { "from": "/clippings/\"The system is broken\" Ipsos study across 31 countries reveals deepening distrust in politics and elites", "to": "/\"The system is broken\" Ipsos study across 31 countries reveals deepening distrust in politics and elites" },
-    { "from": "/clippings/A Crisis of Political Trust? Global Trends in Institutional Trust from 1958 to 2019  British Journal of Political Science", "to": "/A Crisis of Political Trust? Global Trends in Institutional Trust from 1958 to 2019  British Journal of Political Science" },
-    { "from": "/clippings/A new era for DataMade and Forest  DataMade", "to": "/A new era for DataMade and Forest  DataMade" },
-    { "from": "/clippings/Distill Hiatus", "to": "/Distill Hiatus" },
-    { "from": "/clippings/The Soundtrack of a Generation", "to": "/The Soundtrack of a Generation" },
-    { "from": "/clippings/Transformer Circuits Thread by Anthropic referncing Interactive Articles", "to": "/Transformer Circuits Thread by Anthropic referncing Interactive Articles" },
-    { "from": "/misc/alternative-management", "to": "/alternative-management" },
-    { "from": "/misc/investing-reading-list", "to": "/investing-reading-list" },
-    { "from": "/misc/note-taking-software", "to": "/note-taking-software" },
-    { "from": "/ref/2025-10-20 formation of Swiss confederation in 1291 for mutual defense", "to": "/2025-10-20 formation of Swiss confederation in 1291 for mutual defense" },
-    { "from": "/ref/2025-10-24 AI prompt for flashcard creation", "to": "/2025-10-24 AI prompt for flashcard creation" },
-    { "from": "/ref/2025-10-27 do the rich get the biggest government subsidies", "to": "/2025-10-27 do the rich get the biggest government subsidies" },
-    { "from": "/ref/2025-10-30 what happened to Findhorn and why", "to": "/2025-10-30 what happened to Findhorn and why" },
-    { "from": "/ref/2025-11-09 left waking up on immigration issue - example from recent damage magazine article on substack", "to": "/2025-11-09 left waking up on immigration issue - example from recent damage magazine article on substack" },
-    { "from": "/ref/2025-11-11 Roger Sperry on wisdom gap and primacy of being", "to": "/2025-11-11 Roger Sperry on wisdom gap and primacy of being" },
-    { "from": "/ref/2025-12-03 research on image storage apps", "to": "/2025-12-03 research on image storage apps" },
-    { "from": "/ref/2025-12-05 investigating wysiwyg editors for html plus tailwind", "to": "/2025-12-05 investigating wysiwyg editors for html plus tailwind" },
-    { "from": "/ref/2025-12-08 good tutorial of setting up R2 as image CDN with transformations by transloadit", "to": "/2025-12-08 good tutorial of setting up R2 as image CDN with transformations by transloadit" },
-    { "from": "/ref/2025-12-11 example of judgment issue and how rationality can be limited in resolving good faith disagreement - case of AI regulation", "to": "/2025-12-11 example of judgment issue and how rationality can be limited in resolving good faith disagreement - case of AI regulation" },
-    { "from": "/ref/2025-12-20 prioritizing AI coding experiments dec 2025", "to": "/2025-12-20 prioritizing AI coding experiments dec 2025" },
-    { "from": "/ref/2026-01-27 On holons, DAGs and issue graphs. Or a new way to look at tasks.", "to": "/2026-01-27 On holons, DAGs and issue graphs. Or a new way to look at tasks." },
-    { "from": "/ref/2026-01-27 patterns of working especially re ideation", "to": "/2026-01-27 patterns of working especially re ideation" },
-    { "from": "/ref/2026-02-23 moving from mono pkb to 3 streams", "to": "/2026-02-23 moving from mono pkb to 3 streams" },
-    { "from": "/ref/2026-02-23-issue-tracking-dilemma", "to": "/2026-02-23-issue-tracking-dilemma" },
-    { "from": "/ref/2026-02-25-changelogs-lightweight-best-practice", "to": "/2026-02-25-changelogs-lightweight-best-practice" },
-    { "from": "/ref/2026-04-17 Managing the Lifecycle of Project Assets Like Drafts, Notes, and Outputs", "to": "/2026-04-17 Managing the Lifecycle of Project Assets Like Drafts, Notes, and Outputs" },
-    { "from": "/ref/2026-04-17 git lfs sucks so hooray for large object promessors", "to": "/2026-04-17 git lfs sucks so hooray for large object promessors" },
-    { "from": "/ref/2026-04-17 how i want my inbox app to work", "to": "/2026-04-17 how i want my inbox app to work" },
-    { "from": "/ref/2026-04-21 AI on Wall Street - Job Losses and Profits", "to": "/2026-04-21 AI on Wall Street - Job Losses and Profits" },
-    { "from": "/ref/2026-04-23 asset management in git-native publishing workflows", "to": "/2026-04-23 asset management in git-native publishing workflows" },
-    { "from": "/ref/2026-04-23 information architecture - notes research planning separation", "to": "/2026-04-23 information architecture - notes research planning separation" },
-    { "from": "/ref/Does email marketing really return 40 dollars or every dollar spent?", "to": "/Does email marketing really return 40 dollars or every dollar spent?" },
-    { "from": "/ref/How to AI Code in parallel", "to": "/How to AI Code in parallel" },
-    { "from": "/ref/Lifestyle action on eco issues is more individualism - need collective action", "to": "/Lifestyle action on eco issues is more individualism - need collective action" },
-    { "from": "/ref/Overall Plan to Daily Plan Task Linking and how that can be Visualized", "to": "/Overall Plan to Daily Plan Task Linking and how that can be Visualized" },
-    { "from": "/ref/Research Spec for Code-Style AI Tools for Writing Prose", "to": "/Research Spec for Code-Style AI Tools for Writing Prose" },
-    { "from": "/ref/Spectrum of Customizability", "to": "/Spectrum of Customizability" },
-    { "from": "/ref/Talk at Nova Conf 2025", "to": "/Talk at Nova Conf 2025" },
-    { "from": "/ref/Whimsical way reduce meetings", "to": "/Whimsical way reduce meetings" },
-    { "from": "/ref/connect google calendar to chatgpt or gemini", "to": "/connect google calendar to chatgpt or gemini" },
-    { "from": "/ref/schlerer", "to": "/schlerer" },
-    { "from": "/ref/task-graph-vision-essay-2026-03-02", "to": "/task-graph-vision-essay-2026-03-02" },
-    { "from": "/ref/we live in the best of times ... and the worst of times", "to": "/we live in the best of times ... and the worst of times" },
-    { "from": "/book", "to": "https://openrevolution.net" }
+    {
+      "from": "/nonfiction/dictator-and-the-anarchist",
+      "to": "/dictator-and-the-anarchist"
+    },
+    {
+      "from": "/nonfiction/everything-is-so-difficult-marcello-fellinis-la-dolce-vita",
+      "to": "/everything-is-so-difficult-marcello-fellinis-la-dolce-vita"
+    },
+    {
+      "from": "/nonfiction/how-strange-was-the-death-liberal-england",
+      "to": "/how-strange-was-the-death-liberal-england"
+    },
+    {
+      "from": "/nonfiction/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950",
+      "to": "/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950"
+    },
+    {
+      "from": "/nonfiction/italy-the-failure-of-the-liberal-state-1876-1914",
+      "to": "/italy-the-failure-of-the-liberal-state-1876-1914"
+    },
+    {
+      "from": "/nonfiction/milgram-obedience-experiments",
+      "to": "/milgram-obedience-experiments"
+    },
+    {
+      "from": "/nonfiction/spiritual-bankruptcy",
+      "to": "/spiritual-bankruptcy"
+    },
+    {
+      "from": "/nonfiction/the-school-as-institution",
+      "to": "/the-school-as-institution"
+    },
+    {
+      "from": "/works/Cosmic+Connections",
+      "to": "/Cosmic+Connections"
+    },
+    {
+      "from": "/works/Mindhunter+TV+Series",
+      "to": "/Mindhunter+TV+Series"
+    },
+    {
+      "from": "/works/Numbskull+in+the+Theatre+of+Inquiry",
+      "to": "/Numbskull+in+the+Theatre+of+Inquiry"
+    },
+    {
+      "from": "/works/superintelligence-bostrom-2014",
+      "to": "/Superintelligence"
+    },
+    {
+      "from": "/works/The+Narrow+Corridor",
+      "to": "/The+Narrow+Corridor"
+    },
+    {
+      "from": "/clippings/\"The+system+is+broken\"+Ipsos+study+across+31+countries+reveals+deepening+distrust+in+politics+and+elites",
+      "to": "/\"The+system+is+broken\"+Ipsos+study+across+31+countries+reveals+deepening+distrust+in+politics+and+elites"
+    },
+    {
+      "from": "/clippings/A+Crisis+of+Political+Trust?+Global+Trends+in+Institutional+Trust+from+1958+to+2019++British+Journal+of+Political+Science",
+      "to": "/A+Crisis+of+Political+Trust?+Global+Trends+in+Institutional+Trust+from+1958+to+2019++British+Journal+of+Political+Science"
+    },
+    {
+      "from": "/clippings/A+new+era+for+DataMade+and+Forest++DataMade",
+      "to": "/A+new+era+for+DataMade+and+Forest++DataMade"
+    },
+    {
+      "from": "/clippings/Distill+Hiatus",
+      "to": "/Distill+Hiatus"
+    },
+    {
+      "from": "/clippings/The+Soundtrack+of+a+Generation",
+      "to": "/The+Soundtrack+of+a+Generation"
+    },
+    {
+      "from": "/clippings/Transformer+Circuits+Thread+by+Anthropic+referncing+Interactive+Articles",
+      "to": "/Transformer+Circuits+Thread+by+Anthropic+referncing+Interactive+Articles"
+    },
+    {
+      "from": "/misc/alternative-management",
+      "to": "/alternative-management"
+    },
+    {
+      "from": "/misc/investing-reading-list",
+      "to": "/investing-reading-list"
+    },
+    {
+      "from": "/misc/note-taking-software",
+      "to": "/note-taking-software"
+    },
+    {
+      "from": "/ref/2025-10-20+formation+of+Swiss+confederation+in+1291+for+mutual+defense",
+      "to": "/2025-10-20+formation+of+Swiss+confederation+in+1291+for+mutual+defense"
+    },
+    {
+      "from": "/ref/2025-10-24+AI+prompt+for+flashcard+creation",
+      "to": "/2025-10-24+AI+prompt+for+flashcard+creation"
+    },
+    {
+      "from": "/ref/2025-10-27+do+the+rich+get+the+biggest+government+subsidies",
+      "to": "/2025-10-27+do+the+rich+get+the+biggest+government+subsidies"
+    },
+    {
+      "from": "/ref/2025-10-30+what+happened+to+Findhorn+and+why",
+      "to": "/2025-10-30+what+happened+to+Findhorn+and+why"
+    },
+    {
+      "from": "/ref/2025-11-09+left+waking+up+on+immigration+issue+-+example+from+recent+damage+magazine+article+on+substack",
+      "to": "/2025-11-09+left+waking+up+on+immigration+issue+-+example+from+recent+damage+magazine+article+on+substack"
+    },
+    {
+      "from": "/ref/2025-11-11+Roger+Sperry+on+wisdom+gap+and+primacy+of+being",
+      "to": "/2025-11-11+Roger+Sperry+on+wisdom+gap+and+primacy+of+being"
+    },
+    {
+      "from": "/ref/2025-12-03+research+on+image+storage+apps",
+      "to": "/2025-12-03+research+on+image+storage+apps"
+    },
+    {
+      "from": "/ref/2025-12-05+investigating+wysiwyg+editors+for+html+plus+tailwind",
+      "to": "/2025-12-05+investigating+wysiwyg+editors+for+html+plus+tailwind"
+    },
+    {
+      "from": "/ref/2025-12-08+good+tutorial+of+setting+up+R2+as+image+CDN+with+transformations+by+transloadit",
+      "to": "/2025-12-08+good+tutorial+of+setting+up+R2+as+image+CDN+with+transformations+by+transloadit"
+    },
+    {
+      "from": "/ref/2025-12-11+example+of+judgment+issue+and+how+rationality+can+be+limited+in+resolving+good+faith+disagreement+-+case+of+AI+regulation",
+      "to": "/2025-12-11+example+of+judgment+issue+and+how+rationality+can+be+limited+in+resolving+good+faith+disagreement+-+case+of+AI+regulation"
+    },
+    {
+      "from": "/ref/2025-12-20+prioritizing+AI+coding+experiments+dec+2025",
+      "to": "/2025-12-20+prioritizing+AI+coding+experiments+dec+2025"
+    },
+    {
+      "from": "/ref/2026-01-27+On+holons,+DAGs+and+issue+graphs.+Or+a+new+way+to+look+at+tasks.",
+      "to": "/2026-01-27+On+holons,+DAGs+and+issue+graphs.+Or+a+new+way+to+look+at+tasks."
+    },
+    {
+      "from": "/ref/2026-01-27+patterns+of+working+especially+re+ideation",
+      "to": "/2026-01-27+patterns+of+working+especially+re+ideation"
+    },
+    {
+      "from": "/ref/2026-02-23+moving+from+mono+pkb+to+3+streams",
+      "to": "/2026-02-23+moving+from+mono+pkb+to+3+streams"
+    },
+    {
+      "from": "/ref/2026-02-23-issue-tracking-dilemma",
+      "to": "/2026-02-23-issue-tracking-dilemma"
+    },
+    {
+      "from": "/ref/2026-02-25-changelogs-lightweight-best-practice",
+      "to": "/2026-02-25-changelogs-lightweight-best-practice"
+    },
+    {
+      "from": "/ref/2026-04-17+Managing+the+Lifecycle+of+Project+Assets+Like+Drafts,+Notes,+and+Outputs",
+      "to": "/2026-04-17+Managing+the+Lifecycle+of+Project+Assets+Like+Drafts,+Notes,+and+Outputs"
+    },
+    {
+      "from": "/ref/2026-04-17+git+lfs+sucks+so+hooray+for+large+object+promessors",
+      "to": "/2026-04-17+git+lfs+sucks+so+hooray+for+large+object+promessors"
+    },
+    {
+      "from": "/ref/2026-04-17+how+i+want+my+inbox+app+to+work",
+      "to": "/2026-04-17+how+i+want+my+inbox+app+to+work"
+    },
+    {
+      "from": "/ref/2026-04-21+AI+on+Wall+Street+-+Job+Losses+and+Profits",
+      "to": "/2026-04-21+AI+on+Wall+Street+-+Job+Losses+and+Profits"
+    },
+    {
+      "from": "/ref/2026-04-23+asset+management+in+git-native+publishing+workflows",
+      "to": "/2026-04-23+asset+management+in+git-native+publishing+workflows"
+    },
+    {
+      "from": "/ref/2026-04-23+information+architecture+-+notes+research+planning+separation",
+      "to": "/2026-04-23+information+architecture+-+notes+research+planning+separation"
+    },
+    {
+      "from": "/ref/Does+email+marketing+really+return+40+dollars+or+every+dollar+spent?",
+      "to": "/Does+email+marketing+really+return+40+dollars+or+every+dollar+spent?"
+    },
+    {
+      "from": "/ref/How+to+AI+Code+in+parallel",
+      "to": "/How+to+AI+Code+in+parallel"
+    },
+    {
+      "from": "/ref/Lifestyle+action+on+eco+issues+is+more+individualism+-+need+collective+action",
+      "to": "/Lifestyle+action+on+eco+issues+is+more+individualism+-+need+collective+action"
+    },
+    {
+      "from": "/ref/Overall+Plan+to+Daily+Plan+Task+Linking+and+how+that+can+be+Visualized",
+      "to": "/Overall+Plan+to+Daily+Plan+Task+Linking+and+how+that+can+be+Visualized"
+    },
+    {
+      "from": "/ref/Research+Spec+for+Code-Style+AI+Tools+for+Writing+Prose",
+      "to": "/Research+Spec+for+Code-Style+AI+Tools+for+Writing+Prose"
+    },
+    {
+      "from": "/ref/Spectrum+of+Customizability",
+      "to": "/Spectrum+of+Customizability"
+    },
+    {
+      "from": "/ref/Talk+at+Nova+Conf+2025",
+      "to": "/Talk+at+Nova+Conf+2025"
+    },
+    {
+      "from": "/ref/Whimsical+way+reduce+meetings",
+      "to": "/Whimsical+way+reduce+meetings"
+    },
+    {
+      "from": "/ref/connect+google+calendar+to+chatgpt+or+gemini",
+      "to": "/connect+google+calendar+to+chatgpt+or+gemini"
+    },
+    {
+      "from": "/ref/schlerer",
+      "to": "/schlerer"
+    },
+    {
+      "from": "/ref/task-graph-vision-essay-2026-03-02",
+      "to": "/task-graph-vision-essay-2026-03-02"
+    },
+    {
+      "from": "/ref/we+live+in+the+best+of+times+...+and+the+worst+of+times",
+      "to": "/we+live+in+the+best+of+times+...+and+the+worst+of+times"
+    },
+    {
+      "from": "/book",
+      "to": "https://openrevolution.net"
+    }
   ]
 }
