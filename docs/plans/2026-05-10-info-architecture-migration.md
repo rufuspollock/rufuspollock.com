@@ -162,11 +162,12 @@ Natural language, Wikipedia-style. When moving a file:
 
 ### 1. Quick wins (low risk, do now)
 
-- [ ] Delete empty folder: `content/`
-- [ ] Move `ref/` files to root
-- [ ] Move `clippings/` to root, add `tags: [bookmark]` to frontmatter
-- [ ] Move `works/` to root (rename to natural titles)
-- [ ] Move `misc/` content files to root (drop index.md)
+- [x] Delete empty folder: `content/` (was already gone)
+- [x] Move `ref/` files (34) to root
+- [x] Move `clippings/` (6) to root, add `tags: [bookmark]` to frontmatter
+- [x] Move `works/` (5) to root; renamed `superintelligence-bostrom-2014.md` → `Superintelligence.md`
+- [x] Move `misc/` content files to root — **lesson learned**: `misc/index.md` had real content (aphorisms, fragments); restored as `misc.md`
+- **Note**: always check index.md files for real content before deleting
 
 ### 2. Metadata + blog mechanism redesign
 
@@ -177,7 +178,8 @@ Natural language, Wikipedia-style. When moving a file:
 
 ### 3. Medium-risk moves
 
-- [ ] Move `nonfiction/` to root — add redirects from `/nonfiction/slug` → `/slug`
+- [x] Move `nonfiction/` (8 files) to root — redirects added to `config.json`
+- [x] Create `nonfiction.md` index page at root so `/nonfiction` still resolves
 - [ ] Move `speaking/archive.md` to root
 
 ### 4. Big lift — `post/` folder
