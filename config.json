@@ -71,5 +71,15 @@
       }
     ]
   },
-  "analytics": "UA-35035650-1"
+  "analytics": "UA-35035650-1",
+  "redirects": [
+    { "from": "/nonfiction/dictator-and-the-anarchist", "to": "/dictator-and-the-anarchist" },
+    { "from": "/nonfiction/everything-is-so-difficult-marcello-fellinis-la-dolce-vita", "to": "/everything-is-so-difficult-marcello-fellinis-la-dolce-vita" },
+    { "from": "/nonfiction/how-strange-was-the-death-liberal-england", "to": "/how-strange-was-the-death-liberal-england" },
+    { "from": "/nonfiction/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950", "to": "/illusion-and-confusion-americas-policy-concerning-vietnam-1945-to-1950" },
+    { "from": "/nonfiction/italy-the-failure-of-the-liberal-state-1876-1914", "to": "/italy-the-failure-of-the-liberal-state-1876-1914" },
+    { "from": "/nonfiction/milgram-obedience-experiments", "to": "/milgram-obedience-experiments" },
+    { "from": "/nonfiction/spiritual-bankruptcy", "to": "/spiritual-bankruptcy" },
+    { "from": "/nonfiction/the-school-as-institution", "to": "/the-school-as-institution" }
+  ]
 }

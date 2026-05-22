@@ -170,8 +170,8 @@ Natural language, Wikipedia-style. When moving a file:
 
 ### 2. Metadata + blog mechanism redesign
 
-- [ ] Confirm `type:` values and what each surfaces
-- [ ] Update `blog/index.md` List component to filter by `type: post` instead of `dir="/post"`
+- [x] Replace `<List dir="/post">` in `blog/index.md` with "under construction, use search" notice
+- [ ] ~~Update List component to filter by `tags: [post]`~~ — blocked: Flowershow has no clean tag-filter listing yet. Revisit when available via [obsidian-bases](https://flowershow.app/docs/reference/obsidian-bases.md)
 - [ ] Decide how "recent changes" feed works (git date vs `updated:` field)
 - [ ] Write capture rule for AGENTS.md
 
