@@ -262,7 +262,8 @@ Expected: one commit updating only the manifest.
 **Files:**
 - Modify: `docs/plans/rufu-7la-migration-manifest.md`
 - Read as needed: `/Users/rgrp/src/lifeitself/tao`
-- Read as needed: `/Users/rgrp/src/lifeitself/dds-course`
+
+**Status:** DDS course migration has already been completed in the target repo. This task now only covers any remaining Tao cross-repository review.
 
 **Step 1: List low-confidence rows**
 
@@ -276,12 +277,11 @@ Expected: output shows all rows needing review.
 
 **Step 2: Compare against Tao and DDS repositories**
 
-For each low-confidence row, search for related files in `tao` and `dds-course`.
+For each remaining low-confidence row, search for related files in `tao`.
 
 Run examples:
 
 ```bash
-rg -i "cinesomatics|somatic|developmental" /Users/rgrp/src/lifeitself/dds-course
 rg -i "praxis|spaces|money flows|community" /Users/rgrp/src/lifeitself/tao
 ```
 
@@ -353,8 +353,7 @@ Add a section:
 1. Migrate high-confidence `rufuspollock.com` pages.
 2. Review `blog_postable: yes` and `maybe` items for possible posts.
 3. Move or sync Tao items into `~/src/lifeitself/tao`.
-4. Move or sync DDS items into `~/src/lifeitself/dds-course`.
-5. Decide remaining low-confidence and `drop` items.
+4. Decide remaining low-confidence items.
 ```
 
 **Step 5: Commit completed manifest**
@@ -404,4 +403,3 @@ git log --oneline --name-only -- docs/plans/rufu-7la-source-inventory.txt docs/p
 ```
 
 Expected: commits only add or modify planning/manifest files. No source content is moved in this phase.
-
