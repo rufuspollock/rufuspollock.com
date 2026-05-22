@@ -8,6 +8,7 @@ created: 2025-10-08
 description: "After five years, Distill will be taking a break."
 tags:
   - "clippings"
+tags: [bookmark]
 ---
 *Over the past five years, Distill has supported authors in publishing artifacts that push beyond the traditional expectations of scientific papers. From Gabriel Goh’s interactive exposition of momentum, to an [ongoing collaboration exploring self-organizing systems](https://distill.pub/2020/growing-ca/), to a [community discussion of a highly debated paper](https://distill.pub/2019/advex-bugs-discussion/), Distill has been a venue for authors to experiment in scientific communication.*
 

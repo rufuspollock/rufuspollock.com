@@ -17,6 +17,7 @@ created: 2025-11-01
 description: "A Crisis of Political Trust? Global Trends in Institutional Trust from 1958 to 2019 - Volume 55"
 tags:
   - "clippings"
+tags: [bookmark]
 ---
 ## Abstract
 

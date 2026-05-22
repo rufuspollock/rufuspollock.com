@@ -7,6 +7,7 @@ created: 2025-10-08
 description: "Can we reverse engineer transformer language models into human-understandable computer programs?"
 tags:
   - "clippings"
+tags: [bookmark]
 ---
 From footer of the page:
 

@@ -9,6 +9,7 @@ tags:
   - clippings
   - opendata
   - civictech
+tags: [bookmark]
 ---
 > We found that these public apps can be really effective as part of a media campaign, but most **public-facing civic apps are not really for the broader public**, at least not after a couple of months. **The people who are interested, week after week, in campaign finance, [local ordinances](https://chicago.councilmatic.org/), or [public salaries](https://datamade.us/our-work/bga-salary/) are not typical members of the public. They are professionals or uniquely engaged community activists**. If we wanted our work to have better impact, we needed to have an ecosystem understanding of civic life and social change, and understand where in that web of relationships our tools would have the most value. [emphasis added]
 

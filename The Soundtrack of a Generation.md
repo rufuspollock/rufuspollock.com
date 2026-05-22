@@ -8,6 +8,7 @@ created: 2025-12-08
 description:
 tags:
   - clippings
+tags: [bookmark]
 ---
 > We didn’t know Labour was over. We just kept hearing that everybody was gonna get loaded and have a good time. There was even a magazine called *Loaded*, and it spoke the way Oasis spoke, talking hilarious shit in a laddish haze, while working-class people lost their unions, their livelihoods, and their sense of community.
 

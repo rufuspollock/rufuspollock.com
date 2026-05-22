@@ -8,6 +8,7 @@ created: 2025-11-01
 description: "In 29/31 countries, a majority of the public say that the “economy is rigged to advantage the rich and powerful”, with South Korea, Italy and Germany seeing double-digit increases since 2022."
 tags:
   - "clippings"
+tags: [bookmark]
 ---
 Ipsos today released its 2025 Populism Report, a comprehensive study examining populist sentiment, anti-elitism, and nativism across 31 countries.
 
