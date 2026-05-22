@@ -180,15 +180,11 @@ Natural language, Wikipedia-style. When moving a file:
 
 - [x] Move `nonfiction/` (8 files) to root — redirects added to `config.json`
 - [x] Create `nonfiction.md` index page at root so `/nonfiction` still resolves
-- [ ] Move `speaking/archive.md` to root
+- [x] `speaking/` — leave as-is. Has proper custom landing page (`index.md` with video/logos/buttons). Functional site section, not false taxonomy. `archive.md` references a CSV that doesn't exist yet anyway.
 
-### 4. Big lift — `post/` folder
+### 4. Big lift — `post/` folder — DEFERRED
 
-Options:
-- **A. Keep `/post/` folder** — just change blog mechanism to `type: post` filter. Zero URL breakage. Clean separation of legacy from new.
-- **B. Move to root** — mass move + 620 bulk redirects. Cleaner long-term but high effort.
-
-Recommendation: **Option A first**. Change the mechanism, leave files in place. Migrate individual posts to root over time as they're touched.
+620 files, 589 with WordPress provenance, all with public URL history. Cost of bulk redirect generation + verification outweighs benefit right now. Blog listing is already "under construction" so no urgency. Revisit when blog mechanism (tag-filter listing) is solved — at that point a scripted mass-move with redirect generation makes sense.
 
 ### 5. Cleanup
 
