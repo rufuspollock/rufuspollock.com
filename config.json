@@ -128,6 +128,7 @@
     { "from": "/ref/connect-google-calendar-to-chatgpt-or-gemini", "to": "/connect-google-calendar-to-chatgpt-or-gemini" },
     { "from": "/ref/schlerer", "to": "/schlerer" },
     { "from": "/ref/task-graph-vision-essay-2026-03-02", "to": "/task-graph-vision-essay-2026-03-02" },
-    { "from": "/ref/we-live-in-the-best-of-times-and-the-worst-of-times", "to": "/we-live-in-the-best-of-times-and-the-worst-of-times" }
+    { "from": "/ref/we-live-in-the-best-of-times-and-the-worst-of-times", "to": "/we-live-in-the-best-of-times-and-the-worst-of-times" },
+    { "from": "/book", "to": "https://openrevolution.net" }
   ]
 }
