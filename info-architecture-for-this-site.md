@@ -54,7 +54,7 @@ wise society.md           ← or "Wise Society.md"
 - No author/year suffix — goes in frontmatter
 - Disambiguation only when genuinely needed: `Anna Karenina.md` (novel) vs `Anna Karenina (1997 film).md`
 - Obsidian backlinks stay clean: `[[Anna Karenina]]` not `[[anna-karenina|Anna Karenina]]`
-- URLs: publishing layer (Flowershow) slugifies to `/anna-karenina` automatically
+- URLs: publishing layer (Flowershow) slugifies to `/Anna+Karenina` automatically (and handles links etc)
 
 Daily logs: date only — `2026-05-10.md`
 
@@ -66,9 +66,24 @@ Existing kebab-case files (`economics.md`, `wise-society.md`): leave as-is, not 
 tags: [post]        ← finished, polished — appears on blog feed
 tags: [stub]        ← fragment or WIP
 tags: [bookmark]    ← link/clipping from elsewhere
+tags: [book]        ← book entry (replaces works/ folder)
+tags: [film]        ← film entry
+tags: [article]     ← paper or essay by someone else
 ```
 
-Tags compose: `tags: [post, stub]` while revising. Add later — don't block capture on it.
+Tags compose: `tags: [book, post]` for a finished book review, `tags: [book, stub]` for notes in progress. Add later — don't block capture on it.
+
+## Books, Films, Articles
+
+Filename = bare title. `title:` frontmatter carries the full display title for SEO and page rendering.
+
+```yaml
+# Superintelligence.md
+title: "Superintelligence by Nick Bostrom (2014)"
+tags: [book]
+```
+
+Disambiguation only when needed: `Superintelligence.md` (concept page) vs `Superintelligence (book).md`. Cross that bridge when you reach it.
 
 ## Fleeting vs Evergreen
 
