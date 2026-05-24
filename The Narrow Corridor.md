@@ -1,6 +1,7 @@
 ---
 wstatus: 🚧
 created: 2025-10-20
+tags: [book]
 title: "The Narrow Corridor: States, Societies, and the Fate of Liberty by Acemoglu and Robinson (2019)"
 ---
 Excellent book with much relevance for [[Primacy of Being for Politics]], [[Ontological Politics]] and a [[Second Renaissance Politics]]

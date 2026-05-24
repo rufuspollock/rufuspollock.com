@@ -3,6 +3,7 @@ title: "Superintelligence: Paths, Dangers, Strategies by Nick Bostrom"
 year: 2014
 publisher: OUP Oxford
 date: 2018-12-23
+tags: [book]
 ---
 
 Really like the first parts: a basic primer, leavened with acidic, deadpan hyper-rationalism. (But then I am a little autistic too). 
