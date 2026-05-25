@@ -300,6 +300,10 @@
     {
       "from": "/book",
       "to": "https://openrevolution.net"
+    },
+    {
+      "from": "/primacy-of-being",
+      "to": "/Primacy+of+Being"
     }
   ]
 }
