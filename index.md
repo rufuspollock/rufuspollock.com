@@ -1,7 +1,7 @@
 ---
 showHero: true
 title: Rufus Pollock - Pragmatic Utopian
-description: Deep inquiry and practical action for a radically wiser world
+description: Inquiry and action for a radically wiser world
 ---
 
 # Rufus Pollock
@@ -10,25 +10,27 @@ description: Deep inquiry and practical action for a radically wiser world
 
 ## Clarity in Complexity
 
-Our world stands at a civilisational threshold. We have built systems of unprecedented power and complexity yet lack the wisdom and tools to handle them. Beneath the economic, ecological, and technological crises lies a deeper fracture — a crisis of *sensemaking*: how we perceive, value, and make meaning together.
+Our civilisational stands at a threshold. We have created systems of unprecedented power and complexity but lack the wisdom and tools to hold them wisely. Growing interconnected ecological, social and spiritual crises threaten the very existence of life on earth. And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [second renaissance](https://secondrenaissance.net).
 
-My work focuses on the integration of **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I seek to support shifts in consciousness, culture and systems that can radically renew our societies.
+My work focuses on integrating **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I have sought to support shifts in consciousness, culture and systems that can radically renew our societies.
 
-This site itself is a **portal and a garden**. It links out to the other initiatives and collaborations I am and have been invovled in. And it is a place to share ideas, experiments, and reflections on how we can move toward a [second renaissance](https://secondrenaissance.net).
+This site itself is **portal and a garden**. One the one hand an organized gateway to other initiatives and collaborations I am and have been involved in. On the other, a place to share ideas, experiments, and reflections on how we can move toward.
 
 ---
 
-## Wisdom in service of transformation
+## Wisdom and transformation
 
-I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*: engaging in deep inquiry to explore paths forward *and* in practical action to make real the more beautiful world our hearts know is possible.
+My deepest aspiration is awakening: for myself and for society. Waking up, cleaning up, growing up and showing up to our fullest potential. By calling and skillset I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*. I try to combine inquiry *and* in practical action to make real the more beautiful world our hearts know is possible.
 
-These two streams interweave: making sense informs action and practical implementation gives meaning to sensemaking. Inquiry and reflection come first. And I want them to inform -- and be woven with -- engagement with the world -- and engagement with a context of action at the roots, action for paradigmatic change. It will be no surprise that I have been deeply inspired by Thich Nhat Hanh and the vision of Engaged Buddhism.
+These two streams interweave: "making sense" informs action whilst practical action puts this into practice, both producing "real world outcomes" and testing ideas in the fire of experience. Both are in service of profound, "paradigmatic", social change.
+
+I am deeply indebted to many ancestors from Thich Nhat Hanh and his vision of Engaged Buddhism, to the work of Ken Wilber and the Integral Community. Many more can be found on the [[ancestors]] page.
 
 ---
 
 ## Areas of Work
 
-My work spans several fields from research and policy-making to digital infrastructure and social innovation. Despite this diversity there *is* a common thread: a commitment to a rigorous understanding of how the world works at a fundamental level and translating that understanding into pragmatic, systemic action.
+My work has spanned multiple fields from research and policy-making to tech startups and social innovation. There *is* a common thread to thi diversity: a commitment to a rigorous inquiery into how the world works at the foundations on the one side, combined with translating that understanding into pragmatic, systemic action. Here's one attempt to structure this thematically:
 
 ### 1. Tools & Infrastructure for Sensemaking
 
@@ -93,20 +95,22 @@ Markdown-based publishing tools continuing the lineage of open knowledge and dig
 
 ---
 
-## **About**
+## About
+
+Finally, here's a short bio. You can more [[about|on the about page]].
 
 Rufus Pollock is a researcher, writer and entrepreneur exploring the meeting point of **culture, consciousness, and systems change**.
 
 Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Second Renaissance** focuses on inner-led social change to renew our civilisation’s foundations.
 
-He studied mathematics then economics at the **University of Cambridge**, obtaining a PhD and then a research fellowership. Following that Rufus founded an international NGO and advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
-
-More information [[about|on the about page]].
+He studied mathematics then economics at the **University of Cambridge**, obtaining a PhD and then a research fellowership. Following that he founded an international NGO and advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
 
 ---
 
 ## **Contact**
 
-For collaboration, speaking, or correspondence: **hello [at] rufuspollock [dot] com** (or see the [[contact|contact page]]).
+For collaboration, speaking, or questions: **hello [at] rufuspollock [dot] com** (or see the [[contact|contact page]]). I do my best to answer every email.
 
-Or explore my **[[garden|Digital Garden]]** to find out more on my lines of thought, research and projects.
+## Digital Garden
+
+Explore my **[[garden|Digital Garden]]** to find out more on my lines of thought, research and projects.
