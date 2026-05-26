@@ -10,11 +10,13 @@ description: Inquiry and action for a radically wiser world
 
 ## Clarity in Complexity
 
-Our civilisational stands at a threshold. We have created systems of unprecedented power and complexity but lack the wisdom and tools to hold them wisely. Growing interconnected ecological, social and spiritual crises threaten the very existence of life on earth. And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [second renaissance](https://secondrenaissance.net).
+Our civilisation stands at a threshold. Having created systems of unprecedented power and complexity, we lack the wisdom and tools to wield them. Growing ecological, social and spiritual crises threaten the very existence of life on earth.
 
-My work focuses on integrating **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I have sought to support shifts in consciousness, culture and systems that can radically renew our societies.
+And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [second renaissance](https://secondrenaissance.net).
 
-This site itself is **portal and a garden**. One the one hand an organized gateway to other initiatives and collaborations I am and have been involved in. On the other, a place to share ideas, experiments, and reflections on how we can move toward.
+My work focuses on integrating **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I want to support shifts in consciousness, culture and systems that can radically renew our societies.
+
+This site is **portal and a garden**: a gateway to my initiatives and collaborations and a garden of ideas, experiments, and reflections.
 
 ---
 
