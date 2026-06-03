@@ -1,42 +1,18 @@
 # rufuspollock.com
 
-Rufus Pollock's personal website including blog and digital garden / knowledgebase.
+Rufus Pollock's personal website — blog and digital garden.
 
 Website: http://rufuspollock.com/
 
-Built with FlowerShow (markdown-based static site generator). Config in `config.json` (theme: "lessflowery").
+Built with [Flowershow](https://flowershow.app/) (markdown static site generator). Config in `config.json` (theme: "lessflowery").
 
-## Repo Structure
+## Content rules
 
-### Content directories (where to write things)
+See `AGENTS.md` for where to put things, filename conventions, tags, and embed formats.
 
-- `post/` — Blog posts. The main archive (~500 posts). Filenames are slug-style, e.g. `my-post-title.md`. Frontmatter: `title`, `date`, etc.
-- `blog/` — Blog listing pages only (`index.md`, `all.md`). Do NOT put posts here.
-- `ref/` — Digital garden / reference notes. Dated format: `YYYY-MM-DD topic description.md`. Short captures: quotes, observations, references, evergreen notes.
-- `works/` — Notes on books, films, TV, media. Named after the work. Longer, structured reflections.
-- `logs/` — Dated journal/log entries (`YYYY-MM-DD.md`). What you did or thought about on a given day.
-- `nonfiction/` — Longer nonfiction essays/articles.
-- `research/` — Research topic folders.
-- `projects/` — Project description pages.
-- `drafts/` — Work in progress (gitignored).
+## Assets & infrastructure
 
-### Top-level markdown files
-
-Various standalone pages: `about/`, `now.md`, `contact.md`, `index.md`, `writings.md`, `garden.md`, etc. These are site pages, not blog posts.
-
-### Assets & infrastructure
-
-- `static/` — Static assets served as-is.
-- `images/`, `media/` — Image and media files.
-- `templates/` — Site templates (FlowerShow/theme).
-- `config.json` — Site configuration (nav, theme, analytics).
-
-## Conventions
-
-- Content is markdown with YAML frontmatter (`title`, `date`, `description`, etc.).
-- New blog posts go in `post/` with a descriptive slug filename.
-- New reference/capture notes go in `ref/` with dated filename format.
-- New book/film notes go in `works/`.
-- Wiki-style links use `[[double brackets]]`.
-- For new YouTube embeds, use `![[https://www.youtube.com/watch?v=VIDEO_ID]]`.
-- Older posts may still contain legacy embed formats such as raw `<iframe>` or `{{< youtube ... >}}`; do not copy those forward for new content unless explicitly requested.
+- `static/` — static assets served as-is
+- `images/`, `media/` — image and media files
+- `config.json` — site config (nav, theme, analytics)
+- `drafts/` — work in progress (gitignored)
