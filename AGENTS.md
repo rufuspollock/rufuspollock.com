@@ -22,13 +22,13 @@ Three buckets. New content → root, no decision required.
 
 ## Filenames
 
-Natural language, Wikipedia-style. Title case for proper nouns, lowercase for concepts.
+Natural language, Wikipedia-style sentence case. Capitalize first word; proper nouns always capitalized; other words lowercase.
 
 ```
 Anna Karenina.md          ← not anna-karenina.md
 Superintelligence.md
-economics.md
-wise society.md
+Economics.md
+Wise society.md
 ```
 
 - No type suffix — type is a tag
