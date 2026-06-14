@@ -61,7 +61,13 @@ https://thenew.institute/en/media/founder-s-statement
 > Erck Rickmers  
 > February, 2026
 
-## Background
 
+## Miscellaneous other reflections
 
+### The repetition of patterns we seek to transform
 
+From Minna Salami. Boy do i empathise ... i think we all end up repeating (some) of the patterns we are seeking to transform
+
+https://thenew.institute/en/reflections/minna-salami
+
+> At the same time, it was a year of turbulence for the institute. As a collective, we were in disequilibrium: ambitious and experimental yet unsettled. Conflicts flared between differing visions, egos, and expectations. It was painful to witness the repetition of the very patterns we sought to transform––essentially problems of difference.
