@@ -56,6 +56,34 @@ Use **Stream** mode (not Mirror) if you don't want everything downloaded locally
 - **Backed up** — Google Drive handles it, survives laptop death
 - **On-demand local storage** — Stream mode means 90MB video only downloads when you open it
 
+## Limitations of Google Drive Desktop
+
+The setup above works but has real constraints worth understanding:
+
+- **"My Computer" backup and Stream mode are separate things.** Stream mode applies to Drive-native files, not to local folders you're backing up via the My Computer tab.
+- **No local garbage collection.** Backing up a local folder uploads everything but does not evict files from your local machine. Your local folder stays full — no automatic space reclamation.
+- **No control over destination subfolder.** Backed-up folders land under `Computers > [machine name]` in Drive. You can't freely choose where in your Drive hierarchy they go.
+
+So if what you want is "stream a local folder with on-demand local eviction to save disk space" — Google Drive Desktop doesn't do that.
+
+## Alternative: rclone + Cloudflare R2
+
+rclone gives more control and is worth considering if you want the full behaviour:
+
+**What you actually want:**
+> Local `assets/` → cloud bucket, with a local cache that evicts old files to save space, and cloud keeps everything even after local delete.
+
+**rclone + R2 gets close:**
+
+- `rclone sync local/assets r2:my-bucket/assets` — controlled folder-to-folder mapping, run on demand or via cron
+- `rclone mount r2:my-bucket/assets ~/assets` — mounts R2 as a local filesystem (FUSE). Acts like a network drive: writes upload to cloud, reads fetch from cloud. Bidirectional. Local cache size is configurable (`--vfs-cache-max-size`) so disk usage stays bounded.
+- R2 versioning or lifecycle rules handle the "keep even after local delete" archive concern
+- R2 egress is free (unlike S3), so streaming reads cost nothing
+
+**Limitation of rclone mount:** not as polished as Google Drive — can be flaky, latency on first open, requires running a background process.
+
+**Honest summary:** no tool does all of this smoothly on Mac today. Google Drive is polished but won't manage local disk space for you. rclone + R2 gives full control but requires more setup and tolerance for rough edges. If "just works" matters most, use Drive with Mirror mode and accept the local disk usage. If you want on-demand streaming with space management, rclone + R2 is the right direction.
+
 ## Related
 
 - [[asset management in git-native publishing workflows]] — website/publishing context where assets need to be web-visible
