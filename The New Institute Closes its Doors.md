@@ -36,7 +36,7 @@ Given current structure of academia I'm not surprised (though perhaps was always
 
 This is not a surprise especially if you mainly engage philosophy academics. (not that i don't have a lot of time for philosophy academics)
 
-###  In goes the knife ...
+### Some tough feedback
 
 >  Perhaps this helps explain why disciplines whose perspectives are so urgently needed by society often attract less public attention than one might wish.
 
