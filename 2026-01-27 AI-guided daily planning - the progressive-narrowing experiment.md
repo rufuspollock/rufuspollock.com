@@ -1,5 +1,6 @@
 ---
 created: 2026-01-27
+tags: [post]
 ---
 
 # AI-guided daily planning — the progressive-narrowing experiment
