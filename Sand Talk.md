@@ -3,8 +3,10 @@ title: "Sand Talk by Tyson Yunkaporta"
 authors:
   - rufuspollock
 created: 2024-07-22
-tags: [book]
+tags: [book, post]
 ---
+
+![](images/sand-talk/c06f4280-e4a9-497a-9032-45634018eeda_662x1000.png)
 
 Beautifully written at several levels: prose itself, the weaving of different elements from social critique to sacred stories, the combination of rich explanation with personal (and vulnerable) autobiography. A remarkable work.
 

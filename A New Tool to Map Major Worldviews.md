@@ -1,12 +1,15 @@
 ---
 created: 2024-06-22
 title: A New Tool to Map Major Worldviews
-tags: [article]
+subtitle: "Academic-quality effort to develop an integral / spiral dynamics worldview questionnaire with real-world testing on a representative sample in Netherlands and the US"
+tags: [article, post]
 ---
 
 # Dewitt et al 2016: A new tool to map the major worldviews in the Netherlands and USA, and explore how they relate to climate change
 
 By [[Annick de Witt]]
+
+> For addressing climate change, public support for changes in policy is needed, as well changes in individual lifestyles. Both of these appear to be intimately related with people's *worldviews*. Understanding these worldviews is therefore essential. In order to research and 'map' them, we translated the theoretical *'Integrative Worldview Framework'* (IWF) into an empirical, quantitative approach. We constructed a worldview-scale aiming to distinguish between four major worldviews – labeled traditional, modern, postmodern, and integrative – and explored their interface with opinions and behaviors with respect to climate change. The survey was conducted with representative samples of citizens in the Netherlands and the USA (n = 527 and n = 556). The hypothesized worldviews were found in the data with a reasonable degree of reliability, especially in the Dutch sample. We also found consistent relationships between these worldview-clusters and a range of opinions, political priorities, and behaviors. In both countries postmoderns and integratives displayed significantly more concern about climate change as well as more sustainable behaviors, compared with moderns and traditionals. The implications of these findings for environmental policy and social science are noteworthy.
 
 - 🎉 Create a proper worldview questionnaire and try it out with a representative sample in the Netherlands and the US.
 
@@ -41,6 +44,15 @@ Asides
 
 > We used the Integrative Worldview Framework (De Witt & Hedlund, in press; Hedlund-de Witt, 2013a; Hedlund-de Witt et al., 2014) as theoretical background and blueprint for developing the worldview-scale. The IWF operationalizes the concept of worldview through distinguishing between five different aspects of worldviews (ontology, epistemology, axiology, anthropology, and societal vision), as well as four different categories of worldviews (traditional, modern, postmodern, and integrative).
 
+### Worldview correlates with position on issues
+
+NB: the topics are the classic ones that come from world values or Schwarz cultural values.
+
+![](images/a-new-tool-to-map-major-worldviews/eac09fdb-d01a-45a5-b183-83c722cd589f_1750x674.png)
+
+## Colophon
+
+Archived PDF: [Dewitt Ea 2016 New Tool Map](https://rufuspollock.substack.com/api/v1/file/1b55ce64-ba1a-4081-af51-b0ed082b3e5f.pdf)
 
 ## Earlier work to explore
 

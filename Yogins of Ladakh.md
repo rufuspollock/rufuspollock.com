@@ -1,7 +1,8 @@
 ---
 created: 2024-10-20
 title: Yogins of Ladakh
-tags: [book]
+subtitle: "To see how this you have to have suffered and perceived how that suffering is a consequence of the holding of fixed ideas, attitudes, attachments and the belief that things must be one way"
+tags: [book, post]
 ---
 
 # Yogins of Ladakh: A Pilgrimage Among the Hermits of the Buddhist Himalayas. By John Crook and James Low
@@ -9,6 +10,28 @@ tags: [book]
 Amazing book. Fascinating material. Powerful travelogue and strong insight into the path.
 
 Om mane padme hum
+
+## Why the inherent emptiness of everything can solve suffering
+
+Powerful, lucid prose on the profound roots of our suffering in our attachment to our 'views' — that "things must be one way or another or life would not be worth living":
+
+> **… to see why the inherent emptiness of everything can solve anything, [most] of all the problem of suffering … you have to have suffered and perceived how that suffering is a consequence of the holding of fixed ideas, attitudes, attachments and the belief that things must be one way or another or life would not be worth living.**
+>
+> **We acquire the social stances of our teachers and parents and the culture into which we are bom and culture is itself a complex patterning of ideas, explanations and values. These become the cages within which we suffer, cages made of presuppositions and presumptions.**
+
+I came across this book pretty much by accident whilst browsing students of Sheng Yen — it turns out [John Crook](https://en.wikipedia.org/wiki/John_Crook_(ethologist)) was his first western Dharma heir, after a first career as an ethologist.
+
+![John Crook](images/yogins-of-ladakh/44e3117d-a2c4-41b5-8a52-96b72c5961e1_460x276.jpeg)
+
+![](images/yogins-of-ladakh/a761832d-5a75-4a5b-9a7b-697d95f30756_852x662.png)
+
+#### Full excerpt
+
+> The methods of Nagarjuna, brilliantly developed by Chandrakirti, swept aside all alternative views and remain even today the ultimate Mahayana philosophical position. It is important to note that it asserts neither the existence of a void as a basis nor any kind of permanent principle such as the *atman* of the Hindus. What it does do is to take the thinker along a line of thought that eventually drops him into a condition where no further thought is possible. The opponent drops his position and thereby his attachment to it. Essentially it consists in the undoing of the reifications natural to linguistic expression. There is an experiential component to such a process which can become the realisation of clear conceptless being. Gelugpa monks, who are especially keen on this approach, therefore use verbal debate and a form of meditation that uses probing intellectual analysis, both leading to this end.
+>
+> **It is not easy however to convey this enthusiasm to another, because initially it is difficult to see why the inherent emptiness of everything can solve anything, least of all the problem of suffering. To see how this can be, you have to have suffered and perceived how that suffering is a consequence of the holding of fixed ideas, attitudes, attachments and the belief that things must be one way or another or life would not be worth living.** We acquire the social stances of our teachers and parents and the culture into which we are bom and culture is itself a complex patterning of ideas, explanations and values. These become the cages within which we suffer, cages made of presuppositions and presumptions. Conventional vision is a result of socialisation and the Madhyamaka view pushes us towards the limit of what it can sustain. When we reach that point, we stand intellectually naked in a universe about which no assertion can be made.
+
+![](images/yogins-of-ladakh/956aaff1-0345-4902-bd79-ff18b82ddb81_852x1272.png)
 
 # Excerpts and Commentary
 
