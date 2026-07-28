@@ -1,6 +1,13 @@
 {
   "theme": "lessflowery",
   "showEditLink": true,
+  "showSidebar": true,
+  "sidebar": {
+    "orderBy": "title",
+    "paths": [
+      "/tao"
+    ]
+  },
   "favicon": "/images/tao/climbing-mountain-liuzhou-man.jpg",
   "nav": {
     "logo": "/images/tao/climbing-mountain-liuzhou-man.jpg",
