@@ -1,3 +1,7 @@
+---
+created: 2026-03-30
+---
+
 # File Auto-complete in Vim and Neovim
 
 I wanted file auto-completion in Markdown notes, especially for wiki-links like `[[another-note]]`, paths, headings, and ambiguous filenames such as multiple `README.md` files in one vault.
