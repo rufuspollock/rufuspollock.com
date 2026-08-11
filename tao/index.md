@@ -12,6 +12,14 @@ See the sidebar on the left for the materials available here so far.
 
 <img src="/images/tao/climbing-mountain-liuzhou.jpg" alt="" width="50%" />
 
+## Views
+
+- [[True Joy in Life]]
+- [[Not Everyone Knows What They Want]]
+- [[What's So by Werner Erhard]]
+- [[Zen]]
+- [[Primacy of Being]]
+
 ## How to Read the Tao
 
 *Or ... The Truth Believed is a Lie. Live the Way, do not Follow It.*
