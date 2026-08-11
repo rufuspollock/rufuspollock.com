@@ -1,6 +1,6 @@
 # Tao of Rufus
 
-This is [Rufus Pollock's](https://rufuspollock) tao, or "way".
+This is [Rufus Pollock's](https://rufuspollock.com) tao, or "way".
 
 It is my guide to how to live and how to "get stuff done". It ranges from the very high level like setting life goals to the low level like planning projects and tracking time.
 
