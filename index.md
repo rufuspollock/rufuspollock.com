@@ -10,9 +10,9 @@ description: Inquiry and action for a radically wiser world
 
 ## Clarity in Complexity
 
-Our civilisation stands at a threshold. Having created systems of unprecedented power and complexity, we lack the wisdom and tools to wield them. Growing ecological, social and spiritual crises threaten the very existence of life on earth.
+Our civilisation stands at a threshold. Having created technologies and systems of unprecedented power and complexity, we lack the wisdom and tools to wield them. Growing ecological, social and spiritual crises threaten the very existence of life on earth.
 
-And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [second renaissance](https://secondrenaissance.net).
+And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [civilizational renaissance](https://secondrenaissance.net).
 
 My work focuses on integrating **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I want to support shifts in consciousness, culture and systems that can radically renew our societies.
 
