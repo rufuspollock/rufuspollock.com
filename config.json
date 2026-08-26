@@ -1,16 +1,9 @@
 {
   "theme": "lessflowery",
   "showEditLink": true,
-  "showSidebar": true,
-  "sidebar": {
-    "orderBy": "title",
-    "paths": [
-      "/tao"
-    ]
-  },
-  "favicon": "/images/tao/climbing-mountain-liuzhou-man.jpg",
+  "favicon": "/images/Rufus_Pollock_square.jpeg",
   "nav": {
-    "logo": "/images/tao/climbing-mountain-liuzhou-man.jpg",
+    "logo": "/images/Rufus_Pollock_square.jpeg",
     "title": "Rufus Pollock",
     "links": [
       {
@@ -20,10 +13,6 @@
       {
         "href": "/now",
         "name": "Now"
-      },
-      {
-        "href": "/tao",
-        "name": "Tao"
       },
       {
         "href": "/writings",
@@ -283,10 +272,6 @@
     {
       "from": "/ref/Talk+at+Nova+Conf+2025",
       "to": "/Talk+at+Nova+Conf+2025"
-    },
-    {
-      "from": "/ref/Whimsical+way+reduce+meetings",
-      "to": "/Whimsical+way+reduce+meetings"
     },
     {
       "from": "/ref/connect+google+calendar+to+chatgpt+or+gemini",
