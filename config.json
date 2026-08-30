@@ -68,6 +68,7 @@
     ]
   },
   "analytics": "UA-35035650-1",
+  "contentExclude": ["/docs"],
   "redirects": [
     {
       "from": "/nonfiction/dictator-and-the-anarchist",
