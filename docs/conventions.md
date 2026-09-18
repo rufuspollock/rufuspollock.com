@@ -27,6 +27,14 @@ New content → root. No decision required.
 its own folder for overflow storage, but the root entry (`wto.md`) still exists
 and is the primary page. Folder = size management, not taxonomy.
 
+**Exception: `/changelog`.** A second date-identity folder, added 2026-09-18 —
+weekly project-activity digests (`changelog/YYYY-MM-DD.md`, Monday-dated,
+listed at `/changelog`), genuinely distinct from `/logs`' personal daily
+journal (different content, different register — not a taxonomy split like
+the dead `blog/`/`post/`/`ref/` folders). Mirrors the source planning repo's
+own `changelog/` convention. A deliberate fourth bucket, confirmed by Rufus,
+not drift.
+
 Do not create new type-based folders (`blog/`, `notes/`, `ref/`, `post/`,
 `works/`, `nonfiction/`, …). Those five names were the same concept; they are dead.
 

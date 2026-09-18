@@ -5,10 +5,12 @@ Published rationale: `info-architecture-for-this-site.md`.
 
 ## 30-second version
 
-- **Three buckets:** `/` (everything — notes, essays, books, films), `/logs`
-  (daily log, date is the identity), `/projects` (scoped work). New content →
-  root, no decision required. Do not create type-based folders (`blog/`, `ref/`,
-  `post/`, …).
+- **Three buckets, plus one exception:** `/` (everything — notes, essays,
+  books, films), `/logs` (personal daily journal, date is the identity),
+  `/projects` (scoped work), and `/changelog` (weekly project-activity
+  digests, also date-identity — a deliberate exception, distinct from
+  `/logs`). New content → root, no decision required. Do not create
+  type-based folders (`blog/`, `ref/`, `post/`, …).
 - **Filenames:** natural language, sentence case — `Anna Karenina.md`, not
   `anna-karenina.md`. No type suffix, no date, no author/year in the name.
 - **Frontmatter:** `created: YYYY-MM-DD` is the only thing required at capture.
