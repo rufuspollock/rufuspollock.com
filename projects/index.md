@@ -3,6 +3,8 @@ title: Projects
 description: Things I'm working on or have worked on
 ---
 
+[Browse the visual catalog](/projects/catalog.html) — screenshots and short introductions to my public initiatives, products and communities.
+
 * [FlowerShow](/projects/FlowerShow)
 * [comparethe](/projects/comparethe)
 * [Life Itself](/projects/Life%20Itself)
