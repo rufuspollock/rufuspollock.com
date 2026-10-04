@@ -11,6 +11,10 @@ A map of content for how I actually work — the setup, tools, and patterns behi
 
 - [[How to Organise All Your Projects on Disk]] — the `~/src/<owner>/<project>` pattern for every project (planning, knowledge, work — not just code, and not really about git).
 
+## Sharing what I know
+
+- [[MOC Sharing knowledge]] — teaching, talks and engaging people.
+
 ## Patterns of working
 
 - [[Git-Based Publishing Pattern]] — store content as plain text in git, render with lightweight tools.
