@@ -5,9 +5,15 @@ featured: true
 ---
 In the last year or so I've started to come across Effective Altruism. First, it was a book in a coliving space, then it was hiring Rachel [name changed], a smart young researcher out of Oxford for a [project on open medicines](https://imedproject.org), who turned out to be very into "EA".
 
-It was a fascinating encounter. As I discussed the ideas with her and read more I had an uncanny feeling of deja vu. It looked like I had been an "Effective Altruist" before its time. For example, in 2002 I'd started the "What is To be Done" project with some collaborators to try and rank the optimal things we could do to improve the world. In 2004, I'd become a "make the world a better place" utilitarian economist writing papers on social cost benefit analysis and wondering whether I should join a hedge fund as the best way to generate money for good projects.
+It was a fascinating encounter. As I discussed the ideas with her and read more I had an uncanny feeling of deja vu. It looked like I had been an "Effective Altruist" before its time. For example, in 2002 I'd started the "What is To be Done" project with some collaborators to identify and rank the best things we could do to improve the world (see [below](#what-is-to-be-done)). In 2004, I'd started studying economics in order to a "make the world a better place" in utilitarian, "effective" ways -- and was writing papers on social cost benefit analysis whilst wondering whether I should join a hedge fund as the best way to generate money for good projects.
 
-And this deja vu extended to the limitations I had discovered with this kind of utilitarian, rationalist, metricized approach. The drunkard and the lamp-post problem: a focus on measurement excludes many of the most important issues. The reality of politics, where rational correctness and evidence were only a (very) small part of getting something done. Buddhism, which taught me that utility might be a very misleading way to think about human psychology and wellbeing. Perhaps Effective Altruism will have to discover those limitations for themselves -- my conversations so far with Rachel suggest that. Nevertheless, it's worth writing down my own experiences and the lessons I've learnt from them in the hope they prove useful.
+And this deja vu extended to the limitations I had discovered with this kind of utilitarian, rationalist, metricized approach.
+
+First, the drunkard and the lamp-post problem: a focus on measurement excludes many of the most important issues. Second, the reality of politics, where rational correctness and evidence were only a (very) small part of getting something done (I spent about a decade advising governments and writing policy-papers).
+
+I was also deepening into Buddhism, which taught me that utility might be a very misleading way to think about human psychology and wellbeing. 
+
+Perhaps Effective Altruism will have to discover those limitations for themselves -- my conversations so far with Rachel suggest that. Nevertheless, it's worth writing down my own experiences and the lessons I've learnt from them in the hope they prove useful.
 
 This essay is divided into two parts. Part one is a critique. Part two is a short autobiographical sketch of my own effective altruist path which provides some color and ballast to the critique in part one.
 
