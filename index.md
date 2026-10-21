@@ -21,9 +21,9 @@ My efforts focus on how we can integrate **inner and outer transformation**. I w
 
 ## Wisdom and transformation
 
-My deepest aspiration is awakening: for myself and for society. Waking up, cleaning up, growing up and showing up to our fullest potential. By calling I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*. I try to combine inquiry *and* practical action to make manifest the more beautiful world our hearts sense is possible.
+My deepest aspiration is awakening: for myself and for society. Waking up, cleaning up, growing up and showing up to our fullest potential. By calling I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*. I try to combine inquiry *and* practical action to manifest the more beautiful world our hearts sense is possible.
 
-The two streams interweave: "making sense" informs action whilst practical action tests ideas with practice, both producing "real world outcomes" and testing ideas in the fire of experience. Both are in service of profound, "paradigmatic", social change.
+The two streams interweave: "making sense" informs action whilst practical action produces both "real world outcomes" and tests ideas in the fire of experience. Both are in service of fundamental, "paradigmatic", social change.
 
 I am deeply indebted to many ancestors from Thich Nhat Hanh and his vision of Engaged Buddhism, to the work of Ken Wilber and the Integral Community. Many more can be found on the [[ancestors]] page.
 
@@ -31,7 +31,7 @@ I am deeply indebted to many ancestors from Thich Nhat Hanh and his vision of En
 
 ## Areas of Work
 
-My work has spanned multiple fields from research and policy-making to tech startups and social innovation. There *is* a common thread to thi diversity: a commitment to a rigorous inquiery into how the world works at the foundations on the one side, combined with translating that understanding into pragmatic, systemic action. Here's one attempt to structure this thematically:
+My work has spanned multiple fields from research and policy-making to tech startups and social innovation. There *is* a common thread to this diversity: a commitment to a rigorous inquiry into how the world works at its foundations combined with translating that understanding into pragmatic, systemic action. Here's one attempt to structure this thematically:
 
 ### 1. Tools & Infrastructure for Sensemaking
 
