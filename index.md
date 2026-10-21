@@ -8,23 +8,22 @@ description: Inquiry and action for a radically wiser world
 
 ![[images/Rufus_Pollock_square.jpeg]]
 
-## Clarity in Complexity
+This site is **portal and a garden**. On the one hand a gateway to some of the things I have helped create, and on the other an evolving space for ideas and reflections.
+## Grappling with Complexity
 
-Our civilisation stands at a threshold. Having created technologies and systems of unprecedented power and complexity, we lack the wisdom and tools to wield them. Growing ecological, social and spiritual crises threaten the very existence of life on earth.
+Our civilisation stands at a threshold. We have created technologies and systems of unprecedented power and complexity. But we lack the wisdom and tools to wield them. Growing ecological, social and spiritual crises threaten the very existence of life on earth.
 
-And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world, a crisis of *sensemaking* in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [civilizational renaissance](https://secondrenaissance.net).
+And beneath them lies a deeper fracture: a crisis in how we see ourselves and the world: a crisis of *sensemaking*, in how we perceive, value, and make meaning together. This is a moment that calls for a radical renewal, a [civilizational renaissance](https://secondrenaissance.net).
 
-My work focuses on integrating **inner and outer transformation**. From open knowledge infrastructure to cultural and spiritual renewal, I want to support shifts in consciousness, culture and systems that can radically renew our societies.
-
-This site is **portal and a garden**: a gateway to my initiatives and collaborations and a garden of ideas, experiments, and reflections.
+My efforts focus on how we can integrate **inner and outer transformation**. I want to support shifts in consciousness, culture and systems that can profoundly evolve our societies.
 
 ---
 
 ## Wisdom and transformation
 
-My deepest aspiration is awakening: for myself and for society. Waking up, cleaning up, growing up and showing up to our fullest potential. By calling and skillset I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*. I try to combine inquiry *and* in practical action to make real the more beautiful world our hearts know is possible.
+My deepest aspiration is awakening: for myself and for society. Waking up, cleaning up, growing up and showing up to our fullest potential. By calling I am a *sensemaker* and *[pragmatic utopian](https://lifeitself.org/blog/pragmatic-utopians/)*. I try to combine inquiry *and* practical action to make manifest the more beautiful world our hearts sense is possible.
 
-These two streams interweave: "making sense" informs action whilst practical action puts this into practice, both producing "real world outcomes" and testing ideas in the fire of experience. Both are in service of profound, "paradigmatic", social change.
+The two streams interweave: "making sense" informs action whilst practical action tests ideas with practice, both producing "real world outcomes" and testing ideas in the fire of experience. Both are in service of profound, "paradigmatic", social change.
 
 I am deeply indebted to many ancestors from Thich Nhat Hanh and his vision of Engaged Buddhism, to the work of Ken Wilber and the Integral Community. Many more can be found on the [[ancestors]] page.
 
