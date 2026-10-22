@@ -5,11 +5,23 @@ created: 2026-10-22
 
 # Research note recipe
 
-Proto skill: how to write a note that assesses a person's or field's work
-(first used for `Michael Levin.md`). Promote to a skill in the agent-skills
+Proto skill: how to write a note about a person or field, from a quick stub
+up to one that assesses their work (first used for `Michael Levin.md`). Promote to a skill in the agent-skills
 repo once stable.
 
-## 1. Question tree first
+## 0. Pick the depth first
+
+Ask (or infer from the request) which kind of page this is, before any research:
+
+| Depth | What it is | Steps |
+|-------|-----------|-------|
+| **Quick stub** (default) | Ship fast: who they are, one paragraph on why they matter, 2–4 links. Minutes, not an hour. | Skip 1, 2 and 4; link-check only. Image optional. |
+| **Researched stub** | Like `Michael Levin.md`: assesses claims and evidence, still tagged `stub`. | All steps below. |
+| **Essay** | My own argued piece about them (`tags: [essay, draft]`). | Out of scope here — start from a researched stub. |
+
+If unclear, default to quick stub and say so in one line; it can grow later.
+
+## 1. Question tree first (researched stub)
 
 Before drafting, agree the root question and sub-tree with Rufus. Default root:
 

@@ -144,8 +144,8 @@ the line together when a piece moves up the ladder.
 A note about a person (thinker, author, researcher) lives at root as
 `<Full Name>.md`. Model on `Christopher Alexander.md` and `Michael Levin.md`:
 status line, optional portrait, one-paragraph who/why, why I care, then
-sections. For notes that assess someone's work, follow
-`docs/research-note-recipe.md`.
+sections. Pick the depth first (quick stub by default, or researched stub) —
+see `docs/research-note-recipe.md`.
 
 ## Publishing
 
