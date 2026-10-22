@@ -145,7 +145,8 @@ A note about a person (thinker, author, researcher) lives at root as
 `<Full Name>.md`. Model on `Christopher Alexander.md` and `Michael Levin.md`:
 status line, optional portrait, one-paragraph who/why, why I care, then
 sections. Pick the depth first (quick stub by default, or researched stub) —
-see `docs/research-note-recipe.md`.
+see the `research-note` skill in
+[life-itself/skills](https://github.com/life-itself/skills/tree/main/skills/research-note).
 
 ## Publishing
 
@@ -169,5 +170,5 @@ see `docs/research-note-recipe.md`.
 - `kmojis.md` — published guide to knowledge-work / task emojis (distinct from
   the growth-stage emojis above).
 - `docs/plans/` — dated design and migration docs.
-- `docs/research-note-recipe.md` — workflow for notes that assess a person's or
-  field's work (proto skill).
+- `research-note` skill (life-itself/skills) — workflow for notes about a
+  person or field, quick stub to researched note.
