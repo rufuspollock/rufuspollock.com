@@ -5,7 +5,7 @@ tags: [stub]
 
 # Michael Levin
 
-🌱 **Seed** — first pass from a research session. Citations still to check against the papers.
+🌱 **Seed** — first pass from a research session. Citations checked against abstracts, not full texts; the judgements on strength of evidence are mine.
 
 **The question:** what is Michael Levin claiming, how well does the evidence support it, and why is it so influential right now?
 
@@ -26,7 +26,7 @@ Why I care: it bears directly on mind, meaning and how complex systems pursue go
 
 **Solid** (peer-reviewed, with some independent support)
 
-- *Bioelectricity matters in development*, and not just in his lab. Ion-channel mutations cause body-shape defects in humans (e.g. Andersen-Tawil syndrome, from Kcnj2), and potassium-channel mutants in zebrafish grow longer fins.
+- *Bioelectricity matters in development*, and not just in his lab. Ion-channel mutations cause body-shape defects in humans (e.g. Andersen-Tawil syndrome, from KCNJ2), and potassium-channel mutants in zebrafish grow longer fins.
 - *Two-headed planaria.* Blocking gap junctions gives two-headed worms, and fragments of those worms *stay* two-headed when cut again, with the genome unchanged (Oviedo et al. 2010; Durant et al. 2017).
 - *Eyes outside the head.* Setting a voltage pattern in tadpoles triggers eyes to grow elsewhere, even on the gut (Pai et al. 2012).
 - *Xenobots exist and do what the papers say* (PNAS 2020, 2021). They are built from frog embryo cells, with shapes designed by evolutionary algorithms in simulation. Cilia drive their movement.
@@ -40,7 +40,7 @@ Why I care: it bears directly on mind, meaning and how complex systems pursue go
 
 **Weak or contested**
 
-- *Planarian memory surviving decapitation* (Shomrat & Levin 2013): small samples and a weak effect. Often cited, rarely replicated.
+- *Planarian memory surviving decapitation* (Shomrat & Levin 2013): worms with regrown heads relearned faster (a "savings" effect), not instant recall. Often cited, rarely replicated.
 - *Instructive vs permissive:* does voltage carry its own information, or does it act through known pathways (Wnt, serotonin, calcium)? Unresolved.
 - *The "bioelectric code"* as stored, rewritable target anatomy: a strong, testable hypothesis, with much of the support from his own lab.
 - *Learning in gene networks and "cognition" in cells:* mostly computational models, or experiments re-described in cognitive terms.
@@ -48,7 +48,7 @@ Why I care: it bears directly on mind, meaning and how complex systems pursue go
 **Caveats overall**
 
 - Many key results come from one big, very productive lab and its collaborators. Independent replication is thinner than the fame suggests.
-- No human treatment yet. His startup, Astonishing Labs, is aimed at that.
+- No human treatment yet. Astonishing Labs, a startup he is affiliated with, is aimed at that.
 - The data are usually fine. The words (robots, memory, goals, mind) do a lot of extra work.
 
 ## The big ideas built on it
@@ -74,5 +74,5 @@ Why I care: it bears directly on mind, meaning and how complex systems pursue go
 - [Tim Ferriss Show episode](https://tim.blog/2026/01/21/dr-michael-levin/) (Jan 2026).
 - [Interview in The Biologist](https://thebiologist.rsb.org.uk/biologist-features/professor-michael-levin-interview).
 - [Mind may be older than the brain](https://lifeboat.com/blog/2026/06/mind-may-be-older-than-the-brain-michael-levin-on-life-and-intelligence) (2026).
-- His blog *Thoughtforms*, and the Levin lab site.
+- His blog [Thoughtforms](https://thoughtforms.life), and the [Levin lab site](https://drmichaellevin.org).
 - [Wikipedia](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)).
