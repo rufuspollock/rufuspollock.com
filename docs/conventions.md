@@ -126,6 +126,27 @@ the line together when a piece moves up the ladder.
 - Do not use legacy embed formats: `{{< youtube … >}}`, `[embed]…[/embed]`, raw
   `<iframe>` or `<object>`.
 
+## Images
+
+- Store locally in `images/<page-slug>/` (kebab-case folder and filename), not
+  hotlinked. Convert to `.webp`, sized for display at 2× (e.g. 640px wide for a
+  320px slot): `cwebp -q 80 -resize 640 0 in.jpg -o out.webp`.
+- Portraits are tall: use `<img src="images/…" alt="…" width="320" />`, not
+  `![]()`, so they don't fill the screen.
+- Credit third-party images in an italic caption directly below:
+  `*<What it shows>. Photo: <author>, [<licence>](<licence URL>), via [Wikimedia Commons](<file page>).*`
+- Finding a portrait of a person: take the Wikipedia infobox image, then read
+  its Commons file page for licence and author. Prefer free licences; fair use
+  is acceptable for a commentary note, but still credit the source.
+
+## Person notes
+
+A note about a person (thinker, author, researcher) lives at root as
+`<Full Name>.md`. Model on `Christopher Alexander.md` and `Michael Levin.md`:
+status line, optional portrait, one-paragraph who/why, why I care, then
+sections. For notes that assess someone's work, follow
+`docs/research-note-recipe.md`.
+
 ## Publishing
 
 - GitHub-connected: Flowershow rebuilds on push to `main`.
@@ -148,3 +169,5 @@ the line together when a piece moves up the ladder.
 - `kmojis.md` — published guide to knowledge-work / task emojis (distinct from
   the growth-stage emojis above).
 - `docs/plans/` — dated design and migration docs.
+- `docs/research-note-recipe.md` — workflow for notes that assess a person's or
+  field's work (proto skill).

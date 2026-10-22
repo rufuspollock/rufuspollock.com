@@ -7,7 +7,7 @@ tags: [stub]
 
 🌱 **Seed** — first pass from a research session. Citations checked against abstracts, not full texts; the judgements on strength of evidence are mine.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Michael_Levin_2024.jpg" alt="Michael Levin in 2024" width="320" />
+<img src="images/michael-levin/michael-levin-2024.webp" alt="Michael Levin in 2024" width="320" />
 
 *Michael Levin in 2024. Photo: John Templeton Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michael_Levin_2024.jpg).*
 
