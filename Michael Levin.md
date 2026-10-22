@@ -7,6 +7,10 @@ tags: [stub]
 
 🌱 **Seed** — first pass from a research session. Citations checked against abstracts, not full texts; the judgements on strength of evidence are mine.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Michael_Levin_2024.jpg" alt="Michael Levin in 2024" width="320" />
+
+*Michael Levin in 2024. Photo: John Templeton Foundation, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michael_Levin_2024.jpg).*
+
 **The question:** what is Michael Levin claiming, how well does the evidence support it, and why is it so influential right now?
 
 **Short answer:** Levin is a developmental biologist who argues that cells talk to each other through bioelectric signals, and that this layer stores the "goal" shape of a body. Read or rewrite it and you can change anatomy (heads, eyes, limbs, tumours) without editing genes. The lab results are mostly solid. The theory built on them is a bold research program. The metaphysics is speculation. He's popular now because he speaks to AI, longevity and consciousness all at once, with vivid experiments to show for it.
