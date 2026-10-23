@@ -1,5 +1,6 @@
 ---
 created: 2024-10-20
+date: 2024-10-20
 title: Yogins of Ladakh
 subtitle: "To see how this you have to have suffered and perceived how that suffering is a consequence of the holding of fixed ideas, attitudes, attachments and the belief that things must be one way"
 tags: [book, post]

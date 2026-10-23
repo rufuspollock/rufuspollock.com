@@ -1,5 +1,6 @@
 ---
 created: 2024-05-22
+date: 2024-05-22
 title: "The Greening of America by Charles Reich"
 subtitle: "Early insights into cultural paradigm shift of late modernity to post-modernity"
 tags: [book, post]

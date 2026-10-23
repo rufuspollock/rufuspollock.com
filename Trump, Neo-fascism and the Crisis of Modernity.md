@@ -1,5 +1,6 @@
 ---
 created: 2025-02-24
+date: 2025-02-24
 title: "Trump, Neo-fascism and the Crisis of Modernity"
 subtitle: "Fascism arose in response to the crisis of modernity. With modernity again in crisis fascism may be on the rise again."
 tags: [post]

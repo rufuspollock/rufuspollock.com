@@ -1,5 +1,6 @@
 ---
 created: 2025-01-07
+date: 2025-01-07
 title: "What Lightcone Infrastructure's financial crunch tells us about the effective altruism community's ecosystem and funding"
 subtitle: "Lightcone's wonderfully detailed report sheds light on the financial background of the emergence of EA/rationality as a social force"
 tags: [post]

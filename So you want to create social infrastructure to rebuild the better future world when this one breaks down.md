@@ -1,5 +1,6 @@
 ---
 created: 2025-04-20
+date: 2025-04-20
 title: "So you want to create social infrastructure to rebuild the better future world when this one breaks down ..."
 subtitle: "Fellowship and spiritual warriorship will be key whether you want to seed a better future or just survive the crisis"
 tags: [post]

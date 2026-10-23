@@ -1,5 +1,6 @@
 ---
 created: 2024-08-03
+date: 2024-08-03
 title: Awakening Society
 tags: [post]
 ---

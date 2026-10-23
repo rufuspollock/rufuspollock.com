@@ -1,5 +1,6 @@
 ---
 created: 2024-06-19
+date: 2024-06-19
 title: "Awareness is the greatest agent for change?"
 tags: [post]
 ---

@@ -1,5 +1,6 @@
 ---
 created: 2025-03-18
+date: 2025-03-18
 title: "An introduction to a Politics of Being"
 subtitle: "Aka an Ontological Politics or a Politics of a Second Renaissance. Starting from the question \"Why do we need a new kind of politics?\""
 tags: [post]

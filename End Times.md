@@ -1,5 +1,6 @@
 ---
 created: 2024-07-01
+date: 2024-07-01
 title: End Times
 tags: [book, post]
 ---

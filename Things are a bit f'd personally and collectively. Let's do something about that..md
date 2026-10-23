@@ -1,5 +1,6 @@
 ---
 created: 2024-09-04
+date: 2024-09-04
 title: "Things are a bit f'd personally and collectively. Let's do something about that."
 subtitle: "Back in February someone asked me for a succinct description of Life Itself and what we believe. This is what I said."
 tags: [post]

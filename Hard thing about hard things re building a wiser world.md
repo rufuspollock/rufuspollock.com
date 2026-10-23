@@ -1,5 +1,6 @@
 ---
 created: 2024-08-21
+date: 2024-08-21
 title: "Hard thing about hard things re building a wiser world"
 subtitle: "Or why McGilchrist and the intellectuals of a second renaissance may miss the point: it's about the how more than the what"
 tags: [post]

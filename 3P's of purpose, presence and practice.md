@@ -1,5 +1,6 @@
 ---
 created: 2024-08-04
+date: 2024-08-04
 title: "3P's of of purpose, presence and practice are key to second renaissance and addressing metacrisis"
 subtitle: "Balanced integration of these three are key to powerful (wise, well and effective) engagement in this moment of civilizational crisis and a second renaissance"
 tags: [post]

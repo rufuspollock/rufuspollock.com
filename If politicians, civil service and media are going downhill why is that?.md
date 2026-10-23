@@ -1,5 +1,6 @@
 ---
 created: 2024-07-16
+date: 2024-07-16
 title: "If politicians, civil service and media are going downhill why is that?"
 subtitle: "Some thoughts prompted by a Dominic Cummings piece"
 tags: [post]

@@ -1,5 +1,6 @@
 ---
 created: 2024-09-12
+date: 2024-09-12
 title: "Darzi report on the NHS flags mental health epidemic"
 subtitle: "This chart for long-term health conditions highlights depression doubling in last decade"
 tags: [article, post]

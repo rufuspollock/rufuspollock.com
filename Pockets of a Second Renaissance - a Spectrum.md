@@ -1,5 +1,6 @@
 ---
 created: 2024-06-21
+date: 2024-06-21
 title: "Pockets of a Second Renaissance: a Spectrum"
 tags: [post]
 ---

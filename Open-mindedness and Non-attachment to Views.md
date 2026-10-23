@@ -1,5 +1,6 @@
 ---
 created: 2026-03-19
+date: 2026-03-19
 title: Open-mindedness and Non-attachment to Views
 authors: [rufuspollock]
 posted: https://lifeitself.org/2016/10/20/open-mindedness-and-non-attachment-to-views/

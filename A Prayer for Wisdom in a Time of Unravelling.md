@@ -1,5 +1,6 @@
 ---
 created: 2025-06-09
+date: 2025-06-09
 title: "A Prayer for Wisdom in a Time of Unravelling"
 subtitle: "Cultivating the wisdom to hold ourselves, each other, and the world with care; to make the choices to give our children and all life a flourishing future."
 tags: [post]

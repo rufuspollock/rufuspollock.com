@@ -1,5 +1,6 @@
 ---
 created: 2022-12-20
+date: 2022-12-20
 title: Primacy of Being
 tags: [post]
 ---

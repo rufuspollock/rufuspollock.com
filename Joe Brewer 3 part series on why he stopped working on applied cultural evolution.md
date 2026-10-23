@@ -1,5 +1,6 @@
 ---
 created: 2024-06-18
+date: 2024-06-18
 title: "Joe Brewer 3 part series on why he stopped working on applied cultural evolution"
 tags: [post]
 ---

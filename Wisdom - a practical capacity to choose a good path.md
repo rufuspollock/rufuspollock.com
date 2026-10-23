@@ -1,5 +1,6 @@
 ---
 created: 2024-10-17
+date: 2024-10-17
 title: "Wisdom: a practical capacity to choose a good path"
 subtitle: "This short post is about distinguishing the various components of wisdom"
 tags: [post]

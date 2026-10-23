@@ -1,5 +1,6 @@
 ---
 created: 2024-10-26
+date: 2024-10-26
 title: "The Climate vs Louis Vuitton"
 subtitle: "This accidental juxtaposition in a twitter feed encapsulates the contradictions of our world"
 tags: [post]

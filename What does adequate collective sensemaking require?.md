@@ -1,5 +1,6 @@
 ---
 created: 2024-08-13
+date: 2024-08-13
 title: "What does adequate collective sensemaking require?"
 subtitle: "A quick sketch"
 tags: [post]

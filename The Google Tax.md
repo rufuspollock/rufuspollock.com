@@ -1,5 +1,6 @@
 ---
 created: 2024-08-02
+date: 2024-08-02
 title: "The Google Tax"
 tags: [post]
 ---

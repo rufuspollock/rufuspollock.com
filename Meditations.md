@@ -1,5 +1,6 @@
 ---
 created: 2024-07-15
+date: 2024-07-15
 title: Meditations by Marcus Aurelius
 tags: [book, post]
 ---

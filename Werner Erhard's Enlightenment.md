@@ -1,5 +1,6 @@
 ---
 created: 2025-06-11
+date: 2025-06-11
 title: "Werner Erhard's Enlightenment"
 subtitle: "Somewhere on the Golden Gate bridge in 1971, Werner Erhard woke up. He would go on to found est and Landmark and change an entire culture"
 tags: [post]

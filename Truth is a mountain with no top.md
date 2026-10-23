@@ -1,5 +1,6 @@
 ---
 created: 2025-05-06
+date: 2025-05-06
 title: "Truth is a mountain with no top"
 subtitle: "And we can still sense \"up\", that is true*r*. It is a relativist fallacy to conflate no perspective being final with all perspectives being equal."
 tags: [post]

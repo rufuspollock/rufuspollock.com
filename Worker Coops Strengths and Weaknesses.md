@@ -1,5 +1,6 @@
 ---
 created: 2022-05-30
+date: 2022-05-30
 title: Worker Coops Strengths and Weaknesses
 authors: [rufuspollock]
 tags: [post]

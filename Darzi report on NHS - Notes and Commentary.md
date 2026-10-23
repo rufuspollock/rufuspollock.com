@@ -1,5 +1,6 @@
 ---
 created: 2024-09-12
+date: 2024-09-12
 title: "Darzi report on NHS: Notes and Commentary"
 tags: [article, post]
 ---

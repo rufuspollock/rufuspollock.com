@@ -1,5 +1,6 @@
 ---
 created: 2024-07-28
+date: 2024-07-28
 title: "What job(s) have you done done in your life that most nourished your aspiration and joy?"
 tags: [post]
 ---

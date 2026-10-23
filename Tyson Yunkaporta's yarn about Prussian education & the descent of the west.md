@@ -1,5 +1,6 @@
 ---
 created: 2024-07-22
+date: 2024-07-22
 title: "Tyson Yunkaporta's yarn about Prussian education & the \"descent of the west\""
 tags: [post]
 ---

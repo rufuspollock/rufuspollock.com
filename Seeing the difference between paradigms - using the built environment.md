@@ -1,5 +1,6 @@
 ---
 created: 2024-09-02
+date: 2024-09-02
 title: "Seeing the difference between paradigms: using the built environment"
 subtitle: "How we manage the built environment is a “concrete” example with which to showcase and study what a change in worldviews / paradigms means"
 tags: [post]

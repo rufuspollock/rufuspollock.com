@@ -1,5 +1,6 @@
 ---
 created: 2024-11-21
+date: 2024-11-21
 title: "The Empty Mirror by Janwillem van de Wetering"
 subtitle: "Janwillem van de Wetering’s The Empty Mirror. An early classic of western zen encounters."
 tags: [book, post]

@@ -1,5 +1,6 @@
 ---
 created: 2025-02-13
+date: 2025-02-13
 title: "Some nice data tracing the rise of woke-ness and postmodern values"
 tags: [post]
 ---

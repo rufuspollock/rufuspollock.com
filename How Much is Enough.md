@@ -1,5 +1,6 @@
 ---
 created: 2026-03-19
+date: 2026-03-19
 title: How Much is Enough
 author: [rufuspollock]
 posted: https://lifeitself.org/2017/02/05/summary-how-much-is-enough-skidelsky-2012/

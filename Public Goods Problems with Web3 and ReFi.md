@@ -1,5 +1,6 @@
 ---
 created: 2022-09-10
+date: 2022-09-10
 title: Public Goods Problems with Web3 and ReFi
 tags: [post]
 ---

@@ -1,5 +1,6 @@
 ---
 created: 2024-08-27
+date: 2024-08-27
 title: "Making peace with the 60s"
 subtitle: "If you're going to burn, burn brightly. I think of Janis wrapped up in the still just-burning embers of a 60s counterculture and all the bitterness of dreams that went bad"
 tags: [post]

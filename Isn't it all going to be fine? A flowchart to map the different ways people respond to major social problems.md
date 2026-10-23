@@ -1,5 +1,6 @@
 ---
 created: 2024-12-10
+date: 2024-12-10
 title: "Isn't it all going to be fine? A flowchart to map the different ways people respond to major social problems / crises"
 subtitle: "This rough map looks at the three different stages in reacting to significant social problems like climate change, growing inequality, AI x-risk etc"
 tags: [post]

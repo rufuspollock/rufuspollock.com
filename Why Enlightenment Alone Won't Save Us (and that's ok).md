@@ -1,5 +1,6 @@
 ---
 created: 2025-04-11
+date: 2025-04-11
 title: "Why Enlightenment Alone Won’t Save Us (and that's ok)"
 subtitle: "Learning from bad actors in the Buddha’s Sangha about the limits of Love"
 tags: [post]

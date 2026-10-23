@@ -3,6 +3,7 @@ title: "Sand Talk by Tyson Yunkaporta"
 authors:
   - rufuspollock
 created: 2024-07-22
+date: 2024-07-22
 tags: [book, post]
 ---
 

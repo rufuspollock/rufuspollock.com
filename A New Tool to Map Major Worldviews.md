@@ -1,5 +1,6 @@
 ---
 created: 2024-06-22
+date: 2024-06-22
 title: A New Tool to Map Major Worldviews
 subtitle: "Academic-quality effort to develop an integral / spiral dynamics worldview questionnaire with real-world testing on a representative sample in Netherlands and the US"
 tags: [article, post]

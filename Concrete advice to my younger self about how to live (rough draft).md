@@ -1,5 +1,6 @@
 ---
 created: 2024-08-21
+date: 2024-08-21
 title: "Concrete advice to my younger self about how to live (rough draft)"
 tags: [post]
 ---

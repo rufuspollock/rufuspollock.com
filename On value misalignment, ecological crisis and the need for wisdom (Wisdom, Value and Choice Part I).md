@@ -1,5 +1,6 @@
 ---
 created: 2025-06-06
+date: 2025-06-06
 title: "On value misalignment, ecological crisis and the need for wisdom (Wisdom, Value and Choice Part I)"
 subtitle: "Our current systems misalign value creation with compensation, leading to ecological crises and flawed measures like GDP. But how do we correct them? In one word: wisdom."
 tags: [post]

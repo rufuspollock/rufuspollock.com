@@ -1,5 +1,6 @@
 ---
 created: 2024-09-23
+date: 2024-09-23
 title: "The New Culturology and Why It's a Big Deal"
 subtitle: "Culturology, i.e. rigorous cultural evolution, represents a break-through synthesis of existing disciplines like anthropology, economics, sociology, evolutionary psychology etc. It's a big deal."
 tags: [post]
