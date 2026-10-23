@@ -1,5 +1,7 @@
 ---
 created: 2024-08-08
+date: 2024-08-08
+permalink: /what-is-valueception
 title: "What is valueception? And how does it contrast with what we normally mean by value?"
 subtitle: "Why valueception is a key aspect of a metamodern, second renaissance worldview"
 tags: [post]

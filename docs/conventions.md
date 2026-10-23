@@ -79,6 +79,14 @@ tags: [book]
 
 Nothing else is required at capture time. Don't block capture on metadata.
 
+For published posts, add `date: YYYY-MM-DD` for the publication date. Flowershow
+shows `date` in the page header; `created` alone does not display a date. Keep
+`created` for when the piece was first written; the two dates can differ.
+
+For a clean URL independent of the filename, set `permalink: /what-is-valueception`
+(for example). Flowershow redirects the original filename URL to the permalink
+permanently, preserving existing links and wiki links.
+
 ## Type tags
 
 ```yaml
