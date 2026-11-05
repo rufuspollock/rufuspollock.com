@@ -2,7 +2,7 @@
 title: >-
   The School as Institution
 slug: the-school-as-institution
-date: 2014-01-25T20:18:52
+date: 1996-11-25T20:18:52
 provenance: [ wordpress, rufuspollock.org, migration-201703 ]
 wordpress:
   - page_id: 1289
