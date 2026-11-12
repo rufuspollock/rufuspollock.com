@@ -5,22 +5,25 @@ title: "The Mug, the Doughnut and the DAO"
 description: "A topologist can't tell a coffee mug from a doughnut, and on the same test most \"new\" institutions turn out to be old ones, stretched."
 image: /images/the-mug-the-doughnut-and-the-dao/mug-to-doughnut.png
 permalink: /the-mug-the-doughnut-and-the-dao
+featured: true
 tags: [post]
 ---
 
 # The Mug, the Doughnut and the DAO
 
-*A topologist can't tell a coffee mug from a doughnut, and on the same test most "new" institutions turn out to be old ones, stretched.*
+![A coffee mug stretched and squashed into a doughnut: the one hole survives throughout](/images/the-mug-the-doughnut-and-the-dao/mug-to-doughnut.svg)
+
+*Fig. 1. A coffee mug and a doughnut are the same thing to a topologist: stretch and squash one into the other without tearing or gluing, and the one hole survives throughout.*
 
 Take a coffee mug made of clay. Deform it continuously (stretch, squash, bend, but never tear or glue) and you get a ring. The two are *homeomorphic*: the same object as far as topology is concerned. What survives every such deformation are the *invariants*, and for a surface the main one is the number of holes, the genus.
 
 The classification theorem for surfaces makes this striking. Every closed orientable surface is homeomorphic to a sphere with some number of handles. A cube, a teapot and a human head (ignoring the nostrils) are all spheres; a mug is a torus; a pretzel is genus three. Infinite variety of shape, a very short list of kinds. (One dimension up, the Poincaré conjecture says the same for 3-manifolds: no holes, and you have a sphere.)
 
-![A coffee mug stretched and squashed into a doughnut: the one hole survives throughout](/images/the-mug-the-doughnut-and-the-dao/mug-to-doughnut.svg)
-
-*Fig. 1. A coffee mug and a doughnut are the same thing to a topologist: stretch and squash one into the other without tearing or gluing, and the one hole survives throughout.*
-
 My claim: institutional design works the same way. There are a small number of institutional *kinds*. Most designs that look new are continuous deformations of one of them: different size, different shape, new technology, same topology. Not seeing this wastes a lot of effort, and leads people to claim innovation where there isn't any.
+
+![Airbnb drawn as a medieval market square: the same two sides, the same venue, the same fee](/images/the-mug-the-doughnut-and-the-dao/airbnb-market-square.svg)
+
+*Fig. 2. Airbnb is a market square. Same two sides, same venue in the middle, same fee from the sellers; only the technology has changed.*
 
 ## Invariants for institutions
 
@@ -58,11 +61,7 @@ Seeing it this way explains things that otherwise look like new phenomena:
 
 Marketplaces come in only a few kinds: one-sided (a shop sells to you), two-sided (a venue brings buyers and sellers together) and three-sided (a third group, usually advertisers, pays to reach the other two, as with Google above).
 
-Uber, Airbnb and eBay are two-sided markets. So is a medieval fair, a fish market or a stock exchange. The venue brings buyers and sellers together, charges the sellers for a pitch, and keeps enough order that people trust the place. eBay is the market square online, Airbnb is it for spare rooms, Uber for car rides (with the old taxi rank and dispatch office as near relatives). The technology and the scale are new. The structure is not, and neither are the problems: who sets the stall fees, what happens when there is only one market in town, and the position of the people who work in it. I made this argument at length in [[ubernomics|Ubernomics]], and [Platformnomics](https://openrevolution.net/platformnomics) in Open Revolution has the long version, focused on two-sided platforms.
-
-![Airbnb drawn as a medieval market square: the same two sides, the same venue, the same fee](/images/the-mug-the-doughnut-and-the-dao/airbnb-market-square.svg)
-
-*Fig. 2. Airbnb is a market square. Same two sides, same venue in the middle, same fee from the sellers; only the technology has changed.*
+Uber, Airbnb and eBay are two-sided markets (Fig. 2). So is a medieval fair, a fish market or a stock exchange. The venue brings buyers and sellers together, charges the sellers for a pitch, and keeps enough order that people trust the place. eBay is the market square online, Airbnb is it for spare rooms, Uber for car rides (with the old taxi rank and dispatch office as near relatives). The technology and the scale are new. The structure is not, and neither are the problems: who sets the stall fees, what happens when there is only one market in town, and the position of the people who work in it. I made this argument at length in [[ubernomics|Ubernomics]], and [Platformnomics](https://openrevolution.net/platformnomics) in Open Revolution has the long version, focused on two-sided platforms.
 
 ## Funding information: a short, closed list
 
