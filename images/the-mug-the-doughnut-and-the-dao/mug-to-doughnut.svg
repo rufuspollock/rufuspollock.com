@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <rect width="1200" height="460" fill="#F3F1EA"/>
+  <g stroke="#D9D5C8" stroke-width="1">
+    <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200M0 240H1200M0 280H1200M0 320H1200M0 360H1200M0 400H1200M0 440H1200"/>
+    <path d="M40 0V460M80 0V460M120 0V460M160 0V460M200 0V460M240 0V460M280 0V460M320 0V460M360 0V460M400 0V460M440 0V460M480 0V460M520 0V460M560 0V460M600 0V460M640 0V460M680 0V460M720 0V460M760 0V460M800 0V460M840 0V460M880 0V460M920 0V460M960 0V460M1000 0V460M1040 0V460M1080 0V460M1120 0V460M1160 0V460"/>
+  </g>
+  <text x="40" y="34" font-size="15" fill="#1A1A1A" letter-spacing="2">FIG. 1 — SAME THING, DIFFERENT SHAPE</text>
+
+  <!-- A: mug (union trick: thick strokes, then fills on top) -->
+  <g>
+    <path d="M150 140 L158 290 Q160 312 182 312 L258 312 Q280 312 282 290 L290 140 Z" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+    <ellipse cx="300" cy="225" rx="52" ry="56" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+    <path d="M150 140 L158 290 Q160 312 182 312 L258 312 Q280 312 282 290 L290 140 Z" fill="#FFFFFF"/>
+    <ellipse cx="300" cy="225" rx="52" ry="56" fill="#FFFFFF"/>
+    <ellipse cx="312" cy="225" rx="24" ry="30" fill="#F3F1EA" stroke="#E8572A" stroke-width="2"/>
+    <ellipse cx="220" cy="140" rx="70" ry="15" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+    <ellipse cx="220" cy="142" rx="58" ry="10" fill="#EDEAE0" stroke="#1A1A1A" stroke-width="1"/>
+    <path d="M175 175 L180 285" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="2 5"/>
+  </g>
+
+  <!-- B: in between -->
+  <g>
+    <ellipse cx="545" cy="235" rx="58" ry="62" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+    <ellipse cx="640" cy="230" rx="72" ry="60" fill="none" stroke="#1A1A1A" stroke-width="3"/>
+    <ellipse cx="545" cy="235" rx="58" ry="62" fill="#FFFFFF"/>
+    <ellipse cx="640" cy="230" rx="72" ry="60" fill="#FFFFFF"/>
+    <ellipse cx="650" cy="230" rx="30" ry="24" fill="#F3F1EA" stroke="#E8572A" stroke-width="2"/>
+    <ellipse cx="540" cy="190" rx="34" ry="8" fill="#EDEAE0" stroke="#1A1A1A" stroke-width="1"/>
+  </g>
+
+  <!-- C: doughnut -->
+  <g>
+    <ellipse cx="985" cy="230" rx="130" ry="72" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.5"/>
+    <path d="M940 236 Q985 210 1030 236 Q985 252 940 236 Z" fill="#F3F1EA" stroke="#E8572A" stroke-width="2"/>
+    <path d="M922 220 Q985 266 1048 220" fill="none" stroke="#1A1A1A" stroke-width="1.5"/>
+    <path d="M880 205 Q900 180 940 172" fill="none" stroke="#1A1A1A" stroke-width="1" stroke-dasharray="2 5"/>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#1A1A1A" stroke-width="1.5" fill="none">
+    <path d="M385 230 H455"/><path d="M447 224 L456 230 L447 236"/>
+    <path d="M735 230 H825"/><path d="M817 224 L826 230 L817 236"/>
+  </g>
+  <g font-size="11" fill="#5A574E" text-anchor="middle" letter-spacing="1">
+    <text x="420" y="215">STRETCH</text>
+    <text x="780" y="215">SQUASH</text>
+  </g>
+
+  <!-- hole callouts -->
+  <g font-size="11" fill="#E8572A" letter-spacing="1">
+    <path d="M336 205 L370 160" stroke="#E8572A" stroke-width="1"/><circle cx="336" cy="205" r="3" fill="#E8572A"/>
+    <text x="350" y="152">HOLE</text>
+    <path d="M675 215 L700 160" stroke="#E8572A" stroke-width="1"/><circle cx="675" cy="215" r="3" fill="#E8572A"/>
+    <text x="685" y="152">HOLE</text>
+    <path d="M1010 228 L1050 140" stroke="#E8572A" stroke-width="1"/><circle cx="1010" cy="228" r="3" fill="#E8572A"/>
+    <text x="1035" y="132">HOLE</text>
+  </g>
+
+  <!-- labels -->
+  <g font-size="13" fill="#1A1A1A" text-anchor="middle" letter-spacing="2">
+    <text x="235" y="350">A. COFFEE MUG</text>
+    <text x="595" y="350">B. SOMEWHERE BETWEEN</text>
+    <text x="985" y="350">C. DOUGHNUT</text>
+  </g>
+
+  <!-- invariant bracket -->
+  <path d="M150 380 V392 H1115 V380" fill="none" stroke="#E8572A" stroke-width="1.5"/>
+  <text x="632" y="420" font-size="13" fill="#E8572A" text-anchor="middle" letter-spacing="2">INVARIANT: ONE HOLE — NO TEARING, NO GLUING, SO STILL THE SAME THING</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#1A1A1A" stroke-width="1.5"/></marker>
+    <marker id="o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#E8572A" stroke-width="1.5"/></marker>
+    <g id="person"><circle cx="0" cy="-12" r="8" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/><path d="M-14 12 Q-14 -2 0 -2 Q14 -2 14 12 Z" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/></g>
+    <g id="stall"><path d="M-26 -6 V22 M26 -6 V22 M-30 22 H30" stroke="#1A1A1A" stroke-width="1.5" fill="none"/><path d="M-32 -6 L-30 -20 H30 L32 -6 Q24 2 16 -6 Q8 2 0 -6 Q-8 2 -16 -6 Q-24 2 -32 -6 Z" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/><rect x="-20" y="6" width="40" height="8" fill="#EDEAE0" stroke="#1A1A1A"/></g>
+    <g id="house"><path d="M-24 -2 L0 -24 L24 -2 V22 H-24 Z" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/><rect x="-6" y="6" width="12" height="16" fill="#EDEAE0" stroke="#1A1A1A"/></g>
+  </defs>
+  <rect width="1200" height="560" fill="#F3F1EA"/>
+  <g stroke="#D9D5C8" stroke-width="1">
+    <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200M0 240H1200M0 280H1200M0 320H1200M0 360H1200M0 400H1200M0 440H1200M0 480H1200M0 520H1200"/>
+    <path d="M40 0V560M80 0V560M120 0V560M160 0V560M200 0V560M240 0V560M280 0V560M320 0V560M360 0V560M400 0V560M440 0V560M480 0V560M520 0V560M560 0V560M600 0V560M640 0V560M680 0V560M720 0V560M760 0V560M800 0V560M840 0V560M880 0V560M920 0V560M960 0V560M1000 0V560M1040 0V560M1080 0V560M1120 0V560M1160 0V560"/>
+  </g>
+  <text x="40" y="34" font-size="15" fill="#1A1A1A" letter-spacing="2">FIG. 2 — AIRBNB IS A MARKET SQUARE</text>
+  <g fill="#FBFAF6" stroke="#1A1A1A" stroke-width="1"><rect x="40" y="60" width="500" height="340"/><rect x="660" y="60" width="500" height="340"/></g>
+  <g font-size="12" fill="#5A574E" letter-spacing="2"><text x="56" y="84">A. MARKET SQUARE, c. 1300</text><text x="676" y="84">B. AIRBNB, 2008</text></g>
+  <g transform="translate(40,25)">
+    <use href="#stall" x="78" y="193" opacity="0.35"/><use href="#stall" x="110" y="205"/>
+    <rect x="240" y="177" width="100" height="56" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/><path d="M250 189 H330 M250 201 H330 M250 213 H330 M250 225 H330" stroke="#D9D5C8"/>
+    <use href="#person" x="440" y="212"/><use href="#person" x="474" y="226" opacity="0.35"/>
+    <g stroke-width="1.5" fill="none">
+      <path d="M150 205 H232" stroke="#E8572A" marker-end="url(#o)"/>
+      <path d="M342 205 H418" stroke="#1A1A1A" stroke-dasharray="4 4" marker-end="url(#a)"/>
+      <path d="M110 245 Q275 375 440 245" stroke="#1A1A1A" marker-start="url(#a)" marker-end="url(#a)"/>
+    </g>
+    <g font-size="11" letter-spacing="1" text-anchor="middle">
+      <text x="110" y="160" fill="#1A1A1A">STALLHOLDERS</text>
+      <text x="290" y="160" fill="#1A1A1A">MARKET OWNER</text>
+      <text x="448" y="160" fill="#1A1A1A">SHOPPERS</text>
+      <text x="191" y="194" fill="#E8572A">PITCH FEE</text>
+      <text x="380" y="180" fill="#5A574E">TRUST,</text><text x="380" y="194" fill="#5A574E">ORDER</text>
+      <text x="275" y="336" fill="#1A1A1A">GOODS ⇄ MONEY</text>
+    </g></g>
+  <g transform="translate(660,25)">
+    <use href="#house" x="80" y="195" opacity="0.35"/><use href="#house" x="110" y="207"/>
+    <rect x="270" y="170" width="40" height="70" rx="7" fill="#FFF" stroke="#1A1A1A" stroke-width="1.5"/><rect x="276" y="180" width="28" height="48" fill="#EDEAE0"/>
+    <use href="#person" x="440" y="212"/><use href="#person" x="474" y="226" opacity="0.35"/>
+    <g stroke-width="1.5" fill="none">
+      <path d="M150 205 H262" stroke="#E8572A" marker-end="url(#o)"/>
+      <path d="M318 205 H418" stroke="#1A1A1A" stroke-dasharray="4 4" marker-end="url(#a)"/>
+      <path d="M110 245 Q275 375 440 245" stroke="#1A1A1A" marker-start="url(#a)" marker-end="url(#a)"/>
+    </g>
+    <g font-size="11" letter-spacing="1" text-anchor="middle">
+      <text x="110" y="160" fill="#1A1A1A">HOSTS</text>
+      <text x="290" y="160" fill="#1A1A1A">PLATFORM</text>
+      <text x="448" y="160" fill="#1A1A1A">GUESTS</text>
+      <text x="206" y="194" fill="#E8572A">COMMISSION</text>
+      <text x="368" y="180" fill="#5A574E">REVIEWS,</text><text x="368" y="194" fill="#5A574E">PAYMENTS</text>
+      <text x="275" y="336" fill="#1A1A1A">ROOM ⇄ MONEY</text>
+    </g></g>
+  <g stroke="#E8572A" stroke-width="2.5" fill="none"><path d="M584 223 q8 -9 16 0 t16 0"/><path d="M584 237 H616 M584 249 H616"/></g>
+  <!-- invariants table -->
+  <g font-size="12" letter-spacing="1">
+    <rect x="40" y="430" width="1120" height="104" fill="#FFF" stroke="#1A1A1A"/>
+    <path d="M40 464 H1160 M40 499 H1160 M400 430 V534 M780 430 V534" stroke="#D9D5C8"/>
+    <text x="56" y="452" fill="#E8572A" letter-spacing="2">INVARIANT</text><text x="416" y="452" fill="#5A574E" letter-spacing="2">MARKET SQUARE</text><text x="796" y="452" fill="#5A574E" letter-spacing="2">AIRBNB</text>
+    <text x="56" y="487" fill="#1A1A1A">SIDES</text><text x="416" y="487" fill="#1A1A1A">2: sellers, buyers</text><text x="796" y="487" fill="#1A1A1A">2: hosts, guests</text>
+    <text x="56" y="522" fill="#1A1A1A">WHO PAYS THE VENUE</text><text x="416" y="522" fill="#1A1A1A">sellers (pitch fee)</text><text x="796" y="522" fill="#1A1A1A">mostly hosts (commission)</text>
+  </g>
+</svg>
