@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.3" fill="#C8D2EC"/></pattern></defs>
-<rect width="1200" height="500" fill="#F6F8FD"/><rect width="1200" height="500" fill="url(#dots)"/>
+<rect width="1200" height="520" fill="#F6F8FD"/><rect width="1200" height="520" fill="url(#dots)"/>
 <text x="40" y="42" font-size="14" fill="#1F3FD1" letter-spacing="2.5">FIG. 1 — SAME THING, DIFFERENT SHAPE</text>
 <path d="M40 54 H1160" stroke="#1F3FD1" stroke-width="1"/>
 <ellipse cx="307" cy="250" rx="38" ry="52" fill="#C3D0F7" stroke="#1F3FD1" stroke-width="1.5"/>
@@ -44,4 +44,5 @@
 <text x="980.0" y="385.0" font-size="12" fill="#1F3FD1" text-anchor="middle" letter-spacing="1.5" stroke="#F6F8FD" stroke-width="5" stroke-linejoin="round" paint-order="stroke">C. DOUGHNUT</text>
 <path d="M150 412 V422 H1110 V412" fill="none" stroke="#1F3FD1" stroke-width="1"/>
 <rect x="330" y="440" width="540" height="30" fill="#1F3FD1"/><text x="600.0" y="460.0" font-size="12" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.5">INVARIANT: ONE HOLE. NO TEARING, NO GLUING.</text>
+<text x="1160.0" y="505.0" font-size="10" fill="#7D93E6" text-anchor="end" letter-spacing="1" stroke="#F6F8FD" stroke-width="5" stroke-linejoin="round" paint-order="stroke">CC-BY Rufus Pollock · rufuspollock.com · openrevolution.net</text>
 </svg>
