@@ -2,7 +2,7 @@
 created: 2026-11-12
 date: 2026-11-12
 title: "The Mug, the Doughnut and the DAO"
-description: "A topologist can't tell a coffee mug from a doughnut, and on the same test most \"new\" institutions turn out to be old ones, stretched."
+description: "A topologist sees a coffee mug and a doughnut as fundamentally the same, and on the same basis most \"new\" institutions turn out to be old ones, stretched."
 image: /images/the-mug-the-doughnut-and-the-dao/mug-to-doughnut.png
 permalink: /the-mug-the-doughnut-and-the-dao
 featured: true
@@ -19,7 +19,7 @@ Take a coffee mug made of clay. Deform it continuously (stretch, squash, bend, b
 
 The classification theorem for surfaces makes this striking. Every closed orientable surface is homeomorphic to a sphere with some number of handles. A cube, a teapot and a human head (ignoring the nostrils) are all spheres; a mug is a torus; a pretzel is genus three. Infinite variety of shape, a very short list of kinds. (One dimension up, the Poincaré conjecture says the same for 3-manifolds: no holes, and you have a sphere.)
 
-My claim: institutional design works the same way. There are a small number of institutional *kinds*. Most designs that look new are continuous deformations of one of them: different size, different shape, new technology, same topology. Not seeing this wastes a lot of effort, and leads people to claim innovation where there isn't any.
+**The thesis: institutional design works the same way**. There are a small number of institutional *kinds*. Most designs that look new are continuous deformations of one of them: different size, different shape, new technology, same topology. Not seeing this wastes a lot of effort, and leads people to claim innovation where there isn't any.
 
 ![Airbnb drawn as a medieval market square: the same two sides, the same venue, the same fee](/images/the-mug-the-doughnut-and-the-dao/airbnb-market-square.svg)
 
@@ -80,7 +80,7 @@ But a pitch for a "new" funding model nearly always turns out to be a known one,
 
 ## Voting and governance: 2,000 years of deformations
 
-Now for the bold version of the claim. In voting and governance structures, there has been very little topological innovation for something like 2,000 years. The basic kinds were all in play in the ancient world: rule by one, by a few or by many; direct assemblies and elected representatives; selection by lot (Athens); delegation; consensus; and votes weighted by wealth (Rome's centuriate assembly gave the rich more voting blocs, and they voted first).
+The same is true for voting and governance structures: there has been very little topological innovation for something like 2,000 years. The basic kinds were all in play in the ancient world: rule by one, by a few or by many; direct assemblies and elected representatives; selection by lot (Athens); delegation; consensus; and votes weighted by wealth (Rome's centuriate assembly gave the rich more voting blocs, and they voted first).
 
 Since then we have done a lot of geometry: bigger electorates, secret ballots, different counting rules, written constitutions. Valuable work, but variations on the same short list.
 
