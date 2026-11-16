@@ -165,8 +165,9 @@ see the `research-note` skill in
   (`/docs` is excluded).
 - `contentHide: string[]` — published but hidden from nav and search.
 - `redirects` — old URL → new URL, one entry per moved page.
-- When a `post` ships, log it in `docs/promotion-inbox.md` (repo-only) so it
-  can be promoted elsewhere: link, hook, suggested channels.
+- When a `post` ships, log it in the promotion inbox in the content repo
+  (`life-itself/content`, `promotion-inbox.md`) so it can be promoted
+  elsewhere: link, hook, suggested channels.
 
 ## Not yet written
 
