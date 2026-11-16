@@ -11,6 +11,14 @@ Published pieces waiting to be promoted elsewhere (X, LinkedIn, Substack, Bluesk
 
 ## To promote
 
+### 2026-11-16 · The Democrats won. The culture war isn't over.
+
+- **Link:** https://rufuspollock.com/democrats-win-culture-war-not-over
+- **Type:** short topical piece (~800 words); time-sensitive, so promote first, while the election is fresh. Links to the general essay and history below.
+- **Image:** `images/wars-of-religion-culture-war/henri-iv-pourbus.webp` (public domain)
+- **Channels:** X / Bluesky, LinkedIn, Substack note.
+- **Hook:** "We're back, it's all okay"? In 1598 France's Protestants got the Edict of Nantes, their great "we won" moment. 87 years later it was revoked. A win is not a resolution.
+
 ### 2026-11-16 · What the French Wars of Religion tell us about today's culture war
 
 - **Link:** https://rufuspollock.com/wars-of-religion-culture-war
