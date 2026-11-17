@@ -102,7 +102,7 @@ Finally, here's a short bio. You can more [[about|on the about page]].
 
 Rufus Pollock is a researcher, writer and entrepreneur exploring the intersection of of **culture, consciousness, and systems change**.
 
-Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **Life Itself** and the **Seeds of Renaissance** focuses on inner-led social change to renew our civilisation’s foundations.
+Formerly the **Founder of the Open Knowledge Foundation** and an **Open Data pioneer**, his current work with **[Life Itself](https://lifeitself.org/)** and the **[Seeds of Renaissance](https://seedsofrenaissance.org/)** focuses on inner-led social change to renew our civilisation’s foundations.
 
 He studied mathematics then economics at the **University of Cambridge**, obtaining a PhD and then a research fellowership. Following that he founded an international NGO and advised governments and international organisations on information policy and digital infrastructure. His present focus is cultivating wisdom practices and frameworks for systemic renewal.
 
